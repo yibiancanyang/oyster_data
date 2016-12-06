@@ -1,0 +1,2989 @@
+XM_011441495	GO:0055114~oxidation-reduction process
+XM_011436291	GO:0007030~Golgi organization
+XM_011443771	GO:0016579~protein deubiquitination
+XM_011443769	GO:0016579~protein deubiquitination
+XM_011443770	GO:0016579~protein deubiquitination
+XM_011443430	GO:0016180~snRNA processing
+XM_011430533	GO:0006351~transcription, DNA-templated
+XM_011431926	GO:0007600~sensory perception
+XM_011426896	GO:0045454~cell redox homeostasis
+XM_011457671	GO:0007015~actin filament organization
+XM_011458611	GO:0016579~protein deubiquitination
+XM_011414853	GO:0042823~pyridoxal phosphate biosynthetic process
+XM_011457450	GO:0008152~metabolic process
+AB516439	GO:0009408~response to heat
+XM_011453298	GO:0006950~response to stress
+XM_011447914	GO:0043066~negative regulation of apoptotic process
+XM_011422560	GO:0006412~translation
+XM_011414725	GO:0006869~lipid transport
+XM_011423864	GO:0015012~heparan sulfate proteoglycan biosynthetic process
+XM_011448801	GO:0006289~nucleotide-excision repair
+NM_001305326	GO:0006032~chitin catabolic process
+XM_011441192	GO:0007015~actin filament organization
+XM_011458197	GO:0007165~signal transduction
+XM_011429903	GO:0006099~tricarboxylic acid cycle
+XM_011422216	GO:0006749~glutathione metabolic process
+XM_011434713	GO:0045454~cell redox homeostasis
+EU108709	GO:0000103~sulfate assimilation
+XM_011417080	GO:0055085~transmembrane transport
+XM_011417081	GO:0055085~transmembrane transport
+XM_011431554	GO:0006633~fatty acid biosynthetic process
+XM_011440558	GO:0042427~serotonin biosynthetic process
+XM_011442944	GO:0006351~transcription, DNA-templated
+XM_011422531	GO:0006457~protein folding
+XM_011455457	GO:0006629~lipid metabolic process
+XM_011436001	GO:0007155~cell adhesion
+XM_011440802	GO:0007018~microtubule-based movement
+XM_011458198	GO:0042981~regulation of apoptotic process
+XM_011441121	GO:0007165~signal transduction
+XM_011430698	GO:0007049~cell cycle
+XM_011424410	GO:0008152~metabolic process
+XM_011436009	GO:0045727~positive regulation of translation
+XM_011432556	GO:0046928~regulation of neurotransmitter secretion
+XR_900940	GO:0042981~regulation of apoptotic process
+XM_011436222	GO:0042981~regulation of apoptotic process
+XM_011448766	GO:0007602~phototransduction
+XM_011446402	GO:0006457~protein folding
+XM_011416093	GO:0006801~superoxide metabolic process
+XM_011424115	GO:0006355~regulation of transcription, DNA-templated
+XM_011414250	GO:0007067~mitotic nuclear division
+XM_011450548	GO:0007018~microtubule-based movement
+XM_011427488	GO:0006730~one-carbon metabolic process
+XM_011419293	GO:0016579~protein deubiquitination
+XM_011437502	GO:0006730~one-carbon metabolic process
+XM_011414150	GO:0006351~transcription, DNA-templated
+XM_011429591	GO:0006886~intracellular protein transport
+XM_011422471	GO:0006355~regulation of transcription, DNA-templated
+NM_001305353	GO:0005975~carbohydrate metabolic process
+AB377114	GO:0005975~carbohydrate metabolic process
+XM_011458614	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011458611	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011442267	GO:0006084~acetyl-CoA metabolic process
+XM_011458743	GO:0008152~metabolic process
+XM_011425529	GO:0007275~multicellular organism development
+AB307634	GO:0008152~metabolic process
+XM_011454321	GO:0006614~SRP-dependent cotranslational protein targeting to membrane
+XM_011446401	GO:0007229~integrin-mediated signaling pathway
+XM_011444400	GO:0007165~signal transduction
+XM_011453904	GO:0048870~cell motility
+XM_011438692	GO:0009607~response to biotic stimulus
+XM_011454047	GO:0035556~intracellular signal transduction
+AJ971238	GO:0005975~carbohydrate metabolic process
+XM_011455605	GO:0006030~chitin metabolic process
+XM_011439494	GO:0006914~autophagy
+NM_001308882	GO:0006979~response to oxidative stress
+XM_011454772	GO:0006355~regulation of transcription, DNA-templated
+XM_011457671	GO:2000601~positive regulation of Arp2/3 complex-mediated actin nucleation
+XM_011423601	GO:0009228~thiamine biosynthetic process
+XM_011437271	GO:0035556~intracellular signal transduction
+XM_011437269	GO:0035556~intracellular signal transduction
+XM_011452150	GO:0055085~transmembrane transport
+XM_011457938	GO:0006464~cellular protein modification process
+XM_011431068	GO:0007015~actin filament organization
+XM_011422057	GO:0007033~vacuole organization
+XM_011448466	GO:0030036~actin cytoskeleton organization
+XM_011448462	GO:0030036~actin cytoskeleton organization
+XM_011448812	GO:0007264~small GTPase mediated signal transduction
+XM_011443513	GO:0006811~ion transport
+XM_011443511	GO:0006811~ion transport
+XM_011443514	GO:0006811~ion transport
+XM_011449162	GO:0006397~mRNA processing
+XM_011416843	GO:0043420~anthranilate metabolic process
+XM_011428456	GO:1902745~positive regulation of lamellipodium organization
+XM_011428457	GO:1902745~positive regulation of lamellipodium organization
+XM_011428468	GO:1902745~positive regulation of lamellipodium organization
+XM_011428455	GO:1902745~positive regulation of lamellipodium organization
+XM_011453383	GO:0061025~membrane fusion
+XM_011456483	GO:0009204~deoxyribonucleoside triphosphate catabolic process
+XM_011455372	GO:0006096~glycolytic process
+XR_903115	GO:0006955~immune response
+EU678319	GO:0007034~vacuolar transport
+AY551095	GO:0006457~protein folding
+XM_011434743	GO:0006355~regulation of transcription, DNA-templated
+KC563209	GO:0006730~one-carbon metabolic process
+XM_011436453	GO:0006730~one-carbon metabolic process
+XM_011446489	GO:0006915~apoptotic process
+XM_011446475	GO:0006915~apoptotic process
+AM236465	GO:0006915~apoptotic process
+XM_011413571	GO:0008152~metabolic process
+XM_011413573	GO:0008152~metabolic process
+XM_011456347	GO:0009966~regulation of signal transduction
+XM_011424518	GO:0007165~signal transduction
+XM_011414217	GO:0007017~microtubule-based process
+XM_011414138	GO:0007017~microtubule-based process
+XM_011430866	GO:0010468~regulation of gene expression
+XM_011451515	GO:0006915~apoptotic process
+XM_011433097	GO:0035556~intracellular signal transduction
+XM_011445518	GO:0000723~telomere maintenance
+XM_011454659	GO:0007264~small GTPase mediated signal transduction
+XM_011453383	GO:0006886~intracellular protein transport
+XM_011438318	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011451995	GO:0006979~response to oxidative stress
+XM_011451998	GO:0006979~response to oxidative stress
+XM_011451992	GO:0006979~response to oxidative stress
+XM_011448004	GO:0030154~cell differentiation
+XM_011427434	GO:0055085~transmembrane transport
+XM_011427436	GO:0055085~transmembrane transport
+XM_011415312	GO:0051260~protein homooligomerization
+XM_011415309	GO:0051260~protein homooligomerization
+XM_011456113	GO:0055085~transmembrane transport
+XM_011423273	GO:0006260~DNA replication
+XM_011447863	GO:0006355~regulation of transcription, DNA-templated
+XM_011418543	GO:0000398~mRNA splicing, via spliceosome
+XM_011433697	GO:0030071~regulation of mitotic metaphase/anaphase transition
+KC700620	GO:0007165~signal transduction
+XM_011455924	GO:0009311~oligosaccharide metabolic process
+XM_011414838	GO:0006541~glutamine metabolic process
+XM_011414829	GO:0006541~glutamine metabolic process
+XM_011432207	GO:0055085~transmembrane transport
+XM_011434594	GO:0051301~cell division
+AB199896	GO:0006412~translation
+AJ563471	GO:0006412~translation
+XM_011428376	GO:0008152~metabolic process
+XM_011422323	GO:0006355~regulation of transcription, DNA-templated
+XM_011436332	GO:0006189~'de novo' IMP biosynthetic process
+XM_011419301	GO:0007264~small GTPase mediated signal transduction
+XM_011422186	GO:0006544~glycine metabolic process
+XM_011440551	GO:0006434~seryl-tRNA aminoacylation
+XM_011421265	GO:0006811~ion transport
+XM_011421264	GO:0006811~ion transport
+XM_011422845	GO:0055114~oxidation-reduction process
+XM_011428456	GO:0030335~positive regulation of cell migration
+XM_011448423	GO:0006351~transcription, DNA-templated
+XM_011427788	GO:0006351~transcription, DNA-templated
+XM_011430924	GO:0006437~tyrosyl-tRNA aminoacylation
+XM_011452438	GO:0007165~signal transduction
+XM_011456015	GO:0007156~homophilic cell adhesion via plasma membrane adhesion molecules
+XM_011456014	GO:0007156~homophilic cell adhesion via plasma membrane adhesion molecules
+XM_011433364	GO:0042276~error-prone translesion synthesis
+XM_011442559	GO:0044260~cellular macromolecule metabolic process
+XM_011454832	GO:0035023~regulation of Rho protein signal transduction
+XM_011430634	GO:0006163~purine nucleotide metabolic process
+XM_011455532	GO:0006284~base-excision repair
+XM_011443604	GO:0007156~homophilic cell adhesion via plasma membrane adhesion molecules
+XM_011436198	GO:0006351~transcription, DNA-templated
+XM_011443917	GO:0006886~intracellular protein transport
+XM_011448538	GO:0006366~transcription from RNA polymerase II promoter
+XM_011417188	GO:0043044~ATP-dependent chromatin remodeling
+XM_011422627	GO:0007275~multicellular organism development
+XM_011424959	GO:0009063~cellular amino acid catabolic process
+XM_011425893	GO:0006094~gluconeogenesis
+XM_011430246	GO:0006446~regulation of translational initiation
+XM_011435212	GO:0007154~cell communication
+XM_011429919	GO:0055085~transmembrane transport
+XM_011414373	GO:0006486~protein glycosylation
+XM_011432665	GO:0007049~cell cycle
+XM_011453198	GO:0048478~replication fork protection
+XM_011418850	GO:0035556~intracellular signal transduction
+XM_011446811	GO:0019464~glycine decarboxylation via glycine cleavage system
+XM_011418015	GO:0008152~metabolic process
+XM_011426484	GO:0007275~multicellular organism development
+XM_011434437	GO:0006260~DNA replication
+XM_011450088	GO:0007264~small GTPase mediated signal transduction
+XM_011424108	GO:0051603~proteolysis involved in cellular protein catabolic process
+XM_011428558	GO:0006913~nucleocytoplasmic transport
+XM_011445039	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011419380	GO:0070972~protein localization to endoplasmic reticulum
+XM_011432995	GO:0019358~nicotinate nucleotide salvage
+XM_011441351	GO:0006811~ion transport
+XM_011441353	GO:0006811~ion transport
+XM_011447913	GO:0035556~intracellular signal transduction
+XM_011444226	GO:0006032~chitin catabolic process
+XM_011419576	GO:0006412~translation
+XM_011448167	GO:0006915~apoptotic process
+XM_011453221	GO:0016573~histone acetylation
+XM_011437644	GO:0006886~intracellular protein transport
+XM_011449767	GO:0009253~peptidoglycan catabolic process
+XM_011449769	GO:0009253~peptidoglycan catabolic process
+XM_011451708	GO:0006897~endocytosis
+XM_011429679	GO:0008152~metabolic process
+XM_011458101	GO:0006351~transcription, DNA-templated
+XM_011428605	GO:0006355~regulation of transcription, DNA-templated
+XM_011415894	GO:0006396~RNA processing
+XM_011431924	GO:0045494~photoreceptor cell maintenance
+XM_011416094	GO:0055114~oxidation-reduction process
+XM_011425625	GO:0051260~protein homooligomerization
+XM_011436016	GO:0035556~intracellular signal transduction
+XM_011453946	GO:0015992~proton transport
+XM_011445683	GO:0042744~hydrogen peroxide catabolic process
+XM_011445682	GO:0042744~hydrogen peroxide catabolic process
+XM_011455981	GO:0000398~mRNA splicing, via spliceosome
+XM_011416243	GO:0006351~transcription, DNA-templated
+AJ971235	GO:0005975~carbohydrate metabolic process
+NM_001305352	GO:0006412~translation
+XM_011433006	GO:0019441~tryptophan catabolic process to kynurenine
+XM_011454135	GO:0040008~regulation of growth
+XM_011433351	GO:0016998~cell wall macromolecule catabolic process
+NM_001308848	GO:0016998~cell wall macromolecule catabolic process
+XM_011437652	GO:0006886~intracellular protein transport
+XM_011419842	GO:0006633~fatty acid biosynthetic process
+XM_011456316	GO:0007165~signal transduction
+XM_011440238	GO:0006260~DNA replication
+XM_011457067	GO:0006561~proline biosynthetic process
+XM_011456616	GO:0051301~cell division
+XM_011456617	GO:0051301~cell division
+XM_011414494	GO:0006355~regulation of transcription, DNA-templated
+XM_011456688	GO:0007264~small GTPase mediated signal transduction
+XM_011455434	GO:0007188~adenylate cyclase-modulating G-protein coupled receptor signaling pathway
+XM_011436283	GO:0006351~transcription, DNA-templated
+XM_011436286	GO:0006351~transcription, DNA-templated
+XM_011425220	GO:0007264~small GTPase mediated signal transduction
+XM_011455594	GO:0006888~ER to Golgi vesicle-mediated transport
+XM_011451387	GO:0006011~UDP-glucose metabolic process
+XM_011416688	GO:0006457~protein folding
+XM_011416687	GO:0006457~protein folding
+XM_011456097	GO:0046330~positive regulation of JNK cascade
+XM_011416150	GO:0007275~multicellular organism development
+XM_011454290	GO:0043461~proton-transporting ATP synthase complex assembly
+XM_011414689	GO:0034314~Arp2/3 complex-mediated actin nucleation
+XM_011424059	GO:0055085~transmembrane transport
+XM_011422637	GO:0006351~transcription, DNA-templated
+XM_011448982	GO:0008152~metabolic process
+XM_011429280	GO:0022900~electron transport chain
+XM_011428498	GO:0006520~cellular amino acid metabolic process
+XM_011452685	GO:0016226~iron-sulfur cluster assembly
+XM_011421856	GO:0006809~nitric oxide biosynthetic process
+XM_011421859	GO:0006809~nitric oxide biosynthetic process
+XM_011416945	GO:0006635~fatty acid beta-oxidation
+XM_011418775	GO:0006464~cellular protein modification process
+XM_011451859	GO:0048268~clathrin coat assembly
+XM_011443907	GO:0006810~transport
+XM_011451641	GO:0006812~cation transport
+XM_011442023	GO:0007186~G-protein coupled receptor signaling pathway
+XM_011421158	GO:0006351~transcription, DNA-templated
+XM_011421159	GO:0006351~transcription, DNA-templated
+XM_011451299	GO:0055085~transmembrane transport
+XM_011439268	GO:0007423~sensory organ development
+XM_011429371	GO:0007264~small GTPase mediated signal transduction
+XM_011432556	GO:0060291~long-term synaptic potentiation
+XM_011438519	GO:0007067~mitotic nuclear division
+XM_011449362	GO:0035556~intracellular signal transduction
+XM_011417845	GO:0006886~intracellular protein transport
+XM_011417847	GO:0006886~intracellular protein transport
+XM_011433790	GO:0045087~innate immune response
+XM_011449482	GO:0006486~protein glycosylation
+XM_011428201	GO:0006777~Mo-molybdopterin cofactor biosynthetic process
+XM_011440693	GO:0016197~endosomal transport
+XM_011440475	GO:0006694~steroid biosynthetic process
+XM_011440472	GO:0006694~steroid biosynthetic process
+XM_011425576	GO:0055085~transmembrane transport
+AM076954	GO:0001678~cellular glucose homeostasis
+XM_011435218	GO:0006032~chitin catabolic process
+XM_011458085	GO:0006915~apoptotic process
+XM_011448692	GO:0007264~small GTPase mediated signal transduction
+KC563207	GO:0006730~one-carbon metabolic process
+XM_011437787	GO:0055085~transmembrane transport
+XM_011437789	GO:0055085~transmembrane transport
+XM_011440281	GO:0006351~transcription, DNA-templated
+XM_011419963	GO:0006457~protein folding
+XM_011456721	GO:0006436~tryptophanyl-tRNA aminoacylation
+NM_001305351	GO:0031591~wybutosine biosynthetic process
+XM_011427482	GO:0007264~small GTPase mediated signal transduction
+XM_011431443	GO:0006457~protein folding
+XM_011445979	GO:0007154~cell communication
+XM_011417386	GO:0006457~protein folding
+XM_011422334	GO:0007264~small GTPase mediated signal transduction
+XM_011414473	GO:0042246~tissue regeneration
+AJ496218	GO:0006520~cellular amino acid metabolic process
+XM_011422578	GO:0007062~sister chromatid cohesion
+XM_011429458	GO:0006457~protein folding
+XM_011445703	GO:0008152~metabolic process
+XM_011424864	GO:0006915~apoptotic process
+XM_011430976	GO:0035556~intracellular signal transduction
+AJ563480	GO:0006412~translation
+XM_011433512	GO:0006486~protein glycosylation
+XM_011455898	GO:0006351~transcription, DNA-templated
+XM_011426640	GO:0006633~fatty acid biosynthetic process
+XM_011441617	GO:0030036~actin cytoskeleton organization
+XM_011441618	GO:0030036~actin cytoskeleton organization
+XM_011425529	GO:0007219~Notch signaling pathway
+XM_011445122	GO:0006355~regulation of transcription, DNA-templated
+AB289857	GO:0006355~regulation of transcription, DNA-templated
+XM_011445121	GO:0006355~regulation of transcription, DNA-templated
+XM_011448766	GO:0007601~visual perception
+XM_011422009	GO:0035556~intracellular signal transduction
+XM_011414730	GO:0007156~homophilic cell adhesion via plasma membrane adhesion molecules
+NM_001305333	GO:0006457~protein folding
+XM_011433506	GO:0016925~protein sumoylation
+XM_011428459	GO:2000813~negative regulation of barbed-end actin filament capping
+XM_011428457	GO:2000813~negative regulation of barbed-end actin filament capping
+XM_011428458	GO:2000813~negative regulation of barbed-end actin filament capping
+XM_011422630	GO:0030091~protein repair
+XM_011419294	GO:0016480~negative regulation of transcription from RNA polymerase III promoter
+XM_011414326	GO:0006950~response to stress
+XM_011429997	GO:0006355~regulation of transcription, DNA-templated
+NM_001305355	GO:0006950~response to stress
+XM_011430902	GO:0007015~actin filament organization
+XM_011428459	GO:0051638~barbed-end actin filament uncapping
+XM_011428457	GO:0051638~barbed-end actin filament uncapping
+XM_011442697	GO:0009072~aromatic amino acid family metabolic process
+XM_011414513	GO:0001678~cellular glucose homeostasis
+XM_011449532	GO:0006281~DNA repair
+XM_011437644	GO:0061025~membrane fusion
+XM_011452608	GO:0006955~immune response
+XM_011453347	GO:0007275~multicellular organism development
+XM_011453346	GO:0007275~multicellular organism development
+XM_011432232	GO:0040034~regulation of development, heterochronic
+XM_011414369	GO:0005975~carbohydrate metabolic process
+XM_011450322	GO:0006810~transport
+XM_011422051	GO:0001558~regulation of cell growth
+XM_011425240	GO:0007021~tubulin complex assembly
+XM_011432185	GO:0007018~microtubule-based movement
+XM_011449425	GO:0016192~vesicle-mediated transport
+JN029960	GO:0006955~immune response
+XM_011429993	GO:0006351~transcription, DNA-templated
+XM_011429982	GO:0006351~transcription, DNA-templated
+XM_011429984	GO:0006351~transcription, DNA-templated
+XM_011429971	GO:0006351~transcription, DNA-templated
+XM_011435259	GO:0008033~tRNA processing
+XM_011452100	GO:0051014~actin filament severing
+XM_011423751	GO:0006915~apoptotic process
+XM_011413757	GO:0006486~protein glycosylation
+XM_011449150	GO:0007166~cell surface receptor signaling pathway
+XM_011452353	GO:0035556~intracellular signal transduction
+XM_011451992	GO:0008217~regulation of blood pressure
+NM_001308888	GO:0006801~superoxide metabolic process
+DQ010420	GO:0006801~superoxide metabolic process
+XM_011424009	GO:0051205~protein insertion into membrane
+XM_011415514	GO:0006355~regulation of transcription, DNA-templated
+XM_011413716	GO:0055085~transmembrane transport
+AB516436	GO:0006351~transcription, DNA-templated
+XM_011453124	GO:0055085~transmembrane transport
+XM_011441001	GO:0006750~glutathione biosynthetic process
+XM_011446898	GO:0006886~intracellular protein transport
+XM_011418664	GO:0055085~transmembrane transport
+XM_011457154	GO:0055085~transmembrane transport
+AB473553	GO:0009253~peptidoglycan catabolic process
+XM_011414299	GO:0070966~nuclear-transcribed mRNA catabolic process, no-go decay
+XM_011440590	GO:0006629~lipid metabolic process
+XM_011449690	GO:0005975~carbohydrate metabolic process
+XM_011418861	GO:0007264~small GTPase mediated signal transduction
+XM_011440258	GO:0007275~multicellular organism development
+XM_011415868	GO:0006281~DNA repair
+XM_011426464	GO:0000723~telomere maintenance
+XM_011440239	GO:0071897~DNA biosynthetic process
+XM_011421320	GO:0006004~fucose metabolic process
+XM_011435745	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011446457	GO:0006556~S-adenosylmethionine biosynthetic process
+XM_011440239	GO:0006310~DNA recombination
+XM_011446506	GO:0051262~protein tetramerization
+XM_011446482	GO:0051262~protein tetramerization
+XM_011450662	GO:0030433~ER-associated ubiquitin-dependent protein catabolic process
+XM_011455844	GO:0007005~mitochondrion organization
+XM_011416540	GO:0006744~ubiquinone biosynthetic process
+XM_011456079	GO:0007250~activation of NF-kappaB-inducing kinase activity
+XM_011456097	GO:0007250~activation of NF-kappaB-inducing kinase activity
+XM_011456124	GO:0007250~activation of NF-kappaB-inducing kinase activity
+XM_011424136	GO:0055085~transmembrane transport
+XM_011429121	GO:0008152~metabolic process
+NM_001308878	GO:0007179~transforming growth factor beta receptor signaling pathway
+XM_011450218	GO:0006879~cellular iron ion homeostasis
+XM_011454131	GO:0006351~transcription, DNA-templated
+XM_011451921	GO:0007264~small GTPase mediated signal transduction
+XM_011440196	GO:0006419~alanyl-tRNA aminoacylation
+XM_011416877	GO:0042254~ribosome biogenesis
+XM_011428326	GO:0007049~cell cycle
+XM_011428325	GO:0007049~cell cycle
+XM_011428327	GO:0007049~cell cycle
+XM_011416143	GO:0006355~regulation of transcription, DNA-templated
+XM_011438141	GO:0032012~regulation of ARF protein signal transduction
+XM_011434594	GO:0007049~cell cycle
+XM_011429601	GO:0042256~mature ribosome assembly
+XM_011430963	GO:0019674~NAD metabolic process
+XM_011427917	GO:0042384~cilium assembly
+XM_011440334	GO:0009168~purine ribonucleoside monophosphate biosynthetic process
+XM_011433962	GO:0007017~microtubule-based process
+XM_011418358	GO:0006334~nucleosome assembly
+XM_011450457	GO:0007264~small GTPase mediated signal transduction
+XM_011457673	GO:0007015~actin filament organization
+XM_011457672	GO:0007015~actin filament organization
+NM_001308841	GO:0006542~glutamine biosynthetic process
+XM_011420664	GO:0043137~DNA replication, removal of RNA primer
+XM_011432626	GO:0043248~proteasome assembly
+XM_011419859	GO:0006412~translation
+XM_011422869	GO:0006644~phospholipid metabolic process
+XM_011420286	GO:0007229~integrin-mediated signaling pathway
+XM_011440238	GO:0051103~DNA ligation involved in DNA repair
+XM_011427474	GO:0006750~glutathione biosynthetic process
+XM_011448591	GO:0005975~carbohydrate metabolic process
+XM_011458198	GO:0007165~signal transduction
+XM_011425924	GO:0006412~translation
+XM_011422214	GO:0006749~glutathione metabolic process
+XM_011434764	GO:0006421~asparaginyl-tRNA aminoacylation
+XM_011425240	GO:0007023~post-chaperonin tubulin folding pathway
+XM_011450883	GO:0000079~regulation of cyclin-dependent protein serine/threonine kinase activity
+XM_011415894	GO:0006810~transport
+XM_011436937	GO:0007034~vacuolar transport
+XM_011453418	GO:0006950~response to stress
+EU108716	GO:0006635~fatty acid beta-oxidation
+XM_011454427	GO:0055085~transmembrane transport
+XM_011440805	GO:0007018~microtubule-based movement
+XM_011440804	GO:0007018~microtubule-based movement
+XM_011416843	GO:0034354~'de novo' NAD biosynthetic process from tryptophan
+XM_011441124	GO:0007165~signal transduction
+XM_011441125	GO:0007165~signal transduction
+XM_011441126	GO:0007165~signal transduction
+XM_011441120	GO:0007165~signal transduction
+XM_011438662	GO:0007040~lysosome organization
+KC702507	GO:0042981~regulation of apoptotic process
+XM_011448801	GO:0006351~transcription, DNA-templated
+XM_011448136	GO:0007160~cell-matrix adhesion
+XM_011438689	GO:0042981~regulation of apoptotic process
+XM_011451894	GO:0007264~small GTPase mediated signal transduction
+XM_011458612	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011425522	GO:0007275~multicellular organism development
+XM_011452025	GO:0055085~transmembrane transport
+XM_011422883	GO:0006446~regulation of translational initiation
+XM_011444125	GO:0006355~regulation of transcription, DNA-templated
+XM_011452264	GO:0030182~neuron differentiation
+XM_011428606	GO:0051569~regulation of histone H3-K4 methylation
+XM_011428605	GO:0051569~regulation of histone H3-K4 methylation
+XM_011440948	GO:0071929~alpha-tubulin acetylation
+EF692639	GO:0006979~response to oxidative stress
+XM_011447553	GO:0009117~nucleotide metabolic process
+XM_011446511	GO:0051726~regulation of cell cycle
+XM_011439438	GO:0006367~transcription initiation from RNA polymerase II promoter
+XM_011454771	GO:0006355~regulation of transcription, DNA-templated
+NM_001308898	GO:0006366~transcription from RNA polymerase II promoter
+XM_011421780	GO:0016567~protein ubiquitination
+XM_011429126	GO:0006810~transport
+XM_011431195	GO:0006950~response to stress
+XM_011440460	GO:0006351~transcription, DNA-templated
+XM_011428645	GO:0007165~signal transduction
+XM_011453979	GO:0006614~SRP-dependent cotranslational protein targeting to membrane
+XM_011437270	GO:0035556~intracellular signal transduction
+XM_011428102	GO:0006206~pyrimidine nucleobase metabolic process
+XM_011449988	GO:0007264~small GTPase mediated signal transduction
+KJ489413	GO:0006355~regulation of transcription, DNA-templated
+XM_011458101	GO:0007049~cell cycle
+XM_011448463	GO:0030036~actin cytoskeleton organization
+XM_011439556	GO:0031110~regulation of microtubule polymerization or depolymerization
+XM_011436332	GO:0009116~nucleoside metabolic process
+XM_011443510	GO:0006811~ion transport
+XM_011425225	GO:0007264~small GTPase mediated signal transduction
+EU108717	GO:0007264~small GTPase mediated signal transduction
+XM_011448449	GO:0006605~protein targeting
+XM_011438014	GO:0051301~cell division
+XM_011455917	GO:0008202~steroid metabolic process
+XM_011454438	GO:0006228~UTP biosynthetic process
+XM_011448058	GO:0006308~DNA catabolic process
+XM_011420781	GO:0006869~lipid transport
+XM_011422578	GO:0071139~resolution of recombination intermediates
+XM_011428470	GO:1902745~positive regulation of lamellipodium organization
+XM_011451773	GO:0006516~glycoprotein catabolic process
+NM_001308879	GO:0006096~glycolytic process
+XM_011447553	GO:0009116~nucleoside metabolic process
+XM_011436826	GO:0045892~negative regulation of transcription, DNA-templated
+XM_011453976	GO:0006955~immune response
+XM_011428606	GO:0030097~hemopoiesis
+XM_011419205	GO:0007034~vacuolar transport
+XM_011434746	GO:0006355~regulation of transcription, DNA-templated
+XM_011415650	GO:0007264~small GTPase mediated signal transduction
+AM076951	GO:0006098~pentose-phosphate shunt
+XM_011413892	GO:0006098~pentose-phosphate shunt
+XM_011447675	GO:0006486~protein glycosylation
+XM_011449375	GO:0005975~carbohydrate metabolic process
+XM_011422620	GO:0006810~transport
+XM_011430865	GO:0010468~regulation of gene expression
+XM_011438084	GO:0006979~response to oxidative stress
+XM_011454105	GO:0045892~negative regulation of transcription, DNA-templated
+XM_011443570	GO:0009443~pyridoxal 5'-phosphate salvage
+XM_011434433	GO:0000463~maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+XM_011454970	GO:0006351~transcription, DNA-templated
+XM_011435766	GO:0006979~response to oxidative stress
+XM_011454572	GO:0022008~neurogenesis
+XM_011427435	GO:0055085~transmembrane transport
+XM_011435932	GO:0007264~small GTPase mediated signal transduction
+XM_011449251	GO:0006412~translation
+XM_011443541	GO:0009058~biosynthetic process
+XM_011443542	GO:0009058~biosynthetic process
+XM_011426529	GO:0006334~nucleosome assembly
+XM_011446334	GO:0071897~DNA biosynthetic process
+XM_011422669	GO:0006412~translation
+XM_011450651	GO:0006355~regulation of transcription, DNA-templated
+XM_011458031	GO:0016055~Wnt signaling pathway
+XM_011444359	GO:0045944~positive regulation of transcription from RNA polymerase II promoter
+XM_011457552	GO:0000398~mRNA splicing, via spliceosome
+XM_011425965	GO:0006950~response to stress
+XM_011453396	GO:0006289~nucleotide-excision repair
+XM_011421870	GO:0000398~mRNA splicing, via spliceosome
+XM_011423305	GO:0007165~signal transduction
+XM_011433279	GO:0006367~transcription initiation from RNA polymerase II promoter
+XM_011419299	GO:0007264~small GTPase mediated signal transduction
+XM_011433713	GO:0042128~nitrate assimilation
+XM_011452145	GO:0007165~signal transduction
+KC155821	GO:0007165~signal transduction
+XM_011425570	GO:0008152~metabolic process
+XM_011415947	GO:0006914~autophagy
+XM_011434433	GO:0000466~maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+XM_011444768	GO:0090263~positive regulation of canonical Wnt signaling pathway
+XM_011424455	GO:0006355~regulation of transcription, DNA-templated
+XM_011453505	GO:0006355~regulation of transcription, DNA-templated
+XM_011453506	GO:0006355~regulation of transcription, DNA-templated
+XM_011428454	GO:0030335~positive regulation of cell migration
+XM_011428459	GO:0030335~positive regulation of cell migration
+XM_011428469	GO:0030335~positive regulation of cell migration
+XM_011414117	GO:0005978~glycogen biosynthetic process
+NM_001308857	GO:0007165~signal transduction
+XM_011422435	GO:0007165~signal transduction
+XM_011437067	GO:0055085~transmembrane transport
+XM_011450870	GO:0007156~homophilic cell adhesion via plasma membrane adhesion molecules
+XM_011417664	GO:0035556~intracellular signal transduction
+XM_011422452	GO:0008152~metabolic process
+XM_011441381	GO:0006260~DNA replication
+XM_011425548	GO:0019428~allantoin biosynthetic process
+XM_011422646	GO:0002098~tRNA wobble uridine modification
+XM_011424936	GO:0007264~small GTPase mediated signal transduction
+XM_011417728	GO:0043044~ATP-dependent chromatin remodeling
+XM_011458031	GO:0007275~multicellular organism development
+XM_011431570	GO:0070286~axonemal dynein complex assembly
+XM_011431394	GO:0006302~double-strand break repair
+XM_011451541	GO:0008152~metabolic process
+XM_011454365	GO:0009264~deoxyribonucleotide catabolic process
+XM_011430899	GO:0006355~regulation of transcription, DNA-templated
+KC155822	GO:0007165~signal transduction
+XM_011456569	GO:0035556~intracellular signal transduction
+XM_011457242	GO:0008152~metabolic process
+AJ496218	GO:0009058~biosynthetic process
+XM_011414204	GO:0018298~protein-chromophore linkage
+XM_011438659	GO:0032923~organic phosphonate biosynthetic process
+XM_011434438	GO:0006260~DNA replication
+XM_011436639	GO:0006084~acetyl-CoA metabolic process
+XM_011452580	GO:0042981~regulation of apoptotic process
+XM_011452579	GO:0042981~regulation of apoptotic process
+XM_011421258	GO:0006811~ion transport
+AY852246	GO:0006412~translation
+XM_011451859	GO:0006897~endocytosis
+XM_011447836	GO:0019700~organic phosphonate catabolic process
+XM_011453082	GO:0006486~protein glycosylation
+XM_011445299	GO:0007264~small GTPase mediated signal transduction
+XM_011418361	GO:0006352~DNA-templated transcription, initiation
+XM_011419379	GO:0070972~protein localization to endoplasmic reticulum
+XM_011419377	GO:0070972~protein localization to endoplasmic reticulum
+XM_011433003	GO:0019358~nicotinate nucleotide salvage
+XM_011424719	GO:0055085~transmembrane transport
+XM_011444225	GO:0006032~chitin catabolic process
+XM_011416543	GO:0035556~intracellular signal transduction
+XM_011446521	GO:0042981~regulation of apoptotic process
+XM_011416152	GO:0007275~multicellular organism development
+XM_011415038	GO:0051603~proteolysis involved in cellular protein catabolic process
+XM_011449768	GO:0009253~peptidoglycan catabolic process
+XM_011435601	GO:0006955~immune response
+XM_011444894	GO:0055085~transmembrane transport
+XM_011422611	GO:0006412~translation
+XM_011458742	GO:0048814~regulation of dendrite morphogenesis
+XM_011430126	GO:0003341~cilium movement
+XM_011422355	GO:0007264~small GTPase mediated signal transduction
+XM_011436017	GO:0035556~intracellular signal transduction
+XM_011419341	GO:0008152~metabolic process
+XM_011436281	GO:0005975~carbohydrate metabolic process
+XM_011424716	GO:0007275~multicellular organism development
+XM_011428326	GO:0051301~cell division
+XM_011428327	GO:0051301~cell division
+JQ030888	GO:0006412~translation
+XM_011423578	GO:0007018~microtubule-based movement
+XM_011453611	GO:0006397~mRNA processing
+XM_011421091	GO:0007165~signal transduction
+XM_011446791	GO:0034314~Arp2/3 complex-mediated actin nucleation
+XM_011427943	GO:0051726~regulation of cell cycle
+NM_001308861	GO:0030042~actin filament depolymerization
+XM_011432054	GO:0055114~oxidation-reduction process
+XM_011430125	GO:0036159~inner dynein arm assembly
+XM_011440239	GO:0006260~DNA replication
+XM_011441114	GO:0007165~signal transduction
+XM_011443323	GO:0006355~regulation of transcription, DNA-templated
+XM_011456685	GO:0007264~small GTPase mediated signal transduction
+XM_011456684	GO:0007264~small GTPase mediated signal transduction
+XM_011427679	GO:0006412~translation
+NM_001305345	GO:0006412~translation
+XM_011446860	GO:0006351~transcription, DNA-templated
+XM_011428325	GO:0043697~cell dedifferentiation
+XM_011419405	GO:0006836~neurotransmitter transport
+XM_011424775	GO:0006635~fatty acid beta-oxidation
+XM_011455595	GO:0006888~ER to Golgi vesicle-mediated transport
+XM_011455597	GO:0006888~ER to Golgi vesicle-mediated transport
+XM_011437051	GO:0035999~tetrahydrofolate interconversion
+XM_011451388	GO:0006011~UDP-glucose metabolic process
+XM_011446808	GO:0006261~DNA-dependent DNA replication
+XM_011443222	GO:0000122~negative regulation of transcription from RNA polymerase II promoter
+XM_011437101	GO:0035556~intracellular signal transduction
+AM076952	GO:0006094~gluconeogenesis
+XM_011425981	GO:0006094~gluconeogenesis
+NM_001305293	GO:0006094~gluconeogenesis
+XM_011425973	GO:0006094~gluconeogenesis
+XM_011456089	GO:0046330~positive regulation of JNK cascade
+XM_011423331	GO:0009607~response to biotic stimulus
+XM_011431743	GO:0000256~allantoin catabolic process
+XM_011422638	GO:0006351~transcription, DNA-templated
+XM_011422186	GO:0006563~L-serine metabolic process
+XM_011428497	GO:0006520~cellular amino acid metabolic process
+XM_011446602	GO:0006096~glycolytic process
+XM_011456096	GO:0009607~response to biotic stimulus
+XM_011452724	GO:0001682~tRNA 5'-leader removal
+XM_011421160	GO:0006351~transcription, DNA-templated
+XM_011451301	GO:0055085~transmembrane transport
+XM_011435508	GO:0051607~defense response to virus
+XM_011453262	GO:0006629~lipid metabolic process
+XM_011432565	GO:0060291~long-term synaptic potentiation
+XM_011421758	GO:0006334~nucleosome assembly
+XM_011436088	GO:0006351~transcription, DNA-templated
+XM_011417843	GO:0006886~intracellular protein transport
+XM_011417840	GO:0006886~intracellular protein transport
+XM_011450883	GO:0006396~RNA processing
+XM_011451251	GO:0000724~double-strand break repair via homologous recombination
+XM_011438528	GO:0035329~hippo signaling
+XM_011455370	GO:0001678~cellular glucose homeostasis
+XM_011420293	GO:0051260~protein homooligomerization
+XM_011417129	GO:0046034~ATP metabolic process
+XM_011453396	GO:0006351~transcription, DNA-templated
+XM_011417884	GO:0045900~negative regulation of translational elongation
+XM_011425153	GO:0070836~caveola assembly
+XM_011450118	GO:0042773~ATP synthesis coupled electron transport
+XM_011443314	GO:0035556~intracellular signal transduction
+XM_011457565	GO:0006464~cellular protein modification process
+XM_011415907	GO:0007059~chromosome segregation
+XM_011439598	GO:0008152~metabolic process
+XM_011440257	GO:0016192~vesicle-mediated transport
+XM_011432233	GO:0006351~transcription, DNA-templated
+XM_011441717	GO:0008612~peptidyl-lysine modification to peptidyl-hypusine
+XM_011445989	GO:0007154~cell communication
+XM_011445980	GO:0007154~cell communication
+XM_011445986	GO:0007154~cell communication
+XM_011446291	GO:0016579~protein deubiquitination
+XM_011458094	GO:0007165~signal transduction
+XM_011458089	GO:0007165~signal transduction
+XM_011424862	GO:0006915~apoptotic process
+XM_011424861	GO:0006915~apoptotic process
+XM_011430974	GO:0035556~intracellular signal transduction
+XM_011436352	GO:0006355~regulation of transcription, DNA-templated
+XM_011439915	GO:0051260~protein homooligomerization
+NM_001305337	GO:0006351~transcription, DNA-templated
+XM_011414037	GO:0016579~protein deubiquitination
+XM_011426642	GO:0006633~fatty acid biosynthetic process
+EU108714	GO:0006633~fatty acid biosynthetic process
+XM_011433996	GO:0006355~regulation of transcription, DNA-templated
+XM_011451998	GO:0019371~cyclooxygenase pathway
+XM_011424867	GO:0006810~transport
+XM_011425535	GO:0007219~Notch signaling pathway
+XM_011425494	GO:0007219~Notch signaling pathway
+XM_011425542	GO:0007219~Notch signaling pathway
+XM_011419110	GO:0008152~metabolic process
+XM_011450303	GO:0018342~protein prenylation
+XM_011445879	GO:0035058~nonmotile primary cilium assembly
+XM_011441490	GO:0006457~protein folding
+AB262086	GO:0006457~protein folding
+XM_011443385	GO:0055085~transmembrane transport
+XM_011435349	GO:0051276~chromosome organization
+XM_011428468	GO:2000813~negative regulation of barbed-end actin filament capping
+XM_011442782	GO:0055085~transmembrane transport
+XM_011436587	GO:0035556~intracellular signal transduction
+XM_011436589	GO:0035556~intracellular signal transduction
+XM_011449379	GO:0005975~carbohydrate metabolic process
+XM_011431038	GO:0007264~small GTPase mediated signal transduction
+XM_011441961	GO:0007264~small GTPase mediated signal transduction
+XM_011414333	GO:0006950~response to stress
+XM_011433170	GO:0006561~proline biosynthetic process
+XM_011417129	GO:0006172~ADP biosynthetic process
+XM_011418236	GO:0006979~response to oxidative stress
+XM_011428470	GO:0051638~barbed-end actin filament uncapping
+XM_011428464	GO:0051638~barbed-end actin filament uncapping
+XM_011428460	GO:0051638~barbed-end actin filament uncapping
+XM_011433577	GO:0006479~protein methylation
+XM_011437719	GO:0070836~caveola assembly
+XM_011429957	GO:0050790~regulation of catalytic activity
+XM_011429320	GO:0006298~mismatch repair
+XM_011458618	GO:0006302~double-strand break repair
+NM_001305356	GO:0007169~transmembrane receptor protein tyrosine kinase signaling pathway
+XM_011453188	GO:0006695~cholesterol biosynthetic process
+XM_011432236	GO:0040034~regulation of development, heterochronic
+XM_011456483	GO:0009117~nucleotide metabolic process
+XM_011442777	GO:0007219~Notch signaling pathway
+XM_011425241	GO:0007021~tubulin complex assembly
+XM_011418640	GO:0006355~regulation of transcription, DNA-templated
+XM_011418119	GO:0007264~small GTPase mediated signal transduction
+XM_011431114	GO:0006886~intracellular protein transport
+XM_011428854	GO:0009072~aromatic amino acid family metabolic process
+XM_011440254	GO:0006886~intracellular protein transport
+NM_001305344	GO:0006955~immune response
+XM_011429995	GO:0006351~transcription, DNA-templated
+XM_011429979	GO:0006351~transcription, DNA-templated
+XM_011458830	GO:0007264~small GTPase mediated signal transduction
+XM_011448721	GO:0045454~cell redox homeostasis
+XM_011439814	GO:0006351~transcription, DNA-templated
+XM_011430097	GO:0007165~signal transduction
+XM_011434577	GO:0005975~carbohydrate metabolic process
+XM_011447369	GO:0042981~regulation of apoptotic process
+XM_011457068	GO:0006537~glutamate biosynthetic process
+XM_011451995	GO:0008217~regulation of blood pressure
+XM_011451997	GO:0008217~regulation of blood pressure
+XM_011443587	GO:0007156~homophilic cell adhesion via plasma membrane adhesion molecules
+XM_011439704	GO:0006355~regulation of transcription, DNA-templated
+XM_011447638	GO:0006401~RNA catabolic process
+AB516438	GO:0006351~transcription, DNA-templated
+XM_011453123	GO:0055085~transmembrane transport
+XM_011423401	GO:0035499~carnosine biosynthetic process
+XM_011417217	GO:0006412~translation
+XM_011444720	GO:0019478~D-amino acid catabolic process
+XM_011426788	GO:0000398~mRNA splicing, via spliceosome
+XM_011426787	GO:0000398~mRNA splicing, via spliceosome
+XM_011442273	GO:0007264~small GTPase mediated signal transduction
+XM_011458676	GO:0005975~carbohydrate metabolic process
+XM_011425244	GO:0007005~mitochondrion organization
+XM_011446489	GO:0051262~protein tetramerization
+AM236465	GO:0051262~protein tetramerization
+XM_011456071	GO:0007250~activation of NF-kappaB-inducing kinase activity
+XM_011456089	GO:0007250~activation of NF-kappaB-inducing kinase activity
+XM_011456053	GO:0007250~activation of NF-kappaB-inducing kinase activity
+EU477255	GO:0005975~carbohydrate metabolic process
+XM_011425146	GO:0070836~caveola assembly
+EU152928	GO:0006457~protein folding
+EU477252	GO:0005975~carbohydrate metabolic process
+XM_011419474	GO:0006480~N-terminal protein amino acid methylation
+NM_001305334	GO:0006629~lipid metabolic process
+XM_011454065	GO:0055085~transmembrane transport
+XM_011438756	GO:0006284~base-excision repair
+XM_011414204	GO:0007601~visual perception
+XM_011425648	GO:0051260~protein homooligomerization
+XM_011425247	GO:0007264~small GTPase mediated signal transduction
+XM_011425246	GO:0007264~small GTPase mediated signal transduction
+XM_011417362	GO:0006355~regulation of transcription, DNA-templated
+XM_011448504	GO:0007275~multicellular organism development
+XM_011444125	GO:0006351~transcription, DNA-templated
+XM_011434436	GO:0006030~chitin metabolic process
+XM_011430351	GO:0016559~peroxisome fission
+XM_011415394	GO:0015991~ATP hydrolysis coupled proton transport
+XM_011444709	GO:0019318~hexose metabolic process
+XM_011454139	GO:0009058~biosynthetic process
+XM_011449504	GO:0055085~transmembrane transport
+XM_011431534	GO:0008152~metabolic process
+XM_011449257	GO:0006959~humoral immune response
+XM_011449258	GO:0006959~humoral immune response
+XM_011414838	GO:0042823~pyridoxal phosphate biosynthetic process
+XM_011414829	GO:0042823~pyridoxal phosphate biosynthetic process
+XM_011424933	GO:0007264~small GTPase mediated signal transduction
+NM_001305377	GO:0009408~response to heat
+XM_011430200	GO:0009306~protein secretion
+XM_011414724	GO:0006869~lipid transport
+XM_011414726	GO:0006869~lipid transport
+AJ971238	GO:0006032~chitin catabolic process
+XM_011437408	GO:0055085~transmembrane transport
+XM_011422218	GO:0006749~glutathione metabolic process
+XM_011433044	GO:0016192~vesicle-mediated transport
+XR_902911	GO:0007165~signal transduction
+XM_011452006	GO:0042157~lipoprotein metabolic process
+XM_011440825	GO:0000103~sulfate assimilation
+XM_011440829	GO:0000103~sulfate assimilation
+XM_011417643	GO:0006355~regulation of transcription, DNA-templated
+XM_011426785	GO:0006099~tricarboxylic acid cycle
+XM_011435357	GO:0006355~regulation of transcription, DNA-templated
+XM_011446267	GO:0017183~peptidyl-diphthamide biosynthetic process from peptidyl-histidine
+XM_011428558	GO:0006886~intracellular protein transport
+XM_011438663	GO:0007040~lysosome organization
+XM_011447191	GO:0005975~carbohydrate metabolic process
+XM_011432565	GO:0046928~regulation of neurotransmitter secretion
+NM_001305305	GO:0042981~regulation of apoptotic process
+XM_011448135	GO:0007160~cell-matrix adhesion
+XM_011428102	GO:0006213~pyrimidine nucleoside metabolic process
+XM_011434301	GO:0006914~autophagy
+XM_011442777	GO:0016485~protein processing
+XM_011458126	GO:0006427~histidyl-tRNA aminoacylation
+XM_011429592	GO:0006886~intracellular protein transport
+XM_011431587	GO:0009117~nucleotide metabolic process
+XM_011425494	GO:0007275~multicellular organism development
+XM_011418777	GO:0007018~microtubule-based movement
+XM_011457285	GO:0008152~metabolic process
+JX121092	GO:0034333~adherens junction assembly
+XM_011426606	GO:0009308~amine metabolic process
+XM_011426605	GO:0009308~amine metabolic process
+XM_011433698	GO:0031145~anaphase-promoting complex-dependent catabolic process
+XM_011435447	GO:0006457~protein folding
+XM_011429898	GO:0006950~response to stress
+XM_011427937	GO:0042981~regulation of apoptotic process
+XM_011439438	GO:0006355~regulation of transcription, DNA-templated
+XM_011431201	GO:0006979~response to oxidative stress
+XM_011447554	GO:0009117~nucleotide metabolic process
+XR_902306	GO:0009117~nucleotide metabolic process
+XM_011421322	GO:0006004~fucose metabolic process
+FJ768956	GO:0006366~transcription from RNA polymerase II promoter
+XM_011435217	GO:0005975~carbohydrate metabolic process
+XM_011437268	GO:0035556~intracellular signal transduction
+XM_011437275	GO:0035556~intracellular signal transduction
+NM_001305378	GO:0006457~protein folding
+XM_011443051	GO:0006891~intra-Golgi vesicle-mediated transport
+XM_011415184	GO:0055085~transmembrane transport
+XM_011453381	GO:0006166~purine ribonucleoside salvage
+XM_011424200	GO:0016042~lipid catabolic process
+XM_011431062	GO:0007015~actin filament organization
+XM_011431063	GO:0007015~actin filament organization
+XM_011458103	GO:0007049~cell cycle
+XM_011458102	GO:0007049~cell cycle
+XM_011441256	GO:0006446~regulation of translational initiation
+XM_011441515	GO:0051301~cell division
+XM_011446013	GO:0018160~peptidyl-pyrromethane cofactor linkage
+JN315146	GO:0009058~biosynthetic process
+XM_011458739	GO:0008152~metabolic process
+XM_011443508	GO:0006811~ion transport
+XM_011417143	GO:0006904~vesicle docking involved in exocytosis
+XM_011435969	GO:0006556~S-adenosylmethionine biosynthetic process
+XM_011422646	GO:0034227~tRNA thio-modification
+XM_011445685	GO:0042744~hydrogen peroxide catabolic process
+XM_011435195	GO:0007264~small GTPase mediated signal transduction
+XM_011442617	GO:0006412~translation
+XM_011435025	GO:0007165~signal transduction
+XM_011428460	GO:1902745~positive regulation of lamellipodium organization
+XM_011428458	GO:1902745~positive regulation of lamellipodium organization
+AY321300	GO:0006826~iron ion transport
+NM_001305318	GO:0006826~iron ion transport
+XM_011432773	GO:0001678~cellular glucose homeostasis
+XM_011414579	GO:0006355~regulation of transcription, DNA-templated
+XM_011447554	GO:0009116~nucleoside metabolic process
+XM_011416275	GO:0006355~regulation of transcription, DNA-templated
+XM_011423954	GO:0006457~protein folding
+NM_001305372	GO:0006457~protein folding
+XM_011451641	GO:0046931~pore complex assembly
+XM_011436470	GO:0006814~sodium ion transport
+XM_011442570	GO:0006810~transport
+XM_011447676	GO:0006486~protein glycosylation
+XM_011447677	GO:0006486~protein glycosylation
+XM_011429449	GO:0016192~vesicle-mediated transport
+XR_900362	GO:0010468~regulation of gene expression
+XM_011443066	GO:0006412~translation
+XM_011414853	GO:0042819~vitamin B6 biosynthetic process
+XM_011438083	GO:0006979~response to oxidative stress
+XM_011454109	GO:0045892~negative regulation of transcription, DNA-templated
+XM_011446013	GO:0033014~tetrapyrrole biosynthetic process
+XM_011434647	GO:0016226~iron-sulfur cluster assembly
+XM_011417875	GO:0006368~transcription elongation from RNA polymerase II promoter
+XM_011435793	GO:0006979~response to oxidative stress
+NM_001305289	GO:0006979~response to oxidative stress
+XM_011434853	GO:0006412~translation
+XM_011444141	GO:0006637~acyl-CoA metabolic process
+XM_011422670	GO:0006412~translation
+XM_011458757	GO:0051056~regulation of small GTPase mediated signal transduction
+XM_011439268	GO:0006355~regulation of transcription, DNA-templated
+XM_011420781	GO:0042157~lipoprotein metabolic process
+XM_011444012	GO:0006086~acetyl-CoA biosynthetic process from pyruvate
+XM_011434583	GO:0016570~histone modification
+XM_011420664	GO:0006284~base-excision repair
+XM_011431928	GO:0006351~transcription, DNA-templated
+XM_011448351	GO:0045947~negative regulation of translational initiation
+XM_011432208	GO:0055085~transmembrane transport
+XM_011421231	GO:0007229~integrin-mediated signaling pathway
+XM_011422321	GO:0006355~regulation of transcription, DNA-templated
+XM_011422322	GO:0006355~regulation of transcription, DNA-templated
+XM_011422320	GO:0006355~regulation of transcription, DNA-templated
+XM_011422319	GO:0006355~regulation of transcription, DNA-templated
+XM_011422064	GO:0006886~intracellular protein transport
+XM_011445281	GO:0006895~Golgi to endosome transport
+XM_011435455	GO:0055085~transmembrane transport
+XM_011435456	GO:0055085~transmembrane transport
+XM_011433446	GO:0008152~metabolic process
+XM_011441621	GO:0006108~malate metabolic process
+NM_001305340	GO:0006102~isocitrate metabolic process
+KC700621	GO:0007165~signal transduction
+XM_011449679	GO:0007165~signal transduction
+XM_011456347	GO:0043666~regulation of phosphoprotein phosphatase activity
+XM_011444769	GO:0090263~positive regulation of canonical Wnt signaling pathway
+XM_011433304	GO:0008152~metabolic process
+XM_011454772	GO:0034720~histone H3-K4 demethylation
+XM_011454771	GO:0034720~histone H3-K4 demethylation
+XM_011421580	GO:0006810~transport
+XM_011455781	GO:0016055~Wnt signaling pathway
+XM_011436441	GO:0006351~transcription, DNA-templated
+XM_011457245	GO:0010389~regulation of G2/M transition of mitotic cell cycle
+XM_011449256	GO:0045670~regulation of osteoclast differentiation
+XM_011454833	GO:0035023~regulation of Rho protein signal transduction
+XM_011430635	GO:0006163~purine nucleotide metabolic process
+XM_011436195	GO:0006351~transcription, DNA-templated
+XM_011436192	GO:0006351~transcription, DNA-templated
+XM_011426542	GO:0006886~intracellular protein transport
+XM_011421756	GO:0006457~protein folding
+XM_011424937	GO:0007264~small GTPase mediated signal transduction
+XM_011435995	GO:0006556~S-adenosylmethionine biosynthetic process
+XM_011415906	GO:0051301~cell division
+XM_011417423	GO:0043044~ATP-dependent chromatin remodeling
+XM_011425883	GO:0006094~gluconeogenesis
+XM_011437409	GO:0008643~carbohydrate transport
+XM_011431792	GO:0009058~biosynthetic process
+XM_011424861	GO:0007005~mitochondrion organization
+XM_011452030	GO:0006886~intracellular protein transport
+XM_011446667	GO:0006810~transport
+XM_011441962	GO:0007264~small GTPase mediated signal transduction
+XM_011414299	GO:0071025~RNA surveillance
+XM_011425222	GO:0007264~small GTPase mediated signal transduction
+XM_011437734	GO:0005975~carbohydrate metabolic process
+XM_011452577	GO:0042981~regulation of apoptotic process
+XM_011418243	GO:0010468~regulation of gene expression
+XM_011428000	GO:0007420~brain development
+XM_011415036	GO:0007264~small GTPase mediated signal transduction
+XM_011434743	GO:0006351~transcription, DNA-templated
+XM_011458582	GO:0006520~cellular amino acid metabolic process
+XM_011445363	GO:0009303~rRNA transcription
+XM_011426514	GO:0006412~translation
+XM_011438496	GO:0051016~barbed-end actin filament capping
+XM_011445297	GO:0007264~small GTPase mediated signal transduction
+XM_011458545	GO:0006633~fatty acid biosynthetic process
+XM_011447931	GO:0035556~intracellular signal transduction
+XM_011443222	GO:0048869~cellular developmental process
+XM_011436435	GO:0018293~protein-FAD linkage
+XM_011429591	GO:0016192~vesicle-mediated transport
+XM_011414053	GO:0006464~cellular protein modification process
+XM_011448036	GO:0061025~membrane fusion
+XM_011413892	GO:0006006~glucose metabolic process
+XM_011422612	GO:0006412~translation
+XM_011440115	GO:0016192~vesicle-mediated transport
+XM_011445890	GO:0006414~translational elongation
+XM_011422353	GO:0007264~small GTPase mediated signal transduction
+XM_011421384	GO:0034244~negative regulation of transcription elongation from RNA polymerase II promoter
+XM_011425618	GO:0051260~protein homooligomerization
+XM_011422477	GO:0019752~carboxylic acid metabolic process
+XM_011438607	GO:0006457~protein folding
+XM_011442275	GO:0007264~small GTPase mediated signal transduction
+XM_011438319	GO:0016579~protein deubiquitination
+XM_011442715	GO:0007275~multicellular organism development
+XM_011421319	GO:0006004~fucose metabolic process
+XM_011442094	GO:0007275~multicellular organism development
+XM_011442093	GO:0007275~multicellular organism development
+XM_011427589	GO:0006355~regulation of transcription, DNA-templated
+XM_011453612	GO:0006397~mRNA processing
+XM_011432995	GO:0009435~NAD biosynthetic process
+XM_011421087	GO:0007165~signal transduction
+XM_011425150	GO:0070836~caveola assembly
+XM_011450598	GO:0030042~actin filament depolymerization
+XM_011440175	GO:0006260~DNA replication
+XM_011437653	GO:0006886~intracellular protein transport
+XM_011425533	GO:0006457~protein folding
+XM_011456320	GO:0007165~signal transduction
+XM_011414492	GO:0006397~mRNA processing
+XM_011456253	GO:0055085~transmembrane transport
+XM_011456249	GO:0055085~transmembrane transport
+XM_011456250	GO:0055085~transmembrane transport
+XM_011419407	GO:0006836~neurotransmitter transport
+XM_011419406	GO:0006836~neurotransmitter transport
+XM_011436288	GO:0006351~transcription, DNA-templated
+XM_011455588	GO:0006888~ER to Golgi vesicle-mediated transport
+XM_011427872	GO:0007165~signal transduction
+XM_011420945	GO:0070831~basement membrane assembly
+XM_011452030	GO:0016192~vesicle-mediated transport
+XM_011456115	GO:0046330~positive regulation of JNK cascade
+XM_011444293	GO:0008610~lipid biosynthetic process
+XM_011434147	GO:0006013~mannose metabolic process
+XM_011414688	GO:0034314~Arp2/3 complex-mediated actin nucleation
+XM_011451728	GO:0007264~small GTPase mediated signal transduction
+XM_011432781	GO:0007067~mitotic nuclear division
+XM_011429384	GO:0005975~carbohydrate metabolic process
+AJ544886	GO:0006096~glycolytic process
+XM_011421860	GO:0006809~nitric oxide biosynthetic process
+XM_011416159	GO:0007264~small GTPase mediated signal transduction
+XM_011432360	GO:0006396~RNA processing
+XM_011421157	GO:0006351~transcription, DNA-templated
+XM_011445130	GO:0006777~Mo-molybdopterin cofactor biosynthetic process
+XM_011441056	GO:0006122~mitochondrial electron transport, ubiquinol to cytochrome c
+XM_011417498	GO:0016055~Wnt signaling pathway
+XM_011415750	GO:0006629~lipid metabolic process
+XM_011415752	GO:0006629~lipid metabolic process
+XM_011438513	GO:0035329~hippo signaling
+XM_011440474	GO:0006694~steroid biosynthetic process
+XM_011440471	GO:0006694~steroid biosynthetic process
+XM_011442174	GO:0007165~signal transduction
+XM_011442175	GO:0007165~signal transduction
+NM_001308879	GO:0001678~cellular glucose homeostasis
+XM_011455369	GO:0001678~cellular glucose homeostasis
+NM_001305321	GO:0006032~chitin catabolic process
+AJ971240	GO:0006032~chitin catabolic process
+NM_001305338	GO:0006879~cellular iron ion homeostasis
+XM_011440012	GO:0006730~one-carbon metabolic process
+XM_011451825	GO:0006265~DNA topological change
+XM_011457570	GO:0006464~cellular protein modification process
+XM_011427943	GO:0006950~response to stress
+XM_011420993	GO:0007165~signal transduction
+XM_011418720	GO:0006633~fatty acid biosynthetic process
+XM_011427320	GO:0031591~wybutosine biosynthetic process
+XM_011445991	GO:0007154~cell communication
+XM_011445982	GO:0007154~cell communication
+XM_011457301	GO:0006096~glycolytic process
+XM_011458749	GO:0031532~actin cytoskeleton reorganization
+XM_011458763	GO:0031532~actin cytoskeleton reorganization
+XM_011441260	GO:0006355~regulation of transcription, DNA-templated
+XM_011444061	GO:0007165~signal transduction
+XM_011433151	GO:0006030~chitin metabolic process
+XM_011424863	GO:0006915~apoptotic process
+XM_011436351	GO:0006355~regulation of transcription, DNA-templated
+XM_011417161	GO:0007264~small GTPase mediated signal transduction
+XM_011425292	GO:0006355~regulation of transcription, DNA-templated
+XM_011414138	GO:0007067~mitotic nuclear division
+XM_011438688	GO:0042981~regulation of apoptotic process
+XM_011445122	GO:0006351~transcription, DNA-templated
+XM_011445121	GO:0006351~transcription, DNA-templated
+XM_011451997	GO:0019371~cyclooxygenase pathway
+XM_011451994	GO:0019371~cyclooxygenase pathway
+XM_011421321	GO:0006950~response to stress
+XM_011453501	GO:0006355~regulation of transcription, DNA-templated
+XM_011437069	GO:0006742~NADP catabolic process
+XM_011425501	GO:0007219~Notch signaling pathway
+XM_011425508	GO:0007219~Notch signaling pathway
+XM_011448536	GO:0006384~transcription initiation from RNA polymerase III promoter
+NM_001305337	GO:0006355~regulation of transcription, DNA-templated
+XM_011425749	GO:0048011~neurotrophin TRK receptor signaling pathway
+XM_011424989	GO:0006486~protein glycosylation
+XM_011418252	GO:0035023~regulation of Rho protein signal transduction
+XM_011428456	GO:2000813~negative regulation of barbed-end actin filament capping
+XM_011442763	GO:0055085~transmembrane transport
+XM_011455781	GO:0007275~multicellular organism development
+XM_011456380	GO:0051726~regulation of cell cycle
+XM_011431440	GO:0006030~chitin metabolic process
+XM_011440704	GO:0007264~small GTPase mediated signal transduction
+XM_011454398	GO:0006950~response to stress
+XM_011442715	GO:0006351~transcription, DNA-templated
+XM_011426154	GO:0006914~autophagy
+XM_011428466	GO:0051638~barbed-end actin filament uncapping
+XM_011428467	GO:0051638~barbed-end actin filament uncapping
+XM_011428469	GO:0051638~barbed-end actin filament uncapping
+XM_011431026	GO:0006355~regulation of transcription, DNA-templated
+XM_011423600	GO:0006423~cysteinyl-tRNA aminoacylation
+XM_011417876	GO:0005975~carbohydrate metabolic process
+XM_011418771	GO:0006886~intracellular protein transport
+XM_011454135	GO:0035556~intracellular signal transduction
+XM_011433820	GO:0006351~transcription, DNA-templated
+XM_011438433	GO:0006351~transcription, DNA-templated
+XM_011428511	GO:0007165~signal transduction
+XM_011428519	GO:0007165~signal transduction
+JQ973737	GO:0007169~transmembrane receptor protein tyrosine kinase signaling pathway
+XM_011453344	GO:0007275~multicellular organism development
+XM_011432238	GO:0040034~regulation of development, heterochronic
+XM_011431115	GO:0006886~intracellular protein transport
+AJ551182	GO:0007166~cell surface receptor signaling pathway
+XM_011430236	GO:0007166~cell surface receptor signaling pathway
+XM_011422845	GO:0006801~superoxide metabolic process
+XM_011452264	GO:0042552~myelination
+XM_011429983	GO:0006351~transcription, DNA-templated
+XM_011429981	GO:0006351~transcription, DNA-templated
+XM_011429973	GO:0006351~transcription, DNA-templated
+XM_011429372	GO:0007264~small GTPase mediated signal transduction
+XM_011448722	GO:0045454~cell redox homeostasis
+XM_011430096	GO:0007165~signal transduction
+XM_011440114	GO:0006886~intracellular protein transport
+XM_011440115	GO:0006886~intracellular protein transport
+AY496065	GO:0005975~carbohydrate metabolic process
+XM_011434578	GO:0005975~carbohydrate metabolic process
+XM_011416231	GO:0007224~smoothened signaling pathway
+XM_011458661	GO:0006801~superoxide metabolic process
+XM_011422539	GO:0007017~microtubule-based process
+XM_011442245	GO:0006486~protein glycosylation
+XM_011456828	GO:0006457~protein folding
+XM_011439703	GO:0006355~regulation of transcription, DNA-templated
+XM_011456571	GO:0001731~formation of translation preinitiation complex
+XM_011431114	GO:0006888~ER to Golgi vesicle-mediated transport
+XM_011453121	GO:0055085~transmembrane transport
+XM_011449714	GO:0019509~L-methionine biosynthetic process from methylthioadenosine
+XM_011417532	GO:0006914~autophagy
+XM_011439537	GO:0051260~protein homooligomerization
+XM_011418663	GO:0055085~transmembrane transport
+AJ971236	GO:0006032~chitin catabolic process
+AB473552	GO:0009253~peptidoglycan catabolic process
+XM_011421562	GO:0007264~small GTPase mediated signal transduction
+XM_011455768	GO:0000226~microtubule cytoskeleton organization
+XM_011442453	GO:0007165~signal transduction
+XM_011430809	GO:0055085~transmembrane transport
+XM_011439894	GO:0016226~iron-sulfur cluster assembly
+XM_011414034	GO:0051301~cell division
+XM_011435981	GO:0006730~one-carbon metabolic process
+XM_011422814	GO:0045292~mRNA cis splicing, via spliceosome
+XM_011453023	GO:0006520~cellular amino acid metabolic process
+XM_011422219	GO:0051260~protein homooligomerization
+XM_011435744	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011425247	GO:0007005~mitochondrion organization
+BK009238	GO:0051262~protein tetramerization
+XM_011456115	GO:0007250~activation of NF-kappaB-inducing kinase activity
+XM_011449947	GO:0005975~carbohydrate metabolic process
+NM_001305322	GO:0006915~apoptotic process
+XM_011450646	GO:0006355~regulation of transcription, DNA-templated
+XM_011435093	GO:0007264~small GTPase mediated signal transduction
+XM_011454415	GO:0000290~deadenylation-dependent decapping of nuclear-transcribed mRNA
+XM_011452018	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011438204	GO:0006629~lipid metabolic process
+JN315144	GO:0006629~lipid metabolic process
+XM_011425226	GO:0007165~signal transduction
+XM_011417158	GO:0055085~transmembrane transport
+XM_011454066	GO:0055085~transmembrane transport
+XM_011454068	GO:0055085~transmembrane transport
+XM_011451591	GO:0009086~methionine biosynthetic process
+XM_011416687	GO:0009408~response to heat
+XM_011438754	GO:0006284~base-excision repair
+XM_011438758	GO:0006284~base-excision repair
+XM_011438144	GO:0032012~regulation of ARF protein signal transduction
+XM_011455431	GO:0006515~misfolded or incompletely synthesized protein catabolic process
+XM_011434978	GO:0006013~mannose metabolic process
+XM_011440333	GO:0009168~purine ribonucleoside monophosphate biosynthetic process
+XM_011435983	GO:0005978~glycogen biosynthetic process
+XR_901150	GO:0007021~tubulin complex assembly
+XM_011438081	GO:0007021~tubulin complex assembly
+XM_011452997	GO:0008203~cholesterol metabolic process
+XM_011422194	GO:0006950~response to stress
+XM_011449256	GO:0006959~humoral immune response
+XM_011452264	GO:0021778~oligodendrocyte cell fate specification
+XM_011420902	GO:0006542~glutamine biosynthetic process
+XM_011420901	GO:0006542~glutamine biosynthetic process
+XM_011436745	GO:0006355~regulation of transcription, DNA-templated
+XM_011432509	GO:0016573~histone acetylation
+XM_011443901	GO:0007264~small GTPase mediated signal transduction
+XM_011453198	GO:0006974~cellular response to DNA damage stimulus
+XM_011440239	GO:0051103~DNA ligation involved in DNA repair
+XM_011433827	GO:0006032~chitin catabolic process
+XM_011422464	GO:0007601~visual perception
+XM_011452479	GO:0007165~signal transduction
+AF075693	GO:0030042~actin filament depolymerization
+XM_011425241	GO:0007023~post-chaperonin tubulin folding pathway
+XM_011440826	GO:0000103~sulfate assimilation
+XM_011415895	GO:0006810~transport
+XM_011426857	GO:0006355~regulation of transcription, DNA-templated
+XM_011450239	GO:0006270~DNA replication initiation
+XM_011452308	GO:0008152~metabolic process
+XM_011452307	GO:0008152~metabolic process
+XM_011421951	GO:0000079~regulation of cyclin-dependent protein serine/threonine kinase activity
+XM_011452857	GO:0007029~endoplasmic reticulum organization
+XM_011442942	GO:0006351~transcription, DNA-templated
+XM_011456384	GO:0007017~microtubule-based process
+XM_011454428	GO:0055085~transmembrane transport
+XM_011449086	GO:0008152~metabolic process
+XM_011441122	GO:0007165~signal transduction
+XM_011436158	GO:0048312~intracellular distribution of mitochondria
+XM_011426464	GO:0006310~DNA recombination
+XM_011436470	GO:0006813~potassium ion transport
+XM_011448134	GO:0007160~cell-matrix adhesion
+NM_001305306	GO:0006730~one-carbon metabolic process
+XM_011458129	GO:0006427~histidyl-tRNA aminoacylation
+XM_011438753	GO:0055085~transmembrane transport
+XM_011452022	GO:0055085~transmembrane transport
+XM_011452024	GO:0055085~transmembrane transport
+XM_011452023	GO:0055085~transmembrane transport
+NM_001305295	GO:0034333~adherens junction assembly
+XM_011458106	GO:0035556~intracellular signal transduction
+XM_011441941	GO:0008152~metabolic process
+XM_011454889	GO:0045454~cell redox homeostasis
+XM_011433827	GO:0005975~carbohydrate metabolic process
+XM_011454770	GO:0006355~regulation of transcription, DNA-templated
+XM_011417195	GO:0006366~transcription from RNA polymerase II promoter
+NM_001305321	GO:0005975~carbohydrate metabolic process
+XM_011420341	GO:0007034~vacuolar transport
+XM_011421782	GO:0016567~protein ubiquitination
+XM_011434836	GO:0006094~gluconeogenesis
+XR_901055	GO:0035556~intracellular signal transduction
+XM_011437272	GO:0035556~intracellular signal transduction
+XM_011435260	GO:0007186~G-protein coupled receptor signaling pathway
+XM_011458016	GO:0006032~chitin catabolic process
+XM_011449989	GO:0007264~small GTPase mediated signal transduction
+XM_011431067	GO:0007015~actin filament organization
+XM_011431061	GO:0007015~actin filament organization
+XM_011458104	GO:0007049~cell cycle
+XM_011448465	GO:0030036~actin cytoskeleton organization
+XM_011443173	GO:0006384~transcription initiation from RNA polymerase III promoter
+XM_011443516	GO:0006811~ion transport
+XM_011435981	GO:0006556~S-adenosylmethionine biosynthetic process
+XM_011435973	GO:0006556~S-adenosylmethionine biosynthetic process
+XM_011446511	GO:0006950~response to stress
+HM147936	GO:0042744~hydrogen peroxide catabolic process
+XM_011442867	GO:0072583~clathrin-mediated endocytosis
+XM_011455916	GO:0008202~steroid metabolic process
+XM_011435024	GO:0007165~signal transduction
+XM_011452300	GO:0006506~GPI anchor biosynthetic process
+XM_011428454	GO:1902745~positive regulation of lamellipodium organization
+XM_011428459	GO:1902745~positive regulation of lamellipodium organization
+XM_011428464	GO:1902745~positive regulation of lamellipodium organization
+XM_011428462	GO:1902745~positive regulation of lamellipodium organization
+XM_011428467	GO:1902745~positive regulation of lamellipodium organization
+XM_011451774	GO:0006516~glycoprotein catabolic process
+XM_011442944	GO:0007179~transforming growth factor beta receptor signaling pathway
+XM_011445682	GO:0006979~response to oxidative stress
+XM_011422578	GO:0000724~double-strand break repair via homologous recombination
+XM_011450218	GO:0006826~iron ion transport
+XM_011431394	GO:0006310~DNA recombination
+XM_011455942	GO:0006355~regulation of transcription, DNA-templated
+XM_011415649	GO:0007264~small GTPase mediated signal transduction
+XM_011415653	GO:0007264~small GTPase mediated signal transduction
+XM_011415651	GO:0007264~small GTPase mediated signal transduction
+XM_011414315	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011413572	GO:0008152~metabolic process
+XM_011417129	GO:0046033~AMP metabolic process
+XM_011452108	GO:0045010~actin nucleation
+XM_011458016	GO:0005975~carbohydrate metabolic process
+XM_011458831	GO:0007264~small GTPase mediated signal transduction
+XM_011419925	GO:0019752~carboxylic acid metabolic process
+XM_011425781	GO:0007264~small GTPase mediated signal transduction
+XM_011444842	GO:0001558~regulation of cell growth
+XM_011414838	GO:0042819~vitamin B6 biosynthetic process
+XM_011438082	GO:0006979~response to oxidative stress
+XM_011454106	GO:0045892~negative regulation of transcription, DNA-templated
+XM_011454108	GO:0045892~negative regulation of transcription, DNA-templated
+XM_011454107	GO:0045892~negative regulation of transcription, DNA-templated
+XM_011433096	GO:0035556~intracellular signal transduction
+XM_011435775	GO:0006979~response to oxidative stress
+FJ375303	GO:0006979~response to oxidative stress
+XM_011451993	GO:0006979~response to oxidative stress
+XM_011437069	GO:0009435~NAD biosynthetic process
+AB199895	GO:0006412~translation
+NM_001305367	GO:0006412~translation
+XM_011437734	GO:0006683~galactosylceramide catabolic process
+XM_011443543	GO:0009058~biosynthetic process
+XM_011439066	GO:0007155~cell adhesion
+XM_011425148	GO:0070836~caveola assembly
+AB794884	GO:0006730~one-carbon metabolic process
+XM_011443710	GO:0001510~RNA methylation
+XM_011452280	GO:0051493~regulation of cytoskeleton organization
+AJ563475	GO:0006826~iron ion transport
+XM_011428063	GO:0006826~iron ion transport
+AY321299	GO:0006826~iron ion transport
+XM_011442715	GO:0006355~regulation of transcription, DNA-templated
+XM_011419296	GO:0006351~transcription, DNA-templated
+XM_011453198	GO:0007049~cell cycle
+XM_011416093	GO:0055114~oxidation-reduction process
+XM_011425747	GO:0006633~fatty acid biosynthetic process
+NM_001305358	GO:0007165~signal transduction
+XM_011444767	GO:0090263~positive regulation of canonical Wnt signaling pathway
+XM_011421266	GO:0006811~ion transport
+XM_011421260	GO:0006811~ion transport
+XM_011423389	GO:0006886~intracellular protein transport
+XM_011423388	GO:0006886~intracellular protein transport
+XM_011453603	GO:0070084~protein initiator methionine removal
+XM_011433303	GO:0008152~metabolic process
+XM_011428464	GO:0030335~positive regulation of cell migration
+XM_011428457	GO:0030335~positive regulation of cell migration
+XM_011428460	GO:0030335~positive regulation of cell migration
+XM_011428467	GO:0030335~positive regulation of cell migration
+XM_011428463	GO:0030335~positive regulation of cell migration
+KM975680	GO:0035556~intracellular signal transduction
+XM_011452437	GO:0007165~signal transduction
+XM_011452463	GO:0006298~mismatch repair
+XM_011452462	GO:0006298~mismatch repair
+XM_011437065	GO:0055085~transmembrane transport
+XM_011456017	GO:0007156~homophilic cell adhesion via plasma membrane adhesion molecules
+XM_011417876	GO:0006098~pentose-phosphate shunt
+XM_011453557	GO:0006086~acetyl-CoA biosynthetic process from pyruvate
+XM_011457862	GO:0035023~regulation of Rho protein signal transduction
+XM_011457047	GO:0006438~valyl-tRNA aminoacylation
+XM_011426610	GO:0016051~carbohydrate biosynthetic process
+XM_011443603	GO:0007156~homophilic cell adhesion via plasma membrane adhesion molecules
+XM_011436194	GO:0006351~transcription, DNA-templated
+XM_011437258	GO:0006351~transcription, DNA-templated
+XM_011450292	GO:0006355~regulation of transcription, DNA-templated
+XM_011417577	GO:0043044~ATP-dependent chromatin remodeling
+XM_011424962	GO:0009063~cellular amino acid catabolic process
+XM_011422193	GO:0006950~response to stress
+AJ563463	GO:0006412~translation
+XM_011434137	GO:0005975~carbohydrate metabolic process
+XM_011438241	GO:0008643~carbohydrate transport
+XM_011418841	GO:0035556~intracellular signal transduction
+XM_011423657	GO:0006357~regulation of transcription from RNA polymerase II promoter
+XM_011418014	GO:0008152~metabolic process
+XM_011415333	GO:0009607~response to biotic stimulus
+XM_011438652	GO:0032923~organic phosphonate biosynthetic process
+XM_011414248	GO:0048193~Golgi vesicle transport
+XM_011447919	GO:0005975~carbohydrate metabolic process
+XM_011416560	GO:0006412~translation
+XM_011434840	GO:0051103~DNA ligation involved in DNA repair
+XM_011452581	GO:0042981~regulation of apoptotic process
+XM_011421256	GO:0006811~ion transport
+XM_011427918	GO:0048278~vesicle docking
+XM_011443910	GO:0016192~vesicle-mediated transport
+XM_011444365	GO:0007275~multicellular organism development
+XM_011428146	GO:0040007~growth
+XM_011414082	GO:0009264~deoxyribonucleotide catabolic process
+XM_011425087	GO:0051301~cell division
+XM_011445298	GO:0007264~small GTPase mediated signal transduction
+XM_011439869	GO:0006412~translation
+XM_011447553	GO:0009159~deoxyribonucleoside monophosphate catabolic process
+XM_011458836	GO:0006030~chitin metabolic process
+XM_011434645	GO:0006879~cellular iron ion homeostasis
+XM_011447921	GO:0035556~intracellular signal transduction
+XM_011445870	GO:0035552~oxidative single-stranded DNA demethylation
+XM_011422603	GO:0010389~regulation of G2/M transition of mitotic cell cycle
+XM_011443225	GO:0048869~cellular developmental process
+XM_011418316	GO:0006260~DNA replication
+XM_011432115	GO:0055085~transmembrane transport
+XM_011432117	GO:0055085~transmembrane transport
+XM_011434840	GO:0006310~DNA recombination
+XM_011458103	GO:0006351~transcription, DNA-templated
+XM_011428606	GO:0006355~regulation of transcription, DNA-templated
+XM_011443565	GO:0016573~histone acetylation
+XM_011458763	GO:0048814~regulation of dendrite morphogenesis
+XM_011445870	GO:0006307~DNA dealkylation involved in DNA repair
+XM_011437049	GO:0007264~small GTPase mediated signal transduction
+XM_011440114	GO:0016192~vesicle-mediated transport
+JN029960	GO:0007249~I-kappaB kinase/NF-kappaB signaling
+HQ144188	GO:0007249~I-kappaB kinase/NF-kappaB signaling
+XM_011422352	GO:0007264~small GTPase mediated signal transduction
+AY496064	GO:0005978~glycogen biosynthetic process
+XM_011446090	GO:0090266~regulation of mitotic cell cycle spindle assembly checkpoint
+XM_011425612	GO:0051260~protein homooligomerization
+XM_011433964	GO:0046856~phosphatidylinositol dephosphorylation
+XM_011438599	GO:0006457~protein folding
+XM_011417480	GO:0006412~translation
+AY551099	GO:0015992~proton transport
+XM_011442723	GO:0007275~multicellular organism development
+XM_011425749	GO:0032007~negative regulation of TOR signaling
+XM_011433573	GO:0016226~iron-sulfur cluster assembly
+XM_011416241	GO:0006351~transcription, DNA-templated
+XM_011416242	GO:0006351~transcription, DNA-templated
+XM_011442091	GO:0007275~multicellular organism development
+XM_011433005	GO:0019441~tryptophan catabolic process to kynurenine
+XM_011433004	GO:0019441~tryptophan catabolic process to kynurenine
+XM_011423580	GO:0007018~microtubule-based movement
+XM_011427740	GO:0006811~ion transport
+XM_011426964	GO:0015937~coenzyme A biosynthetic process
+AB473553	GO:0016998~cell wall macromolecule catabolic process
+AB473552	GO:0016998~cell wall macromolecule catabolic process
+XM_011451274	GO:0006629~lipid metabolic process
+XM_011456321	GO:0007165~signal transduction
+XM_011450148	GO:0006396~RNA processing
+XM_011458358	GO:0006030~chitin metabolic process
+XM_011419999	GO:1902979~mitotic DNA replication termination
+XM_011436355	GO:0007050~cell cycle arrest
+XM_011419408	GO:0006836~neurotransmitter transport
+XM_011456343	GO:0005975~carbohydrate metabolic process
+XM_011455435	GO:0007188~adenylate cyclase-modulating G-protein coupled receptor signaling pathway
+XM_011436287	GO:0006351~transcription, DNA-templated
+XM_011425219	GO:0007264~small GTPase mediated signal transduction
+XM_011443224	GO:0000122~negative regulation of transcription from RNA polymerase II promoter
+XM_011443225	GO:0000122~negative regulation of transcription from RNA polymerase II promoter
+XM_011423910	GO:0009166~nucleotide catabolic process
+XM_011456079	GO:0046330~positive regulation of JNK cascade
+XM_011419998	GO:0006012~galactose metabolic process
+XM_011434145	GO:0006013~mannose metabolic process
+XM_011420274	GO:0006397~mRNA processing
+XM_011452108	GO:0051016~barbed-end actin filament capping
+XM_011435946	GO:0055085~transmembrane transport
+XM_011425337	GO:0006364~rRNA processing
+XM_011430899	GO:0006352~DNA-templated transcription, initiation
+XM_011428496	GO:0006520~cellular amino acid metabolic process
+XM_011452062	GO:0006355~regulation of transcription, DNA-templated
+XM_011429386	GO:0005975~carbohydrate metabolic process
+XM_011421858	GO:0006809~nitric oxide biosynthetic process
+AF288677	GO:0007264~small GTPase mediated signal transduction
+XM_011445129	GO:0006777~Mo-molybdopterin cofactor biosynthetic process
+XM_011451300	GO:0055085~transmembrane transport
+XM_011432570	GO:0060291~long-term synaptic potentiation
+XM_011441889	GO:0006424~glutamyl-tRNA aminoacylation
+XM_011438528	GO:0007067~mitotic nuclear division
+XM_011416149	GO:0006486~protein glycosylation
+XM_011417841	GO:0006886~intracellular protein transport
+XM_011443978	GO:0055085~transmembrane transport
+XM_011438519	GO:0035329~hippo signaling
+XM_011426361	GO:0006364~rRNA processing
+XM_011455372	GO:0001678~cellular glucose homeostasis
+AJ563479	GO:0001678~cellular glucose homeostasis
+XM_011443315	GO:0035556~intracellular signal transduction
+XM_011457566	GO:0006464~cellular protein modification process
+XM_011457569	GO:0006464~cellular protein modification process
+XM_011458674	GO:0055085~transmembrane transport
+XM_011426721	GO:0006030~chitin metabolic process
+XM_011426236	GO:0009058~biosynthetic process
+XM_011432238	GO:0006351~transcription, DNA-templated
+XM_011445983	GO:0007154~cell communication
+XM_011422333	GO:0007264~small GTPase mediated signal transduction
+XM_011437399	GO:0006004~fucose metabolic process
+XM_011430246	GO:0001731~formation of translation preinitiation complex
+XM_011428607	GO:0006030~chitin metabolic process
+XM_011430634	GO:0006144~purine nucleobase metabolic process
+XM_011458091	GO:0007165~signal transduction
+XM_011424632	GO:0042246~tissue regeneration
+XM_011436350	GO:0006355~regulation of transcription, DNA-templated
+XM_011414227	GO:0006355~regulation of transcription, DNA-templated
+XM_011452440	GO:0006412~translation
+XM_011417160	GO:0007264~small GTPase mediated signal transduction
+XM_011425488	GO:0006412~translation
+XM_011414070	GO:0007067~mitotic nuclear division
+AB289857	GO:0006351~transcription, DNA-templated
+XM_011442088	GO:0051607~defense response to virus
+XM_011456037	GO:0006412~translation
+XM_011426639	GO:0006633~fatty acid biosynthetic process
+XM_011451996	GO:0019371~cyclooxygenase pathway
+FJ375303	GO:0019371~cyclooxygenase pathway
+XM_011427910	GO:0006950~response to stress
+XM_011448538	GO:0006384~transcription initiation from RNA polymerase III promoter
+XM_011454139	GO:0009072~aromatic amino acid family metabolic process
+XM_011428461	GO:2000813~negative regulation of barbed-end actin filament capping
+XM_011428462	GO:2000813~negative regulation of barbed-end actin filament capping
+XM_011428469	GO:2000813~negative regulation of barbed-end actin filament capping
+XM_011435673	GO:0006355~regulation of transcription, DNA-templated
+XM_011436586	GO:0035556~intracellular signal transduction
+XM_011431570	GO:0003341~cilium movement
+XM_011419295	GO:0016480~negative regulation of transcription from RNA polymerase III promoter
+XM_011452963	GO:0008033~tRNA processing
+XM_011414331	GO:0006950~response to stress
+XM_011455942	GO:0006351~transcription, DNA-templated
+XM_011418153	GO:0006886~intracellular protein transport
+XM_011454418	GO:0006950~response to stress
+XM_011428454	GO:0051638~barbed-end actin filament uncapping
+XM_011431404	GO:0045454~cell redox homeostasis
+XM_011427999	GO:0006811~ion transport
+XM_011427998	GO:0006811~ion transport
+XM_011433044	GO:0006886~intracellular protein transport
+XM_011452018	GO:0016579~protein deubiquitination
+XM_011448504	GO:0009966~regulation of signal transduction
+XM_011448503	GO:0009966~regulation of signal transduction
+XM_011418770	GO:0006886~intracellular protein transport
+XM_011452997	GO:0016042~lipid catabolic process
+XM_011428513	GO:0007165~signal transduction
+XM_011428523	GO:0007165~signal transduction
+XM_011428518	GO:0007165~signal transduction
+XM_011447444	GO:0006694~steroid biosynthetic process
+XM_011452609	GO:0006955~immune response
+XM_011453349	GO:0007275~multicellular organism development
+XM_011453348	GO:0007275~multicellular organism development
+XM_011432233	GO:0040034~regulation of development, heterochronic
+XM_011457170	GO:0055085~transmembrane transport
+XM_011441295	GO:0000281~mitotic cytokinesis
+XM_011432184	GO:0007018~microtubule-based movement
+XM_011450746	GO:0006099~tricarboxylic acid cycle
+XM_011446757	GO:0006886~intracellular protein transport
+XM_011448076	GO:0042384~cilium assembly
+NM_001305350	GO:0007166~cell surface receptor signaling pathway
+XM_011449426	GO:0016192~vesicle-mediated transport
+XM_011446602	GO:0006006~glucose metabolic process
+XM_011452856	GO:0006955~immune response
+XM_011446873	GO:0006071~glycerol metabolic process
+XM_011429986	GO:0006351~transcription, DNA-templated
+XM_011435166	GO:0006260~DNA replication
+XM_011430101	GO:0007165~signal transduction
+XM_011438081	GO:0007023~post-chaperonin tubulin folding pathway
+XM_011440116	GO:0006886~intracellular protein transport
+XM_011445281	GO:0090382~phagosome maturation
+NM_001308888	GO:0055114~oxidation-reduction process
+XM_011451998	GO:0008217~regulation of blood pressure
+FJ375303	GO:0008217~regulation of blood pressure
+XM_011440013	GO:0006412~translation
+XM_011420700	GO:0000398~mRNA splicing, via spliceosome
+XM_011444361	GO:0007219~Notch signaling pathway
+XM_011415874	GO:0006355~regulation of transcription, DNA-templated
+XM_011456446	GO:0007165~signal transduction
+XM_011447639	GO:0006401~RNA catabolic process
+AB516433	GO:0006351~transcription, DNA-templated
+NM_001305377	GO:0006351~transcription, DNA-templated
+XM_011431116	GO:0006888~ER to Golgi vesicle-mediated transport
+XM_011453120	GO:0055085~transmembrane transport
+XM_011428000	GO:0001654~eye development
+XM_011420945	GO:0048731~system development
+XM_011435216	GO:0006032~chitin catabolic process
+XM_011433351	GO:0009253~peptidoglycan catabolic process
+XM_011455767	GO:0000226~microtubule cytoskeleton organization
+XM_011449511	GO:0030041~actin filament polymerization
+XM_011435969	GO:0006730~one-carbon metabolic process
+XM_011429730	GO:0006432~phenylalanyl-tRNA aminoacylation
+XM_011444431	GO:0006412~translation
+XM_011448804	GO:0007165~signal transduction
+XM_011449258	GO:0045893~positive regulation of transcription, DNA-templated
+XM_011429470	GO:0007264~small GTPase mediated signal transduction
+XM_011435742	GO:0006511~ubiquitin-dependent protein catabolic process
+AJ971235	GO:0006032~chitin catabolic process
+NM_001305323	GO:0006032~chitin catabolic process
+XM_011414298	GO:0007099~centriole replication
+EU477254	GO:0005975~carbohydrate metabolic process
+XM_011448832	GO:0006915~apoptotic process
+XM_011446558	GO:0009607~response to biotic stimulus
+XM_011424625	GO:0007155~cell adhesion
+XM_011425049	GO:0006355~regulation of transcription, DNA-templated
+XM_011435975	GO:0006355~regulation of transcription, DNA-templated
+XM_011449962	GO:0005975~carbohydrate metabolic process
+XM_011422635	GO:0019556~histidine catabolic process to glutamate and formamide
+XM_011432606	GO:0009435~NAD biosynthetic process
+XM_011451706	GO:0006545~glycine biosynthetic process
+XM_011456147	GO:0006396~RNA processing
+XM_011414315	GO:0016579~protein deubiquitination
+XM_011454438	GO:0006241~CTP biosynthetic process
+XM_011446011	GO:0006518~peptide metabolic process
+XM_011429960	GO:0042981~regulation of apoptotic process
+XM_011455872	GO:0006810~transport
+XM_011434474	GO:0006388~tRNA splicing, via endonucleolytic cleavage and ligation
+AY256853	GO:0055114~oxidation-reduction process
+XM_011442085	GO:0006750~glutathione biosynthetic process
+XM_011434895	GO:0006013~mannose metabolic process
+XM_011434744	GO:0006013~mannose metabolic process
+XM_011415396	GO:0015991~ATP hydrolysis coupled proton transport
+XM_011458821	GO:0035058~nonmotile primary cilium assembly
+XM_011440335	GO:0009168~purine ribonucleoside monophosphate biosynthetic process
+XM_011440331	GO:0009168~purine ribonucleoside monophosphate biosynthetic process
+NM_001305363	GO:0007017~microtubule-based process
+XM_011431924	GO:0007600~sensory perception
+AY713400	GO:0007017~microtubule-based process
+XM_011420900	GO:0006542~glutamine biosynthetic process
+XM_011458610	GO:0016579~protein deubiquitination
+XM_011458614	GO:0016579~protein deubiquitination
+XM_011424340	GO:0007275~multicellular organism development
+XM_011414847	GO:0042823~pyridoxal phosphate biosynthetic process
+XM_011417568	GO:0007264~small GTPase mediated signal transduction
+AB516438	GO:0009408~response to heat
+XM_011453817	GO:0034551~mitochondrial respiratory chain complex III assembly
+XM_011429904	GO:0006099~tricarboxylic acid cycle
+EU108715	GO:0006421~asparaginyl-tRNA aminoacylation
+XR_902912	GO:0007165~signal transduction
+XM_011450646	GO:0033627~cell adhesion mediated by integrin
+XM_011417642	GO:0006355~regulation of transcription, DNA-templated
+XM_011436938	GO:0007034~vacuolar transport
+XM_011449426	GO:0006886~intracellular protein transport
+HM147936	GO:0006979~response to oxidative stress
+XM_011429351	GO:0007018~microtubule-based movement
+XM_011421952	GO:0000079~regulation of cyclin-dependent protein serine/threonine kinase activity
+XM_011436292	GO:0006886~intracellular protein transport
+XM_011442943	GO:0006351~transcription, DNA-templated
+XM_011454322	GO:0051260~protein homooligomerization
+XM_011457504	GO:0007264~small GTPase mediated signal transduction
+XM_011454426	GO:0055085~transmembrane transport
+XM_011424461	GO:0009253~peptidoglycan catabolic process
+XM_011436617	GO:0006338~chromatin remodeling
+XM_011457148	GO:0006810~transport
+XM_011432570	GO:0046928~regulation of neurotransmitter secretion
+XM_011431078	GO:0008152~metabolic process
+XM_011433602	GO:0006629~lipid metabolic process
+XM_011441413	GO:0051260~protein homooligomerization
+XM_011457272	GO:0006355~regulation of transcription, DNA-templated
+AJ557141	GO:0008152~metabolic process
+KC563208	GO:0006730~one-carbon metabolic process
+XM_011425287	GO:0006955~immune response
+XM_011419292	GO:0016579~protein deubiquitination
+XM_011450209	GO:0009166~nucleotide catabolic process
+XM_011434587	GO:0019310~inositol catabolic process
+XM_011435602	GO:0016226~iron-sulfur cluster assembly
+XM_011435766	GO:0030091~protein repair
+XM_011435793	GO:0030091~protein repair
+XM_011432998	GO:0034314~Arp2/3 complex-mediated actin nucleation
+XM_011425535	GO:0007275~multicellular organism development
+XM_011420331	GO:0035556~intracellular signal transduction
+XM_011452026	GO:0055085~transmembrane transport
+XM_011446400	GO:0007229~integrin-mediated signaling pathway
+XM_011418795	GO:0034333~adherens junction assembly
+XM_011418797	GO:0034333~adherens junction assembly
+XM_011416152	GO:0006355~regulation of transcription, DNA-templated
+XM_011415063	GO:0006397~mRNA processing
+XM_011426552	GO:0007160~cell-matrix adhesion
+XM_011424621	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011433697	GO:0031145~anaphase-promoting complex-dependent catabolic process
+XM_011424716	GO:0009966~regulation of signal transduction
+XM_011438685	GO:0009607~response to biotic stimulus
+XM_011448167	GO:0046328~regulation of JNK cascade
+XM_011443771	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011439437	GO:0006367~transcription initiation from RNA polymerase II promoter
+XM_011430960	GO:0007017~microtubule-based process
+AJ971240	GO:0005975~carbohydrate metabolic process
+XM_011453766	GO:0008299~isoprenoid biosynthetic process
+XM_011428646	GO:0007165~signal transduction
+XM_011414151	GO:0006207~'de novo' pyrimidine nucleobase biosynthetic process
+XM_011449325	GO:0006359~regulation of transcription from RNA polymerase III promoter
+XM_011457937	GO:0006464~cellular protein modification process
+XM_011452106	GO:0006351~transcription, DNA-templated
+EF687776	GO:0006457~protein folding
+XM_011418351	GO:0006334~nucleosome assembly
+XM_011437051	GO:0006544~glycine metabolic process
+XM_011443509	GO:0006811~ion transport
+XM_011428326	GO:0042127~regulation of cell proliferation
+XM_011428325	GO:0042127~regulation of cell proliferation
+XM_011444363	GO:0006366~transcription from RNA polymerase II promoter
+XM_011429969	GO:0051090~regulation of sequence-specific DNA binding transcription factor activity
+XM_011428463	GO:1902745~positive regulation of lamellipodium organization
+EF687775	GO:0006979~response to oxidative stress
+XM_011445681	GO:0006979~response to oxidative stress
+XM_011442022	GO:0007186~G-protein coupled receptor signaling pathway
+XR_902306	GO:0009116~nucleoside metabolic process
+XM_011415016	GO:0045292~mRNA cis splicing, via spliceosome
+AJ971236	GO:0005975~carbohydrate metabolic process
+XM_011446506	GO:0006915~apoptotic process
+XM_011446498	GO:0006915~apoptotic process
+NM_001308857	GO:0042981~regulation of apoptotic process
+XM_011422435	GO:0042981~regulation of apoptotic process
+NM_001305342	GO:0006098~pentose-phosphate shunt
+XM_011422603	GO:0000079~regulation of cyclin-dependent protein serine/threonine kinase activity
+XM_011436001	GO:0007266~Rho protein signal transduction
+XM_011452100	GO:0045010~actin nucleation
+XM_011427913	GO:0006950~response to stress
+XM_011424519	GO:0007165~signal transduction
+XM_011419836	GO:0006355~regulation of transcription, DNA-templated
+XM_011440209	GO:0006397~mRNA processing
+XM_011421638	GO:0006355~regulation of transcription, DNA-templated
+XM_011437627	GO:0006396~RNA processing
+XM_011414829	GO:0042819~vitamin B6 biosynthetic process
+XM_011445520	GO:0000723~telomere maintenance
+XM_011454969	GO:0006351~transcription, DNA-templated
+XM_011458030	GO:0006351~transcription, DNA-templated
+XM_011443544	GO:0009058~biosynthetic process
+XM_011414124	GO:0006260~DNA replication
+XM_011415319	GO:0051260~protein homooligomerization
+XM_011415314	GO:0051260~protein homooligomerization
+XM_011415317	GO:0051260~protein homooligomerization
+XM_011415311	GO:0051260~protein homooligomerization
+XM_011446335	GO:0071897~DNA biosynthetic process
+XM_011445873	GO:0008152~metabolic process
+XM_011435602	GO:0043066~negative regulation of apoptotic process
+XM_011444361	GO:0045944~positive regulation of transcription from RNA polymerase II promoter
+XM_011456691	GO:0006355~regulation of transcription, DNA-templated
+XM_011422145	GO:0006412~translation
+XM_011429377	GO:0007264~small GTPase mediated signal transduction
+AB066348	GO:0007229~integrin-mediated signaling pathway
+XM_011422324	GO:0006355~regulation of transcription, DNA-templated
+XM_011420341	GO:0007076~mitotic chromosome condensation
+XM_011414473	GO:0007155~cell adhesion
+XM_011456794	GO:0006096~glycolytic process
+XM_011419295	GO:0006351~transcription, DNA-templated
+XM_011453199	GO:0007049~cell cycle
+XM_011442587	GO:0006568~tryptophan metabolic process
+XM_011450746	GO:0006102~isocitrate metabolic process
+AY551096	GO:0006102~isocitrate metabolic process
+XM_011449678	GO:0007165~signal transduction
+XM_011420341	GO:0016192~vesicle-mediated transport
+XM_011440260	GO:0006366~transcription from RNA polymerase II promoter
+XM_011415060	GO:0055085~transmembrane transport
+XM_011428466	GO:0030335~positive regulation of cell migration
+XM_011428455	GO:0030335~positive regulation of cell migration
+XM_011418308	GO:0035556~intracellular signal transduction
+XM_011414118	GO:0005978~glycogen biosynthetic process
+XM_011437626	GO:0006289~nucleotide-excision repair
+XM_011421582	GO:0006810~transport
+XM_011421581	GO:0006810~transport
+XM_011437066	GO:0055085~transmembrane transport
+XM_011444294	GO:0006412~translation
+XM_011443778	GO:0009247~glycolipid biosynthetic process
+XM_011433847	GO:0044571~[2Fe-2S] cluster assembly
+XM_011452253	GO:0006950~response to stress
+XM_011449258	GO:0045670~regulation of osteoclast differentiation
+XM_011456569	GO:0045454~cell redox homeostasis
+XM_011436196	GO:0006351~transcription, DNA-templated
+XM_011436190	GO:0006351~transcription, DNA-templated
+XM_011425549	GO:0019428~allantoin biosynthetic process
+XM_011431830	GO:0006102~isocitrate metabolic process
+XM_011442024	GO:0007264~small GTPase mediated signal transduction
+XM_011446627	GO:0006432~phenylalanyl-tRNA aminoacylation
+XM_011415907	GO:0051301~cell division
+XM_011435490	GO:0007165~signal transduction
+XM_011435492	GO:0007165~signal transduction
+XM_011435491	GO:0007165~signal transduction
+XM_011417339	GO:0043044~ATP-dependent chromatin remodeling
+XM_011439869	GO:0000028~ribosomal small subunit assembly
+XM_011435211	GO:0007154~cell communication
+XM_011453199	GO:0048478~replication fork protection
+XM_011456382	GO:0007017~microtubule-based process
+XM_011424864	GO:0007005~mitochondrion organization
+XM_011440510	GO:0006040~amino sugar metabolic process
+XM_011427744	GO:0007264~small GTPase mediated signal transduction
+XM_011430830	GO:0006479~protein methylation
+XM_011422129	GO:0042981~regulation of apoptotic process
+NM_001305364	GO:0005975~carbohydrate metabolic process
+XM_011415947	GO:0015031~protein transport
+XM_011414300	GO:0071025~RNA surveillance
+XM_011434117	GO:0006606~protein import into nucleus
+XM_011427917	GO:0048278~vesicle docking
+XM_011444366	GO:0007275~multicellular organism development
+EU152936	GO:0006412~translation
+AJ544883	GO:0040007~growth
+XM_011435327	GO:0006694~steroid biosynthetic process
+XM_011443376	GO:0030163~protein catabolic process
+XM_011434746	GO:0006351~transcription, DNA-templated
+XM_011452362	GO:0008654~phospholipid biosynthetic process
+XM_011446757	GO:0097576~vacuole fusion
+XM_011419378	GO:0070972~protein localization to endoplasmic reticulum
+XM_011441352	GO:0006811~ion transport
+XM_011424527	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011443223	GO:0048869~cellular developmental process
+XM_011440251	GO:0009308~amine metabolic process
+XM_011416544	GO:0035556~intracellular signal transduction
+XM_011416541	GO:0035556~intracellular signal transduction
+XM_011451325	GO:0006915~apoptotic process
+XM_011445138	GO:0007267~cell-cell signaling
+XM_011445622	GO:0000045~autophagosome assembly
+XM_011453222	GO:0016573~histone acetylation
+XM_011453223	GO:0016573~histone acetylation
+NM_001308838	GO:0009253~peptidoglycan catabolic process
+AM076951	GO:0006006~glucose metabolic process
+XM_011435600	GO:0006955~immune response
+XM_011454196	GO:0008152~metabolic process
+NM_001308922	GO:0005978~glycogen biosynthetic process
+XM_011425633	GO:0051260~protein homooligomerization
+XM_011424601	GO:0008152~metabolic process
+XM_011427481	GO:0007264~small GTPase mediated signal transduction
+XM_011458618	GO:0051321~meiotic cell cycle
+NM_001305323	GO:0005975~carbohydrate metabolic process
+XM_011442092	GO:0007275~multicellular organism development
+XM_011441395	GO:0006631~fatty acid metabolic process
+XM_011452144	GO:0045859~regulation of protein kinase activity
+XM_011421090	GO:0007165~signal transduction
+NM_001308875	GO:0007165~signal transduction
+XM_011456690	GO:0007264~small GTPase mediated signal transduction
+XR_903397	GO:0007264~small GTPase mediated signal transduction
+XM_011447906	GO:0006355~regulation of transcription, DNA-templated
+XM_011437718	GO:0070836~caveola assembly
+XM_011418646	GO:0007155~cell adhesion
+XM_011428327	GO:0043697~cell dedifferentiation
+XM_011456255	GO:0055085~transmembrane transport
+XM_011456254	GO:0055085~transmembrane transport
+XM_011419402	GO:0006836~neurotransmitter transport
+XM_011419409	GO:0006836~neurotransmitter transport
+XM_011449760	GO:0006355~regulation of transcription, DNA-templated
+XM_011448524	GO:0055085~transmembrane transport
+XM_011444366	GO:0007154~cell communication
+XM_011437102	GO:0035556~intracellular signal transduction
+XM_011442587	GO:1904984~regulation of quinolinate biosynthetic process
+XM_011456053	GO:0046330~positive regulation of JNK cascade
+XM_011458542	GO:0055085~transmembrane transport
+XM_011434146	GO:0006013~mannose metabolic process
+XM_011434148	GO:0006013~mannose metabolic process
+XM_011418354	GO:0006334~nucleosome assembly
+XM_011452093	GO:0051016~barbed-end actin filament capping
+XM_011440486	GO:0006465~signal peptide processing
+XM_011429385	GO:0005975~carbohydrate metabolic process
+XM_011421862	GO:0006809~nitric oxide biosynthetic process
+XM_011421861	GO:0006809~nitric oxide biosynthetic process
+XM_011442024	GO:0007186~G-protein coupled receptor signaling pathway
+NM_001308909	GO:0007264~small GTPase mediated signal transduction
+XM_011458049	GO:0005975~carbohydrate metabolic process
+XM_011445120	GO:0000042~protein targeting to Golgi
+XM_011445119	GO:0000042~protein targeting to Golgi
+XM_011427406	GO:0043984~histone H4-K16 acetylation
+XM_011415751	GO:0006629~lipid metabolic process
+XM_011415748	GO:0006629~lipid metabolic process
+XM_011445111	GO:0035556~intracellular signal transduction
+XM_011417842	GO:0006886~intracellular protein transport
+XM_011417844	GO:0006886~intracellular protein transport
+XM_011442172	GO:0007165~signal transduction
+NM_001308842	GO:0055085~transmembrane transport
+XM_011435217	GO:0006032~chitin catabolic process
+AY321299	GO:0006879~cellular iron ion homeostasis
+XM_011457567	GO:0006464~cellular protein modification process
+XM_011415906	GO:0007059~chromosome segregation
+XM_011454700	GO:0008299~isoprenoid biosynthetic process
+XM_011413668	GO:0006730~one-carbon metabolic process
+XM_011447898	GO:0045454~cell redox homeostasis
+JQ619625	GO:0006030~chitin metabolic process
+XM_011427321	GO:0031591~wybutosine biosynthetic process
+KF823114	GO:0031591~wybutosine biosynthetic process
+XM_011432237	GO:0006351~transcription, DNA-templated
+XM_011432236	GO:0006351~transcription, DNA-templated
+XM_011433099	GO:0000184~nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
+XM_011429525	GO:0007264~small GTPase mediated signal transduction
+XM_011424625	GO:0042246~tissue regeneration
+XM_011436353	GO:0006355~regulation of transcription, DNA-templated
+XM_011440152	GO:0006355~regulation of transcription, DNA-templated
+XM_011417159	GO:0007264~small GTPase mediated signal transduction
+XM_011435602	GO:0006915~apoptotic process
+XM_011414217	GO:0007067~mitotic nuclear division
+XM_011416280	GO:0015937~coenzyme A biosynthetic process
+XM_011414079	GO:0019441~tryptophan catabolic process to kynurenine
+NM_001305289	GO:0019371~cyclooxygenase pathway
+XM_011439275	GO:0019303~D-ribose catabolic process
+XM_011413703	GO:0006730~one-carbon metabolic process
+XM_011454941	GO:0016226~iron-sulfur cluster assembly
+XM_011423589	GO:0006351~transcription, DNA-templated
+XM_011444835	GO:0006270~DNA replication initiation
+XM_011450883	GO:0006355~regulation of transcription, DNA-templated
+XM_011456378	GO:0051726~regulation of cell cycle
+XM_011445448	GO:0033198~response to ATP
+XM_011458196	GO:0008152~metabolic process
+EF687776	GO:0006950~response to stress
+XM_011454409	GO:0006950~response to stress
+XM_011423982	GO:0002128~tRNA nucleoside ribose methylation
+XM_011446627	GO:0008033~tRNA processing
+XM_011430884	GO:0007015~actin filament organization
+XM_011428462	GO:0051638~barbed-end actin filament uncapping
+XM_011428468	GO:0051638~barbed-end actin filament uncapping
+XM_011428455	GO:0051638~barbed-end actin filament uncapping
+XM_011446471	GO:0007264~small GTPase mediated signal transduction
+XM_011446472	GO:0007264~small GTPase mediated signal transduction
+XM_011433576	GO:0006479~protein methylation
+XM_011425925	GO:0097056~selenocysteinyl-tRNA(Sec) biosynthetic process
+XM_011429956	GO:0050790~regulation of catalytic activity
+XM_011429321	GO:0006298~mismatch repair
+XM_011428521	GO:0007165~signal transduction
+XM_011439895	GO:0042981~regulation of apoptotic process
+XM_011453352	GO:0007275~multicellular organism development
+XM_011453350	GO:0007275~multicellular organism development
+XM_011429725	GO:0007018~microtubule-based movement
+XM_011445161	GO:0009086~methionine biosynthetic process
+XM_011457169	GO:0055085~transmembrane transport
+XM_011419839	GO:0006457~protein folding
+XM_011432183	GO:0007018~microtubule-based movement
+XM_011429744	GO:0006955~immune response
+XM_011418117	GO:0007264~small GTPase mediated signal transduction
+XM_011431117	GO:0006886~intracellular protein transport
+XM_011440848	GO:0006351~transcription, DNA-templated
+AJ544886	GO:0006006~glucose metabolic process
+XM_011429972	GO:0006351~transcription, DNA-templated
+XM_011429991	GO:0006351~transcription, DNA-templated
+XM_011429985	GO:0006351~transcription, DNA-templated
+XM_011429977	GO:0006351~transcription, DNA-templated
+XM_011429980	GO:0006351~transcription, DNA-templated
+XM_011432376	GO:0006412~translation
+XM_011439816	GO:0006351~transcription, DNA-templated
+XM_011456050	GO:0006351~transcription, DNA-templated
+XM_011422188	GO:0009966~regulation of signal transduction
+XM_011449907	GO:0030514~negative regulation of BMP signaling pathway
+XM_011451892	GO:0007264~small GTPase mediated signal transduction
+XM_011451893	GO:0007264~small GTPase mediated signal transduction
+XM_011415515	GO:0006355~regulation of transcription, DNA-templated
+XM_011442783	GO:0030163~protein catabolic process
+XM_011442784	GO:0030163~protein catabolic process
+XM_011431115	GO:0006888~ER to Golgi vesicle-mediated transport
+XM_011416392	GO:0009607~response to biotic stimulus
+XM_011435213	GO:0007160~cell-matrix adhesion
+XM_011458188	GO:0006631~fatty acid metabolic process
+XM_011414300	GO:0070966~nuclear-transcribed mRNA catabolic process, no-go decay
+XM_011427934	GO:0006334~nucleosome assembly
+XM_011435961	GO:0006730~one-carbon metabolic process
+XM_011449256	GO:0045893~positive regulation of transcription, DNA-templated
+NM_001305380	GO:0007155~cell adhesion
+XM_011421231	GO:0007155~cell adhesion
+XM_011435746	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011450667	GO:0015986~ATP synthesis coupled proton transport
+XM_011425245	GO:0007005~mitochondrion organization
+XM_011447368	GO:0006888~ER to Golgi vesicle-mediated transport
+XM_011440238	GO:0006310~DNA recombination
+XM_011446498	GO:0051262~protein tetramerization
+XM_011456134	GO:0007250~activation of NF-kappaB-inducing kinase activity
+XM_011456062	GO:0007250~activation of NF-kappaB-inducing kinase activity
+XM_011449985	GO:0006810~transport
+XM_011457493	GO:0006139~nucleobase-containing compound metabolic process
+XM_011448833	GO:0006915~apoptotic process
+XM_011429928	GO:0006030~chitin metabolic process
+XM_011419413	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011450206	GO:0006559~L-phenylalanine catabolic process
+XM_011450205	GO:0006559~L-phenylalanine catabolic process
+XM_011420959	GO:0045454~cell redox homeostasis
+XM_011433274	GO:0006351~transcription, DNA-templated
+XM_011434645	GO:0006826~iron ion transport
+XM_011427436	GO:0006814~sodium ion transport
+XM_011416459	GO:0006355~regulation of transcription, DNA-templated
+XM_011451755	GO:0007017~microtubule-based process
+XM_011454067	GO:0055085~transmembrane transport
+XM_011431468	GO:0030001~metal ion transport
+XM_011419864	GO:0051260~protein homooligomerization
+XM_011419158	GO:0007010~cytoskeleton organization
+XM_011438755	GO:0006284~base-excision repair
+XM_011425244	GO:0007264~small GTPase mediated signal transduction
+XM_011429961	GO:0042981~regulation of apoptotic process
+XM_011434471	GO:0006388~tRNA splicing, via endonucleolytic cleavage and ligation
+XM_011438143	GO:0032012~regulation of ARF protein signal transduction
+XM_011434822	GO:0006013~mannose metabolic process
+XM_011434435	GO:0006030~chitin metabolic process
+XM_011421378	GO:0006004~fucose metabolic process
+XM_011427918	GO:0042384~cilium assembly
+XM_011424595	GO:0015986~ATP synthesis coupled proton transport
+XM_011432965	GO:0006691~leukotriene metabolic process
+XM_011457955	GO:0006412~translation
+AJ558239	GO:0006542~glutamine biosynthetic process
+XM_011458612	GO:0016579~protein deubiquitination
+AB516436	GO:0009408~response to heat
+XM_011417114	GO:0042176~regulation of protein catabolic process
+XM_011447915	GO:0043066~negative regulation of apoptotic process
+AJ563478	GO:0006412~translation
+XM_011420285	GO:0007229~integrin-mediated signaling pathway
+XM_011414719	GO:0006869~lipid transport
+XM_011448802	GO:0006289~nucleotide-excision repair
+XM_011445281	GO:0042742~defense response to bacterium
+XM_011427475	GO:0006750~glutathione biosynthetic process
+XM_011454937	GO:0035556~intracellular signal transduction
+XM_011437409	GO:0055085~transmembrane transport
+XM_011422464	GO:0010506~regulation of autophagy
+XM_011441504	GO:0030042~actin filament depolymerization
+XM_011440824	GO:0000103~sulfate assimilation
+XM_011417082	GO:0055085~transmembrane transport
+XM_011417083	GO:0055085~transmembrane transport
+XM_011417123	GO:0055085~transmembrane transport
+XM_011422496	GO:0006099~tricarboxylic acid cycle
+XM_011449425	GO:0006886~intracellular protein transport
+XM_011450238	GO:0006270~DNA replication initiation
+XM_011445685	GO:0006979~response to oxidative stress
+XM_011453153	GO:0006359~regulation of transcription from RNA polymerase III promoter
+XM_011445511	GO:0006635~fatty acid beta-oxidation
+XM_011446266	GO:0017183~peptidyl-diphthamide biosynthetic process from peptidyl-histidine
+XM_011445114	GO:0005975~carbohydrate metabolic process
+XM_011414318	GO:0008380~RNA splicing
+XM_011414151	GO:0044205~'de novo' UMP biosynthetic process
+XM_011438661	GO:0007040~lysosome organization
+XM_011426513	GO:0008152~metabolic process
+XM_011429370	GO:0007264~small GTPase mediated signal transduction
+XM_011440290	GO:0008152~metabolic process
+XM_011458127	GO:0006427~histidyl-tRNA aminoacylation
+XM_011430791	GO:0006122~mitochondrial electron transport, ubiquinol to cytochrome c
+XM_011437644	GO:0016192~vesicle-mediated transport
+XM_011435775	GO:0030091~protein repair
+AJ563460	GO:0034314~Arp2/3 complex-mediated actin nucleation
+XM_011425508	GO:0007275~multicellular organism development
+XM_011425542	GO:0007275~multicellular organism development
+XM_011425515	GO:0007275~multicellular organism development
+NM_001305347	GO:0008152~metabolic process
+XM_011426608	GO:0009308~amine metabolic process
+XM_011414346	GO:0030150~protein import into mitochondrial matrix
+XM_011422139	GO:0007264~small GTPase mediated signal transduction
+XM_011424603	GO:0007165~signal transduction
+NM_001305326	GO:0005975~carbohydrate metabolic process
+XM_011423653	GO:0009249~protein lipoylation
+AB196533	GO:0007017~microtubule-based process
+NM_001305373	GO:0007017~microtubule-based process
+XM_011418517	GO:0006626~protein targeting to mitochondrion
+AB262085	GO:0006457~protein folding
+XM_011449987	GO:0007264~small GTPase mediated signal transduction
+XM_011449990	GO:0007264~small GTPase mediated signal transduction
+XM_011431059	GO:0007015~actin filament organization
+XM_011431066	GO:0007015~actin filament organization
+XM_011422064	GO:0007033~vacuole organization
+XM_011454398	GO:0006457~protein folding
+XM_011448459	GO:0030036~actin cytoskeleton organization
+XM_011448467	GO:0030036~actin cytoskeleton organization
+XM_011448461	GO:0030036~actin cytoskeleton organization
+XM_011456571	GO:0006446~regulation of translational initiation
+XM_011440948	GO:0048666~neuron development
+XM_011448811	GO:0007264~small GTPase mediated signal transduction
+XM_011443505	GO:0006811~ion transport
+XM_011443584	GO:0042254~ribosome biogenesis
+XM_011449714	GO:0019284~L-methionine biosynthetic process from S-adenosylmethionine
+XM_011455430	GO:0051603~proteolysis involved in cellular protein catabolic process
+XM_011448057	GO:0006308~DNA catabolic process
+XM_011416292	GO:0007165~signal transduction
+XM_011428466	GO:1902745~positive regulation of lamellipodium organization
+XM_011445683	GO:0006979~response to oxidative stress
+XM_011413926	GO:0006412~translation
+XM_011446757	GO:0016192~vesicle-mediated transport
+XM_011455370	GO:0006096~glycolytic process
+NM_001308870	GO:0005975~carbohydrate metabolic process
+XM_011435216	GO:0005975~carbohydrate metabolic process
+NM_001308915	GO:0006730~one-carbon metabolic process
+XM_011446482	GO:0006915~apoptotic process
+BK009239	GO:0006915~apoptotic process
+BK009238	GO:0006915~apoptotic process
+HQ425699	GO:0042981~regulation of apoptotic process
+XM_011413570	GO:0008152~metabolic process
+XM_011427914	GO:0006950~response to stress
+XM_011451696	GO:0009165~nucleotide biosynthetic process
+XM_011430867	GO:0010468~regulation of gene expression
+XM_011434667	GO:0001731~formation of translation preinitiation complex
+XM_011416852	GO:0030488~tRNA methylation
+XM_011424717	GO:0006564~L-serine biosynthetic process
+XM_011447734	GO:0007264~small GTPase mediated signal transduction
+XM_011424276	GO:0015937~coenzyme A biosynthetic process
+XM_011454104	GO:0045892~negative regulation of transcription, DNA-templated
+XM_011433098	GO:0035556~intracellular signal transduction
+XM_011451991	GO:0006979~response to oxidative stress
+XM_011441197	GO:0005975~carbohydrate metabolic process
+XM_011415313	GO:0051260~protein homooligomerization
+XM_011415315	GO:0051260~protein homooligomerization
+XM_011415316	GO:0051260~protein homooligomerization
+XM_011445719	GO:0007034~vacuolar transport
+XM_011425149	GO:0070836~caveola assembly
+XM_011435233	GO:0000244~spliceosomal tri-snRNP complex assembly
+XM_011415480	GO:0042981~regulation of apoptotic process
+XM_011458763	GO:0051056~regulation of small GTPase mediated signal transduction
+XM_011422467	GO:0007264~small GTPase mediated signal transduction
+XM_011451661	GO:0005975~carbohydrate metabolic process
+XM_011424116	GO:0006352~DNA-templated transcription, initiation
+XM_011442723	GO:0006355~regulation of transcription, DNA-templated
+XM_011450805	GO:0008152~metabolic process
+XM_011414853	GO:0006541~glutamine metabolic process
+XM_011414847	GO:0006541~glutamine metabolic process
+XM_011424897	GO:0009303~rRNA transcription
+XM_011436331	GO:0006189~'de novo' IMP biosynthetic process
+XM_011422057	GO:0006886~intracellular protein transport
+XM_011420955	GO:0016125~sterol metabolic process
+XM_011457360	GO:0006355~regulation of transcription, DNA-templated
+XM_011414298	GO:0010457~centriole-centriole cohesion
+AJ563464	GO:0006412~translation
+XM_011454902	GO:0016055~Wnt signaling pathway
+XM_011422430	GO:0007264~small GTPase mediated signal transduction
+XM_011454629	GO:0008380~RNA splicing
+XM_011440258	GO:0006366~transcription from RNA polymerase II promoter
+XM_011421262	GO:0006811~ion transport
+XM_011428470	GO:0030335~positive regulation of cell migration
+XM_011418307	GO:0035556~intracellular signal transduction
+XM_011429419	GO:0043066~negative regulation of apoptotic process
+XM_011429420	GO:0043066~negative regulation of apoptotic process
+XM_011422252	GO:0006457~protein folding
+XM_011426010	GO:0015672~monovalent inorganic cation transport
+XM_011414116	GO:0005978~glycogen biosynthetic process
+XM_011417524	GO:0044208~'de novo' AMP biosynthetic process
+XM_011456018	GO:0007156~homophilic cell adhesion via plasma membrane adhesion molecules
+XM_011435220	GO:0006032~chitin catabolic process
+XM_011457246	GO:0010389~regulation of G2/M transition of mitotic cell cycle
+XM_011456173	GO:0007165~signal transduction
+XM_011449257	GO:0045670~regulation of osteoclast differentiation
+XM_011436331	GO:0009113~purine nucleobase biosynthetic process
+XM_011436191	GO:0006351~transcription, DNA-templated
+XM_011426543	GO:0006886~intracellular protein transport
+XM_011437577	GO:0043248~proteasome assembly
+XM_011448536	GO:0006366~transcription from RNA polymerase II promoter
+XM_011435494	GO:0007165~signal transduction
+XM_011417499	GO:0043044~ATP-dependent chromatin remodeling
+XM_011424960	GO:0009063~cellular amino acid catabolic process
+NM_001305343	GO:0006412~translation
+XM_011440948	GO:0070507~regulation of microtubule cytoskeleton organization
+XM_011440949	GO:0070507~regulation of microtubule cytoskeleton organization
+XM_011425902	GO:0006094~gluconeogenesis
+XM_011437957	GO:0042981~regulation of apoptotic process
+XM_011437958	GO:0042981~regulation of apoptotic process
+XM_011441088	GO:0006338~chromatin remodeling
+XM_011454364	GO:0009264~deoxyribonucleotide catabolic process
+XM_011414358	GO:0006486~protein glycosylation
+XM_011434138	GO:0005975~carbohydrate metabolic process
+XM_011437408	GO:0008643~carbohydrate transport
+XM_011425545	GO:0005975~carbohydrate metabolic process
+XM_011452362	GO:0006021~inositol biosynthetic process
+XM_011456568	GO:0035556~intracellular signal transduction
+XM_011418016	GO:0008152~metabolic process
+XM_011424863	GO:0007005~mitochondrion organization
+XM_011423792	GO:0031110~regulation of microtubule polymerization or depolymerization
+XM_011446666	GO:0006810~transport
+XM_011438668	GO:0032923~organic phosphonate biosynthetic process
+XM_011438675	GO:0032923~organic phosphonate biosynthetic process
+HQ425705	GO:0042981~regulation of apoptotic process
+XM_011453647	GO:0055129~L-proline biosynthetic process
+XM_011430729	GO:0009056~catabolic process
+XM_011452576	GO:0042981~regulation of apoptotic process
+XM_011421259	GO:0006811~ion transport
+XM_011436745	GO:0006351~transcription, DNA-templated
+XM_011449319	GO:0007264~small GTPase mediated signal transduction
+XM_011439505	GO:0006298~mismatch repair
+XM_011440751	GO:0008643~carbohydrate transport
+XM_011429001	GO:0005975~carbohydrate metabolic process
+XM_011442896	GO:0008033~tRNA processing
+EU108719	GO:0006412~translation
+XM_011438495	GO:0051016~barbed-end actin filament capping
+XM_011422097	GO:0005980~glycogen catabolic process
+XM_011422098	GO:0005980~glycogen catabolic process
+XM_011445300	GO:0007264~small GTPase mediated signal transduction
+XM_011447554	GO:0009159~deoxyribonucleoside monophosphate catabolic process
+XM_011429969	GO:0006352~DNA-templated transcription, initiation
+XM_011419375	GO:0070972~protein localization to endoplasmic reticulum
+XM_011432567	GO:0008152~metabolic process
+XM_011453302	GO:0042981~regulation of apoptotic process
+XM_011458551	GO:0006633~fatty acid biosynthetic process
+XM_011458568	GO:0006633~fatty acid biosynthetic process
+XM_011432988	GO:0019358~nicotinate nucleotide salvage
+XM_011440667	GO:0007264~small GTPase mediated signal transduction
+XM_011429592	GO:0016192~vesicle-mediated transport
+XM_011423523	GO:0007165~signal transduction
+XM_011445623	GO:0000045~autophagosome assembly
+NM_001305342	GO:0006006~glucose metabolic process
+XM_011458102	GO:0006351~transcription, DNA-templated
+XM_011458104	GO:0006351~transcription, DNA-templated
+XM_011431925	GO:0045494~photoreceptor cell maintenance
+XM_011431926	GO:0045494~photoreceptor cell maintenance
+XM_011458749	GO:0048814~regulation of dendrite morphogenesis
+NM_001305344	GO:0007249~I-kappaB kinase/NF-kappaB signaling
+XM_011425748	GO:0032007~negative regulation of TOR signaling
+XM_011416245	GO:0006351~transcription, DNA-templated
+XM_011428325	GO:0051301~cell division
+XM_011449340	GO:0006412~translation
+XM_011433391	GO:0008152~metabolic process
+XM_011433392	GO:0008152~metabolic process
+XM_011453431	GO:0006098~pentose-phosphate shunt
+XM_011432988	GO:0009435~NAD biosynthetic process
+XM_011424715	GO:0007283~spermatogenesis
+XM_011452145	GO:0045859~regulation of protein kinase activity
+XM_011445519	GO:0006303~double-strand break repair via nonhomologous end joining
+EU583799	GO:0030042~actin filament depolymerization
+XM_011456774	GO:0006355~regulation of transcription, DNA-templated
+XM_011428337	GO:0006355~regulation of transcription, DNA-templated
+XM_011438261	GO:0006810~transport
+XM_011456318	GO:0007165~signal transduction
+NM_001305374	GO:0007165~signal transduction
+DQ530619	GO:0007165~signal transduction
+KC700618	GO:0007165~signal transduction
+XM_011438773	GO:0007015~actin filament organization
+XM_011443322	GO:0006355~regulation of transcription, DNA-templated
+XM_011456689	GO:0007264~small GTPase mediated signal transduction
+XM_011447905	GO:0006355~regulation of transcription, DNA-templated
+XM_011447903	GO:0006355~regulation of transcription, DNA-templated
+XM_011456251	GO:0055085~transmembrane transport
+XM_011419403	GO:0006836~neurotransmitter transport
+XM_011444226	GO:0005975~carbohydrate metabolic process
+XM_011436157	GO:0006457~protein folding
+XM_011436285	GO:0006351~transcription, DNA-templated
+XM_011455898	GO:0032786~positive regulation of DNA-templated transcription, elongation
+XM_011455591	GO:0006888~ER to Golgi vesicle-mediated transport
+XM_011455589	GO:0006888~ER to Golgi vesicle-mediated transport
+XM_011455592	GO:0006888~ER to Golgi vesicle-mediated transport
+XM_011455590	GO:0006888~ER to Golgi vesicle-mediated transport
+XM_011455598	GO:0006888~ER to Golgi vesicle-mediated transport
+XM_011451389	GO:0006011~UDP-glucose metabolic process
+XM_011456532	GO:0006352~DNA-templated transcription, initiation
+XM_011457245	GO:0000079~regulation of cyclin-dependent protein serine/threonine kinase activity
+XM_011425987	GO:0006094~gluconeogenesis
+XM_011456062	GO:0046330~positive regulation of JNK cascade
+XM_011447788	GO:0045454~cell redox homeostasis
+XM_011415469	GO:0035556~intracellular signal transduction
+XM_011422636	GO:0006351~transcription, DNA-templated
+XM_011432642	GO:0055085~transmembrane transport
+XM_011449150	GO:0023051~regulation of signaling
+XM_011443565	GO:0006357~regulation of transcription from RNA polymerase II promoter
+XM_011416943	GO:0006635~fatty acid beta-oxidation
+XM_011443908	GO:0006810~transport
+XM_011443906	GO:0006810~transport
+XM_011444768	GO:0016567~protein ubiquitination
+XM_011426154	GO:0015031~protein transport
+XM_011446357	GO:0007096~regulation of exit from mitosis
+XM_011436089	GO:0006351~transcription, DNA-templated
+XM_011426418	GO:0008152~metabolic process
+XM_011423864	GO:0006024~glycosaminoglycan biosynthetic process
+XM_011423863	GO:0006024~glycosaminoglycan biosynthetic process
+XM_011417848	GO:0006886~intracellular protein transport
+XM_011433791	GO:0045087~innate immune response
+XM_011428365	GO:0008152~metabolic process
+XM_011435914	GO:0006777~Mo-molybdopterin cofactor biosynthetic process
+XM_011442173	GO:0007165~signal transduction
+XM_011422394	GO:0007165~signal transduction
+XM_011428063	GO:0006879~cellular iron ion homeostasis
+XM_011420291	GO:0007165~signal transduction
+XM_011420289	GO:0007165~signal transduction
+XM_011420290	GO:0007165~signal transduction
+XM_011436009	GO:0006412~translation
+XM_011425152	GO:0070836~caveola assembly
+XM_011457568	GO:0006464~cellular protein modification process
+XM_011433856	GO:0006260~DNA replication
+XM_011427944	GO:0006950~response to stress
+XM_011422627	GO:0007154~cell communication
+XM_011440256	GO:0016192~vesicle-mediated transport
+XM_011426237	GO:0009058~biosynthetic process
+XM_011445981	GO:0007154~cell communication
+XM_011445992	GO:0007154~cell communication
+XM_011438653	GO:0007156~homophilic cell adhesion via plasma membrane adhesion molecules
+XM_011458742	GO:0031532~actin cytoskeleton reorganization
+XM_011431792	GO:0006520~cellular amino acid metabolic process
+XM_011458093	GO:0007165~signal transduction
+XM_011458092	GO:0007165~signal transduction
+XM_011444059	GO:0007165~signal transduction
+XM_011424138	GO:0006414~translational elongation
+XM_011430975	GO:0035556~intracellular signal transduction
+XR_900377	GO:0035556~intracellular signal transduction
+XM_011436354	GO:0006355~regulation of transcription, DNA-templated
+XM_011414226	GO:0006355~regulation of transcription, DNA-templated
+XM_011457961	GO:0008643~carbohydrate transport
+XM_011424876	GO:0006888~ER to Golgi vesicle-mediated transport
+XM_011415768	GO:0006412~translation
+NM_001305376	GO:0006412~translation
+XM_011432521	GO:0051260~protein homooligomerization
+XM_011433180	GO:0007160~cell-matrix adhesion
+XM_011432331	GO:0006094~gluconeogenesis
+XM_011451991	GO:0019371~cyclooxygenase pathway
+XM_011458030	GO:0006355~regulation of transcription, DNA-templated
+XM_011424499	GO:0005975~carbohydrate metabolic process
+XM_011441619	GO:0030036~actin cytoskeleton organization
+XM_011425748	GO:0048011~neurotrophin TRK receptor signaling pathway
+XM_011422488	GO:0045454~cell redox homeostasis
+XM_011413865	GO:0016125~sterol metabolic process
+XM_011428466	GO:2000813~negative regulation of barbed-end actin filament capping
+XM_011428464	GO:2000813~negative regulation of barbed-end actin filament capping
+XM_011442790	GO:0055085~transmembrane transport
+XM_011420906	GO:0006542~glutamine biosynthetic process
+XM_011414327	GO:0006950~response to stress
+XM_011414328	GO:0006950~response to stress
+XM_011419954	GO:0006333~chromatin assembly or disassembly
+XM_011421958	GO:0006355~regulation of transcription, DNA-templated
+XM_011443582	GO:0022008~neurogenesis
+XM_011416493	GO:0005975~carbohydrate metabolic process
+XM_011446470	GO:0007264~small GTPase mediated signal transduction
+EU152921	GO:0070836~caveola assembly
+XM_011429622	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011441243	GO:0006457~protein folding
+XM_011428517	GO:0007165~signal transduction
+XM_011428516	GO:0007165~signal transduction
+XM_011428522	GO:0007165~signal transduction
+XM_011428515	GO:0007165~signal transduction
+XM_011452610	GO:0006955~immune response
+XM_011452607	GO:0006955~immune response
+XM_011415016	GO:0051028~mRNA transport
+XM_011432182	GO:0007018~microtubule-based movement
+AY551096	GO:0006099~tricarboxylic acid cycle
+XM_011418116	GO:0007264~small GTPase mediated signal transduction
+XM_011440255	GO:0006886~intracellular protein transport
+XM_011440257	GO:0006886~intracellular protein transport
+XM_011429976	GO:0006351~transcription, DNA-templated
+XM_011430288	GO:0051260~protein homooligomerization
+XM_011435257	GO:0008033~tRNA processing
+XM_011435258	GO:0008033~tRNA processing
+XM_011442778	GO:0007264~small GTPase mediated signal transduction
+XM_011415058	GO:0006355~regulation of transcription, DNA-templated
+XM_011413758	GO:0006486~protein glycosylation
+XM_011430099	GO:0007165~signal transduction
+XM_011457673	GO:0006897~endocytosis
+XM_011457672	GO:0006897~endocytosis
+XR_901150	GO:0007023~post-chaperonin tubulin folding pathway
+NM_001305341	GO:0005975~carbohydrate metabolic process
+XM_011434576	GO:0005975~carbohydrate metabolic process
+XM_011434579	GO:0005975~carbohydrate metabolic process
+DQ010420	GO:0055114~oxidation-reduction process
+XM_011457067	GO:0006537~glutamate biosynthetic process
+NM_001305289	GO:0008217~regulation of blood pressure
+XM_011449065	GO:0006561~proline biosynthetic process
+XM_011416689	GO:0006479~protein methylation
+XM_011442246	GO:0006486~protein glycosylation
+XM_011434583	GO:0006368~transcription elongation from RNA polymerase II promoter
+AJ563470	GO:0006457~protein folding
+XM_011436330	GO:0006189~'de novo' IMP biosynthetic process
+XM_011429550	GO:0000184~nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
+XM_011431830	GO:0006099~tricarboxylic acid cycle
+XM_011419503	GO:0006811~ion transport
+XM_011419504	GO:0006811~ion transport
+XM_011415951	GO:0006810~transport
+XM_011414036	GO:0051301~cell division
+XM_011444430	GO:0006412~translation
+XM_011428946	GO:0007165~signal transduction
+XM_011428947	GO:0007165~signal transduction
+KC700617	GO:0007165~signal transduction
+XM_011435219	GO:0006032~chitin catabolic process
+HQ425703	GO:0006915~apoptotic process
+XM_011454969	GO:0007179~transforming growth factor beta receptor signaling pathway
+AY321300	GO:0006879~cellular iron ion homeostasis
+XM_011426213	GO:0035556~intracellular signal transduction
+XM_011426212	GO:0035556~intracellular signal transduction
+XM_011431467	GO:0030001~metal ion transport
+XM_011451592	GO:0009086~methionine biosynthetic process
+XM_011419159	GO:0007010~cytoskeleton organization
+XM_011416688	GO:0009408~response to heat
+XM_011446012	GO:0006518~peptide metabolic process
+XM_011434473	GO:0006388~tRNA splicing, via endonucleolytic cleavage and ligation
+XM_011438142	GO:0032012~regulation of ARF protein signal transduction
+XM_011422050	GO:0006412~translation
+XM_011448503	GO:0007275~multicellular organism development
+XM_011414364	GO:0006412~translation
+XM_011415397	GO:0015991~ATP hydrolysis coupled proton transport
+XM_011415395	GO:0015991~ATP hydrolysis coupled proton transport
+XM_011422227	GO:0006886~intracellular protein transport
+AB196534	GO:0007017~microtubule-based process
+XM_011451302	GO:0007017~microtubule-based process
+XM_011450240	GO:0007017~microtubule-based process
+XM_011458727	GO:0006950~response to stress
+XM_011425674	GO:0070988~demethylation
+XM_011414727	GO:0006869~lipid transport
+XM_011414722	GO:0006869~lipid transport
+XM_011423863	GO:0015012~heparan sulfate proteoglycan biosynthetic process
+XM_011413804	GO:0051301~cell division
+XM_011425926	GO:0006412~translation
+XM_011425925	GO:0006412~translation
+XM_011422215	GO:0006749~glutathione metabolic process
+XM_011422099	GO:0006457~protein folding
+XM_011435932	GO:0051301~cell division
+XM_011443719	GO:0007179~transforming growth factor beta receptor signaling pathway
+XM_011434650	GO:0035556~intracellular signal transduction
+XM_011446265	GO:0017183~peptidyl-diphthamide biosynthetic process from peptidyl-histidine
+XM_011419972	GO:0007165~signal transduction
+XM_011458197	GO:0042981~regulation of apoptotic process
+XM_011419278	GO:0009116~nucleoside metabolic process
+XM_011448802	GO:0006351~transcription, DNA-templated
+XM_011418703	GO:0006355~regulation of transcription, DNA-templated
+XM_011436985	GO:0055085~transmembrane transport
+XM_011424116	GO:0006355~regulation of transcription, DNA-templated
+XM_011441414	GO:0051260~protein homooligomerization
+XM_011421012	GO:0006334~nucleosome assembly
+XM_011438225	GO:0007165~signal transduction
+XM_011418633	GO:0006955~immune response
+NM_001308908	GO:0008152~metabolic process
+XM_011458128	GO:0006427~histidyl-tRNA aminoacylation
+XM_011435784	GO:0030091~protein repair
+XM_011446748	GO:0005975~carbohydrate metabolic process
+XM_011458610	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011443719	GO:0006351~transcription, DNA-templated
+XM_011431589	GO:0009117~nucleotide metabolic process
+XM_011425501	GO:0007275~multicellular organism development
+XM_011418776	GO:0007018~microtubule-based movement
+XM_011426609	GO:0009308~amine metabolic process
+XM_011424622	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011429897	GO:0006950~response to stress
+XM_011440949	GO:0071929~alpha-tubulin acetylation
+XM_011443769	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011454769	GO:0006355~regulation of transcription, DNA-templated
+XM_011435218	GO:0005975~carbohydrate metabolic process
+XM_011430627	GO:0006529~asparagine biosynthetic process
+XM_011457673	GO:2000601~positive regulation of Arp2/3 complex-mediated actin nucleation
+XM_011420025	GO:0002100~tRNA wobble adenosine to inosine editing
+XM_011449326	GO:0006359~regulation of transcription from RNA polymerase III promoter
+XM_011435601	GO:0051607~defense response to virus
+XM_011442748	GO:0006355~regulation of transcription, DNA-templated
+XM_011442747	GO:0006355~regulation of transcription, DNA-templated
+NM_001305355	GO:0006457~protein folding
+XM_011454409	GO:0006457~protein folding
+XM_011454418	GO:0006457~protein folding
+XM_011434517	GO:0007049~cell cycle
+XM_011448464	GO:0030036~actin cytoskeleton organization
+XM_011431193	GO:0007264~small GTPase mediated signal transduction
+XM_011416843	GO:0006569~tryptophan catabolic process
+XM_011436331	GO:0009116~nucleoside metabolic process
+XM_011443506	GO:0006811~ion transport
+XM_011443512	GO:0006811~ion transport
+XM_011443507	GO:0006811~ion transport
+XM_011435961	GO:0006556~S-adenosylmethionine biosynthetic process
+XM_011437717	GO:0070836~caveola assembly
+XM_011416389	GO:0006412~translation
+XM_011442868	GO:0072583~clathrin-mediated endocytosis
+XM_011426880	GO:0006412~translation
+XM_011416888	GO:0051260~protein homooligomerization
+XM_011448056	GO:0006308~DNA catabolic process
+XM_011448060	GO:0006308~DNA catabolic process
+XM_011446477	GO:0008152~metabolic process
+XM_011428461	GO:1902745~positive regulation of lamellipodium organization
+XM_011428469	GO:1902745~positive regulation of lamellipodium organization
+XM_011442943	GO:0007179~transforming growth factor beta receptor signaling pathway
+XM_011424074	GO:0006979~response to oxidative stress
+XM_011445684	GO:0006979~response to oxidative stress
+AM076954	GO:0006096~glycolytic process
+XM_011415648	GO:0007264~small GTPase mediated signal transduction
+XM_011417849	GO:0006479~protein methylation
+XM_011451706	GO:0009165~nucleotide biosynthetic process
+XM_011421611	GO:0005975~carbohydrate metabolic process
+XM_011430863	GO:0010468~regulation of gene expression
+XM_011430864	GO:0010468~regulation of gene expression
+XM_011414437	GO:0008152~metabolic process
+XM_011449392	GO:0006914~autophagy
+HQ425705	GO:0006915~apoptotic process
+XM_011445519	GO:0000723~telomere maintenance
+XM_011447473	GO:0007166~cell surface receptor signaling pathway
+XM_011438131	GO:0006355~regulation of transcription, DNA-templated
+NM_001308878	GO:0006351~transcription, DNA-templated
+AJ560757	GO:0006351~transcription, DNA-templated
+XM_011454660	GO:0007264~small GTPase mediated signal transduction
+XM_011426896	GO:0006662~glycerol ether metabolic process
+XM_011451996	GO:0006979~response to oxidative stress
+XM_011434586	GO:0005975~carbohydrate metabolic process
+XM_011415310	GO:0051260~protein homooligomerization
+XM_011435232	GO:0000244~spliceosomal tri-snRNP complex assembly
+XM_011441515	GO:0007049~cell cycle
+XM_011441514	GO:0007049~cell cycle
+XM_011456767	GO:0007264~small GTPase mediated signal transduction
+XM_011458742	GO:0051056~regulation of small GTPase mediated signal transduction
+XM_011446689	GO:0008152~metabolic process
+XM_011454070	GO:0030163~protein catabolic process
+XM_011451660	GO:0005975~carbohydrate metabolic process
+XM_011425966	GO:0006950~response to stress
+XM_011424115	GO:0006352~DNA-templated transcription, initiation
+XM_011449474	GO:0006004~fucose metabolic process
+NM_001308899	GO:0007165~signal transduction
+XM_011425435	GO:0007165~signal transduction
+XM_011433277	GO:0006367~transcription initiation from RNA polymerase II promoter
+NM_001305380	GO:0007229~integrin-mediated signaling pathway
+XM_011414513	GO:0006096~glycolytic process
+XM_011439495	GO:0006914~autophagy
+XM_011419294	GO:0006351~transcription, DNA-templated
+XM_011446117	GO:0005975~carbohydrate metabolic process
+XM_011439038	GO:0006412~translation
+XM_011456835	GO:0055085~transmembrane transport
+XM_011449598	GO:0032264~IMP salvage
+XM_011445341	GO:0070836~caveola assembly
+XM_011453504	GO:0006355~regulation of transcription, DNA-templated
+XM_011453503	GO:0006355~regulation of transcription, DNA-templated
+XM_011444707	GO:0006355~regulation of transcription, DNA-templated
+XM_011454767	GO:0007264~small GTPase mediated signal transduction
+XM_011433306	GO:0008152~metabolic process
+AM286403	GO:0008152~metabolic process
+XM_011437258	GO:0006355~regulation of transcription, DNA-templated
+XM_011428461	GO:0030335~positive regulation of cell migration
+XM_011428462	GO:0030335~positive regulation of cell migration
+XM_011428468	GO:0030335~positive regulation of cell migration
+XM_011428458	GO:0030335~positive regulation of cell migration
+XM_011454770	GO:0034720~histone H3-K4 demethylation
+XM_011454769	GO:0034720~histone H3-K4 demethylation
+HQ425699	GO:0007165~signal transduction
+XM_011443777	GO:0009247~glycolipid biosynthetic process
+XM_011457046	GO:0006438~valyl-tRNA aminoacylation
+XM_011454834	GO:0035023~regulation of Rho protein signal transduction
+XM_011426612	GO:0016051~carbohydrate biosynthetic process
+XM_011436332	GO:0009113~purine nucleobase biosynthetic process
+XM_011438220	GO:0000398~mRNA splicing, via spliceosome
+XM_011436197	GO:0006351~transcription, DNA-templated
+XM_011436193	GO:0006351~transcription, DNA-templated
+XM_011426546	GO:0006886~intracellular protein transport
+XM_011426545	GO:0006886~intracellular protein transport
+XM_011426544	GO:0006886~intracellular protein transport
+XM_011425550	GO:0019428~allantoin biosynthetic process
+XM_011443910	GO:0006886~intracellular protein transport
+XM_011441243	GO:0042384~cilium assembly
+XM_011442023	GO:0007264~small GTPase mediated signal transduction
+XM_011415869	GO:0000077~DNA damage checkpoint
+XM_011440209	GO:0008380~RNA splicing
+XM_011440036	GO:0007005~mitochondrion organization
+XM_011417264	GO:0043044~ATP-dependent chromatin remodeling
+XR_899711	GO:0009063~cellular amino acid catabolic process
+XM_011446710	GO:0006412~translation
+XM_011446457	GO:0006730~one-carbon metabolic process
+XM_011437956	GO:0042981~regulation of apoptotic process
+XM_011439007	GO:0009249~protein lipoylation
+XM_011435213	GO:0007154~cell communication
+NM_001305357	GO:0007165~signal transduction
+XM_011434355	GO:0030071~regulation of mitotic metaphase/anaphase transition
+XM_011424862	GO:0007005~mitochondrion organization
+XM_011441256	GO:0001731~formation of translation preinitiation complex
+XM_011451515	GO:0042981~regulation of apoptotic process
+XM_011428617	GO:0006457~protein folding
+AB377115	GO:0005975~carbohydrate metabolic process
+XM_011452578	GO:0042981~regulation of apoptotic process
+XM_011427916	GO:0048278~vesicle docking
+XM_011443917	GO:0016192~vesicle-mediated transport
+XM_011457830	GO:0006412~translation
+XM_011433811	GO:0006334~nucleosome assembly
+XM_011434667	GO:0006446~regulation of translational initiation
+XM_011436435	GO:0006121~mitochondrial electron transport, succinate to ubiquinone
+XM_011419374	GO:0070972~protein localization to endoplasmic reticulum
+XM_011443224	GO:0048869~cellular developmental process
+XM_011443221	GO:0048869~cellular developmental process
+AJ563476	GO:0006412~translation
+XM_011440693	GO:0000724~double-strand break repair via homologous recombination
+XM_011448168	GO:0006915~apoptotic process
+XM_011416545	GO:0035556~intracellular signal transduction
+AB425336	GO:0009253~peptidoglycan catabolic process
+AB425335	GO:0009253~peptidoglycan catabolic process
+XM_011451709	GO:0006897~endocytosis
+XM_011458757	GO:0048814~regulation of dendrite morphogenesis
+XM_011430125	GO:0003341~cilium movement
+XM_011452856	GO:0007249~I-kappaB kinase/NF-kappaB signaling
+XM_011447522	GO:0005978~glycogen biosynthetic process
+XM_011426389	GO:0005975~carbohydrate metabolic process
+XM_011414537	GO:0007165~signal transduction
+XM_011433369	GO:0015937~coenzyme A biosynthetic process
+EF687775	GO:0042744~hydrogen peroxide catabolic process
+XM_011445681	GO:0042744~hydrogen peroxide catabolic process
+XM_011445684	GO:0042744~hydrogen peroxide catabolic process
+XM_011440209	GO:0034477~U6 snRNA 3'-end processing
+XM_011457302	GO:0033014~tetrapyrrole biosynthetic process
+XM_011425521	GO:0019752~carboxylic acid metabolic process
+XM_011416244	GO:0006351~transcription, DNA-templated
+XM_011416240	GO:0006351~transcription, DNA-templated
+XM_011435219	GO:0005975~carbohydrate metabolic process
+XM_011423577	GO:0007018~microtubule-based movement
+XM_011423579	GO:0007018~microtubule-based movement
+XM_011453383	GO:0016192~vesicle-mediated transport
+XM_011433003	GO:0009435~NAD biosynthetic process
+XM_011421088	GO:0007165~signal transduction
+XM_011421094	GO:0007165~signal transduction
+XM_011421092	GO:0007165~signal transduction
+XM_011421093	GO:0007165~signal transduction
+XM_011445520	GO:0006303~double-strand break repair via nonhomologous end joining
+XM_011427944	GO:0051726~regulation of cell cycle
+XM_011438260	GO:0006810~transport
+XM_011456317	GO:0007165~signal transduction
+XM_011427418	GO:0000463~maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+XM_011418646	GO:0042246~tissue regeneration
+XM_011417418	GO:0071586~CAAX-box protein processing
+XM_011447904	GO:0006355~regulation of transcription, DNA-templated
+XM_011428326	GO:0043697~cell dedifferentiation
+XM_011420042	GO:0006355~regulation of transcription, DNA-templated
+XM_011424050	GO:0007165~signal transduction
+XM_011434585	GO:0006281~DNA repair
+XM_011419410	GO:0006836~neurotransmitter transport
+XM_011419411	GO:0006836~neurotransmitter transport
+XM_011444225	GO:0005975~carbohydrate metabolic process
+XM_011452266	GO:0043248~proteasome assembly
+XM_011423389	GO:0016192~vesicle-mediated transport
+XM_011423388	GO:0016192~vesicle-mediated transport
+XM_011436284	GO:0006351~transcription, DNA-templated
+XM_011425221	GO:0007264~small GTPase mediated signal transduction
+XM_011455596	GO:0006888~ER to Golgi vesicle-mediated transport
+XM_011427871	GO:0007165~signal transduction
+XM_011418743	GO:0006689~ganglioside catabolic process
+XM_011443223	GO:0000122~negative regulation of transcription from RNA polymerase II promoter
+XM_011443221	GO:0000122~negative regulation of transcription from RNA polymerase II promoter
+XM_011444365	GO:0007154~cell communication
+XM_011457246	GO:0000079~regulation of cyclin-dependent protein serine/threonine kinase activity
+XM_011432773	GO:0006096~glycolytic process
+XM_011456071	GO:0046330~positive regulation of JNK cascade
+XM_011456106	GO:0046330~positive regulation of JNK cascade
+XM_011456124	GO:0046330~positive regulation of JNK cascade
+XM_011443817	GO:0035556~intracellular signal transduction
+XM_011438969	GO:0007186~G-protein coupled receptor signaling pathway
+XM_011451727	GO:0007264~small GTPase mediated signal transduction
+XM_011458404	GO:0006810~transport
+XM_011421857	GO:0006809~nitric oxide biosynthetic process
+XM_011444767	GO:0016567~protein ubiquitination
+XM_011444769	GO:0016567~protein ubiquitination
+XM_011427398	GO:0043984~histone H4-K16 acetylation
+XM_011433789	GO:0045087~innate immune response
+AF075688	GO:0006486~protein glycosylation
+XM_011440473	GO:0006694~steroid biosynthetic process
+XM_011442176	GO:0007165~signal transduction
+AY551098	GO:0055085~transmembrane transport
+XM_011455371	GO:0001678~cellular glucose homeostasis
+AJ564625	GO:0006879~cellular iron ion homeostasis
+AJ563475	GO:0006879~cellular iron ion homeostasis
+XM_011431699	GO:0006595~polyamine metabolic process
+XM_011416843	GO:0019805~quinolinate biosynthetic process
+XM_011437788	GO:0055085~transmembrane transport
+XM_011437786	GO:0055085~transmembrane transport
+XM_011414063	GO:0006633~fatty acid biosynthetic process
+XM_011436920	GO:0006633~fatty acid biosynthetic process
+XM_011449582	GO:0006281~DNA repair
+XM_011430963	GO:0006741~NADP biosynthetic process
+XM_011420992	GO:0007165~signal transduction
+XM_011418721	GO:0006633~fatty acid biosynthetic process
+JQ362455	GO:0006030~chitin metabolic process
+JQ613282	GO:0006030~chitin metabolic process
+NM_001305288	GO:0006030~chitin metabolic process
+JQ355006	GO:0006030~chitin metabolic process
+XM_011440255	GO:0016192~vesicle-mediated transport
+XM_011432232	GO:0006351~transcription, DNA-templated
+XM_011445990	GO:0007154~cell communication
+XM_011445984	GO:0007154~cell communication
+XM_011445987	GO:0007154~cell communication
+XM_011438649	GO:0007156~homophilic cell adhesion via plasma membrane adhesion molecules
+XM_011429526	GO:0007264~small GTPase mediated signal transduction
+XM_011429523	GO:0007264~small GTPase mediated signal transduction
+XM_011458095	GO:0007165~signal transduction
+XM_011414038	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011444060	GO:0007165~signal transduction
+XM_011448036	GO:0006810~transport
+XM_011457064	GO:0006412~translation
+XM_011433511	GO:0006486~protein glycosylation
+XM_011435609	GO:0007067~mitotic nuclear division
+XM_011422646	GO:0032447~protein urmylation
+XM_011428636	GO:0006633~fatty acid biosynthetic process
+XM_011422331	GO:0006260~DNA replication
+XM_011442087	GO:0051607~defense response to virus
+XM_011426641	GO:0006633~fatty acid biosynthetic process
+XM_011451993	GO:0019371~cyclooxygenase pathway
+XM_011425515	GO:0007219~Notch signaling pathway
+XM_011421827	GO:0006914~autophagy
+EU152929	GO:0006730~one-carbon metabolic process
+XM_011433393	GO:0051301~cell division
+XM_011418251	GO:0035023~regulation of Rho protein signal transduction
+XM_011419836	GO:0006338~chromatin remodeling
+XM_011428467	GO:2000813~negative regulation of barbed-end actin filament capping
+XM_011436588	GO:0035556~intracellular signal transduction
+XM_011458049	GO:0006665~sphingolipid metabolic process
+XM_011458876	GO:0007264~small GTPase mediated signal transduction
+XM_011456381	GO:0051726~regulation of cell cycle
+XM_011419041	GO:0007264~small GTPase mediated signal transduction
+XM_011452477	GO:0006633~fatty acid biosynthetic process
+XM_011414329	GO:0006950~response to stress
+XM_011414330	GO:0006950~response to stress
+XM_011417522	GO:0006260~DNA replication
+XM_011430046	GO:0006412~translation
+XM_011416447	GO:0006355~regulation of transcription, DNA-templated
+XM_011430892	GO:0007015~actin filament organization
+XM_011442723	GO:0006351~transcription, DNA-templated
+XM_011428458	GO:0051638~barbed-end actin filament uncapping
+XM_011431416	GO:0055085~transmembrane transport
+XM_011425924	GO:0097056~selenocysteinyl-tRNA(Sec) biosynthetic process
+XM_011419041	GO:0051301~cell division
+XM_011414514	GO:0001678~cellular glucose homeostasis
+XM_011435995	GO:0006730~one-carbon metabolic process
+XM_011428514	GO:0007165~signal transduction
+XM_011439897	GO:0042981~regulation of apoptotic process
+XM_011454434	GO:0055085~transmembrane transport
+XM_011453354	GO:0007275~multicellular organism development
+XM_011448766	GO:0018298~protein-chromophore linkage
+XM_011421291	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011423364	GO:0055085~transmembrane transport
+XM_011429987	GO:0006351~transcription, DNA-templated
+XM_011429990	GO:0006351~transcription, DNA-templated
+XM_011452108	GO:0051014~actin filament severing
+XM_011441495	GO:0006801~superoxide metabolic process
+XM_011423752	GO:0006915~apoptotic process
+XM_011439812	GO:0006351~transcription, DNA-templated
+XM_011457671	GO:0006897~endocytosis
+XM_011426730	GO:0006627~protein processing involved in protein targeting to mitochondrion
+XM_011451993	GO:0008217~regulation of blood pressure
+XM_011451994	GO:0008217~regulation of blood pressure
+XM_011443588	GO:0007156~homophilic cell adhesion via plasma membrane adhesion molecules
+XM_011416150	GO:0006355~regulation of transcription, DNA-templated
+XM_011427164	GO:0006888~ER to Golgi vesicle-mediated transport
+XM_011451891	GO:0007264~small GTPase mediated signal transduction
+XM_011418337	GO:0006334~nucleosome assembly
+XM_011431117	GO:0006888~ER to Golgi vesicle-mediated transport
+XM_011445281	GO:0032456~endocytic recycling
+XM_011453285	GO:0006270~DNA replication initiation
+XM_011435211	GO:0007160~cell-matrix adhesion
+XM_011417662	GO:0006486~protein glycosylation
+NM_001308870	GO:0006032~chitin catabolic process
+NM_001308848	GO:0009253~peptidoglycan catabolic process
+XM_011440908	GO:0006810~transport
+XM_011440037	GO:0006096~glycolytic process
+XM_011455769	GO:0000226~microtubule cytoskeleton organization
+XM_011449691	GO:0005975~carbohydrate metabolic process
+XM_011426556	GO:0006885~regulation of pH
+XM_011430694	GO:0006744~ubiquinone biosynthetic process
+XM_011435973	GO:0006730~one-carbon metabolic process
+XM_011434013	GO:0007166~cell surface receptor signaling pathway
+XM_011440238	GO:0071897~DNA biosynthetic process
+XM_011434575	GO:0035556~intracellular signal transduction
+NM_001308854	GO:0007165~signal transduction
+XM_011428948	GO:0007165~signal transduction
+XM_011427083	GO:0008654~phospholipid biosynthetic process
+AB066348	GO:0007155~cell adhesion
+XM_011448368	GO:0007601~visual perception
+XM_011425246	GO:0007005~mitochondrion organization
+XM_011446475	GO:0051262~protein tetramerization
+XM_011440673	GO:0007264~small GTPase mediated signal transduction
+XM_011456106	GO:0007250~activation of NF-kappaB-inducing kinase activity
+XM_011455621	GO:0055085~transmembrane transport
+XM_011443768	GO:0007017~microtubule-based process
+XM_011426067	GO:0009247~glycolipid biosynthetic process
+XM_011419414	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011450203	GO:0006559~L-phenylalanine catabolic process
+XM_011424632	GO:0007155~cell adhesion
+XM_011420960	GO:0045454~cell redox homeostasis
+Y08370	GO:0005975~carbohydrate metabolic process
+EU477251	GO:0005975~carbohydrate metabolic process
+XM_011416609	GO:0006457~protein folding
+AJ560757	GO:0007179~transforming growth factor beta receptor signaling pathway
+XM_011454970	GO:0007179~transforming growth factor beta receptor signaling pathway
+XM_011451696	GO:0006545~glycine biosynthetic process
+XM_011416057	GO:0006351~transcription, DNA-templated
+XM_011426211	GO:0035556~intracellular signal transduction
+XM_011449907	GO:0045596~negative regulation of cell differentiation
+XM_011453945	GO:0006812~cation transport
+XM_011436977	GO:0016125~sterol metabolic process
+XM_011425245	GO:0007264~small GTPase mediated signal transduction
+XM_011423982	GO:0002181~cytoplasmic translation
+XM_011433697	GO:0051301~cell division
+XM_011433698	GO:0051301~cell division
+XM_011434472	GO:0006388~tRNA splicing, via endonucleolytic cleavage and ligation
+XM_011447406	GO:0045454~cell redox homeostasis
+XM_011421377	GO:0006004~fucose metabolic process
+XM_011427916	GO:0042384~cilium assembly
+XM_011440332	GO:0009168~purine ribonucleoside monophosphate biosynthetic process
+XM_011443173	GO:0006366~transcription from RNA polymerase II promoter
+XM_011431925	GO:0007600~sensory perception
+XM_011427836	GO:0006355~regulation of transcription, DNA-templated
+XM_011425608	GO:0043248~proteasome assembly
+XM_011424934	GO:0007264~small GTPase mediated signal transduction
+XM_011428889	GO:0009408~response to heat
+AB516433	GO:0009408~response to heat
+XM_011457405	GO:0008152~metabolic process
+XM_011454465	GO:0006689~ganglioside catabolic process
+XM_011432511	GO:0016573~histone acetylation
+XM_011425663	GO:0070988~demethylation
+XM_011453199	GO:0006974~cellular response to DNA damage stimulus
+XM_011414721	GO:0006869~lipid transport
+XM_011414723	GO:0006869~lipid transport
+XM_011431717	GO:0006412~translation
+XM_011419275	GO:0016226~iron-sulfur cluster assembly
+XM_011450460	GO:0019722~calcium-mediated signaling
+XM_011440827	GO:0000103~sulfate assimilation
+XM_011417644	GO:0006355~regulation of transcription, DNA-templated
+XM_011447780	GO:0015910~peroxisomal long-chain fatty acid import
+XM_011452306	GO:0008152~metabolic process
+XM_011451641	GO:0052331~hemolysis in other organism involved in symbiotic interaction
+XM_011444813	GO:0006351~transcription, DNA-templated
+XM_011444812	GO:0006351~transcription, DNA-templated
+XM_011453453	GO:0005975~carbohydrate metabolic process
+XM_011419277	GO:0009116~nucleoside metabolic process
+XM_011438226	GO:0007165~signal transduction
+XM_011415799	GO:0008152~metabolic process
+XM_011425288	GO:0006955~immune response
+XM_011426551	GO:0007160~cell-matrix adhesion
+NM_001305307	GO:0034314~Arp2/3 complex-mediated actin nucleation
+XM_011444167	GO:0019752~carboxylic acid metabolic process
+XM_011418796	GO:0034333~adherens junction assembly
+XM_011454572	GO:0006355~regulation of transcription, DNA-templated
+XM_011415064	GO:0006397~mRNA processing
+XM_011448168	GO:0046328~regulation of JNK cascade
+XM_011432982	GO:0015031~protein transport
+XM_011440581	GO:0006879~cellular iron ion homeostasis
+XM_011414371	GO:0006030~chitin metabolic process
+XM_011443770	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011439437	GO:0006355~regulation of transcription, DNA-templated
+XM_011457672	GO:2000601~positive regulation of Arp2/3 complex-mediated actin nucleation
+XM_011437273	GO:0035556~intracellular signal transduction
+XM_011452286	GO:0006457~protein folding
+XM_011435600	GO:0051607~defense response to virus
+XM_011431065	GO:0007015~actin filament organization
+XM_011431060	GO:0007015~actin filament organization
+XM_011453023	GO:0009058~biosynthetic process
+XM_011448460	GO:0030036~actin cytoskeleton organization
+XM_011440949	GO:0048666~neuron development
+XM_011431057	GO:0033554~cellular response to stress
+XM_011441514	GO:0051301~cell division
+XM_011423380	GO:0009058~biosynthetic process
+NM_001308844	GO:0009058~biosynthetic process
+XM_011448813	GO:0007264~small GTPase mediated signal transduction
+XM_011425224	GO:0007264~small GTPase mediated signal transduction
+XM_011429376	GO:0007264~small GTPase mediated signal transduction
+XM_011434836	GO:0006096~glycolytic process
+XM_011416094	GO:0006801~superoxide metabolic process
+XM_011437454	GO:0006396~RNA processing
+XM_011428327	GO:0042127~regulation of cell proliferation
+XM_011444362	GO:0006366~transcription from RNA polymerase II promoter
+XM_011454437	GO:0006228~UTP biosynthetic process
+XM_011448059	GO:0006308~DNA catabolic process
+XM_011448055	GO:0006308~DNA catabolic process
+XM_011442942	GO:0007179~transforming growth factor beta receptor signaling pathway
+XM_011444440	GO:0016925~protein sumoylation
+NM_001305381	GO:0006979~response to oxidative stress
+XM_011450217	GO:0006826~iron ion transport
+XM_011456484	GO:0009204~deoxyribonucleoside triphosphate catabolic process
+AJ563479	GO:0006096~glycolytic process
+XM_011455369	GO:0006096~glycolytic process
+XM_011455371	GO:0006096~glycolytic process
+XM_011428605	GO:0030097~hemopoiesis
+XM_011416274	GO:0006355~regulation of transcription, DNA-templated
+NM_001319970	GO:0007034~vacuolar transport
+XM_011440510	GO:0009254~peptidoglycan turnover
+XM_011452093	GO:0045010~actin nucleation
+XM_011446291	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011414070	GO:0007017~microtubule-based process
+XM_011449511	GO:0034314~Arp2/3 complex-mediated actin nucleation
+XM_011455873	GO:0045454~cell redox homeostasis
+NM_001305370	GO:0006915~apoptotic process
+XM_011414847	GO:0042819~vitamin B6 biosynthetic process
+XM_011438319	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011435784	GO:0006979~response to oxidative stress
+XM_011451997	GO:0006979~response to oxidative stress
+XM_011451994	GO:0006979~response to oxidative stress
+XM_011441463	GO:0006030~chitin metabolic process
+XM_011457009	GO:0006412~translation
+XM_011441633	GO:0007264~small GTPase mediated signal transduction
+XM_011425274	GO:0006355~regulation of transcription, DNA-templated
+XM_011443545	GO:0009058~biosynthetic process
+XM_011443540	GO:0009058~biosynthetic process
+XM_011426294	GO:0008152~metabolic process
+XM_011444394	GO:0006260~DNA replication
+XM_011458749	GO:0051056~regulation of small GTPase mediated signal transduction
+NM_001305319	GO:0006730~one-carbon metabolic process
+XM_011430074	GO:0006730~one-carbon metabolic process
+XM_011433697	GO:0007067~mitotic nuclear division
+XM_011433698	GO:0007067~mitotic nuclear division
+XM_011433698	GO:0030071~regulation of mitotic metaphase/anaphase transition
+AJ564625	GO:0006826~iron ion transport
+NM_001305338	GO:0006826~iron ion transport
+XM_011421869	GO:0000398~mRNA splicing, via spliceosome
+XM_011455670	GO:0016559~peroxisome fission
+XM_011423421	GO:0006412~translation
+AJ563455	GO:0006412~translation
+XM_011414514	GO:0006096~glycolytic process
+XM_011426209	GO:0006457~protein folding
+XM_011440581	GO:0006826~iron ion transport
+XM_011458156	GO:0015031~protein transport
+XM_011452144	GO:0007165~signal transduction
+XM_011421261	GO:0006811~ion transport
+XM_011433305	GO:0008152~metabolic process
+XM_011437259	GO:0006355~regulation of transcription, DNA-templated
+NM_001319969	GO:0035556~intracellular signal transduction
+XM_011424076	GO:0008152~metabolic process
+XM_011437627	GO:0001522~pseudouridine synthesis
+XM_011448686	GO:0006915~apoptotic process
+XM_011457048	GO:0006438~valyl-tRNA aminoacylation
+XM_011454831	GO:0035023~regulation of Rho protein signal transduction
+XM_011426611	GO:0016051~carbohydrate biosynthetic process
+XM_011426613	GO:0016051~carbohydrate biosynthetic process
+XM_011456568	GO:0045454~cell redox homeostasis
+XM_011455531	GO:0006284~base-excision repair
+XM_011422127	GO:0006457~protein folding
+XM_011429470	GO:0015031~protein transport
+XM_011443602	GO:0007156~homophilic cell adhesion via plasma membrane adhesion molecules
+XM_011437259	GO:0006351~transcription, DNA-templated
+XM_011415868	GO:0000077~DNA damage checkpoint
+XM_011417652	GO:0043044~ATP-dependent chromatin remodeling
+XM_011424961	GO:0009063~cellular amino acid catabolic process
+XM_011413692	GO:0035556~intracellular signal transduction
+XM_011414366	GO:0006486~protein glycosylation
+XM_011449658	GO:0007165~signal transduction
+XM_011418832	GO:0035556~intracellular signal transduction
+XM_011456383	GO:0007017~microtubule-based process
+XM_011422990	GO:0006334~nucleosome assembly
+XM_011418013	GO:0008152~metabolic process
+XM_011425147	GO:0070836~caveola assembly
+NM_001305370	GO:0042981~regulation of apoptotic process
+XM_011427731	GO:0006811~ion transport
+XM_011436638	GO:0006084~acetyl-CoA metabolic process
+XM_011414275	GO:0006044~N-acetylglucosamine metabolic process
+XM_011422976	GO:0007034~vacuolar transport
+XM_011421257	GO:0006811~ion transport
+NM_001305314	GO:0006412~translation
+XM_011429895	GO:0006950~response to stress
+XM_011422186	GO:0035999~tetrahydrofolate interconversion
+XR_902306	GO:0009159~deoxyribonucleoside monophosphate catabolic process
+XM_011423764	GO:0035556~intracellular signal transduction
+XM_011458559	GO:0006633~fatty acid biosynthetic process
+XM_011424528	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011435495	GO:0006810~transport
+XM_011432970	GO:0006779~porphyrin-containing compound biosynthetic process
+XM_011424756	GO:0015031~protein transport
+XM_011449770	GO:0009253~peptidoglycan catabolic process
+XM_011423287	GO:0008152~metabolic process
+XM_011414204	GO:0007602~phototransduction
+XM_011444892	GO:0055085~transmembrane transport
+XM_011415895	GO:0006396~RNA processing
+XM_011435220	GO:0005975~carbohydrate metabolic process
+XM_011440116	GO:0016192~vesicle-mediated transport
+XM_011422354	GO:0007264~small GTPase mediated signal transduction
+XM_011447521	GO:0005978~glycogen biosynthetic process
+XM_011425604	GO:0051260~protein homooligomerization
+XM_011438318	GO:0016579~protein deubiquitination
+XM_011418338	GO:0006334~nucleosome assembly
+NM_001305381	GO:0042744~hydrogen peroxide catabolic process
+XM_011458227	GO:0043044~ATP-dependent chromatin remodeling
+XM_011424720	GO:0007283~spermatogenesis
+XM_011421089	GO:0007165~signal transduction
+XM_011445518	GO:0006303~double-strand break repair via nonhomologous end joining
+XM_011428558	GO:0007264~small GTPase mediated signal transduction
+XM_011430126	GO:0036159~inner dynein arm assembly
+XM_011456319	GO:0007165~signal transduction
+XM_011457068	GO:0006561~proline biosynthetic process
+XM_011440279	GO:0006351~transcription, DNA-templated
+XM_011414491	GO:0006397~mRNA processing
+XM_011456686	GO:0007264~small GTPase mediated signal transduction
+XR_903396	GO:0007264~small GTPase mediated signal transduction
+XM_011446860	GO:0006355~regulation of transcription, DNA-templated
+XM_011447901	GO:0006355~regulation of transcription, DNA-templated
+XM_011447902	GO:0006355~regulation of transcription, DNA-templated
+AB199897	GO:0006412~translation
+XM_011427418	GO:0000466~maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+XM_011419412	GO:0006836~neurotransmitter transport
+XM_011434355	GO:0031145~anaphase-promoting complex-dependent catabolic process
+XM_011456342	GO:0005975~carbohydrate metabolic process
+XM_011455587	GO:0006888~ER to Golgi vesicle-mediated transport
+XM_011441295	GO:0040001~establishment of mitotic spindle localization
+XM_011454804	GO:0006508~proteolysis
+XM_011450972	GO:0006457~protein folding
+XM_011456134	GO:0046330~positive regulation of JNK cascade
+XM_011419997	GO:0006012~galactose metabolic process
+XM_011434144	GO:0006013~mannose metabolic process
+XM_011452100	GO:0051016~barbed-end actin filament capping
+XM_011440678	GO:0006614~SRP-dependent cotranslational protein targeting to membrane
+XM_011426032	GO:0006955~immune response
+XM_011429281	GO:0022900~electron transport chain
+XM_011428221	GO:0006012~galactose metabolic process
+XM_011416944	GO:0006635~fatty acid beta-oxidation
+XM_011448368	GO:0018298~protein-chromophore linkage
+XM_011415928	GO:0015031~protein transport
+XM_011445281	GO:0007264~small GTPase mediated signal transduction
+XM_011444074	GO:0006099~tricarboxylic acid cycle
+XM_011452723	GO:0001682~tRNA 5'-leader removal
+XM_011452006	GO:0006869~lipid transport
+XM_011416582	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011415749	GO:0006629~lipid metabolic process
+XM_011441890	GO:0006424~glutamyl-tRNA aminoacylation
+XM_011438513	GO:0007067~mitotic nuclear division
+XM_011449481	GO:0006486~protein glycosylation
+XM_011437051	GO:0006563~L-serine metabolic process
+XM_011421293	GO:0055085~transmembrane transport
+XM_011458086	GO:0006915~apoptotic process
+XM_011432982	GO:0007030~Golgi organization
+NM_001305309	GO:0006730~one-carbon metabolic process
+XM_011451421	GO:0055114~oxidation-reduction process
+XM_011444689	GO:0008612~peptidyl-lysine modification to peptidyl-hypusine
+XM_011440254	GO:0016192~vesicle-mediated transport
+XM_011432234	GO:0006351~transcription, DNA-templated
+XM_011445985	GO:0007154~cell communication
+XM_011438650	GO:0007156~homophilic cell adhesion via plasma membrane adhesion molecules
+XM_011423268	GO:0006351~transcription, DNA-templated
+XM_011458757	GO:0031532~actin cytoskeleton reorganization
+XM_011423161	GO:0034314~Arp2/3 complex-mediated actin nucleation
+XM_011417875	GO:0016570~histone modification
+XM_011430635	GO:0006144~purine nucleobase metabolic process
+XM_011458090	GO:0007165~signal transduction
+XM_011414037	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011444058	GO:0007165~signal transduction
+XM_011424139	GO:0006414~translational elongation
+AB199894	GO:0006412~translation
+XM_011422227	GO:0016192~vesicle-mediated transport
+XM_011414038	GO:0016579~protein deubiquitination
+XM_011451995	GO:0019371~cyclooxygenase pathway
+XM_011451992	GO:0019371~cyclooxygenase pathway
+XM_011418361	GO:0006334~nucleosome assembly
+XM_011446874	GO:0006071~glycerol metabolic process
+XM_011425522	GO:0007219~Notch signaling pathway
+XM_011415786	GO:0006030~chitin metabolic process
+XM_011454902	GO:0007275~multicellular organism development
+XM_011455674	GO:0051260~protein homooligomerization
+XM_011428454	GO:2000813~negative regulation of barbed-end actin filament capping
+XM_011428470	GO:2000813~negative regulation of barbed-end actin filament capping
+XM_011428460	GO:2000813~negative regulation of barbed-end actin filament capping
+XM_011428455	GO:2000813~negative regulation of barbed-end actin filament capping
+XM_011428463	GO:2000813~negative regulation of barbed-end actin filament capping
+XM_011442773	GO:0055085~transmembrane transport
+XM_011442755	GO:0055085~transmembrane transport
+XM_011456379	GO:0051726~regulation of cell cycle
+XM_011458193	GO:0006412~translation
+XM_011419296	GO:0016480~negative regulation of transcription from RNA polymerase III promoter
+XM_011452476	GO:0006633~fatty acid biosynthetic process
+XM_011445449	GO:0033198~response to ATP
+XM_011438241	GO:0055085~transmembrane transport
+XM_011440146	GO:0008152~metabolic process
+XM_011422630	GO:0006979~response to oxidative stress
+XM_011430897	GO:0007015~actin filament organization
+XM_011428456	GO:0051638~barbed-end actin filament uncapping
+XM_011428461	GO:0051638~barbed-end actin filament uncapping
+XM_011428463	GO:0051638~barbed-end actin filament uncapping
+XM_011442698	GO:0009072~aromatic amino acid family metabolic process
+XM_011419170	GO:0007264~small GTPase mediated signal transduction
+XM_011427997	GO:0006811~ion transport
+XM_011453427	GO:0006396~RNA processing
+XM_011425926	GO:0097056~selenocysteinyl-tRNA(Sec) biosynthetic process
+XM_011414299	GO:0070481~nuclear-transcribed mRNA catabolic process, non-stop decay
+XM_011414300	GO:0070481~nuclear-transcribed mRNA catabolic process, non-stop decay
+XM_011434325	GO:0006464~cellular protein modification process
+XM_011453389	GO:0007064~mitotic sister chromatid cohesion
+XM_011430750	GO:0006810~transport
+XM_011438424	GO:0006351~transcription, DNA-templated
+XM_011428512	GO:0007165~signal transduction
+XM_011431706	GO:0007169~transmembrane receptor protein tyrosine kinase signaling pathway
+XM_011421548	GO:0006633~fatty acid biosynthetic process
+XM_011421547	GO:0006633~fatty acid biosynthetic process
+XM_011433229	GO:0015031~protein transport
+XM_011454435	GO:0055085~transmembrane transport
+XM_011453345	GO:0007275~multicellular organism development
+XM_011453351	GO:0007275~multicellular organism development
+XM_011432237	GO:0040034~regulation of development, heterochronic
+XM_011432234	GO:0040034~regulation of development, heterochronic
+XM_011456484	GO:0009117~nucleotide metabolic process
+XM_011432180	GO:0007018~microtubule-based movement
+NM_001305340	GO:0006099~tricarboxylic acid cycle
+XM_011456538	GO:0009607~response to biotic stimulus
+XM_011455439	GO:0006412~translation
+XM_011418120	GO:0007264~small GTPase mediated signal transduction
+XM_011431116	GO:0006886~intracellular protein transport
+XM_011440256	GO:0006886~intracellular protein transport
+HQ144188	GO:0006955~immune response
+XM_011429975	GO:0006351~transcription, DNA-templated
+XM_011429992	GO:0006351~transcription, DNA-templated
+XM_011429994	GO:0006351~transcription, DNA-templated
+XR_900273	GO:0006351~transcription, DNA-templated
+XM_011429974	GO:0006351~transcription, DNA-templated
+XM_011429988	GO:0006351~transcription, DNA-templated
+XM_011435167	GO:0006260~DNA replication
+XM_011452093	GO:0051014~actin filament severing
+AY256853	GO:0006801~superoxide metabolic process
+XM_011417884	GO:0006614~SRP-dependent cotranslational protein targeting to membrane
+XM_011439815	GO:0006351~transcription, DNA-templated
+XM_011430100	GO:0007165~signal transduction
+XM_011426464	GO:0006303~double-strand break repair via nonhomologous end joining
+XM_011423633	GO:0006520~cellular amino acid metabolic process
+XM_011458661	GO:0055114~oxidation-reduction process
+XM_011456049	GO:0006351~transcription, DNA-templated
+XM_011451996	GO:0008217~regulation of blood pressure
+XM_011451991	GO:0008217~regulation of blood pressure
+XM_011444968	GO:0006355~regulation of transcription, DNA-templated
+XM_011444359	GO:0007219~Notch signaling pathway
+XM_011434250	GO:0000398~mRNA splicing, via spliceosome
+XM_011455483	GO:0018342~protein prenylation
+XM_011428889	GO:0006351~transcription, DNA-templated
+AB516439	GO:0006351~transcription, DNA-templated
+XM_011454630	GO:0006457~protein folding
+XM_011453119	GO:0055085~transmembrane transport
+XM_011435933	GO:0007264~small GTPase mediated signal transduction
+XM_011416400	GO:0009607~response to biotic stimulus
+XM_011440558	GO:0009072~aromatic amino acid family metabolic process
+XM_011435212	GO:0007160~cell-matrix adhesion
+XM_011457155	GO:0055085~transmembrane transport
+XM_011417663	GO:0006486~protein glycosylation
+XM_011442454	GO:0007165~signal transduction
+XM_011414033	GO:0051301~cell division
+XM_011440260	GO:0007275~multicellular organism development
+XM_011415869	GO:0006281~DNA repair
+XM_011449257	GO:0045893~positive regulation of transcription, DNA-templated
+XM_011441411	GO:0000398~mRNA splicing, via spliceosome
+XM_011427082	GO:0008654~phospholipid biosynthetic process
+XM_011422220	GO:0051260~protein homooligomerization
+XM_011447990	GO:0042026~protein refolding
+BK009239	GO:0051262~protein tetramerization
+XM_011447837	GO:0006511~ubiquitin-dependent protein catabolic process
+XM_011420981	GO:0006091~generation of precursor metabolites and energy
+XM_011430549	GO:0019509~L-methionine biosynthetic process from methylthioadenosine
+EU477253	GO:0005975~carbohydrate metabolic process
+XM_011431026	GO:0006367~transcription initiation from RNA polymerase II promoter
+XM_011418994	GO:0042254~ribosome biogenesis
+XM_011435094	GO:0007264~small GTPase mediated signal transduction
+XM_011445967	GO:0006457~protein folding
+EU477250	GO:0005975~carbohydrate metabolic process
+XM_011449582	GO:0006310~DNA recombination
+XM_011454437	GO:0006183~GTP biosynthetic process
+XM_011454438	GO:0006183~GTP biosynthetic process
+XM_011427434	GO:0006814~sodium ion transport
+XM_011427435	GO:0006814~sodium ion transport
+XM_011428222	GO:0006412~translation
+XM_011450217	GO:0006879~cellular iron ion homeostasis
+NM_001305318	GO:0006879~cellular iron ion homeostasis
+XM_011414774	GO:0055085~transmembrane transport
+XM_011454437	GO:0006241~CTP biosynthetic process
+XM_011440197	GO:0006419~alanyl-tRNA aminoacylation
+XM_011429962	GO:0042981~regulation of apoptotic process

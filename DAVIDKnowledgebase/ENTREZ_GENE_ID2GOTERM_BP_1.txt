@@ -1,0 +1,4081 @@
+808827	GO:0009987~cellular process
+808827	GO:0051179~localization
+105317143	GO:0050789~regulation of biological process
+105317224	GO:0009987~cellular process
+105317286	GO:0009987~cellular process
+105317316	GO:0009987~cellular process
+105317394	GO:0009987~cellular process
+105317395	GO:0008152~metabolic process
+105317541	GO:0023052~signaling
+105317608	GO:0008152~metabolic process
+105317621	GO:0008152~metabolic process
+105317654	GO:0009987~cellular process
+105317783	GO:0044699~single-organism process
+105317809	GO:0050789~regulation of biological process
+105317828	GO:0008152~metabolic process
+105317888	GO:0044699~single-organism process
+105317985	GO:0044699~single-organism process
+105318125	GO:0050789~regulation of biological process
+105318387	GO:0050896~response to stimulus
+105318404	GO:0008152~metabolic process
+105318488	GO:0009987~cellular process
+105318549	GO:0044699~single-organism process
+105318713	GO:0051179~localization
+105318809	GO:0008152~metabolic process
+105318809	GO:0044699~single-organism process
+105318810	GO:0008152~metabolic process
+105318856	GO:0065007~biological regulation
+105318860	GO:0050896~response to stimulus
+105318917	GO:0044699~single-organism process
+105318917	GO:0065007~biological regulation
+105318922	GO:0009987~cellular process
+105318945	GO:0050789~regulation of biological process
+105318945	GO:0065007~biological regulation
+105318949	GO:0044699~single-organism process
+105318949	GO:0008152~metabolic process
+105319134	GO:0050896~response to stimulus
+105319150	GO:0008152~metabolic process
+105319736	GO:0009987~cellular process
+105320430	GO:0009987~cellular process
+105319530	GO:0008152~metabolic process
+105319561	GO:0071840~cellular component organization or biogenesis
+105319566	GO:0044699~single-organism process
+105319721	GO:0065007~biological regulation
+105319808	GO:0065007~biological regulation
+105319827	GO:0009987~cellular process
+105319932	GO:0065007~biological regulation
+105319932	GO:0050789~regulation of biological process
+105320091	GO:0008152~metabolic process
+105320100	GO:0051179~localization
+105320255	GO:0050896~response to stimulus
+105320255	GO:0044699~single-organism process
+105320282	GO:0051179~localization
+105320341	GO:0050789~regulation of biological process
+105320389	GO:0008152~metabolic process
+105320426	GO:0071840~cellular component organization or biogenesis
+105320433	GO:0071840~cellular component organization or biogenesis
+105320608	GO:0044699~single-organism process
+105320634	GO:0065007~biological regulation
+105320634	GO:0050789~regulation of biological process
+105320669	GO:0065007~biological regulation
+105320698	GO:0008152~metabolic process
+105320791	GO:0065007~biological regulation
+105320791	GO:0009987~cellular process
+105321001	GO:0071840~cellular component organization or biogenesis
+105321089	GO:0008152~metabolic process
+105321089	GO:0009987~cellular process
+105321104	GO:0050896~response to stimulus
+105321854	GO:0050789~regulation of biological process
+105322305	GO:0009987~cellular process
+105321523	GO:0009987~cellular process
+105321530	GO:0009987~cellular process
+105321613	GO:0065007~biological regulation
+105321633	GO:0044699~single-organism process
+105321654	GO:0009987~cellular process
+105321831	GO:0009987~cellular process
+105321854	GO:0044699~single-organism process
+105321861	GO:0051179~localization
+105322205	GO:0051179~localization
+105322396	GO:0050896~response to stimulus
+105322396	GO:0065007~biological regulation
+105322396	GO:0050789~regulation of biological process
+105322492	GO:0044699~single-organism process
+105322528	GO:0009987~cellular process
+105322550	GO:0008152~metabolic process
+105323053	GO:0044699~single-organism process
+105322552	GO:0044699~single-organism process
+105322576	GO:0050789~regulation of biological process
+105322710	GO:0009987~cellular process
+105322710	GO:0065007~biological regulation
+105322710	GO:0023052~signaling
+105322763	GO:0050789~regulation of biological process
+105322763	GO:0008152~metabolic process
+105322858	GO:0009987~cellular process
+105323015	GO:0008152~metabolic process
+105323087	GO:0071840~cellular component organization or biogenesis
+105323089	GO:0009987~cellular process
+105323151	GO:0009987~cellular process
+105323153	GO:0044699~single-organism process
+105323575	GO:0009987~cellular process
+105323226	GO:0009987~cellular process
+105323264	GO:0023052~signaling
+105323313	GO:0050896~response to stimulus
+105323313	GO:0009987~cellular process
+105323317	GO:0065007~biological regulation
+105323317	GO:0009987~cellular process
+105323369	GO:0050789~regulation of biological process
+105323486	GO:0009987~cellular process
+105323486	GO:0008152~metabolic process
+105323506	GO:0071840~cellular component organization or biogenesis
+105323580	GO:0009987~cellular process
+105324314	GO:0008152~metabolic process
+105324454	GO:0044699~single-organism process
+105324491	GO:0044699~single-organism process
+105324534	GO:0044699~single-organism process
+105324661	GO:0044699~single-organism process
+105324749	GO:0009987~cellular process
+105324749	GO:0008152~metabolic process
+105324776	GO:0009987~cellular process
+105324844	GO:0044699~single-organism process
+105324853	GO:0044699~single-organism process
+105324860	GO:0050896~response to stimulus
+105325075	GO:0065007~biological regulation
+105325130	GO:0009987~cellular process
+105325168	GO:0051179~localization
+105325174	GO:0050896~response to stimulus
+105325239	GO:0032501~multicellular organismal process
+105325242	GO:0023052~signaling
+105325242	GO:0050789~regulation of biological process
+105325249	GO:0009987~cellular process
+105325395	GO:0065007~biological regulation
+105325397	GO:0050896~response to stimulus
+105325397	GO:0044699~single-organism process
+105325413	GO:0009987~cellular process
+105325470	GO:0008152~metabolic process
+105325538	GO:0009987~cellular process
+105325635	GO:0008152~metabolic process
+105325587	GO:0050896~response to stimulus
+105325588	GO:0023052~signaling
+105325593	GO:0050789~regulation of biological process
+105325608	GO:0044699~single-organism process
+105325608	GO:0050896~response to stimulus
+105325742	GO:0050896~response to stimulus
+105325742	GO:0050789~regulation of biological process
+105325742	GO:0023052~signaling
+105325785	GO:0009987~cellular process
+105325787	GO:0023052~signaling
+105325844	GO:0008152~metabolic process
+105325945	GO:0044699~single-organism process
+105326081	GO:0008152~metabolic process
+105326250	GO:0009987~cellular process
+105326276	GO:0050896~response to stimulus
+105326366	GO:0009987~cellular process
+105326426	GO:0008152~metabolic process
+105326463	GO:0009987~cellular process
+105326518	GO:0044699~single-organism process
+105326646	GO:0044699~single-organism process
+105327165	GO:0050896~response to stimulus
+105327239	GO:0009987~cellular process
+105327328	GO:0051179~localization
+105327336	GO:0044699~single-organism process
+105327336	GO:0050896~response to stimulus
+105327406	GO:0023052~signaling
+105327437	GO:0032502~developmental process
+105327448	GO:0065007~biological regulation
+105327448	GO:0044699~single-organism process
+105327496	GO:0032501~multicellular organismal process
+105327548	GO:0008152~metabolic process
+105327635	GO:0008152~metabolic process
+105327718	GO:0009987~cellular process
+105327718	GO:0050789~regulation of biological process
+105327847	GO:0044699~single-organism process
+105327904	GO:0009987~cellular process
+105327927	GO:0008152~metabolic process
+105328179	GO:0002376~immune system process
+105329080	GO:0044699~single-organism process
+105328453	GO:0050896~response to stimulus
+105328476	GO:0023052~signaling
+105328476	GO:0050896~response to stimulus
+105328477	GO:0023052~signaling
+105328477	GO:0050789~regulation of biological process
+105328594	GO:0009987~cellular process
+105328594	GO:0050789~regulation of biological process
+105328638	GO:0071840~cellular component organization or biogenesis
+105328728	GO:0044699~single-organism process
+105328728	GO:0009987~cellular process
+105328918	GO:0009987~cellular process
+105328918	GO:0050789~regulation of biological process
+105328929	GO:0065007~biological regulation
+105329080	GO:0050896~response to stimulus
+105329080	GO:0050789~regulation of biological process
+105329080	GO:0065007~biological regulation
+105329087	GO:0009987~cellular process
+105329119	GO:0009987~cellular process
+105329527	GO:0044699~single-organism process
+105329599	GO:0008152~metabolic process
+105329612	GO:0009987~cellular process
+105329650	GO:0044699~single-organism process
+105329650	GO:0050789~regulation of biological process
+105329686	GO:0009987~cellular process
+105329694	GO:0050789~regulation of biological process
+105329712	GO:0009987~cellular process
+105329922	GO:0051179~localization
+105330015	GO:0044699~single-organism process
+105330024	GO:0044699~single-organism process
+105330118	GO:0023052~signaling
+105330130	GO:0008152~metabolic process
+105330192	GO:0044699~single-organism process
+105330227	GO:0044699~single-organism process
+105330308	GO:0009987~cellular process
+105330445	GO:0009987~cellular process
+105330500	GO:0044699~single-organism process
+105330515	GO:0008152~metabolic process
+105330605	GO:0008152~metabolic process
+105330655	GO:0008152~metabolic process
+105330655	GO:0071840~cellular component organization or biogenesis
+105330685	GO:0051179~localization
+105330764	GO:0009987~cellular process
+105331000	GO:0044699~single-organism process
+105331012	GO:0065007~biological regulation
+105331012	GO:0009987~cellular process
+105331060	GO:0050896~response to stimulus
+105331016	GO:0008152~metabolic process
+105331016	GO:0009987~cellular process
+105331115	GO:0009987~cellular process
+105331256	GO:0008152~metabolic process
+105331315	GO:0008152~metabolic process
+105331363	GO:0009987~cellular process
+105331423	GO:0044699~single-organism process
+105331493	GO:0009987~cellular process
+105331668	GO:0044699~single-organism process
+105331707	GO:0050896~response to stimulus
+105331707	GO:0009987~cellular process
+105331959	GO:0044699~single-organism process
+105332077	GO:0009987~cellular process
+105332296	GO:0008152~metabolic process
+105331810	GO:0008152~metabolic process
+105332016	GO:0071840~cellular component organization or biogenesis
+105332020	GO:0009987~cellular process
+105332200	GO:0008152~metabolic process
+105332203	GO:0065007~biological regulation
+105332203	GO:0044699~single-organism process
+105332234	GO:0044699~single-organism process
+105332303	GO:0008152~metabolic process
+105332531	GO:0044699~single-organism process
+105332531	GO:0050896~response to stimulus
+105332538	GO:0009987~cellular process
+105332572	GO:0022610~biological adhesion
+105332589	GO:0071840~cellular component organization or biogenesis
+105332656	GO:0008152~metabolic process
+105332680	GO:0008152~metabolic process
+105332783	GO:0044699~single-organism process
+105332792	GO:0051704~multi-organism process
+105332930	GO:0050789~regulation of biological process
+105332930	GO:0065007~biological regulation
+105333108	GO:0065007~biological regulation
+105333144	GO:0065007~biological regulation
+105333144	GO:0008152~metabolic process
+105333161	GO:0023052~signaling
+105333167	GO:0065007~biological regulation
+105333167	GO:0008152~metabolic process
+105333172	GO:0050896~response to stimulus
+105333258	GO:0071840~cellular component organization or biogenesis
+105333288	GO:0009987~cellular process
+105334621	GO:0023052~signaling
+105333401	GO:0065007~biological regulation
+105333556	GO:0044699~single-organism process
+105333556	GO:0050896~response to stimulus
+105333556	GO:0065007~biological regulation
+105333670	GO:0065007~biological regulation
+105333845	GO:0023052~signaling
+105333864	GO:0044699~single-organism process
+105334001	GO:0009987~cellular process
+105334012	GO:0050896~response to stimulus
+105334087	GO:0044699~single-organism process
+105334120	GO:0008152~metabolic process
+105334158	GO:0008152~metabolic process
+105334263	GO:0071840~cellular component organization or biogenesis
+105334326	GO:0044699~single-organism process
+105334327	GO:0009987~cellular process
+105334333	GO:0009987~cellular process
+105334481	GO:0044699~single-organism process
+105334481	GO:0009987~cellular process
+105334613	GO:0050789~regulation of biological process
+105334621	GO:0009987~cellular process
+105334681	GO:0044699~single-organism process
+105334995	GO:0022610~biological adhesion
+105335003	GO:0009987~cellular process
+105336322	GO:0065007~biological regulation
+105335208	GO:0008152~metabolic process
+105335265	GO:0009987~cellular process
+105335265	GO:0008152~metabolic process
+105335420	GO:0044699~single-organism process
+105335428	GO:0008152~metabolic process
+105335523	GO:0050789~regulation of biological process
+105335523	GO:0065007~biological regulation
+105335553	GO:0009987~cellular process
+105335599	GO:0071840~cellular component organization or biogenesis
+105335678	GO:0050789~regulation of biological process
+105335746	GO:0008152~metabolic process
+105335782	GO:0071840~cellular component organization or biogenesis
+105335800	GO:0009987~cellular process
+105335875	GO:0008152~metabolic process
+105335967	GO:0051179~localization
+105335997	GO:0008152~metabolic process
+105336014	GO:0009987~cellular process
+105336073	GO:0051179~localization
+105336075	GO:0044699~single-organism process
+105336095	GO:0009987~cellular process
+105336152	GO:0008152~metabolic process
+105336240	GO:0008152~metabolic process
+105336249	GO:0009987~cellular process
+105336312	GO:0009987~cellular process
+105336365	GO:0044699~single-organism process
+105336365	GO:0050896~response to stimulus
+105336377	GO:0071840~cellular component organization or biogenesis
+105336383	GO:0051179~localization
+105336479	GO:0009987~cellular process
+105336503	GO:0008152~metabolic process
+105336584	GO:0071840~cellular component organization or biogenesis
+105336700	GO:0023052~signaling
+105336757	GO:0009987~cellular process
+105336786	GO:0044699~single-organism process
+105336792	GO:0065007~biological regulation
+105336876	GO:0051179~localization
+105336911	GO:0044699~single-organism process
+105336922	GO:0071840~cellular component organization or biogenesis
+105336969	GO:0009987~cellular process
+105337298	GO:0065007~biological regulation
+105337061	GO:0044699~single-organism process
+105337299	GO:0065007~biological regulation
+105337339	GO:0023052~signaling
+105337340	GO:0009987~cellular process
+105337382	GO:0051704~multi-organism process
+105337382	GO:0002376~immune system process
+105337448	GO:0023052~signaling
+105337722	GO:0044699~single-organism process
+105337746	GO:0008152~metabolic process
+105337812	GO:0065007~biological regulation
+105337858	GO:0044699~single-organism process
+105337858	GO:0050896~response to stimulus
+105337859	GO:0065007~biological regulation
+105337984	GO:0044699~single-organism process
+105338221	GO:0009987~cellular process
+105338280	GO:0050789~regulation of biological process
+105338403	GO:0044699~single-organism process
+105338435	GO:0071840~cellular component organization or biogenesis
+105338453	GO:0032501~multicellular organismal process
+105338460	GO:0022610~biological adhesion
+105339347	GO:0065007~biological regulation
+105338793	GO:0044699~single-organism process
+105338793	GO:0050789~regulation of biological process
+105338798	GO:0008152~metabolic process
+105338842	GO:0008152~metabolic process
+105338842	GO:0050789~regulation of biological process
+105338996	GO:0023052~signaling
+105338996	GO:0008152~metabolic process
+105338997	GO:0008152~metabolic process
+105338999	GO:0032501~multicellular organismal process
+105339244	GO:0065007~biological regulation
+105339255	GO:0008152~metabolic process
+105339296	GO:0050789~regulation of biological process
+105339296	GO:0065007~biological regulation
+105339321	GO:0009987~cellular process
+105339372	GO:0051179~localization
+105339552	GO:0008152~metabolic process
+105339646	GO:0051704~multi-organism process
+105339646	GO:0071840~cellular component organization or biogenesis
+105340380	GO:0065007~biological regulation
+105339655	GO:0009987~cellular process
+105339655	GO:0023052~signaling
+105339789	GO:0009987~cellular process
+105339795	GO:0071840~cellular component organization or biogenesis
+105340036	GO:0050896~response to stimulus
+105340040	GO:0008152~metabolic process
+105340305	GO:0009987~cellular process
+105340350	GO:0009987~cellular process
+105340380	GO:0009987~cellular process
+105340434	GO:0044699~single-organism process
+105340495	GO:0050896~response to stimulus
+105341108	GO:0044699~single-organism process
+105340613	GO:0071840~cellular component organization or biogenesis
+105340685	GO:0065007~biological regulation
+105340686	GO:0051179~localization
+105340698	GO:0008152~metabolic process
+105341069	GO:0009987~cellular process
+105341095	GO:0044699~single-organism process
+105341117	GO:0065007~biological regulation
+105341251	GO:0008152~metabolic process
+105341251	GO:0009987~cellular process
+105341297	GO:0023052~signaling
+105341356	GO:0009987~cellular process
+105341388	GO:0009987~cellular process
+105341394	GO:0065007~biological regulation
+105341394	GO:0009987~cellular process
+105341486	GO:0051179~localization
+105341500	GO:0009987~cellular process
+105341515	GO:0071840~cellular component organization or biogenesis
+105341759	GO:0051179~localization
+105341804	GO:0009987~cellular process
+105341811	GO:0009987~cellular process
+105341931	GO:0050789~regulation of biological process
+105341931	GO:0009987~cellular process
+105341954	GO:0065007~biological regulation
+105341996	GO:0008152~metabolic process
+105341996	GO:0044699~single-organism process
+105342021	GO:0050896~response to stimulus
+105342338	GO:0032501~multicellular organismal process
+105342387	GO:0050789~regulation of biological process
+105342436	GO:0008152~metabolic process
+105342896	GO:0044699~single-organism process
+105343005	GO:0009987~cellular process
+105342529	GO:0044699~single-organism process
+105342535	GO:0050789~regulation of biological process
+105342535	GO:0044699~single-organism process
+105342535	GO:0009987~cellular process
+105342546	GO:0050896~response to stimulus
+105342587	GO:0009987~cellular process
+105342679	GO:0008152~metabolic process
+105342731	GO:0009987~cellular process
+105343010	GO:0065007~biological regulation
+105343291	GO:0044699~single-organism process
+105343487	GO:0009987~cellular process
+105343564	GO:0009987~cellular process
+105344018	GO:0044699~single-organism process
+105344063	GO:0009987~cellular process
+105344063	GO:0051704~multi-organism process
+105344063	GO:0051179~localization
+105344083	GO:0008152~metabolic process
+105344096	GO:0065007~biological regulation
+105344211	GO:0044699~single-organism process
+105344258	GO:0050896~response to stimulus
+105344282	GO:0051179~localization
+105344376	GO:0009987~cellular process
+105344562	GO:0023052~signaling
+105344624	GO:0023052~signaling
+105344624	GO:0065007~biological regulation
+105344628	GO:0008152~metabolic process
+105344722	GO:0009987~cellular process
+105344722	GO:0044699~single-organism process
+105344740	GO:0002376~immune system process
+105344940	GO:0044699~single-organism process
+105344941	GO:0071840~cellular component organization or biogenesis
+105345001	GO:0008152~metabolic process
+105345095	GO:0009987~cellular process
+105345095	GO:0044699~single-organism process
+105345623	GO:0009987~cellular process
+105345814	GO:0009987~cellular process
+105345220	GO:0050896~response to stimulus
+105345251	GO:0032502~developmental process
+105345371	GO:0008152~metabolic process
+105345474	GO:0009987~cellular process
+105345505	GO:0009987~cellular process
+105345688	GO:0050896~response to stimulus
+105346017	GO:0044699~single-organism process
+105346394	GO:0023052~signaling
+105345940	GO:0051179~localization
+105345941	GO:0009987~cellular process
+105345957	GO:0044699~single-organism process
+105346001	GO:0051179~localization
+105346104	GO:0050789~regulation of biological process
+105346174	GO:0009987~cellular process
+105346265	GO:0044699~single-organism process
+105346267	GO:0008152~metabolic process
+105346307	GO:0009987~cellular process
+105346349	GO:0065007~biological regulation
+105346394	GO:0050789~regulation of biological process
+105346397	GO:0008152~metabolic process
+105346419	GO:0050789~regulation of biological process
+105346846	GO:0044699~single-organism process
+105346858	GO:0008152~metabolic process
+105347185	GO:0009987~cellular process
+105346960	GO:0032502~developmental process
+105347012	GO:0065007~biological regulation
+105347027	GO:0050789~regulation of biological process
+105347027	GO:0008152~metabolic process
+105347058	GO:0008152~metabolic process
+105347058	GO:0009987~cellular process
+105347139	GO:0023052~signaling
+105347169	GO:0044699~single-organism process
+105347203	GO:0009987~cellular process
+105347306	GO:0050789~regulation of biological process
+105347306	GO:0009987~cellular process
+105347347	GO:0044699~single-organism process
+105348179	GO:0009987~cellular process
+105347463	GO:0065007~biological regulation
+105347464	GO:0050789~regulation of biological process
+105347670	GO:0009987~cellular process
+105347830	GO:0044699~single-organism process
+105347830	GO:0008152~metabolic process
+105347974	GO:0065007~biological regulation
+105348011	GO:0009987~cellular process
+105348044	GO:0009987~cellular process
+105348169	GO:0009987~cellular process
+105348179	GO:0023052~signaling
+105348550	GO:0044699~single-organism process
+105348565	GO:0044699~single-organism process
+105348592	GO:0050789~regulation of biological process
+105348592	GO:0009987~cellular process
+105348611	GO:0009987~cellular process
+105348988	GO:0008152~metabolic process
+105349027	GO:0044699~single-organism process
+105349070	GO:0065007~biological regulation
+105349135	GO:0065007~biological regulation
+105349185	GO:0009987~cellular process
+105349126	GO:0032502~developmental process
+105349185	GO:0044699~single-organism process
+808825	GO:0044699~single-organism process
+808828	GO:0008152~metabolic process
+808829	GO:0044699~single-organism process
+105317122	GO:0009987~cellular process
+105317143	GO:0065007~biological regulation
+105317143	GO:0009987~cellular process
+105317143	GO:0044699~single-organism process
+105317162	GO:0008152~metabolic process
+105317168	GO:0051179~localization
+105317417	GO:0009987~cellular process
+105317417	GO:0044699~single-organism process
+105317472	GO:0044699~single-organism process
+105317498	GO:0009987~cellular process
+105317500	GO:0009987~cellular process
+105317556	GO:0050789~regulation of biological process
+105317556	GO:0065007~biological regulation
+105317568	GO:0051179~localization
+105317607	GO:0071840~cellular component organization or biogenesis
+105317618	GO:0008152~metabolic process
+105317660	GO:0008152~metabolic process
+105317759	GO:0009987~cellular process
+105317762	GO:0009987~cellular process
+105317783	GO:0065007~biological regulation
+105317985	GO:0009987~cellular process
+105318090	GO:0008152~metabolic process
+105318103	GO:0050789~regulation of biological process
+105318103	GO:0050896~response to stimulus
+105318103	GO:0009987~cellular process
+105318105	GO:0008152~metabolic process
+105318125	GO:0065007~biological regulation
+105318129	GO:0008152~metabolic process
+105318209	GO:0051179~localization
+105318288	GO:0009987~cellular process
+105318342	GO:0051179~localization
+105318342	GO:0044699~single-organism process
+105318387	GO:0050789~regulation of biological process
+105318488	GO:0044699~single-organism process
+105318598	GO:0008152~metabolic process
+105318649	GO:0044699~single-organism process
+105318654	GO:0008152~metabolic process
+105318668	GO:0008152~metabolic process
+105318697	GO:0051179~localization
+105318708	GO:0009987~cellular process
+105318850	GO:0065007~biological regulation
+105318856	GO:0008152~metabolic process
+105318856	GO:0032502~developmental process
+105318858	GO:0065007~biological regulation
+105318917	GO:0050896~response to stimulus
+105318957	GO:0050789~regulation of biological process
+105318957	GO:0009987~cellular process
+105319021	GO:0009987~cellular process
+105319048	GO:0065007~biological regulation
+105319048	GO:0008152~metabolic process
+105319133	GO:0044699~single-organism process
+105319134	GO:0044699~single-organism process
+105320255	GO:0050789~regulation of biological process
+105319350	GO:0009987~cellular process
+105319409	GO:0009987~cellular process
+105319530	GO:0050789~regulation of biological process
+105319566	GO:0065007~biological regulation
+105319619	GO:0009987~cellular process
+105319827	GO:0044699~single-organism process
+105319919	GO:0065007~biological regulation
+105319931	GO:0008152~metabolic process
+105320091	GO:0071840~cellular component organization or biogenesis
+105320255	GO:0009987~cellular process
+105320255	GO:0065007~biological regulation
+105320326	GO:0050896~response to stimulus
+105320332	GO:0008152~metabolic process
+105320389	GO:0009987~cellular process
+105320406	GO:0071840~cellular component organization or biogenesis
+105320407	GO:0009987~cellular process
+105320426	GO:0009987~cellular process
+105320433	GO:0009987~cellular process
+105320562	GO:0008152~metabolic process
+105320630	GO:0050896~response to stimulus
+105320683	GO:0008152~metabolic process
+105320722	GO:0044699~single-organism process
+105320722	GO:0009987~cellular process
+105320770	GO:0009987~cellular process
+105320770	GO:0065007~biological regulation
+105320864	GO:0071840~cellular component organization or biogenesis
+105320900	GO:0009987~cellular process
+105321084	GO:0071840~cellular component organization or biogenesis
+105321104	GO:0050789~regulation of biological process
+105321315	GO:0008152~metabolic process
+105321546	GO:0071840~cellular component organization or biogenesis
+105321827	GO:0050896~response to stimulus
+105321827	GO:0009987~cellular process
+105321861	GO:0071840~cellular component organization or biogenesis
+105322262	GO:0044699~single-organism process
+105322265	GO:0008152~metabolic process
+105322305	GO:0071840~cellular component organization or biogenesis
+105322305	GO:0032501~multicellular organismal process
+105322341	GO:0065007~biological regulation
+105322341	GO:0044699~single-organism process
+105322526	GO:0009987~cellular process
+105322568	GO:0044699~single-organism process
+105322710	GO:0044699~single-organism process
+105322922	GO:0009987~cellular process
+105322950	GO:0008152~metabolic process
+105323010	GO:0008152~metabolic process
+105323053	GO:0009987~cellular process
+105323053	GO:0023052~signaling
+105323086	GO:0008152~metabolic process
+105323086	GO:0009987~cellular process
+105323087	GO:0009987~cellular process
+105323087	GO:0065007~biological regulation
+105323132	GO:0009987~cellular process
+105323161	GO:0023052~signaling
+105323161	GO:0050896~response to stimulus
+105323262	GO:0009987~cellular process
+105323264	GO:0044699~single-organism process
+105323294	GO:0023052~signaling
+105323294	GO:0050789~regulation of biological process
+105323317	GO:0023052~signaling
+105323369	GO:0023052~signaling
+105323405	GO:0008152~metabolic process
+105323405	GO:0044699~single-organism process
+105323506	GO:0044699~single-organism process
+105323572	GO:0008152~metabolic process
+105323575	GO:0044699~single-organism process
+105323904	GO:0051179~localization
+105323921	GO:0009987~cellular process
+105324105	GO:0065007~biological regulation
+105324253	GO:0023052~signaling
+105324298	GO:0044699~single-organism process
+105324334	GO:0009987~cellular process
+105324454	GO:0050789~regulation of biological process
+105324491	GO:0009987~cellular process
+105324661	GO:0065007~biological regulation
+105324661	GO:0050789~regulation of biological process
+105324749	GO:0044699~single-organism process
+105324799	GO:0008152~metabolic process
+105324820	GO:0071840~cellular component organization or biogenesis
+105324844	GO:0050789~regulation of biological process
+105324844	GO:0023052~signaling
+105324853	GO:0051179~localization
+105325537	GO:0009987~cellular process
+105324884	GO:0008152~metabolic process
+105324897	GO:0008152~metabolic process
+105325038	GO:0008152~metabolic process
+105325123	GO:0050789~regulation of biological process
+105325168	GO:0044699~single-organism process
+105325174	GO:0065007~biological regulation
+105325178	GO:0009987~cellular process
+105325242	GO:0044699~single-organism process
+105325264	GO:0051179~localization
+105325279	GO:0009987~cellular process
+105325357	GO:0051179~localization
+105325395	GO:0044699~single-organism process
+105325395	GO:0009987~cellular process
+105325397	GO:0065007~biological regulation
+105325470	GO:0065007~biological regulation
+105325532	GO:0044699~single-organism process
+105325586	GO:0023052~signaling
+105325588	GO:0065007~biological regulation
+105325586	GO:0050896~response to stimulus
+105325587	GO:0023052~signaling
+105325588	GO:0050896~response to stimulus
+105325608	GO:0071840~cellular component organization or biogenesis
+105325608	GO:0009987~cellular process
+105325674	GO:0008152~metabolic process
+105325742	GO:0002376~immune system process
+105325787	GO:0009987~cellular process
+105325808	GO:0044699~single-organism process
+105325808	GO:0008152~metabolic process
+105325848	GO:0044699~single-organism process
+105325874	GO:0009987~cellular process
+105325894	GO:0009987~cellular process
+105325946	GO:0009987~cellular process
+105326147	GO:0044699~single-organism process
+105326439	GO:0032501~multicellular organismal process
+105326463	GO:0008152~metabolic process
+105326474	GO:0071840~cellular component organization or biogenesis
+105326518	GO:0008152~metabolic process
+105326544	GO:0008152~metabolic process
+105327516	GO:0009987~cellular process
+105326723	GO:0009987~cellular process
+105326788	GO:0008152~metabolic process
+105326788	GO:0044699~single-organism process
+105327094	GO:0071840~cellular component organization or biogenesis
+105327165	GO:0050789~regulation of biological process
+105327165	GO:0044699~single-organism process
+105327239	GO:0008152~metabolic process
+105327331	GO:0051179~localization
+105327406	GO:0009987~cellular process
+105327406	GO:0044699~single-organism process
+105327433	GO:0050896~response to stimulus
+105327445	GO:0071840~cellular component organization or biogenesis
+105327448	GO:0050789~regulation of biological process
+105327516	GO:0044699~single-organism process
+105327753	GO:0008152~metabolic process
+105327826	GO:0071840~cellular component organization or biogenesis
+105327826	GO:0065007~biological regulation
+105327927	GO:0044699~single-organism process
+105327927	GO:0032502~developmental process
+105327958	GO:0009987~cellular process
+105328095	GO:0044699~single-organism process
+105328476	GO:0065007~biological regulation
+105328477	GO:0065007~biological regulation
+105328482	GO:0044699~single-organism process
+105328482	GO:0050896~response to stimulus
+105328483	GO:0065007~biological regulation
+105328509	GO:0050789~regulation of biological process
+105328544	GO:0023052~signaling
+105328544	GO:0051179~localization
+105328653	GO:0008152~metabolic process
+105328861	GO:0050896~response to stimulus
+105328894	GO:0008152~metabolic process
+105328924	GO:0009987~cellular process
+105328924	GO:0065007~biological regulation
+105328929	GO:0050789~regulation of biological process
+105328963	GO:0009987~cellular process
+105329001	GO:0044699~single-organism process
+105329087	GO:0050789~regulation of biological process
+105329337	GO:0009987~cellular process
+105329444	GO:0009987~cellular process
+105329599	GO:0065007~biological regulation
+105329444	GO:0044699~single-organism process
+105329448	GO:0009987~cellular process
+105329512	GO:0009987~cellular process
+105329587	GO:0071840~cellular component organization or biogenesis
+105329650	GO:0009987~cellular process
+105329686	GO:0008152~metabolic process
+105329686	GO:0050789~regulation of biological process
+105329694	GO:0009987~cellular process
+105329720	GO:0008152~metabolic process
+105329775	GO:0044699~single-organism process
+105330024	GO:0032502~developmental process
+105331189	GO:0008152~metabolic process
+105330001	GO:0008152~metabolic process
+105330038	GO:0044699~single-organism process
+105330118	GO:0050789~regulation of biological process
+105330192	GO:0008152~metabolic process
+105330307	GO:0032501~multicellular organismal process
+105330515	GO:0050789~regulation of biological process
+105330665	GO:0009987~cellular process
+105330845	GO:0065007~biological regulation
+105330997	GO:0009987~cellular process
+105330997	GO:0071840~cellular component organization or biogenesis
+105331000	GO:0008152~metabolic process
+105331016	GO:0044699~single-organism process
+105331060	GO:0009987~cellular process
+105331104	GO:0008152~metabolic process
+105331187	GO:0009987~cellular process
+105331363	GO:0008152~metabolic process
+105331493	GO:0008152~metabolic process
+105331238	GO:0008152~metabolic process
+105331369	GO:0044699~single-organism process
+105331406	GO:0009987~cellular process
+105331548	GO:0002376~immune system process
+105331588	GO:0008152~metabolic process
+105331588	GO:0071840~cellular component organization or biogenesis
+105331593	GO:0008152~metabolic process
+105331688	GO:0008152~metabolic process
+105331722	GO:0008152~metabolic process
+105331784	GO:0044699~single-organism process
+105331959	GO:0050789~regulation of biological process
+105331959	GO:0008152~metabolic process
+105332019	GO:0008152~metabolic process
+105332077	GO:0044699~single-organism process
+105332128	GO:0065007~biological regulation
+105332128	GO:0050896~response to stimulus
+105332128	GO:0009987~cellular process
+105332136	GO:0008152~metabolic process
+105332142	GO:0044699~single-organism process
+105332180	GO:0044699~single-organism process
+105332186	GO:0050789~regulation of biological process
+105332223	GO:0050896~response to stimulus
+105332234	GO:0008152~metabolic process
+105332291	GO:0008152~metabolic process
+105332419	GO:0044699~single-organism process
+105332475	GO:0065007~biological regulation
+105332475	GO:0009987~cellular process
+105332475	GO:0050896~response to stimulus
+105332531	GO:0023052~signaling
+105332538	GO:0008152~metabolic process
+105332589	GO:0008152~metabolic process
+105332589	GO:0009987~cellular process
+105332611	GO:0065007~biological regulation
+105333154	GO:0044699~single-organism process
+105332783	GO:0009987~cellular process
+105332874	GO:0050789~regulation of biological process
+105332877	GO:0002376~immune system process
+105332877	GO:0051704~multi-organism process
+105332930	GO:0009987~cellular process
+105332995	GO:0009987~cellular process
+105333119	GO:0044699~single-organism process
+105333126	GO:0008152~metabolic process
+105333172	GO:0065007~biological regulation
+105333172	GO:0044699~single-organism process
+105333258	GO:0051179~localization
+105333288	GO:0008152~metabolic process
+105333315	GO:0050789~regulation of biological process
+105333315	GO:0009987~cellular process
+105333392	GO:0009987~cellular process
+105333448	GO:0009987~cellular process
+105334327	GO:0044699~single-organism process
+105333448	GO:0044699~single-organism process
+105333706	GO:0008152~metabolic process
+105333845	GO:0009987~cellular process
+105333888	GO:0044699~single-organism process
+105334001	GO:0050789~regulation of biological process
+105334077	GO:0008152~metabolic process
+105334263	GO:0051179~localization
+105334272	GO:0051179~localization
+105334328	GO:0009987~cellular process
+105334333	GO:0044699~single-organism process
+105334613	GO:0008152~metabolic process
+105334675	GO:0008152~metabolic process
+105334675	GO:0009987~cellular process
+105334681	GO:0065007~biological regulation
+105335019	GO:0050896~response to stimulus
+105335187	GO:0044699~single-organism process
+105335420	GO:0008152~metabolic process
+105335523	GO:0008152~metabolic process
+105335546	GO:0009987~cellular process
+105335582	GO:0009987~cellular process
+105335622	GO:0008152~metabolic process
+105335678	GO:0009987~cellular process
+105335746	GO:0009987~cellular process
+105335801	GO:0009987~cellular process
+105335878	GO:0044699~single-organism process
+105335896	GO:0009987~cellular process
+105336016	GO:0008152~metabolic process
+105336028	GO:0044699~single-organism process
+105336061	GO:0008152~metabolic process
+105336075	GO:0032502~developmental process
+105336075	GO:0032501~multicellular organismal process
+105336233	GO:0008152~metabolic process
+105336322	GO:0051179~localization
+105336383	GO:0050896~response to stimulus
+105336584	GO:0044699~single-organism process
+105336649	GO:0009987~cellular process
+105336691	GO:0050789~regulation of biological process
+105336691	GO:0065007~biological regulation
+105336757	GO:0071840~cellular component organization or biogenesis
+105336911	GO:0008152~metabolic process
+105336920	GO:0009987~cellular process
+105337064	GO:0065007~biological regulation
+105337299	GO:0050896~response to stimulus
+105337339	GO:0065007~biological regulation
+105337339	GO:0009987~cellular process
+105337379	GO:0008152~metabolic process
+105337448	GO:0009987~cellular process
+105337516	GO:0008152~metabolic process
+105337536	GO:0050896~response to stimulus
+105337537	GO:0009987~cellular process
+105337537	GO:0023052~signaling
+105337632	GO:0065007~biological regulation
+105337632	GO:0044699~single-organism process
+105337722	GO:0065007~biological regulation
+105337812	GO:0008152~metabolic process
+105337812	GO:0032502~developmental process
+105337846	GO:0044699~single-organism process
+105337846	GO:0009987~cellular process
+105337859	GO:0044699~single-organism process
+105337984	GO:0008152~metabolic process
+105338085	GO:0008152~metabolic process
+105338218	GO:0050789~regulation of biological process
+105338273	GO:0023052~signaling
+105338316	GO:0008152~metabolic process
+105338435	GO:0050789~regulation of biological process
+105338457	GO:0022610~biological adhesion
+105338528	GO:0050789~regulation of biological process
+105338583	GO:0009987~cellular process
+105338619	GO:0044699~single-organism process
+105338619	GO:0009987~cellular process
+105338677	GO:0050789~regulation of biological process
+105338677	GO:0044699~single-organism process
+105338740	GO:0044699~single-organism process
+105338793	GO:0023052~signaling
+105338879	GO:0008152~metabolic process
+105339029	GO:0008152~metabolic process
+105339234	GO:0009987~cellular process
+105339347	GO:0040007~growth
+105339347	GO:0009987~cellular process
+105339544	GO:0008152~metabolic process
+105339560	GO:0023052~signaling
+105339575	GO:0008152~metabolic process
+105339646	GO:0051179~localization
+105339655	GO:0050896~response to stimulus
+105340036	GO:0008152~metabolic process
+105340169	GO:0071840~cellular component organization or biogenesis
+105340512	GO:0009987~cellular process
+105339646	GO:0050896~response to stimulus
+105339655	GO:0065007~biological regulation
+105339655	GO:0050789~regulation of biological process
+105339671	GO:0008152~metabolic process
+105339789	GO:0044699~single-organism process
+105339849	GO:0071840~cellular component organization or biogenesis
+105339901	GO:0008152~metabolic process
+105340045	GO:0044699~single-organism process
+105340116	GO:0009987~cellular process
+105340121	GO:0008152~metabolic process
+105340380	GO:0050789~regulation of biological process
+105340476	GO:0050789~regulation of biological process
+105340523	GO:0009987~cellular process
+105340621	GO:0071840~cellular component organization or biogenesis
+105340642	GO:0009987~cellular process
+105340685	GO:0050789~regulation of biological process
+105340688	GO:0044699~single-organism process
+105340697	GO:0009987~cellular process
+105341388	GO:0050789~regulation of biological process
+105341388	GO:0044699~single-organism process
+105341393	GO:0023052~signaling
+105342019	GO:0009987~cellular process
+105341767	GO:0044699~single-organism process
+105341931	GO:0023052~signaling
+105341931	GO:0065007~biological regulation
+105341954	GO:0044699~single-organism process
+105342021	GO:0023052~signaling
+105342031	GO:0065007~biological regulation
+105342207	GO:0008152~metabolic process
+105342258	GO:0023052~signaling
+105342267	GO:0009987~cellular process
+105342338	GO:0008152~metabolic process
+105342338	GO:0002376~immune system process
+105342397	GO:0009987~cellular process
+105342694	GO:0008152~metabolic process
+105343048	GO:0044699~single-organism process
+105342463	GO:0051179~localization
+105342511	GO:0044699~single-organism process
+105342546	GO:0009987~cellular process
+105342597	GO:0044699~single-organism process
+105342670	GO:0065007~biological regulation
+105342853	GO:0023052~signaling
+105342853	GO:0050789~regulation of biological process
+105342853	GO:0009987~cellular process
+105342874	GO:0008152~metabolic process
+105343005	GO:0008152~metabolic process
+105342880	GO:0008152~metabolic process
+105343050	GO:0044699~single-organism process
+105343056	GO:0065007~biological regulation
+105343069	GO:0008152~metabolic process
+105343103	GO:0009987~cellular process
+105343109	GO:0008152~metabolic process
+105343159	GO:0051179~localization
+105343201	GO:0023052~signaling
+105343298	GO:0044699~single-organism process
+105343332	GO:0009987~cellular process
+105344087	GO:0051179~localization
+105344096	GO:0050789~regulation of biological process
+105344096	GO:0009987~cellular process
+105344152	GO:0044699~single-organism process
+105344192	GO:0051179~localization
+105344211	GO:0050896~response to stimulus
+105344649	GO:0044699~single-organism process
+105345045	GO:0044699~single-organism process
+105345143	GO:0008152~metabolic process
+105344214	GO:0050896~response to stimulus
+105344483	GO:0009987~cellular process
+105344562	GO:0009987~cellular process
+105344562	GO:0065007~biological regulation
+105344639	GO:0008152~metabolic process
+105344639	GO:0009987~cellular process
+105344825	GO:0008152~metabolic process
+105344940	GO:0023052~signaling
+105345095	GO:0051179~localization
+105345109	GO:0009987~cellular process
+105345143	GO:0009987~cellular process
+105345287	GO:0044699~single-organism process
+105345505	GO:0044699~single-organism process
+105345575	GO:0044699~single-organism process
+105345680	GO:0040011~locomotion
+105345701	GO:0009987~cellular process
+105345757	GO:0065007~biological regulation
+105345757	GO:0050789~regulation of biological process
+105345941	GO:0071840~cellular component organization or biogenesis
+105346419	GO:0009987~cellular process
+105345822	GO:0044699~single-organism process
+105345957	GO:0008152~metabolic process
+105346001	GO:0009987~cellular process
+105346265	GO:0050789~regulation of biological process
+105346293	GO:0008152~metabolic process
+105346349	GO:0044699~single-organism process
+105346349	GO:0009987~cellular process
+105346358	GO:0050789~regulation of biological process
+105346419	GO:0065007~biological regulation
+105346495	GO:0009987~cellular process
+105346725	GO:0044699~single-organism process
+105346905	GO:0009987~cellular process
+105346955	GO:0044699~single-organism process
+105347320	GO:0023052~signaling
+105346960	GO:0023052~signaling
+105347083	GO:0008152~metabolic process
+105347139	GO:0009987~cellular process
+105347185	GO:0008152~metabolic process
+105347203	GO:0065007~biological regulation
+105347320	GO:0008152~metabolic process
+105347412	GO:0008152~metabolic process
+105347412	GO:0044699~single-organism process
+105347460	GO:0050789~regulation of biological process
+105347460	GO:0044699~single-organism process
+105347460	GO:0023052~signaling
+105347463	GO:0023052~signaling
+105347499	GO:0044699~single-organism process
+105347548	GO:0008152~metabolic process
+105347548	GO:0050789~regulation of biological process
+105348045	GO:0008152~metabolic process
+105348179	GO:0065007~biological regulation
+105348223	GO:0008152~metabolic process
+105348313	GO:0051179~localization
+105348313	GO:0071840~cellular component organization or biogenesis
+105348430	GO:0008152~metabolic process
+105348494	GO:0009987~cellular process
+105348496	GO:0044699~single-organism process
+105348550	GO:0023052~signaling
+105348659	GO:0044699~single-organism process
+105348581	GO:0009987~cellular process
+105348592	GO:0044699~single-organism process
+105348652	GO:0009987~cellular process
+105348932	GO:0009987~cellular process
+105348957	GO:0009987~cellular process
+105348986	GO:0009987~cellular process
+105348986	GO:0008152~metabolic process
+105348988	GO:0009987~cellular process
+105349027	GO:0051179~localization
+105349134	GO:0050896~response to stimulus
+105349135	GO:0023052~signaling
+105349185	GO:0050896~response to stimulus
+808835	GO:0008152~metabolic process
+105317122	GO:0044699~single-organism process
+105317193	GO:0008152~metabolic process
+105317397	GO:0071840~cellular component organization or biogenesis
+105317439	GO:0008152~metabolic process
+105317472	GO:0008152~metabolic process
+105317541	GO:0008152~metabolic process
+105317570	GO:0044699~single-organism process
+105317637	GO:0044699~single-organism process
+105317646	GO:0044699~single-organism process
+105317646	GO:0008152~metabolic process
+105317658	GO:0008152~metabolic process
+105317745	GO:0032502~developmental process
+105317783	GO:0008152~metabolic process
+105317888	GO:0065007~biological regulation
+105317952	GO:0044699~single-organism process
+105318090	GO:0009987~cellular process
+105318125	GO:0008152~metabolic process
+105318387	GO:0009987~cellular process
+105318392	GO:0050789~regulation of biological process
+105318404	GO:0009987~cellular process
+105318569	GO:0009987~cellular process
+105318649	GO:0008152~metabolic process
+105318668	GO:0009987~cellular process
+105318858	GO:0009987~cellular process
+105318858	GO:0044699~single-organism process
+105318860	GO:0044699~single-organism process
+105319048	GO:0009987~cellular process
+105319056	GO:0065007~biological regulation
+105319134	GO:0009987~cellular process
+105319150	GO:0009987~cellular process
+105319167	GO:0009987~cellular process
+105319192	GO:0009987~cellular process
+105319341	GO:0008152~metabolic process
+105319409	GO:0008152~metabolic process
+105319538	GO:0044699~single-organism process
+105319552	GO:0009987~cellular process
+105319619	GO:0008152~metabolic process
+105319721	GO:0050789~regulation of biological process
+105319826	GO:0008152~metabolic process
+105319932	GO:0009987~cellular process
+105320074	GO:0008152~metabolic process
+105320100	GO:0071840~cellular component organization or biogenesis
+105320100	GO:0050789~regulation of biological process
+105320341	GO:0044699~single-organism process
+105320382	GO:0050789~regulation of biological process
+105320382	GO:0044699~single-organism process
+105320422	GO:0009987~cellular process
+105320433	GO:0008152~metabolic process
+105320716	GO:0051179~localization
+105320770	GO:0050896~response to stimulus
+105320770	GO:0023052~signaling
+105320791	GO:0023052~signaling
+105320900	GO:0065007~biological regulation
+105321012	GO:0065007~biological regulation
+105321101	GO:0008152~metabolic process
+105321180	GO:0008152~metabolic process
+105321221	GO:0009987~cellular process
+105321241	GO:0051179~localization
+105321523	GO:0071840~cellular component organization or biogenesis
+105321613	GO:0009987~cellular process
+105321830	GO:0009987~cellular process
+105321830	GO:0050789~regulation of biological process
+105322265	GO:0009987~cellular process
+105322330	GO:0008152~metabolic process
+105322492	GO:0023052~signaling
+105322552	GO:0008152~metabolic process
+105322568	GO:0008152~metabolic process
+105322576	GO:0009987~cellular process
+105322698	GO:0009987~cellular process
+105322958	GO:0009987~cellular process
+105323010	GO:0050789~regulation of biological process
+105323087	GO:0050789~regulation of biological process
+105323133	GO:0009987~cellular process
+105323153	GO:0050789~regulation of biological process
+105323161	GO:0050789~regulation of biological process
+105323540	GO:0009987~cellular process
+105323187	GO:0009987~cellular process
+105323190	GO:0065007~biological regulation
+105323192	GO:0050896~response to stimulus
+105323262	GO:0008152~metabolic process
+105323264	GO:0050896~response to stimulus
+105323279	GO:0050789~regulation of biological process
+105323317	GO:0050789~regulation of biological process
+105323365	GO:0050789~regulation of biological process
+105323394	GO:0044699~single-organism process
+105323540	GO:0050789~regulation of biological process
+105323589	GO:0009987~cellular process
+105323733	GO:0008152~metabolic process
+105323796	GO:0008152~metabolic process
+105323796	GO:0009987~cellular process
+105324334	GO:0008152~metabolic process
+105324454	GO:0065007~biological regulation
+105324508	GO:0044699~single-organism process
+105324534	GO:0009987~cellular process
+105324643	GO:0023052~signaling
+105324643	GO:0065007~biological regulation
+105324643	GO:0050789~regulation of biological process
+105324661	GO:0071840~cellular component organization or biogenesis
+105324844	GO:0050896~response to stimulus
+105324844	GO:0009987~cellular process
+105324853	GO:0009987~cellular process
+105324863	GO:0008152~metabolic process
+105324884	GO:0065007~biological regulation
+105324895	GO:0044699~single-organism process
+105324933	GO:0008152~metabolic process
+105325013	GO:0044699~single-organism process
+105325075	GO:0008152~metabolic process
+105325123	GO:0023052~signaling
+105325168	GO:0008152~metabolic process
+105325247	GO:0008152~metabolic process
+105325279	GO:0008152~metabolic process
+105325376	GO:0009987~cellular process
+105325395	GO:0023052~signaling
+105325413	GO:0044699~single-organism process
+105325432	GO:0009987~cellular process
+105325531	GO:0009987~cellular process
+105325534	GO:0071840~cellular component organization or biogenesis
+105325534	GO:0044699~single-organism process
+105325537	GO:0044699~single-organism process
+105325538	GO:0071840~cellular component organization or biogenesis
+105325587	GO:0050789~regulation of biological process
+105325608	GO:0023052~signaling
+105325623	GO:0065007~biological regulation
+105325848	GO:0009987~cellular process
+105325867	GO:0009987~cellular process
+105325966	GO:0044699~single-organism process
+105325966	GO:0009987~cellular process
+105326107	GO:0008152~metabolic process
+105326166	GO:0050896~response to stimulus
+105326250	GO:0051179~localization
+105326544	GO:0009987~cellular process
+105326647	GO:0009987~cellular process
+105326723	GO:0044699~single-organism process
+105326860	GO:0009987~cellular process
+105326926	GO:0051179~localization
+105327034	GO:0008152~metabolic process
+105327166	GO:0065007~biological regulation
+105327239	GO:0065007~biological regulation
+105327336	GO:0050789~regulation of biological process
+105327336	GO:0009987~cellular process
+105327336	GO:0065007~biological regulation
+105327393	GO:0065007~biological regulation
+105327406	GO:0065007~biological regulation
+105327406	GO:0050896~response to stimulus
+105327437	GO:0051179~localization
+105327448	GO:0009987~cellular process
+105327454	GO:0009987~cellular process
+105327493	GO:0044699~single-organism process
+105327634	GO:0008152~metabolic process
+105327634	GO:0044699~single-organism process
+105327718	GO:0044699~single-organism process
+105327718	GO:0065007~biological regulation
+105327855	GO:0050896~response to stimulus
+105327855	GO:0050789~regulation of biological process
+105327885	GO:0009987~cellular process
+105327927	GO:0009987~cellular process
+105327951	GO:0044699~single-organism process
+105327958	GO:0044699~single-organism process
+105328117	GO:0050896~response to stimulus
+105328509	GO:0065007~biological regulation
+105328544	GO:0044699~single-organism process
+105328475	GO:0009987~cellular process
+105328475	GO:0065007~biological regulation
+105328477	GO:0050896~response to stimulus
+105328482	GO:0009987~cellular process
+105328482	GO:0065007~biological regulation
+105328482	GO:0023052~signaling
+105328526	GO:0051179~localization
+105328594	GO:0023052~signaling
+105328605	GO:0008152~metabolic process
+105328605	GO:0009987~cellular process
+105328697	GO:0008152~metabolic process
+105328734	GO:0044699~single-organism process
+105328918	GO:0065007~biological regulation
+105329001	GO:0050789~regulation of biological process
+105329168	GO:0071840~cellular component organization or biogenesis
+105329390	GO:0008152~metabolic process
+105329448	GO:0044699~single-organism process
+105329463	GO:0008152~metabolic process
+105329546	GO:0009987~cellular process
+105329578	GO:0065007~biological regulation
+105329748	GO:0051179~localization
+105329913	GO:0009987~cellular process
+105329922	GO:0044699~single-organism process
+105329937	GO:0008152~metabolic process
+105330110	GO:0008152~metabolic process
+105330118	GO:0009987~cellular process
+105330130	GO:0009987~cellular process
+105330227	GO:0008152~metabolic process
+105330445	GO:0044699~single-organism process
+105330593	GO:0009987~cellular process
+105330593	GO:0008152~metabolic process
+105330655	GO:0009987~cellular process
+105330665	GO:0071840~cellular component organization or biogenesis
+105330718	GO:0044699~single-organism process
+105330845	GO:0044699~single-organism process
+105330983	GO:0008152~metabolic process
+105330983	GO:0009987~cellular process
+105331060	GO:0023052~signaling
+105331061	GO:0008152~metabolic process
+105331593	GO:0009987~cellular process
+105331189	GO:0009987~cellular process
+105331548	GO:0050896~response to stimulus
+105331668	GO:0009987~cellular process
+105331688	GO:0065007~biological regulation
+105332419	GO:0050789~regulation of biological process
+105331932	GO:0009987~cellular process
+105332133	GO:0009987~cellular process
+105332186	GO:0023052~signaling
+105332186	GO:0050896~response to stimulus
+105332223	GO:0009987~cellular process
+105332223	GO:0008152~metabolic process
+105332223	GO:0023052~signaling
+105332296	GO:0050896~response to stimulus
+105332317	GO:0044699~single-organism process
+105332419	GO:0023052~signaling
+105332531	GO:0050789~regulation of biological process
+105332531	GO:0009987~cellular process
+105332577	GO:0008152~metabolic process
+105332611	GO:0050789~regulation of biological process
+105332759	GO:0009987~cellular process
+105332680	GO:0050789~regulation of biological process
+105332783	GO:0065007~biological regulation
+105332783	GO:0023052~signaling
+105332784	GO:0051179~localization
+105332792	GO:0009987~cellular process
+105332874	GO:0008152~metabolic process
+105332877	GO:0050896~response to stimulus
+105332995	GO:0008152~metabolic process
+105333107	GO:0050896~response to stimulus
+105333107	GO:0065007~biological regulation
+105333107	GO:0050789~regulation of biological process
+105333119	GO:0009987~cellular process
+105333126	GO:0044699~single-organism process
+105333144	GO:0009987~cellular process
+105333172	GO:0050789~regulation of biological process
+105333363	GO:0009987~cellular process
+105333593	GO:0008152~metabolic process
+105333760	GO:0008152~metabolic process
+105333760	GO:0044699~single-organism process
+105333773	GO:0051179~localization
+105333845	GO:0050896~response to stimulus
+105333888	GO:0023052~signaling
+105334012	GO:0050789~regulation of biological process
+105334333	GO:0008152~metabolic process
+105334566	GO:0071840~cellular component organization or biogenesis
+105334613	GO:0009987~cellular process
+105334663	GO:0008152~metabolic process
+105334663	GO:0044699~single-organism process
+105334681	GO:0023052~signaling
+105334890	GO:0009987~cellular process
+105336152	GO:0009987~cellular process
+105335208	GO:0009987~cellular process
+105335420	GO:0050789~regulation of biological process
+105335811	GO:0009987~cellular process
+105335992	GO:0008152~metabolic process
+105336069	GO:0008152~metabolic process
+105336075	GO:0008152~metabolic process
+105336103	GO:0008152~metabolic process
+105336365	GO:0009987~cellular process
+105336922	GO:0009987~cellular process
+105336365	GO:0065007~biological regulation
+105336376	GO:0023052~signaling
+105336376	GO:0050896~response to stimulus
+105336377	GO:0044699~single-organism process
+105336548	GO:0051179~localization
+105336584	GO:0009987~cellular process
+105336584	GO:0032502~developmental process
+105336685	GO:0050896~response to stimulus
+105336700	GO:0009987~cellular process
+105336757	GO:0044699~single-organism process
+105336761	GO:0008152~metabolic process
+105336795	GO:0008152~metabolic process
+105336829	GO:0009987~cellular process
+105337244	GO:0008152~metabolic process
+105337298	GO:0050896~response to stimulus
+105337298	GO:0023052~signaling
+105337339	GO:0050789~regulation of biological process
+105337340	GO:0023052~signaling
+105337382	GO:0009987~cellular process
+105337382	GO:0050896~response to stimulus
+105337384	GO:0044699~single-organism process
+105337536	GO:0050789~regulation of biological process
+105337536	GO:0065007~biological regulation
+105337537	GO:0050789~regulation of biological process
+105337695	GO:0009987~cellular process
+105337746	GO:0009987~cellular process
+105337798	GO:0009987~cellular process
+105337812	GO:0044699~single-organism process
+105337844	GO:0065007~biological regulation
+105337844	GO:0008152~metabolic process
+105337858	GO:0009987~cellular process
+105337858	GO:0065007~biological regulation
+105337930	GO:0051179~localization
+105338085	GO:0009987~cellular process
+105338221	GO:0065007~biological regulation
+105338273	GO:0050789~regulation of biological process
+105338273	GO:0050896~response to stimulus
+105338527	GO:0044699~single-organism process
+105338540	GO:0050896~response to stimulus
+105338619	GO:0023052~signaling
+105338677	GO:0065007~biological regulation
+105338756	GO:0044699~single-organism process
+105338856	GO:0009987~cellular process
+105338914	GO:0008152~metabolic process
+105338951	GO:0008152~metabolic process
+105338952	GO:0008152~metabolic process
+105338996	GO:0044699~single-organism process
+105339016	GO:0050789~regulation of biological process
+105339016	GO:0044699~single-organism process
+105339039	GO:0008152~metabolic process
+105339244	GO:0009987~cellular process
+105339296	GO:0008152~metabolic process
+105339321	GO:0008152~metabolic process
+105339347	GO:0071840~cellular component organization or biogenesis
+105339535	GO:0009987~cellular process
+105339544	GO:0009987~cellular process
+105339575	GO:0009987~cellular process
+105340424	GO:0009987~cellular process
+105339902	GO:0008152~metabolic process
+105340123	GO:0009987~cellular process
+105340350	GO:0071840~cellular component organization or biogenesis
+105340424	GO:0008152~metabolic process
+105340433	GO:0065007~biological regulation
+105340465	GO:0009987~cellular process
+105340465	GO:0050789~regulation of biological process
+105340465	GO:0050896~response to stimulus
+105340476	GO:0009987~cellular process
+105341117	GO:0050896~response to stimulus
+105340566	GO:0008152~metabolic process
+105340582	GO:0009987~cellular process
+105340613	GO:0051179~localization
+105340613	GO:0009987~cellular process
+105340639	GO:0008152~metabolic process
+105340697	GO:0008152~metabolic process
+105340722	GO:0051179~localization
+105340925	GO:0008152~metabolic process
+105341069	GO:0050789~regulation of biological process
+105341095	GO:0050789~regulation of biological process
+105341117	GO:0009987~cellular process
+105341117	GO:0023052~signaling
+105341160	GO:0044699~single-organism process
+105341297	GO:0009987~cellular process
+105341297	GO:0050896~response to stimulus
+105341297	GO:0050789~regulation of biological process
+105341388	GO:0065007~biological regulation
+105341391	GO:0009987~cellular process
+105341393	GO:0044699~single-organism process
+105341393	GO:0065007~biological regulation
+105341394	GO:0050789~regulation of biological process
+105341394	GO:0044699~single-organism process
+105341444	GO:0009987~cellular process
+105341515	GO:0044699~single-organism process
+105341586	GO:0050789~regulation of biological process
+105341586	GO:0009987~cellular process
+105341698	GO:0050789~regulation of biological process
+105341811	GO:0008152~metabolic process
+105341925	GO:0044699~single-organism process
+105341996	GO:0065007~biological regulation
+105341996	GO:0032501~multicellular organismal process
+105342019	GO:0050896~response to stimulus
+105342031	GO:0050896~response to stimulus
+105342031	GO:0044699~single-organism process
+105342335	GO:0008152~metabolic process
+105342338	GO:0065007~biological regulation
+105342338	GO:0050896~response to stimulus
+105342387	GO:0023052~signaling
+105342415	GO:0044699~single-organism process
+105343071	GO:0009987~cellular process
+105343095	GO:0050789~regulation of biological process
+105343349	GO:0044699~single-organism process
+105342529	GO:0051179~localization
+105342546	GO:0008152~metabolic process
+105342587	GO:0008152~metabolic process
+105342587	GO:0050896~response to stimulus
+105342597	GO:0008152~metabolic process
+105342853	GO:0008152~metabolic process
+105342896	GO:0065007~biological regulation
+105342953	GO:0050896~response to stimulus
+105342953	GO:0009987~cellular process
+105342980	GO:0044699~single-organism process
+105343050	GO:0009987~cellular process
+105343071	GO:0044699~single-organism process
+105343159	GO:0044699~single-organism process
+105343201	GO:0065007~biological regulation
+105343203	GO:0023052~signaling
+105343250	GO:0009987~cellular process
+105343332	GO:0065007~biological regulation
+105343343	GO:0044699~single-organism process
+105344096	GO:0023052~signaling
+105343427	GO:0008152~metabolic process
+105343429	GO:0065007~biological regulation
+105343487	GO:0065007~biological regulation
+105343794	GO:0008152~metabolic process
+105343883	GO:0008152~metabolic process
+105344063	GO:0001906~cell killing
+105344083	GO:0044699~single-organism process
+105344212	GO:0023052~signaling
+105344212	GO:0065007~biological regulation
+105344258	GO:0009987~cellular process
+105344224	GO:0044699~single-organism process
+105344268	GO:0051179~localization
+105344277	GO:0008152~metabolic process
+105344282	GO:0044699~single-organism process
+105344310	GO:0009987~cellular process
+105344372	GO:0044699~single-organism process
+105344372	GO:0050896~response to stimulus
+105344483	GO:0032501~multicellular organismal process
+105344499	GO:0071840~cellular component organization or biogenesis
+105344519	GO:0008152~metabolic process
+105344562	GO:0044699~single-organism process
+105344624	GO:0050896~response to stimulus
+105344649	GO:0008152~metabolic process
+105344652	GO:0009987~cellular process
+105344740	GO:0050896~response to stimulus
+105345045	GO:0009987~cellular process
+105345084	GO:0044699~single-organism process
+105345084	GO:0008152~metabolic process
+105345800	GO:0050789~regulation of biological process
+105345162	GO:0008152~metabolic process
+105345185	GO:0008152~metabolic process
+105345221	GO:0009987~cellular process
+105345251	GO:0032501~multicellular organismal process
+105345279	GO:0009987~cellular process
+105345287	GO:0009987~cellular process
+105345292	GO:0050896~response to stimulus
+105345431	GO:0044699~single-organism process
+105345575	GO:0008152~metabolic process
+105345690	GO:0051179~localization
+105345701	GO:0051179~localization
+105345757	GO:0050896~response to stimulus
+105345800	GO:0009987~cellular process
+105345819	GO:0050789~regulation of biological process
+105345819	GO:0009987~cellular process
+105346495	GO:0008152~metabolic process
+105345822	GO:0008152~metabolic process
+105345940	GO:0071840~cellular component organization or biogenesis
+105346005	GO:0051179~localization
+105346007	GO:0008152~metabolic process
+105346104	GO:0044699~single-organism process
+105346104	GO:0032502~developmental process
+105346307	GO:0044699~single-organism process
+105346358	GO:0032501~multicellular organismal process
+105346397	GO:0009987~cellular process
+105346419	GO:0050896~response to stimulus
+105346419	GO:0044699~single-organism process
+105346718	GO:0009987~cellular process
+105346846	GO:0009987~cellular process
+105346960	GO:0050789~regulation of biological process
+105347376	GO:0065007~biological regulation
+105347043	GO:0008152~metabolic process
+105347139	GO:0050896~response to stimulus
+105347203	GO:0023052~signaling
+105347306	GO:0023052~signaling
+105347320	GO:0050789~regulation of biological process
+105347320	GO:0044699~single-organism process
+105347344	GO:0009987~cellular process
+105347919	GO:0044699~single-organism process
+105347499	GO:0009987~cellular process
+105347546	GO:0050896~response to stimulus
+105347546	GO:0050789~regulation of biological process
+105347620	GO:0023052~signaling
+105347620	GO:0050896~response to stimulus
+105347625	GO:0050789~regulation of biological process
+105347814	GO:0044699~single-organism process
+105347971	GO:0008152~metabolic process
+105347974	GO:0009987~cellular process
+105347974	GO:0044699~single-organism process
+105348237	GO:0008152~metabolic process
+105348550	GO:0009987~cellular process
+105348988	GO:0050896~response to stimulus
+105348565	GO:0008152~metabolic process
+105348611	GO:0044699~single-organism process
+105348957	GO:0044699~single-organism process
+105348988	GO:0044699~single-organism process
+105348988	GO:0022414~reproductive process
+105349013	GO:0008152~metabolic process
+105349030	GO:0008152~metabolic process
+105349073	GO:0008152~metabolic process
+105349126	GO:0044699~single-organism process
+105349126	GO:0071840~cellular component organization or biogenesis
+105349134	GO:0065007~biological regulation
+105349134	GO:0023052~signaling
+105349135	GO:0009987~cellular process
+105349185	GO:0065007~biological regulation
+808825	GO:0009987~cellular process
+808833	GO:0044699~single-organism process
+105317143	GO:0050896~response to stimulus
+105317162	GO:0044699~single-organism process
+105317397	GO:0009987~cellular process
+105317952	GO:0051179~localization
+105317556	GO:0009987~cellular process
+105317607	GO:0044699~single-organism process
+105317608	GO:0009987~cellular process
+105317646	GO:0009987~cellular process
+105317745	GO:0022610~biological adhesion
+105317828	GO:0065007~biological regulation
+105317888	GO:0071840~cellular component organization or biogenesis
+105317888	GO:0009987~cellular process
+105317917	GO:0022610~biological adhesion
+105318090	GO:0051179~localization
+105318103	GO:0023052~signaling
+105318105	GO:0009987~cellular process
+105318209	GO:0044699~single-organism process
+105318288	GO:0071840~cellular component organization or biogenesis
+105318387	GO:0065007~biological regulation
+105318549	GO:0008152~metabolic process
+105318649	GO:0009987~cellular process
+105318678	GO:0044699~single-organism process
+105318810	GO:0044699~single-organism process
+105318858	GO:0008152~metabolic process
+105318860	GO:0009987~cellular process
+105318860	GO:0050789~regulation of biological process
+105318945	GO:0009987~cellular process
+105319134	GO:0065007~biological regulation
+105319240	GO:0050896~response to stimulus
+105319350	GO:0008152~metabolic process
+105319542	GO:0009987~cellular process
+105319565	GO:0044699~single-organism process
+105319566	GO:0009987~cellular process
+105319597	GO:0008152~metabolic process
+105319721	GO:0009987~cellular process
+105319833	GO:0009987~cellular process
+105319862	GO:0050789~regulation of biological process
+105319862	GO:0050896~response to stimulus
+105319862	GO:0009987~cellular process
+105319919	GO:0009987~cellular process
+105319919	GO:0008152~metabolic process
+105320092	GO:0044699~single-organism process
+105320100	GO:0009987~cellular process
+105320100	GO:0065007~biological regulation
+105320341	GO:0009987~cellular process
+105320382	GO:0050896~response to stimulus
+105320430	GO:0071840~cellular component organization or biogenesis
+105320545	GO:0009987~cellular process
+105320545	GO:0071840~cellular component organization or biogenesis
+105320608	GO:0032502~developmental process
+105320608	GO:0040007~growth
+105320645	GO:0051179~localization
+105320683	GO:0009987~cellular process
+105320698	GO:0009987~cellular process
+105320721	GO:0009987~cellular process
+105320742	GO:0009987~cellular process
+105320742	GO:0071840~cellular component organization or biogenesis
+105320770	GO:0044699~single-organism process
+105320900	GO:0044699~single-organism process
+105320900	GO:0023052~signaling
+105321001	GO:0009987~cellular process
+105321012	GO:0023052~signaling
+105321100	GO:0008152~metabolic process
+105321101	GO:0009987~cellular process
+105321104	GO:0009987~cellular process
+105321104	GO:0065007~biological regulation
+105321180	GO:0009987~cellular process
+105321221	GO:0008152~metabolic process
+105321530	GO:0008152~metabolic process
+105321584	GO:0008152~metabolic process
+105321600	GO:0009987~cellular process
+105321613	GO:0050789~regulation of biological process
+105321613	GO:0023052~signaling
+105321613	GO:0044699~single-organism process
+105321632	GO:0044699~single-organism process
+105321633	GO:0009987~cellular process
+105321827	GO:0050789~regulation of biological process
+105321854	GO:0009987~cellular process
+105321854	GO:0050896~response to stimulus
+105322157	GO:0009987~cellular process
+105322205	GO:0044699~single-organism process
+105322205	GO:0008152~metabolic process
+105322262	GO:0009987~cellular process
+105322305	GO:0044699~single-organism process
+105322305	GO:0032502~developmental process
+105322320	GO:0044699~single-organism process
+105322320	GO:0009987~cellular process
+105322341	GO:0050789~regulation of biological process
+105322432	GO:0008152~metabolic process
+105322512	GO:0051179~localization
+105322747	GO:0044699~single-organism process
+105322880	GO:0009987~cellular process
+105323015	GO:0065007~biological regulation
+105323015	GO:0009987~cellular process
+105323053	GO:0050789~regulation of biological process
+105323132	GO:0008152~metabolic process
+105323369	GO:0044699~single-organism process
+105323394	GO:0009987~cellular process
+105324220	GO:0009987~cellular process
+105323167	GO:0008152~metabolic process
+105323190	GO:0009987~cellular process
+105323190	GO:0050896~response to stimulus
+105323279	GO:0044699~single-organism process
+105323294	GO:0065007~biological regulation
+105323294	GO:0009987~cellular process
+105323313	GO:0044699~single-organism process
+105323317	GO:0044699~single-organism process
+105323383	GO:0008152~metabolic process
+105323540	GO:0008152~metabolic process
+105323572	GO:0050896~response to stimulus
+105323575	GO:0008152~metabolic process
+105323580	GO:0008152~metabolic process
+105323589	GO:0008152~metabolic process
+105323809	GO:0009987~cellular process
+105323809	GO:0065007~biological regulation
+105324220	GO:0008152~metabolic process
+105324224	GO:0008152~metabolic process
+105324224	GO:0009987~cellular process
+105324235	GO:0008152~metabolic process
+105324253	GO:0009987~cellular process
+105324356	GO:0009987~cellular process
+105324507	GO:0008152~metabolic process
+105324507	GO:0009987~cellular process
+105324548	GO:0009987~cellular process
+105324643	GO:0009987~cellular process
+105324710	GO:0009987~cellular process
+105324820	GO:0051179~localization
+105324820	GO:0044699~single-organism process
+105324980	GO:0044699~single-organism process
+105325111	GO:0008152~metabolic process
+105325179	GO:0022610~biological adhesion
+105325239	GO:0000003~reproduction
+105325239	GO:0044699~single-organism process
+105325242	GO:0050896~response to stimulus
+105325242	GO:0009987~cellular process
+105325345	GO:0044699~single-organism process
+105325397	GO:0023052~signaling
+105325531	GO:0071840~cellular component organization or biogenesis
+105325533	GO:0071840~cellular component organization or biogenesis
+105325538	GO:0044699~single-organism process
+105325606	GO:0009987~cellular process
+105325632	GO:0050896~response to stimulus
+105325674	GO:0009987~cellular process
+105325819	GO:0009987~cellular process
+105325894	GO:0071840~cellular component organization or biogenesis
+105325945	GO:0009987~cellular process
+105325945	GO:0008152~metabolic process
+105325946	GO:0050789~regulation of biological process
+105325966	GO:0065007~biological regulation
+105326051	GO:0008152~metabolic process
+105326107	GO:0044699~single-organism process
+105326196	GO:0044699~single-organism process
+105326275	GO:0009987~cellular process
+105326276	GO:0050789~regulation of biological process
+105326276	GO:0044699~single-organism process
+105326366	GO:0071840~cellular component organization or biogenesis
+105326426	GO:0009987~cellular process
+105326439	GO:0032502~developmental process
+105326474	GO:0009987~cellular process
+105326485	GO:0022610~biological adhesion
+105326517	GO:0008152~metabolic process
+105327001	GO:0008152~metabolic process
+105327437	GO:0044699~single-organism process
+105327746	GO:0008152~metabolic process
+105327826	GO:0051179~localization
+105326598	GO:0071840~cellular component organization or biogenesis
+105326695	GO:0009987~cellular process
+105326695	GO:0065007~biological regulation
+105326723	GO:0050789~regulation of biological process
+105327034	GO:0044699~single-organism process
+105327094	GO:0009987~cellular process
+105327094	GO:0008152~metabolic process
+105327125	GO:0044699~single-organism process
+105327125	GO:0009987~cellular process
+105327166	GO:0050896~response to stimulus
+105327279	GO:0008152~metabolic process
+105327331	GO:0044699~single-organism process
+105327336	GO:0023052~signaling
+105327445	GO:0009987~cellular process
+105327516	GO:0065007~biological regulation
+105327516	GO:0051179~localization
+105327723	GO:0009987~cellular process
+105327958	GO:0050896~response to stimulus
+105327855	GO:0065007~biological regulation
+105327927	GO:0050789~regulation of biological process
+105327951	GO:0009987~cellular process
+105328117	GO:0008152~metabolic process
+105328179	GO:0023052~signaling
+105328179	GO:0050789~regulation of biological process
+105328413	GO:0009987~cellular process
+105329390	GO:0009987~cellular process
+105328453	GO:0008152~metabolic process
+105328476	GO:0050789~regulation of biological process
+105328477	GO:0044699~single-organism process
+105328509	GO:0009987~cellular process
+105328544	GO:0050896~response to stimulus
+105328594	GO:0050896~response to stimulus
+105328916	GO:0065007~biological regulation
+105328929	GO:0008152~metabolic process
+105328929	GO:0009987~cellular process
+105329001	GO:0065007~biological regulation
+105329061	GO:0009987~cellular process
+105329087	GO:0065007~biological regulation
+105329119	GO:0071840~cellular component organization or biogenesis
+105329340	GO:0009987~cellular process
+105329398	GO:0044699~single-organism process
+105329398	GO:0009987~cellular process
+105329512	GO:0044699~single-organism process
+105329639	GO:0009987~cellular process
+105329650	GO:0050896~response to stimulus
+105329686	GO:0065007~biological regulation
+105329694	GO:0044699~single-organism process
+105329712	GO:0044699~single-organism process
+105329712	GO:0071840~cellular component organization or biogenesis
+105329775	GO:0050789~regulation of biological process
+105329913	GO:0044699~single-organism process
+105330147	GO:0009987~cellular process
+105330307	GO:0065007~biological regulation
+105330477	GO:0044699~single-organism process
+105330685	GO:0044699~single-organism process
+105330685	GO:0050789~regulation of biological process
+105330697	GO:0008152~metabolic process
+105330718	GO:0009987~cellular process
+105330731	GO:0071840~cellular component organization or biogenesis
+105330856	GO:0071840~cellular component organization or biogenesis
+105331124	GO:0022610~biological adhesion
+105331482	GO:0071840~cellular component organization or biogenesis
+105331253	GO:0008152~metabolic process
+105331256	GO:0009987~cellular process
+105331369	GO:0009987~cellular process
+105331557	GO:0071840~cellular component organization or biogenesis
+105331671	GO:0009987~cellular process
+105331707	GO:0065007~biological regulation
+105331707	GO:0050789~regulation of biological process
+105331810	GO:0044699~single-organism process
+105331932	GO:0008152~metabolic process
+105332020	GO:0008152~metabolic process
+105332044	GO:0009987~cellular process
+105332044	GO:0008152~metabolic process
+105332131	GO:0008152~metabolic process
+105332133	GO:0050896~response to stimulus
+105332136	GO:0044699~single-organism process
+105332142	GO:0009987~cellular process
+105332186	GO:0009987~cellular process
+105332317	GO:0071840~cellular component organization or biogenesis
+105332475	GO:0050789~regulation of biological process
+105332611	GO:0009987~cellular process
+105332611	GO:0023052~signaling
+105332656	GO:0044699~single-organism process
+105332764	GO:0051179~localization
+105332792	GO:0050896~response to stimulus
+105332874	GO:0071840~cellular component organization or biogenesis
+105332881	GO:0009987~cellular process
+105333107	GO:0009987~cellular process
+105333126	GO:0009987~cellular process
+105333151	GO:0009987~cellular process
+105333161	GO:0044699~single-organism process
+105333161	GO:0050896~response to stimulus
+105333225	GO:0009987~cellular process
+105333357	GO:0008152~metabolic process
+105333888	GO:0009987~cellular process
+105333392	GO:0044699~single-organism process
+105333392	GO:0008152~metabolic process
+105333462	GO:0008152~metabolic process
+105333474	GO:0044699~single-organism process
+105333569	GO:0009987~cellular process
+105333593	GO:0009987~cellular process
+105333670	GO:0050789~regulation of biological process
+105333797	GO:0044699~single-organism process
+105333845	GO:0065007~biological regulation
+105333864	GO:0008152~metabolic process
+105333888	GO:0050896~response to stimulus
+105334001	GO:0065007~biological regulation
+105334012	GO:0065007~biological regulation
+105334077	GO:0044699~single-organism process
+105334158	GO:0009987~cellular process
+105334326	GO:0009987~cellular process
+105334363	GO:0009987~cellular process
+105334481	GO:0050789~regulation of biological process
+105334568	GO:0050896~response to stimulus
+105334621	GO:0065007~biological regulation
+105334834	GO:0009987~cellular process
+105334890	GO:0050789~regulation of biological process
+105334902	GO:0065007~biological regulation
+105334902	GO:0023052~signaling
+105334902	GO:0044699~single-organism process
+105334902	GO:0050896~response to stimulus
+105334902	GO:0009987~cellular process
+105335678	GO:0065007~biological regulation
+105335076	GO:0009987~cellular process
+105335256	GO:0022610~biological adhesion
+105335523	GO:0009987~cellular process
+105335582	GO:0071840~cellular component organization or biogenesis
+105335599	GO:0009987~cellular process
+105335599	GO:0050789~regulation of biological process
+105335800	GO:0008152~metabolic process
+105335801	GO:0050789~regulation of biological process
+105336016	GO:0044699~single-organism process
+105336061	GO:0050896~response to stimulus
+105336096	GO:0008152~metabolic process
+105336249	GO:0008152~metabolic process
+105336376	GO:0009987~cellular process
+105336376	GO:0044699~single-organism process
+105336383	GO:0009987~cellular process
+105336445	GO:0051179~localization
+105336584	GO:0008152~metabolic process
+105336623	GO:0008152~metabolic process
+105336637	GO:0008152~metabolic process
+105336685	GO:0050789~regulation of biological process
+105336691	GO:0050896~response to stimulus
+105336700	GO:0050789~regulation of biological process
+105336786	GO:0071840~cellular component organization or biogenesis
+105336898	GO:0009987~cellular process
+105336898	GO:0008152~metabolic process
+105337695	GO:0008152~metabolic process
+105337059	GO:0009987~cellular process
+105337061	GO:0009987~cellular process
+105337061	GO:0008152~metabolic process
+105337064	GO:0009987~cellular process
+105337298	GO:0050789~regulation of biological process
+105337299	GO:0050789~regulation of biological process
+105337384	GO:0032501~multicellular organismal process
+105337448	GO:0044699~single-organism process
+105337448	GO:0050896~response to stimulus
+105337448	GO:0065007~biological regulation
+105337722	GO:0008152~metabolic process
+105337722	GO:0050789~regulation of biological process
+105337798	GO:0044699~single-organism process
+105337812	GO:0032501~multicellular organismal process
+105337859	GO:0009987~cellular process
+105337984	GO:0050789~regulation of biological process
+105337984	GO:0009987~cellular process
+105337984	GO:0023052~signaling
+105338221	GO:0050789~regulation of biological process
+105338280	GO:0008152~metabolic process
+105338435	GO:0008152~metabolic process
+105338435	GO:0009987~cellular process
+105338435	GO:0065007~biological regulation
+105338453	GO:0032502~developmental process
+105338453	GO:0044699~single-organism process
+105338528	GO:0044699~single-organism process
+105338540	GO:0065007~biological regulation
+105338540	GO:0050789~regulation of biological process
+105338540	GO:0044699~single-organism process
+105338584	GO:0009987~cellular process
+105338842	GO:0065007~biological regulation
+105338677	GO:0050896~response to stimulus
+105338798	GO:0044699~single-organism process
+105338856	GO:0008152~metabolic process
+105338996	GO:0050789~regulation of biological process
+105339016	GO:0009987~cellular process
+105339016	GO:0050896~response to stimulus
+105339039	GO:0009987~cellular process
+105339255	GO:0009987~cellular process
+105339296	GO:0009987~cellular process
+105339425	GO:0008152~metabolic process
+105339470	GO:0009987~cellular process
+105339535	GO:0023052~signaling
+105339560	GO:0009987~cellular process
+105340465	GO:0065007~biological regulation
+105339683	GO:0071840~cellular component organization or biogenesis
+105339683	GO:0044699~single-organism process
+105339901	GO:0050896~response to stimulus
+105339921	GO:0008152~metabolic process
+105340036	GO:0044699~single-organism process
+105340057	GO:0008152~metabolic process
+105340121	GO:0009987~cellular process
+105340187	GO:0008152~metabolic process
+105340316	GO:0009987~cellular process
+105340350	GO:0050789~regulation of biological process
+105340350	GO:0044699~single-organism process
+105340380	GO:0023052~signaling
+105340381	GO:0009987~cellular process
+105340424	GO:0044699~single-organism process
+105340512	GO:0044699~single-organism process
+105341744	GO:0008152~metabolic process
+105340639	GO:0009987~cellular process
+105340698	GO:0044699~single-organism process
+105341108	GO:0008152~metabolic process
+105341323	GO:0044699~single-organism process
+105341328	GO:0044699~single-organism process
+105341391	GO:0008152~metabolic process
+105341393	GO:0050789~regulation of biological process
+105341455	GO:0044699~single-organism process
+105341486	GO:0009987~cellular process
+105341586	GO:0008152~metabolic process
+105341586	GO:0044699~single-organism process
+105341698	GO:0008152~metabolic process
+105341703	GO:0008152~metabolic process
+105342120	GO:0008152~metabolic process
+105342392	GO:0050789~regulation of biological process
+105341794	GO:0009987~cellular process
+105342019	GO:0008152~metabolic process
+105342021	GO:0009987~cellular process
+105342021	GO:0065007~biological regulation
+105342183	GO:0008152~metabolic process
+105342183	GO:0044699~single-organism process
+105342392	GO:0065007~biological regulation
+105342415	GO:0050896~response to stimulus
+105343201	GO:0009987~cellular process
+105343328	GO:0022610~biological adhesion
+105342535	GO:0065007~biological regulation
+105342664	GO:0009987~cellular process
+105342664	GO:0065007~biological regulation
+105342692	GO:0008152~metabolic process
+105342731	GO:0050789~regulation of biological process
+105342896	GO:0023052~signaling
+105342980	GO:0008152~metabolic process
+105343010	GO:0009987~cellular process
+105343069	GO:0009987~cellular process
+105343203	GO:0044699~single-organism process
+105343203	GO:0065007~biological regulation
+105343291	GO:0009987~cellular process
+105343298	GO:0008152~metabolic process
+105343328	GO:0008152~metabolic process
+105343328	GO:0050789~regulation of biological process
+105343332	GO:0008152~metabolic process
+105343343	GO:0050896~response to stimulus
+105343349	GO:0008152~metabolic process
+105344117	GO:0009987~cellular process
+105343391	GO:0008152~metabolic process
+105343794	GO:0044699~single-organism process
+105344063	GO:0044699~single-organism process
+105344212	GO:0050896~response to stimulus
+105344214	GO:0023052~signaling
+105344224	GO:0050789~regulation of biological process
+105344310	GO:0050789~regulation of biological process
+105344310	GO:0065007~biological regulation
+105344372	GO:0023052~signaling
+105344372	GO:0008152~metabolic process
+105344376	GO:0051179~localization
+105344469	GO:0050896~response to stimulus
+105344483	GO:0044699~single-organism process
+105344487	GO:0009987~cellular process
+105344499	GO:0009987~cellular process
+105344641	GO:0009987~cellular process
+105344652	GO:0050789~regulation of biological process
+105344722	GO:0065007~biological regulation
+105344801	GO:0008152~metabolic process
+105344940	GO:0009987~cellular process
+105344940	GO:0002376~immune system process
+105344940	GO:0050896~response to stimulus
+105345018	GO:0008152~metabolic process
+105345084	GO:0009987~cellular process
+105345109	GO:0065007~biological regulation
+105345109	GO:0008152~metabolic process
+105345292	GO:0008152~metabolic process
+105345757	GO:0023052~signaling
+105345143	GO:0065007~biological regulation
+105345143	GO:0050789~regulation of biological process
+105345283	GO:0051179~localization
+105345317	GO:0009987~cellular process
+105345431	GO:0009987~cellular process
+105345575	GO:0009987~cellular process
+105345623	GO:0071840~cellular component organization or biogenesis
+105345680	GO:0044699~single-organism process
+105345690	GO:0044699~single-organism process
+105345757	GO:0009987~cellular process
+105345777	GO:0044699~single-organism process
+105346960	GO:0009987~cellular process
+105345924	GO:0009987~cellular process
+105345995	GO:0008152~metabolic process
+105346007	GO:0009987~cellular process
+105346162	GO:0008152~metabolic process
+105346267	GO:0050789~regulation of biological process
+105346307	GO:0050896~response to stimulus
+105346358	GO:0023052~signaling
+105346358	GO:0065007~biological regulation
+105346394	GO:0065007~biological regulation
+105346419	GO:0008152~metabolic process
+105346731	GO:0009987~cellular process
+105346747	GO:0044699~single-organism process
+105346774	GO:0008152~metabolic process
+105346955	GO:0071840~cellular component organization or biogenesis
+105346960	GO:0032501~multicellular organismal process
+105346997	GO:0071840~cellular component organization or biogenesis
+105347012	GO:0009987~cellular process
+105347058	GO:0050789~regulation of biological process
+105347132	GO:0008152~metabolic process
+105347139	GO:0008152~metabolic process
+105347139	GO:0044699~single-organism process
+105347203	GO:0050789~regulation of biological process
+105347203	GO:0044699~single-organism process
+105347262	GO:0051179~localization
+105347262	GO:0044699~single-organism process
+105347306	GO:0044699~single-organism process
+105347344	GO:0050789~regulation of biological process
+105347346	GO:0044699~single-organism process
+105347376	GO:0050896~response to stimulus
+105347376	GO:0050789~regulation of biological process
+105347412	GO:0009987~cellular process
+105348069	GO:0009987~cellular process
+105348237	GO:0009987~cellular process
+105347464	GO:0071840~cellular component organization or biogenesis
+105347464	GO:0065007~biological regulation
+105347546	GO:0023052~signaling
+105347620	GO:0009987~cellular process
+105347625	GO:0065007~biological regulation
+105347640	GO:0009987~cellular process
+105347670	GO:0044699~single-organism process
+105347906	GO:0044699~single-organism process
+105347919	GO:0051179~localization
+105348069	GO:0008152~metabolic process
+105348136	GO:0008152~metabolic process
+105348179	GO:0050789~regulation of biological process
+105348179	GO:0044699~single-organism process
+105348430	GO:0009987~cellular process
+105348446	GO:0023052~signaling
+105348550	GO:0050896~response to stimulus
+105348550	GO:0050789~regulation of biological process
+105348581	GO:0044699~single-organism process
+105349070	GO:0071840~cellular component organization or biogenesis
+105349070	GO:0023052~signaling
+105348590	GO:0008152~metabolic process
+105348659	GO:0023052~signaling
+105348659	GO:0009987~cellular process
+105348659	GO:0050896~response to stimulus
+105348742	GO:0044699~single-organism process
+105349058	GO:0050896~response to stimulus
+105349070	GO:0050896~response to stimulus
+105349070	GO:0050789~regulation of biological process
+105349070	GO:0032502~developmental process
+105349070	GO:0032501~multicellular organismal process
+105349134	GO:0009987~cellular process
+808825	GO:0008152~metabolic process
+808827	GO:0044699~single-organism process
+808829	GO:0008152~metabolic process
+808833	GO:0009987~cellular process
+105317034	GO:0008152~metabolic process
+105317162	GO:0009987~cellular process
+105317408	GO:0009987~cellular process
+105317440	GO:0008152~metabolic process
+105317440	GO:0009987~cellular process
+105317478	GO:0009987~cellular process
+105317498	GO:0008152~metabolic process
+105317500	GO:0008152~metabolic process
+105317541	GO:0050789~regulation of biological process
+105317607	GO:0009987~cellular process
+105317618	GO:0009987~cellular process
+105317637	GO:0051179~localization
+105317762	GO:0065007~biological regulation
+105317809	GO:0065007~biological regulation
+105317914	GO:0044699~single-organism process
+105318103	GO:0065007~biological regulation
+105318127	GO:0044699~single-organism process
+105318127	GO:0051179~localization
+105318387	GO:0023052~signaling
+105318488	GO:0050896~response to stimulus
+105318649	GO:0050896~response to stimulus
+105318654	GO:0009987~cellular process
+105318678	GO:0009987~cellular process
+105318783	GO:0009987~cellular process
+105318922	GO:0008152~metabolic process
+105318957	GO:0065007~biological regulation
+105318957	GO:0023052~signaling
+105319056	GO:0008152~metabolic process
+105319086	GO:0008152~metabolic process
+105319133	GO:0009987~cellular process
+105319133	GO:0008152~metabolic process
+105319240	GO:0009987~cellular process
+105319371	GO:0009987~cellular process
+105319510	GO:0051179~localization
+105319542	GO:0008152~metabolic process
+105319565	GO:0051179~localization
+105319566	GO:0050896~response to stimulus
+105319826	GO:0009987~cellular process
+105319862	GO:0023052~signaling
+105319931	GO:0009987~cellular process
+105320073	GO:0051179~localization
+105320092	GO:0008152~metabolic process
+105320186	GO:0008152~metabolic process
+105320332	GO:0065007~biological regulation
+105320407	GO:0071840~cellular component organization or biogenesis
+105320422	GO:0071840~cellular component organization or biogenesis
+105320543	GO:0008152~metabolic process
+105320608	GO:0022610~biological adhesion
+105320669	GO:0008152~metabolic process
+105320669	GO:0009987~cellular process
+105320698	GO:0044699~single-organism process
+105320721	GO:0008152~metabolic process
+105320770	GO:0050789~regulation of biological process
+105320791	GO:0044699~single-organism process
+105320791	GO:0050789~regulation of biological process
+105320900	GO:0050789~regulation of biological process
+105321084	GO:0009987~cellular process
+105321089	GO:0044699~single-organism process
+105321104	GO:0023052~signaling
+105321126	GO:0008152~metabolic process
+105321179	GO:0051179~localization
+105321523	GO:0050789~regulation of biological process
+105321546	GO:0009987~cellular process
+105321584	GO:0009987~cellular process
+105321600	GO:0071840~cellular component organization or biogenesis
+105321607	GO:0009987~cellular process
+105321654	GO:0008152~metabolic process
+105321830	GO:0065007~biological regulation
+105321830	GO:0044699~single-organism process
+105321854	GO:0065007~biological regulation
+105322157	GO:0008152~metabolic process
+105322314	GO:0044699~single-organism process
+105322492	GO:0050896~response to stimulus
+105322512	GO:0044699~single-organism process
+105322528	GO:0051179~localization
+105322528	GO:0044699~single-organism process
+105322576	GO:0008152~metabolic process
+105322698	GO:0044699~single-organism process
+105322710	GO:0050896~response to stimulus
+105322710	GO:0050789~regulation of biological process
+105322747	GO:0008152~metabolic process
+105322856	GO:0009987~cellular process
+105322950	GO:0009987~cellular process
+105323010	GO:0009987~cellular process
+105323010	GO:0065007~biological regulation
+105323089	GO:0051179~localization
+105323089	GO:0071840~cellular component organization or biogenesis
+105323135	GO:0009987~cellular process
+105323153	GO:0009987~cellular process
+105323161	GO:0009987~cellular process
+105323161	GO:0044699~single-organism process
+105323196	GO:0050896~response to stimulus
+105323187	GO:0008152~metabolic process
+105323214	GO:0071840~cellular component organization or biogenesis
+105323257	GO:0008152~metabolic process
+105323264	GO:0050789~regulation of biological process
+105323279	GO:0065007~biological regulation
+105323313	GO:0050789~regulation of biological process
+105323365	GO:0065007~biological regulation
+105323365	GO:0032501~multicellular organismal process
+105323365	GO:0009987~cellular process
+105323369	GO:0065007~biological regulation
+105323369	GO:0009987~cellular process
+105323383	GO:0044699~single-organism process
+105323394	GO:0065007~biological regulation
+105323405	GO:0009987~cellular process
+105323506	GO:0050896~response to stimulus
+105323563	GO:0044699~single-organism process
+105323603	GO:0008152~metabolic process
+105323769	GO:0044699~single-organism process
+105323769	GO:0009987~cellular process
+105323809	GO:0050789~regulation of biological process
+105324105	GO:0044699~single-organism process
+105324253	GO:0050789~regulation of biological process
+105324298	GO:0009987~cellular process
+105324643	GO:0050896~response to stimulus
+105325586	GO:0009987~cellular process
+105324895	GO:0051179~localization
+105325123	GO:0050896~response to stimulus
+105325173	GO:0008152~metabolic process
+105325174	GO:0050789~regulation of biological process
+105325179	GO:0044699~single-organism process
+105325242	GO:0032501~multicellular organismal process
+105325242	GO:0032502~developmental process
+105325376	GO:0008152~metabolic process
+105325395	GO:0050896~response to stimulus
+105325432	GO:0008152~metabolic process
+105325470	GO:0050789~regulation of biological process
+105325532	GO:0009987~cellular process
+105325533	GO:0044699~single-organism process
+105325533	GO:0009987~cellular process
+105325534	GO:0009987~cellular process
+105325586	GO:0050789~regulation of biological process
+105325587	GO:0065007~biological regulation
+105325587	GO:0044699~single-organism process
+105325588	GO:0044699~single-organism process
+105325623	GO:0009987~cellular process
+105325623	GO:0050789~regulation of biological process
+105325635	GO:0050789~regulation of biological process
+105325635	GO:0009987~cellular process
+105325785	GO:0008152~metabolic process
+105325787	GO:0032501~multicellular organismal process
+105325787	GO:0044699~single-organism process
+105325867	GO:0071840~cellular component organization or biogenesis
+105325946	GO:0065007~biological regulation
+105325966	GO:0050789~regulation of biological process
+105325966	GO:0023052~signaling
+105326051	GO:0044699~single-organism process
+105326081	GO:0009987~cellular process
+105326166	GO:0002376~immune system process
+105326366	GO:0008152~metabolic process
+105326426	GO:0071840~cellular component organization or biogenesis
+105326484	GO:0022610~biological adhesion
+105326593	GO:0008152~metabolic process
+105327454	GO:0050789~regulation of biological process
+105326598	GO:0009987~cellular process
+105326646	GO:0009987~cellular process
+105326695	GO:0008152~metabolic process
+105326708	GO:0009987~cellular process
+105327166	GO:0044699~single-organism process
+105327172	GO:0008152~metabolic process
+105327279	GO:0009987~cellular process
+105327365	GO:0008152~metabolic process
+105327393	GO:0009987~cellular process
+105327393	GO:0050789~regulation of biological process
+105327393	GO:0008152~metabolic process
+105327437	GO:0009987~cellular process
+105327454	GO:0050896~response to stimulus
+105327826	GO:0040011~locomotion
+105327826	GO:0044699~single-organism process
+105327847	GO:0009987~cellular process
+105327927	GO:0032501~multicellular organismal process
+105327958	GO:0023052~signaling
+105328227	GO:0008152~metabolic process
+105329340	GO:0008152~metabolic process
+105328453	GO:0009987~cellular process
+105328483	GO:0009987~cellular process
+105328483	GO:0050896~response to stimulus
+105328594	GO:0065007~biological regulation
+105328594	GO:0044699~single-organism process
+105328869	GO:0009987~cellular process
+105328918	GO:0044699~single-organism process
+105328924	GO:0050789~regulation of biological process
+105328983	GO:0008152~metabolic process
+105328983	GO:0044699~single-organism process
+105329337	GO:0008152~metabolic process
+105329512	GO:0008152~metabolic process
+105329527	GO:0051179~localization
+105329527	GO:0009987~cellular process
+105329578	GO:0050789~regulation of biological process
+105329587	GO:0009987~cellular process
+105329599	GO:0009987~cellular process
+105329639	GO:0008152~metabolic process
+105329640	GO:0009987~cellular process
+105329650	GO:0065007~biological regulation
+105329709	GO:0050896~response to stimulus
+105329775	GO:0009987~cellular process
+105329775	GO:0065007~biological regulation
+105329785	GO:0050896~response to stimulus
+105329913	GO:0065007~biological regulation
+105330118	GO:0044699~single-organism process
+105330307	GO:0050789~regulation of biological process
+105330500	GO:0051179~localization
+105330500	GO:0009987~cellular process
+105330515	GO:0009987~cellular process
+105330573	GO:0008152~metabolic process
+105330685	GO:0009987~cellular process
+105330742	GO:0009987~cellular process
+105330742	GO:0044699~single-organism process
+105330845	GO:0009987~cellular process
+105331012	GO:0050789~regulation of biological process
+105331028	GO:0051179~localization
+105331238	GO:0009987~cellular process
+105331256	GO:0044699~single-organism process
+105331369	GO:0008152~metabolic process
+105331408	GO:0009987~cellular process
+105331482	GO:0008152~metabolic process
+105331557	GO:0009987~cellular process
+105331571	GO:0008152~metabolic process
+105331588	GO:0009987~cellular process
+105331722	GO:0009987~cellular process
+105331784	GO:0051179~localization
+105331959	GO:0071840~cellular component organization or biogenesis
+105331959	GO:0065007~biological regulation
+105332128	GO:0044699~single-organism process
+105332128	GO:0050789~regulation of biological process
+105332129	GO:0008152~metabolic process
+105332131	GO:0071840~cellular component organization or biogenesis
+105332194	GO:0065007~biological regulation
+105332203	GO:0009987~cellular process
+105332223	GO:0050789~regulation of biological process
+105332291	GO:0044699~single-organism process
+105332317	GO:0008152~metabolic process
+105332419	GO:0050896~response to stimulus
+105332475	GO:0044699~single-organism process
+105332572	GO:0009987~cellular process
+105332572	GO:0044699~single-organism process
+105332611	GO:0044699~single-organism process
+105332675	GO:0009987~cellular process
+105332764	GO:0044699~single-organism process
+105332874	GO:0009987~cellular process
+105332874	GO:0065007~biological regulation
+105333144	GO:0050789~regulation of biological process
+105333151	GO:0044699~single-organism process
+105333154	GO:0009987~cellular process
+105333161	GO:0009987~cellular process
+105333172	GO:0009987~cellular process
+105333172	GO:0023052~signaling
+105333258	GO:0009987~cellular process
+105333315	GO:0044699~single-organism process
+105333359	GO:0008152~metabolic process
+105334087	GO:0051179~localization
+105333393	GO:0009987~cellular process
+105333448	GO:0008152~metabolic process
+105333556	GO:0009987~cellular process
+105333760	GO:0009987~cellular process
+105333797	GO:0008152~metabolic process
+105333800	GO:0065007~biological regulation
+105333806	GO:0051179~localization
+105333806	GO:0009987~cellular process
+105333845	GO:0044699~single-organism process
+105333864	GO:0009987~cellular process
+105333888	GO:0065007~biological regulation
+105334252	GO:0008152~metabolic process
+105334326	GO:0071840~cellular component organization or biogenesis
+105334327	GO:0071840~cellular component organization or biogenesis
+105334527	GO:0044699~single-organism process
+105334527	GO:0009987~cellular process
+105334621	GO:0050789~regulation of biological process
+105335025	GO:0050789~regulation of biological process
+105334890	GO:0071840~cellular component organization or biogenesis
+105334955	GO:0009987~cellular process
+105335025	GO:0044699~single-organism process
+105335187	GO:0009987~cellular process
+105335187	GO:0050789~regulation of biological process
+105335420	GO:0009987~cellular process
+105335420	GO:0065007~biological regulation
+105335428	GO:0044699~single-organism process
+105335678	GO:0008152~metabolic process
+105335800	GO:0071840~cellular component organization or biogenesis
+105335801	GO:0065007~biological regulation
+105335811	GO:0071840~cellular component organization or biogenesis
+105335878	GO:0009987~cellular process
+105336016	GO:0009987~cellular process
+105336028	GO:0009987~cellular process
+105336028	GO:0008152~metabolic process
+105336036	GO:0009987~cellular process
+105336075	GO:0009987~cellular process
+105336095	GO:0008152~metabolic process
+105336240	GO:0044699~single-organism process
+105336264	GO:0008152~metabolic process
+105336312	GO:0008152~metabolic process
+105336322	GO:0009987~cellular process
+105336365	GO:0023052~signaling
+105336685	GO:0023052~signaling
+105336792	GO:0008152~metabolic process
+105336377	GO:0051179~localization
+105336396	GO:0023052~signaling
+105336479	GO:0044699~single-organism process
+105336584	GO:0032501~multicellular organismal process
+105336637	GO:0050789~regulation of biological process
+105336667	GO:0009987~cellular process
+105336691	GO:0044699~single-organism process
+105336829	GO:0051179~localization
+105336829	GO:0071840~cellular component organization or biogenesis
+105336876	GO:0044699~single-organism process
+105336951	GO:0008152~metabolic process
+105337632	GO:0050789~regulation of biological process
+105337858	GO:0050789~regulation of biological process
+105337984	GO:0050896~response to stimulus
+105336986	GO:0009987~cellular process
+105337064	GO:0044699~single-organism process
+105337064	GO:0050896~response to stimulus
+105337125	GO:0008152~metabolic process
+105337298	GO:0044699~single-organism process
+105337340	GO:0050789~regulation of biological process
+105337536	GO:0023052~signaling
+105337632	GO:0009987~cellular process
+105337632	GO:0050896~response to stimulus
+105337722	GO:0009987~cellular process
+105337812	GO:0050789~regulation of biological process
+105337859	GO:0023052~signaling
+105337862	GO:0008152~metabolic process
+105337947	GO:0008152~metabolic process
+105338221	GO:0044699~single-organism process
+105338273	GO:0009987~cellular process
+105338280	GO:0065007~biological regulation
+105338280	GO:0009987~cellular process
+105338324	GO:0051179~localization
+105338331	GO:0009987~cellular process
+105338426	GO:0008152~metabolic process
+105338453	GO:0009987~cellular process
+105338454	GO:0071840~cellular component organization or biogenesis
+105338527	GO:0065007~biological regulation
+105338528	GO:0065007~biological regulation
+105338531	GO:0008152~metabolic process
+105338540	GO:0023052~signaling
+105338798	GO:0009987~cellular process
+105338584	GO:0008152~metabolic process
+105338589	GO:0044699~single-organism process
+105338619	GO:0050789~regulation of biological process
+105338677	GO:0009987~cellular process
+105338756	GO:0009987~cellular process
+105338951	GO:0044699~single-organism process
+105338952	GO:0009987~cellular process
+105338996	GO:0009987~cellular process
+105338996	GO:0050896~response to stimulus
+105339014	GO:0009987~cellular process
+105339341	GO:0008152~metabolic process
+105339347	GO:0050789~regulation of biological process
+105339372	GO:0044699~single-organism process
+105339425	GO:0065007~biological regulation
+105339575	GO:0044699~single-organism process
+105339795	GO:0065007~biological regulation
+105339795	GO:0008152~metabolic process
+105339795	GO:0050896~response to stimulus
+105340045	GO:0071840~cellular component organization or biogenesis
+105340123	GO:0008152~metabolic process
+105340316	GO:0008152~metabolic process
+105340334	GO:0008152~metabolic process
+105340433	GO:0023052~signaling
+105340438	GO:0008152~metabolic process
+105340476	GO:0065007~biological regulation
+105340512	GO:0008152~metabolic process
+105340621	GO:0044699~single-organism process
+105340642	GO:0008152~metabolic process
+105340688	GO:0051179~localization
+105341189	GO:0044699~single-organism process
+105341323	GO:0051179~localization
+105341328	GO:0050789~regulation of biological process
+105341347	GO:0009987~cellular process
+105341391	GO:0065007~biological regulation
+105341393	GO:0050896~response to stimulus
+105342392	GO:0008152~metabolic process
+105341794	GO:0023052~signaling
+105341794	GO:0050789~regulation of biological process
+105341804	GO:0051179~localization
+105341925	GO:0009987~cellular process
+105341954	GO:0009987~cellular process
+105341954	GO:0050789~regulation of biological process
+105341996	GO:0050789~regulation of biological process
+105342021	GO:0050789~regulation of biological process
+105342031	GO:0050789~regulation of biological process
+105342150	GO:0009987~cellular process
+105342338	GO:0009987~cellular process
+105342387	GO:0044699~single-organism process
+105342415	GO:0065007~biological regulation
+105342415	GO:0009987~cellular process
+105342692	GO:0009987~cellular process
+105342515	GO:0009987~cellular process
+105342529	GO:0009987~cellular process
+105342535	GO:0071840~cellular component organization or biogenesis
+105342670	GO:0009987~cellular process
+105342694	GO:0009987~cellular process
+105342694	GO:0071840~cellular component organization or biogenesis
+105342853	GO:0065007~biological regulation
+105342953	GO:0050789~regulation of biological process
+105343010	GO:0008152~metabolic process
+105343056	GO:0044699~single-organism process
+105343095	GO:0008152~metabolic process
+105343203	GO:0009987~cellular process
+105343250	GO:0044699~single-organism process
+105343328	GO:0065007~biological regulation
+105343391	GO:0009987~cellular process
+105343429	GO:0009987~cellular process
+105343349	GO:0009987~cellular process
+105343391	GO:0044699~single-organism process
+105343429	GO:0044699~single-organism process
+105343692	GO:0071840~cellular component organization or biogenesis
+105343692	GO:0009987~cellular process
+105343909	GO:0008152~metabolic process
+105343974	GO:0044699~single-organism process
+105343974	GO:0050789~regulation of biological process
+105344018	GO:0009987~cellular process
+105344063	GO:0065007~biological regulation
+105344096	GO:0050896~response to stimulus
+105344128	GO:0008152~metabolic process
+105344192	GO:0071840~cellular component organization or biogenesis
+105344211	GO:0050789~regulation of biological process
+105344562	GO:0050896~response to stimulus
+105344214	GO:0044699~single-organism process
+105344224	GO:0065007~biological regulation
+105344277	GO:0009987~cellular process
+105344282	GO:0009987~cellular process
+105344310	GO:0008152~metabolic process
+105344347	GO:0008152~metabolic process
+105344372	GO:0009987~cellular process
+105344376	GO:0044699~single-organism process
+105344483	GO:0032502~developmental process
+105344487	GO:0071840~cellular component organization or biogenesis
+105344499	GO:0050789~regulation of biological process
+105344641	GO:0050896~response to stimulus
+105344649	GO:0009987~cellular process
+105344722	GO:0050789~regulation of biological process
+105344825	GO:0009987~cellular process
+105344940	GO:0065007~biological regulation
+105345018	GO:0044699~single-organism process
+105345143	GO:0044699~single-organism process
+105345162	GO:0071840~cellular component organization or biogenesis
+105345162	GO:0009987~cellular process
+105345205	GO:0008152~metabolic process
+105345205	GO:0009987~cellular process
+105345221	GO:0044699~single-organism process
+105345221	GO:0065007~biological regulation
+105345292	GO:0009987~cellular process
+105345314	GO:0009987~cellular process
+105345371	GO:0065007~biological regulation
+105345371	GO:0050789~regulation of biological process
+105345691	GO:0044699~single-organism process
+105345691	GO:0051179~localization
+105345779	GO:0008152~metabolic process
+105346104	GO:0008152~metabolic process
+105346174	GO:0050789~regulation of biological process
+105346267	GO:0065007~biological regulation
+105346267	GO:0009987~cellular process
+105346908	GO:0009987~cellular process
+105345866	GO:0008152~metabolic process
+105345936	GO:0065007~biological regulation
+105345995	GO:0009987~cellular process
+105346005	GO:0009987~cellular process
+105346017	GO:0009987~cellular process
+105346174	GO:0065007~biological regulation
+105346174	GO:0023052~signaling
+105346203	GO:0044699~single-organism process
+105346203	GO:0009987~cellular process
+105346265	GO:0050896~response to stimulus
+105346349	GO:0050789~regulation of biological process
+105346358	GO:0009987~cellular process
+105346358	GO:0050896~response to stimulus
+105346747	GO:0008152~metabolic process
+105346960	GO:0065007~biological regulation
+105347011	GO:0051179~localization
+105347027	GO:0009987~cellular process
+105347109	GO:0022610~biological adhesion
+105347347	GO:0009987~cellular process
+105347460	GO:0009987~cellular process
+105348069	GO:0050789~regulation of biological process
+105348553	GO:0065007~biological regulation
+105347463	GO:0050789~regulation of biological process
+105347463	GO:0009987~cellular process
+105347464	GO:0009987~cellular process
+105347546	GO:0009987~cellular process
+105347546	GO:0065007~biological regulation
+105347548	GO:0009987~cellular process
+105347620	GO:0044699~single-organism process
+105347625	GO:0008152~metabolic process
+105347667	GO:0009987~cellular process
+105347800	GO:0008152~metabolic process
+105347903	GO:0051179~localization
+105348011	GO:0008152~metabolic process
+105348044	GO:0044699~single-organism process
+105348446	GO:0050789~regulation of biological process
+105348550	GO:0032502~developmental process
+105348583	GO:0065007~biological regulation
+105348583	GO:0044699~single-organism process
+105348583	GO:0050789~regulation of biological process
+105348592	GO:0023052~signaling
+105348656	GO:0009987~cellular process
+105348659	GO:0050789~regulation of biological process
+105348702	GO:0071840~cellular component organization or biogenesis
+105348931	GO:0044699~single-organism process
+105348932	GO:0044699~single-organism process
+105348957	GO:0008152~metabolic process
+105349027	GO:0009987~cellular process
+105349070	GO:0044699~single-organism process
+105349126	GO:0009987~cellular process
+105349135	GO:0050896~response to stimulus
+105349135	GO:0050789~regulation of biological process
+808828	GO:0044699~single-organism process
+808835	GO:0044699~single-organism process
+808835	GO:0009987~cellular process
+105317193	GO:0044699~single-organism process
+105317278	GO:0008152~metabolic process
+105317395	GO:0009987~cellular process
+105317397	GO:0044699~single-organism process
+105317440	GO:0044699~single-organism process
+105317745	GO:0044699~single-organism process
+105317541	GO:0050896~response to stimulus
+105317541	GO:0009987~cellular process
+105317556	GO:0008152~metabolic process
+105317745	GO:0050896~response to stimulus
+105317762	GO:0008152~metabolic process
+105317809	GO:0044699~single-organism process
+105317809	GO:0023052~signaling
+105317914	GO:0051179~localization
+105318125	GO:0009987~cellular process
+105318209	GO:0009987~cellular process
+105318290	GO:0050896~response to stimulus
+105318342	GO:0009987~cellular process
+105318488	GO:0065007~biological regulation
+105318488	GO:0023052~signaling
+105318569	GO:0008152~metabolic process
+105318708	GO:0051179~localization
+105318850	GO:0050789~regulation of biological process
+105318850	GO:0008152~metabolic process
+105318855	GO:0008152~metabolic process
+105318855	GO:0044699~single-organism process
+105318855	GO:0009987~cellular process
+105318856	GO:0032501~multicellular organismal process
+105318856	GO:0050789~regulation of biological process
+105318858	GO:0032501~multicellular organismal process
+105318945	GO:0008152~metabolic process
+105318957	GO:0044699~single-organism process
+105319056	GO:0050789~regulation of biological process
+105319241	GO:0008152~metabolic process
+105319341	GO:0044699~single-organism process
+105319721	GO:0008152~metabolic process
+105319753	GO:0008152~metabolic process
+105319797	GO:0009987~cellular process
+105319797	GO:0008152~metabolic process
+105319808	GO:0009987~cellular process
+105319827	GO:0008152~metabolic process
+105320100	GO:0008152~metabolic process
+105320332	GO:0050789~regulation of biological process
+105320341	GO:0050896~response to stimulus
+105320341	GO:0065007~biological regulation
+105320382	GO:0065007~biological regulation
+105320382	GO:0009987~cellular process
+105320562	GO:0009987~cellular process
+105320634	GO:0009987~cellular process
+105320961	GO:0008152~metabolic process
+105321104	GO:0044699~single-organism process
+105321179	GO:0044699~single-organism process
+105321523	GO:0008152~metabolic process
+105321523	GO:0065007~biological regulation
+105321527	GO:0009987~cellular process
+105321543	GO:0009987~cellular process
+105321584	GO:0044699~single-organism process
+105321613	GO:0050896~response to stimulus
+105321632	GO:0008152~metabolic process
+105321827	GO:0065007~biological regulation
+105321861	GO:0009987~cellular process
+105322124	GO:0050896~response to stimulus
+105322360	GO:0071840~cellular component organization or biogenesis
+105322360	GO:0009987~cellular process
+105322396	GO:0009987~cellular process
+105322492	GO:0050789~regulation of biological process
+105322492	GO:0065007~biological regulation
+105322510	GO:0051179~localization
+105322526	GO:0008152~metabolic process
+105322698	GO:0008152~metabolic process
+105322722	GO:0051179~localization
+105322880	GO:0008152~metabolic process
+105323010	GO:0044699~single-organism process
+105323053	GO:0050896~response to stimulus
+105323132	GO:0044699~single-organism process
+105323135	GO:0065007~biological regulation
+105323135	GO:0050789~regulation of biological process
+105323167	GO:0009987~cellular process
+105323313	GO:0065007~biological regulation
+105323187	GO:0044699~single-organism process
+105323213	GO:0009987~cellular process
+105323219	GO:0051179~localization
+105323257	GO:0009987~cellular process
+105323279	GO:0023052~signaling
+105323294	GO:0044699~single-organism process
+105323317	GO:0050896~response to stimulus
+105323375	GO:0008152~metabolic process
+105323375	GO:0009987~cellular process
+105323375	GO:0050789~regulation of biological process
+105323383	GO:0009987~cellular process
+105323453	GO:0009987~cellular process
+105323463	GO:0009987~cellular process
+105323540	GO:0044699~single-organism process
+105323558	GO:0051179~localization
+105323572	GO:0009987~cellular process
+105323603	GO:0009987~cellular process
+105323796	GO:0044699~single-organism process
+105324105	GO:0009987~cellular process
+105324253	GO:0044699~single-organism process
+105324273	GO:0050896~response to stimulus
+105324356	GO:0008152~metabolic process
+105324454	GO:0009987~cellular process
+105324497	GO:0008152~metabolic process
+105324507	GO:0044699~single-organism process
+105324545	GO:0008152~metabolic process
+105324710	GO:0008152~metabolic process
+105324799	GO:0009987~cellular process
+105324884	GO:0050789~regulation of biological process
+105324980	GO:0008152~metabolic process
+105325013	GO:0032502~developmental process
+105325013	GO:0032501~multicellular organismal process
+105325075	GO:0009987~cellular process
+105325174	GO:0009987~cellular process
+105325174	GO:0023052~signaling
+105325179	GO:0032502~developmental process
+105325179	GO:0040007~growth
+105325239	GO:0022414~reproductive process
+105325239	GO:0051704~multi-organism process
+105325242	GO:0065007~biological regulation
+105325247	GO:0009987~cellular process
+105325247	GO:0044699~single-organism process
+105325345	GO:0071840~cellular component organization or biogenesis
+105325345	GO:0009987~cellular process
+105325397	GO:0009987~cellular process
+105325432	GO:0044699~single-organism process
+105325500	GO:0009987~cellular process
+105325531	GO:0044699~single-organism process
+105325586	GO:0065007~biological regulation
+105325674	GO:0071840~cellular component organization or biogenesis
+105325593	GO:0009987~cellular process
+105325606	GO:0071840~cellular component organization or biogenesis
+105325608	GO:0050789~regulation of biological process
+105325808	GO:0009987~cellular process
+105325828	GO:0008152~metabolic process
+105325831	GO:0009987~cellular process
+105325848	GO:0051179~localization
+105325899	GO:0008152~metabolic process
+105326276	GO:0023052~signaling
+105326276	GO:0065007~biological regulation
+105326382	GO:0008152~metabolic process
+105326487	GO:0065007~biological regulation
+105326544	GO:0044699~single-organism process
+105326598	GO:0051179~localization
+105327106	GO:0009987~cellular process
+105326695	GO:0050789~regulation of biological process
+105326708	GO:0008152~metabolic process
+105326723	GO:0008152~metabolic process
+105326860	GO:0008152~metabolic process
+105327106	GO:0008152~metabolic process
+105327160	GO:0009987~cellular process
+105327165	GO:0023052~signaling
+105327166	GO:0050789~regulation of biological process
+105327172	GO:0009987~cellular process
+105327172	GO:0044699~single-organism process
+105327239	GO:0050789~regulation of biological process
+105327437	GO:0071840~cellular component organization or biogenesis
+105327454	GO:0065007~biological regulation
+105327493	GO:0051179~localization
+105327496	GO:0032502~developmental process
+105327548	GO:0044699~single-organism process
+105327579	GO:0040007~growth
+105327635	GO:0009987~cellular process
+105327723	GO:0065007~biological regulation
+105328179	GO:0009987~cellular process
+105327885	GO:0065007~biological regulation
+105327885	GO:0051179~localization
+105327958	GO:0050789~regulation of biological process
+105328095	GO:0008152~metabolic process
+105328179	GO:0050896~response to stimulus
+105328179	GO:0044699~single-organism process
+105328322	GO:0051179~localization
+105328413	GO:0044699~single-organism process
+105328475	GO:0050896~response to stimulus
+105328475	GO:0050789~regulation of biological process
+105328476	GO:0009987~cellular process
+105328476	GO:0044699~single-organism process
+105328477	GO:0009987~cellular process
+105328533	GO:0009987~cellular process
+105328863	GO:0050896~response to stimulus
+105328869	GO:0044699~single-organism process
+105328887	GO:0044699~single-organism process
+105329001	GO:0050896~response to stimulus
+105329001	GO:0009987~cellular process
+105329019	GO:0044699~single-organism process
+105329019	GO:0009987~cellular process
+105329080	GO:0009987~cellular process
+105329087	GO:0071840~cellular component organization or biogenesis
+105329087	GO:0008152~metabolic process
+105329168	GO:0009987~cellular process
+105329390	GO:0044699~single-organism process
+105329444	GO:0008152~metabolic process
+105329546	GO:0008152~metabolic process
+105329587	GO:0044699~single-organism process
+105329612	GO:0008152~metabolic process
+105329694	GO:0023052~signaling
+105329709	GO:0009987~cellular process
+105329775	GO:0023052~signaling
+105329904	GO:0009987~cellular process
+105329964	GO:0044699~single-organism process
+105330015	GO:0008152~metabolic process
+105330024	GO:0071840~cellular component organization or biogenesis
+105330024	GO:0009987~cellular process
+105330038	GO:0009987~cellular process
+105330110	GO:0009987~cellular process
+105330118	GO:0050896~response to stimulus
+105330685	GO:0065007~biological regulation
+105330856	GO:0044699~single-organism process
+105331000	GO:0009987~cellular process
+105331012	GO:0044699~single-organism process
+105331012	GO:0071840~cellular component organization or biogenesis
+105331115	GO:0044699~single-organism process
+105331148	GO:0051179~localization
+105331206	GO:0008152~metabolic process
+105331253	GO:0050896~response to stimulus
+105331406	GO:0008152~metabolic process
+105331408	GO:0008152~metabolic process
+105331423	GO:0008152~metabolic process
+105331482	GO:0044699~single-organism process
+105331566	GO:0008152~metabolic process
+105331566	GO:0009987~cellular process
+105331926	GO:0009987~cellular process
+105332133	GO:0008152~metabolic process
+105332180	GO:0009987~cellular process
+105332184	GO:0008152~metabolic process
+105332194	GO:0071840~cellular component organization or biogenesis
+105332194	GO:0009987~cellular process
+105332200	GO:0044699~single-organism process
+105332223	GO:0044699~single-organism process
+105332296	GO:0009987~cellular process
+105332303	GO:0009987~cellular process
+105332419	GO:0009987~cellular process
+105332419	GO:0065007~biological regulation
+105332575	GO:0008152~metabolic process
+105332610	GO:0008152~metabolic process
+105333161	GO:0050789~regulation of biological process
+105332680	GO:0009987~cellular process
+105332874	GO:0044699~single-organism process
+105332877	GO:0009987~cellular process
+105332881	GO:0071840~cellular component organization or biogenesis
+105333107	GO:0023052~signaling
+105333108	GO:0050896~response to stimulus
+105333108	GO:0023052~signaling
+105333161	GO:0065007~biological regulation
+105333161	GO:0022610~biological adhesion
+105333167	GO:0009987~cellular process
+105333167	GO:0050789~regulation of biological process
+105333225	GO:0008152~metabolic process
+105333257	GO:0009987~cellular process
+105333315	GO:0065007~biological regulation
+105333359	GO:0009987~cellular process
+105333393	GO:0044699~single-organism process
+105333462	GO:0044699~single-organism process
+105333556	GO:0023052~signaling
+105333670	GO:0008152~metabolic process
+105333706	GO:0050789~regulation of biological process
+105333800	GO:0044699~single-organism process
+105333806	GO:0044699~single-organism process
+105333845	GO:0050789~regulation of biological process
+105333860	GO:0044699~single-organism process
+105333860	GO:0051179~localization
+105333888	GO:0050789~regulation of biological process
+105334012	GO:0044699~single-organism process
+105334012	GO:0009987~cellular process
+105334087	GO:0009987~cellular process
+105334120	GO:0009987~cellular process
+105334213	GO:0009987~cellular process
+105334251	GO:0008152~metabolic process
+105334263	GO:0009987~cellular process
+105334328	GO:0071840~cellular component organization or biogenesis
+105334328	GO:0044699~single-organism process
+105334363	GO:0051179~localization
+105334566	GO:0009987~cellular process
+105334613	GO:0065007~biological regulation
+105334621	GO:0044699~single-organism process
+105334681	GO:0009987~cellular process
+105334689	GO:0044699~single-organism process
+105334761	GO:0009987~cellular process
+105334890	GO:0044699~single-organism process
+105334890	GO:0065007~biological regulation
+105334902	GO:0071840~cellular component organization or biogenesis
+105334993	GO:0008152~metabolic process
+105334993	GO:0009987~cellular process
+105335025	GO:0065007~biological regulation
+105335027	GO:0065007~biological regulation
+105335027	GO:0050789~regulation of biological process
+105336365	GO:0050789~regulation of biological process
+105335420	GO:0032501~multicellular organismal process
+105335553	GO:0050896~response to stimulus
+105335782	GO:0009987~cellular process
+105335895	GO:0009987~cellular process
+105335997	GO:0065007~biological regulation
+105336014	GO:0008152~metabolic process
+105336061	GO:0009987~cellular process
+105336096	GO:0009987~cellular process
+105336103	GO:0009987~cellular process
+105336106	GO:0008152~metabolic process
+105336312	GO:0044699~single-organism process
+105336322	GO:0044699~single-organism process
+105336396	GO:0050896~response to stimulus
+105336377	GO:0009987~cellular process
+105336584	GO:0050789~regulation of biological process
+105336637	GO:0065007~biological regulation
+105336667	GO:0071840~cellular component organization or biogenesis
+105336685	GO:0009987~cellular process
+105336691	GO:0023052~signaling
+105336700	GO:0065007~biological regulation
+105336786	GO:0032502~developmental process
+105336792	GO:0009987~cellular process
+105336966	GO:0009987~cellular process
+105336969	GO:0008152~metabolic process
+105337244	GO:0044699~single-organism process
+105337708	GO:0051179~localization
+105337059	GO:0071840~cellular component organization or biogenesis
+105337125	GO:0009987~cellular process
+105337299	GO:0009987~cellular process
+105337299	GO:0023052~signaling
+105337340	GO:0044699~single-organism process
+105337340	GO:0050896~response to stimulus
+105337340	GO:0065007~biological regulation
+105337379	GO:0009987~cellular process
+105337516	GO:0044699~single-organism process
+105337532	GO:0008152~metabolic process
+105337536	GO:0044699~single-organism process
+105337537	GO:0065007~biological regulation
+105337537	GO:0044699~single-organism process
+105337812	GO:0009987~cellular process
+105337844	GO:0009987~cellular process
+105337859	GO:0050896~response to stimulus
+105337859	GO:0050789~regulation of biological process
+105338074	GO:0051179~localization
+105338218	GO:0044699~single-organism process
+105338403	GO:0051179~localization
+105338528	GO:0009987~cellular process
+105338531	GO:0009987~cellular process
+105338540	GO:0008152~metabolic process
+105338540	GO:0009987~cellular process
+105338583	GO:0044699~single-organism process
+105338589	GO:0009987~cellular process
+105338682	GO:0051179~localization
+105338683	GO:0051179~localization
+105338740	GO:0051179~localization
+105338793	GO:0065007~biological regulation
+105338793	GO:0050896~response to stimulus
+105338879	GO:0009987~cellular process
+105338997	GO:0009987~cellular process
+105338999	GO:0032502~developmental process
+105339014	GO:0008152~metabolic process
+105339016	GO:0023052~signaling
+105339247	GO:0044699~single-organism process
+105339296	GO:0023052~signaling
+105339296	GO:0050896~response to stimulus
+105339425	GO:0050789~regulation of biological process
+105339544	GO:0050789~regulation of biological process
+105339552	GO:0009987~cellular process
+105339560	GO:0044699~single-organism process
+105339646	GO:0044699~single-organism process
+105339671	GO:0009987~cellular process
+105339683	GO:0009987~cellular process
+105339789	GO:0008152~metabolic process
+105339849	GO:0009987~cellular process
+105340036	GO:0009987~cellular process
+105340116	GO:0044699~single-organism process
+105340169	GO:0044699~single-organism process
+105340169	GO:0009987~cellular process
+105340350	GO:0065007~biological regulation
+105340434	GO:0071840~cellular component organization or biogenesis
+105340582	GO:0008152~metabolic process
+105340621	GO:0050789~regulation of biological process
+105340685	GO:0008152~metabolic process
+105341297	GO:0044699~single-organism process
+105341328	GO:0065007~biological regulation
+105341356	GO:0050789~regulation of biological process
+105341356	GO:0008152~metabolic process
+105341393	GO:0009987~cellular process
+105341515	GO:0009987~cellular process
+105341586	GO:0050896~response to stimulus
+105341698	GO:0065007~biological regulation
+105341703	GO:0032501~multicellular organismal process
+105341767	GO:0071840~cellular component organization or biogenesis
+105341794	GO:0044699~single-organism process
+105342258	GO:0050789~regulation of biological process
+105342267	GO:0008152~metabolic process
+105342338	GO:0050789~regulation of biological process
+105342387	GO:0065007~biological regulation
+105342692	GO:0044699~single-organism process
+105343203	GO:0050789~regulation of biological process
+105342515	GO:0008152~metabolic process
+105342597	GO:0009987~cellular process
+105342664	GO:0050789~regulation of biological process
+105342664	GO:0023052~signaling
+105342664	GO:0050896~response to stimulus
+105342670	GO:0050896~response to stimulus
+105342853	GO:0044699~single-organism process
+105342896	GO:0050896~response to stimulus
+105342896	GO:0050789~regulation of biological process
+105342953	GO:0044699~single-organism process
+105343056	GO:0051179~localization
+105343343	GO:0008152~metabolic process
+105343349	GO:0051179~localization
+105343813	GO:0009987~cellular process
+105344063	GO:0071840~cellular component organization or biogenesis
+105343487	GO:0044699~single-organism process
+105343692	GO:0044699~single-organism process
+105343815	GO:0044699~single-organism process
+105343815	GO:0051179~localization
+105343909	GO:0044699~single-organism process
+105344083	GO:0009987~cellular process
+105344117	GO:0044699~single-organism process
+105344128	GO:0009987~cellular process
+105344152	GO:0009987~cellular process
+105344165	GO:0008152~metabolic process
+105344212	GO:0044699~single-organism process
+105345001	GO:0009987~cellular process
+105344224	GO:0050896~response to stimulus
+105344224	GO:0023052~signaling
+105344224	GO:0009987~cellular process
+105344258	GO:0008152~metabolic process
+105344268	GO:0044699~single-organism process
+105344333	GO:0065007~biological regulation
+105344333	GO:0071840~cellular component organization or biogenesis
+105344333	GO:0050789~regulation of biological process
+105344372	GO:0065007~biological regulation
+105344519	GO:0044699~single-organism process
+105344575	GO:0009987~cellular process
+105344624	GO:0050789~regulation of biological process
+105344652	GO:0050896~response to stimulus
+105344801	GO:0009987~cellular process
+105344941	GO:0009987~cellular process
+105345045	GO:0008152~metabolic process
+105345139	GO:0008152~metabolic process
+105345287	GO:0071840~cellular component organization or biogenesis
+105345143	GO:0050896~response to stimulus
+105345283	GO:0071840~cellular component organization or biogenesis
+105345283	GO:0009987~cellular process
+105345333	GO:0008152~metabolic process
+105345377	GO:0065007~biological regulation
+105345377	GO:0008152~metabolic process
+105345377	GO:0009987~cellular process
+105345431	GO:0008152~metabolic process
+105345701	GO:0044699~single-organism process
+105345757	GO:0044699~single-organism process
+105345819	GO:0044699~single-organism process
+105345819	GO:0023052~signaling
+105345940	GO:0009987~cellular process
+105346001	GO:0044699~single-organism process
+105345822	GO:0009987~cellular process
+105345924	GO:0071840~cellular component organization or biogenesis
+105345936	GO:0050789~regulation of biological process
+105345936	GO:0009987~cellular process
+105346007	GO:0044699~single-organism process
+105346104	GO:0009987~cellular process
+105346174	GO:0044699~single-organism process
+105346203	GO:0008152~metabolic process
+105346267	GO:0071840~cellular component organization or biogenesis
+105346307	GO:0023052~signaling
+105346358	GO:0032502~developmental process
+105346394	GO:0044699~single-organism process
+105346675	GO:0009987~cellular process
+105346675	GO:0008152~metabolic process
+105346721	GO:0008152~metabolic process
+105346725	GO:0023052~signaling
+105346955	GO:0009987~cellular process
+105346997	GO:0009987~cellular process
+105347012	GO:0050789~regulation of biological process
+105347027	GO:0065007~biological regulation
+105347139	GO:0050789~regulation of biological process
+105347139	GO:0065007~biological regulation
+105347163	GO:0050896~response to stimulus
+105347169	GO:0009987~cellular process
+105347262	GO:0009987~cellular process
+105347320	GO:0065007~biological regulation
+105348489	GO:0009987~cellular process
+105347432	GO:0009987~cellular process
+105347434	GO:0050896~response to stimulus
+105347460	GO:0065007~biological regulation
+105347463	GO:0050896~response to stimulus
+105347574	GO:0044699~single-organism process
+105347620	GO:0065007~biological regulation
+105347625	GO:0009987~cellular process
+105347640	GO:0044699~single-organism process
+105347814	GO:0009987~cellular process
+105347828	GO:0008152~metabolic process
+105347830	GO:0009987~cellular process
+105347906	GO:0051179~localization
+105347919	GO:0009987~cellular process
+105347974	GO:0050789~regulation of biological process
+105348044	GO:0008152~metabolic process
+105348100	GO:0008152~metabolic process
+105348313	GO:0065007~biological regulation
+105348313	GO:0009987~cellular process
+105348313	GO:0050789~regulation of biological process
+105348446	GO:0009987~cellular process
+105348446	GO:0065007~biological regulation
+105348542	GO:0008152~metabolic process
+105348565	GO:0009987~cellular process
+105348656	GO:0008152~metabolic process
+105348553	GO:0009987~cellular process
+105348553	GO:0008152~metabolic process
+105348583	GO:0050896~response to stimulus
+105348590	GO:0009987~cellular process
+105348652	GO:0044699~single-organism process
+105348655	GO:0008152~metabolic process
+105348702	GO:0009987~cellular process
+105348787	GO:0008152~metabolic process
+105348931	GO:0008152~metabolic process
+105348931	GO:0009987~cellular process
+105349071	GO:0008152~metabolic process
+105349185	GO:0023052~signaling
+105349185	GO:0050789~regulation of biological process
+808829	GO:0009987~cellular process
+105317044	GO:0008152~metabolic process
+105317122	GO:0008152~metabolic process
+105317168	GO:0044699~single-organism process
+105317168	GO:0009987~cellular process
+105317224	GO:0044699~single-organism process
+105317278	GO:0044699~single-organism process
+105317286	GO:0044699~single-organism process
+105317408	GO:0008152~metabolic process
+105318404	GO:0065007~biological regulation
+105317472	GO:0009987~cellular process
+105317478	GO:0008152~metabolic process
+105317541	GO:0044699~single-organism process
+105317541	GO:0065007~biological regulation
+105317570	GO:0071840~cellular component organization or biogenesis
+105317570	GO:0009987~cellular process
+105317588	GO:0008152~metabolic process
+105317654	GO:0008152~metabolic process
+105317745	GO:0040007~growth
+105317762	GO:0050789~regulation of biological process
+105317783	GO:0009987~cellular process
+105317809	GO:0009987~cellular process
+105317828	GO:0050789~regulation of biological process
+105317828	GO:0009987~cellular process
+105317985	GO:0008152~metabolic process
+105318103	GO:0044699~single-organism process
+105318129	GO:0009987~cellular process
+105318387	GO:0044699~single-organism process
+105318392	GO:0009987~cellular process
+105318488	GO:0050789~regulation of biological process
+105318654	GO:0065007~biological regulation
+105318850	GO:0009987~cellular process
+105318856	GO:0044699~single-organism process
+105318858	GO:0050789~regulation of biological process
+105318858	GO:0032502~developmental process
+105318860	GO:0023052~signaling
+105319020	GO:0050896~response to stimulus
+105319021	GO:0008152~metabolic process
+105319048	GO:0050789~regulation of biological process
+105319056	GO:0009987~cellular process
+105319134	GO:0023052~signaling
+105319134	GO:0050789~regulation of biological process
+105319341	GO:0009987~cellular process
+105319364	GO:0071840~cellular component organization or biogenesis
+105319552	GO:0044699~single-organism process
+105319561	GO:0009987~cellular process
+105319566	GO:0050789~regulation of biological process
+105319808	GO:0050896~response to stimulus
+105319808	GO:0050789~regulation of biological process
+105319862	GO:0065007~biological regulation
+105319931	GO:0044699~single-organism process
+105319932	GO:0023052~signaling
+105319932	GO:0044699~single-organism process
+105320091	GO:0009987~cellular process
+105320092	GO:0009987~cellular process
+105320100	GO:0044699~single-organism process
+105320382	GO:0023052~signaling
+105320406	GO:0009987~cellular process
+105320543	GO:0009987~cellular process
+105320545	GO:0051179~localization
+105320608	GO:0050896~response to stimulus
+105320645	GO:0044699~single-organism process
+105320669	GO:0050789~regulation of biological process
+105320683	GO:0044699~single-organism process
+105320900	GO:0050896~response to stimulus
+105321100	GO:0009987~cellular process
+105321101	GO:0050789~regulation of biological process
+105322551	GO:0008152~metabolic process
+105321241	GO:0044699~single-organism process
+105321315	GO:0009987~cellular process
+105321633	GO:0008152~metabolic process
+105321821	GO:0009987~cellular process
+105321827	GO:0044699~single-organism process
+105321827	GO:0023052~signaling
+105322124	GO:0008152~metabolic process
+105322265	GO:0044699~single-organism process
+105322320	GO:0050789~regulation of biological process
+105322330	GO:0009987~cellular process
+105322341	GO:0050896~response to stimulus
+105322341	GO:0009987~cellular process
+105322396	GO:0044699~single-organism process
+105322396	GO:0023052~signaling
+105322432	GO:0009987~cellular process
+105322492	GO:0022610~biological adhesion
+105322549	GO:0050896~response to stimulus
+105322550	GO:0044699~single-organism process
+105322551	GO:0044699~single-organism process
+105322576	GO:0065007~biological regulation
+105322763	GO:0065007~biological regulation
+105322858	GO:0071840~cellular component organization or biogenesis
+105323015	GO:0050789~regulation of biological process
+105323087	GO:0040007~growth
+105323135	GO:0050896~response to stimulus
+105323190	GO:0044699~single-organism process
+105323190	GO:0023052~signaling
+105323214	GO:0009987~cellular process
+105323264	GO:0009987~cellular process
+105323338	GO:0008152~metabolic process
+105323375	GO:0065007~biological regulation
+105323506	GO:0008152~metabolic process
+105323506	GO:0009987~cellular process
+105323540	GO:0065007~biological regulation
+105323549	GO:0008152~metabolic process
+105323563	GO:0009987~cellular process
+105323769	GO:0008152~metabolic process
+105323809	GO:0008152~metabolic process
+105323921	GO:0071840~cellular component organization or biogenesis
+105324105	GO:0050789~regulation of biological process
+105324454	GO:0050896~response to stimulus
+105324508	GO:0009987~cellular process
+105324548	GO:0050789~regulation of biological process
+105324548	GO:0065007~biological regulation
+105324629	GO:0044699~single-organism process
+105324844	GO:0065007~biological regulation
+105324879	GO:0009987~cellular process
+105324895	GO:0009987~cellular process
+105324933	GO:0044699~single-organism process
+105325075	GO:0050789~regulation of biological process
+105325079	GO:0008152~metabolic process
+105325130	GO:0008152~metabolic process
+105325174	GO:0044699~single-organism process
+105325249	GO:0044699~single-organism process
+105325347	GO:0051179~localization
+105325397	GO:0050789~regulation of biological process
+105325500	GO:0044699~single-organism process
+105325587	GO:0009987~cellular process
+105326439	GO:0044699~single-organism process
+105325586	GO:0044699~single-organism process
+105325593	GO:0065007~biological regulation
+105325593	GO:0050896~response to stimulus
+105325593	GO:0023052~signaling
+105325623	GO:0008152~metabolic process
+105325632	GO:0002376~immune system process
+105325635	GO:0065007~biological regulation
+105325742	GO:0065007~biological regulation
+105325787	GO:0050896~response to stimulus
+105325787	GO:0050789~regulation of biological process
+105325831	GO:0008152~metabolic process
+105325874	GO:0071840~cellular component organization or biogenesis
+105325946	GO:0023052~signaling
+105325946	GO:0050896~response to stimulus
+105325966	GO:0050896~response to stimulus
+105326196	GO:0009987~cellular process
+105326276	GO:0009987~cellular process
+105326291	GO:0008152~metabolic process
+105326408	GO:0008152~metabolic process
+105326598	GO:0008152~metabolic process
+105326647	GO:0008152~metabolic process
+105326788	GO:0009987~cellular process
+105326860	GO:0044699~single-organism process
+105327001	GO:0009987~cellular process
+105327106	GO:0071840~cellular component organization or biogenesis
+105327125	GO:0051179~localization
+105327166	GO:0023052~signaling
+105327166	GO:0009987~cellular process
+105327435	GO:0050896~response to stimulus
+105327548	GO:0009987~cellular process
+105327718	GO:0032502~developmental process
+105327723	GO:0050789~regulation of biological process
+105327723	GO:0008152~metabolic process
+105327826	GO:0009987~cellular process
+105327855	GO:0009987~cellular process
+105327855	GO:0044699~single-organism process
+105327855	GO:0023052~signaling
+105327885	GO:0023052~signaling
+105327927	GO:0065007~biological regulation
+105327927	GO:0002376~immune system process
+105327927	GO:0071840~cellular component organization or biogenesis
+105327951	GO:0008152~metabolic process
+105327958	GO:0065007~biological regulation
+105328317	GO:0008152~metabolic process
+105328475	GO:0044699~single-organism process
+105328470	GO:0044699~single-organism process
+105328475	GO:0023052~signaling
+105328482	GO:0050789~regulation of biological process
+105328483	GO:0050789~regulation of biological process
+105328483	GO:0044699~single-organism process
+105328483	GO:0023052~signaling
+105328544	GO:0065007~biological regulation
+105328635	GO:0051179~localization
+105328653	GO:0009987~cellular process
+105328743	GO:0050896~response to stimulus
+105328887	GO:0051179~localization
+105328887	GO:0009987~cellular process
+105328924	GO:0008152~metabolic process
+105328926	GO:0008152~metabolic process
+105328963	GO:0008152~metabolic process
+105329019	GO:0071840~cellular component organization or biogenesis
+105329019	GO:0032502~developmental process
+105329061	GO:0044699~single-organism process
+105329080	GO:0023052~signaling
+105329578	GO:0008152~metabolic process
+105329640	GO:0044699~single-organism process
+105329694	GO:0065007~biological regulation
+105329694	GO:0050896~response to stimulus
+105329904	GO:0008152~metabolic process
+105329904	GO:0050896~response to stimulus
+105329964	GO:0051179~localization
+105330227	GO:0009987~cellular process
+105330307	GO:0009987~cellular process
+105330399	GO:0008152~metabolic process
+105330477	GO:0009987~cellular process
+105330515	GO:0065007~biological regulation
+105330515	GO:0032502~developmental process
+105330573	GO:0044699~single-organism process
+105330605	GO:0009987~cellular process
+105330685	GO:0023052~signaling
+105330718	GO:0008152~metabolic process
+105330731	GO:0009987~cellular process
+105330742	GO:0051179~localization
+105330845	GO:0008152~metabolic process
+105330856	GO:0009987~cellular process
+105330981	GO:0044699~single-organism process
+105330981	GO:0009987~cellular process
+105330981	GO:0008152~metabolic process
+105331060	GO:0065007~biological regulation
+105331060	GO:0050789~regulation of biological process
+105331061	GO:0009987~cellular process
+105331276	GO:0008152~metabolic process
+105331482	GO:0065007~biological regulation
+105331482	GO:0050789~regulation of biological process
+105331493	GO:0044699~single-organism process
+105331707	GO:0044699~single-organism process
+105332680	GO:0065007~biological regulation
+105331805	GO:0008152~metabolic process
+105332016	GO:0008152~metabolic process
+105332131	GO:0009987~cellular process
+105332134	GO:0008152~metabolic process
+105332180	GO:0065007~biological regulation
+105332186	GO:0044699~single-organism process
+105332194	GO:0008152~metabolic process
+105332194	GO:0050789~regulation of biological process
+105332203	GO:0050789~regulation of biological process
+105332291	GO:0009987~cellular process
+105332475	GO:0023052~signaling
+105332531	GO:0065007~biological regulation
+105332578	GO:0008152~metabolic process
+105332610	GO:0009987~cellular process
+105332783	GO:0050896~response to stimulus
+105332881	GO:0044699~single-organism process
+105332930	GO:0008152~metabolic process
+105332980	GO:0008152~metabolic process
+105333151	GO:0008152~metabolic process
+105333364	GO:0051179~localization
+105334621	GO:0050896~response to stimulus
+105333401	GO:0008152~metabolic process
+105333401	GO:0009987~cellular process
+105333452	GO:0008152~metabolic process
+105333462	GO:0009987~cellular process
+105333800	GO:0050789~regulation of biological process
+105333843	GO:0044699~single-organism process
+105333860	GO:0009987~cellular process
+105334001	GO:0008152~metabolic process
+105334158	GO:0044699~single-organism process
+105334213	GO:0071840~cellular component organization or biogenesis
+105334251	GO:0050896~response to stimulus
+105334252	GO:0009987~cellular process
+105334363	GO:0044699~single-organism process
+105334481	GO:0065007~biological regulation
+105334681	GO:0050789~regulation of biological process
+105334681	GO:0050896~response to stimulus
+105334708	GO:0051179~localization
+105334834	GO:0008152~metabolic process
+105334902	GO:0050789~regulation of biological process
+105335239	GO:0009987~cellular process
+105335997	GO:0050789~regulation of biological process
+105336233	GO:0009987~cellular process
+105335027	GO:0044699~single-organism process
+105335076	GO:0044699~single-organism process
+105335076	GO:0051179~localization
+105335077	GO:0050896~response to stimulus
+105335077	GO:0009987~cellular process
+105335086	GO:0044699~single-organism process
+105335187	GO:0050896~response to stimulus
+105335187	GO:0023052~signaling
+105335239	GO:0008152~metabolic process
+105335545	GO:0009987~cellular process
+105335782	GO:0008152~metabolic process
+105335896	GO:0008152~metabolic process
+105336036	GO:0008152~metabolic process
+105336332	GO:0044699~single-organism process
+105336332	GO:0008152~metabolic process
+105336376	GO:0065007~biological regulation
+105336383	GO:0008152~metabolic process
+105336396	GO:0009987~cellular process
+105336445	GO:0044699~single-organism process
+105336483	GO:0009987~cellular process
+105336483	GO:0008152~metabolic process
+105336503	GO:0009987~cellular process
+105336584	GO:0065007~biological regulation
+105336623	GO:0009987~cellular process
+105336649	GO:0044699~single-organism process
+105336649	GO:0008152~metabolic process
+105336685	GO:0044699~single-organism process
+105336685	GO:0065007~biological regulation
+105336691	GO:0009987~cellular process
+105336795	GO:0050789~regulation of biological process
+105336795	GO:0065007~biological regulation
+105336829	GO:0044699~single-organism process
+105336920	GO:0008152~metabolic process
+105336976	GO:0044699~single-organism process
+105336976	GO:0009987~cellular process
+105337339	GO:0044699~single-organism process
+105337384	GO:0032502~developmental process
+105337858	GO:0008152~metabolic process
+105338171	GO:0009987~cellular process
+105338218	GO:0008152~metabolic process
+105338218	GO:0009987~cellular process
+105338273	GO:0065007~biological regulation
+105338324	GO:0044699~single-organism process
+105338331	GO:0008152~metabolic process
+105338441	GO:0008152~metabolic process
+105338527	GO:0050789~regulation of biological process
+105338756	GO:0008152~metabolic process
+105339646	GO:0050789~regulation of biological process
+105338619	GO:0065007~biological regulation
+105338842	GO:0009987~cellular process
+105339016	GO:0065007~biological regulation
+105339016	GO:0002376~immune system process
+105339244	GO:0050789~regulation of biological process
+105339247	GO:0008152~metabolic process
+105339425	GO:0009987~cellular process
+105339540	GO:0008152~metabolic process
+105339646	GO:0023052~signaling
+105339646	GO:0065007~biological regulation
+105339744	GO:0050896~response to stimulus
+105339795	GO:0009987~cellular process
+105339902	GO:0050896~response to stimulus
+105339902	GO:0009987~cellular process
+105340045	GO:0009987~cellular process
+105340109	GO:0009987~cellular process
+105340380	GO:0050896~response to stimulus
+105340433	GO:0050789~regulation of biological process
+105340433	GO:0050896~response to stimulus
+105340476	GO:0044699~single-organism process
+105341069	GO:0065007~biological regulation
+105340523	GO:0008152~metabolic process
+105340621	GO:0009987~cellular process
+105340621	GO:0065007~biological regulation
+105340642	GO:0044699~single-organism process
+105340686	GO:0044699~single-organism process
+105340698	GO:0009987~cellular process
+105341069	GO:0044699~single-organism process
+105341071	GO:0051179~localization
+105341095	GO:0009987~cellular process
+105341189	GO:0008152~metabolic process
+105341189	GO:0009987~cellular process
+105341251	GO:0044699~single-organism process
+105341297	GO:0065007~biological regulation
+105341348	GO:0008152~metabolic process
+105341356	GO:0065007~biological regulation
+105341397	GO:0008152~metabolic process
+105341515	GO:0032502~developmental process
+105341586	GO:0023052~signaling
+105341703	GO:0009987~cellular process
+105342031	GO:0009987~cellular process
+105341767	GO:0009987~cellular process
+105341794	GO:0032502~developmental process
+105341794	GO:0065007~biological regulation
+105341794	GO:0032501~multicellular organismal process
+105341848	GO:0008152~metabolic process
+105341931	GO:0044699~single-organism process
+105341931	GO:0050896~response to stimulus
+105341996	GO:0050896~response to stimulus
+105342021	GO:0044699~single-organism process
+105342258	GO:0044699~single-organism process
+105342258	GO:0009987~cellular process
+105342258	GO:0065007~biological regulation
+105342338	GO:0044699~single-organism process
+105342387	GO:0050896~response to stimulus
+105342397	GO:0008152~metabolic process
+105342415	GO:0023052~signaling
+105342446	GO:0009987~cellular process
+105342511	GO:0008152~metabolic process
+105342515	GO:0044699~single-organism process
+105342664	GO:0044699~single-organism process
+105342670	GO:0044699~single-organism process
+105342670	GO:0023052~signaling
+105342731	GO:0065007~biological regulation
+105342731	GO:0008152~metabolic process
+105342953	GO:0065007~biological regulation
+105342953	GO:0023052~signaling
+105343048	GO:0009987~cellular process
+105343056	GO:0009987~cellular process
+105343095	GO:0065007~biological regulation
+105343109	GO:0009987~cellular process
+105343118	GO:0051179~localization
+105343159	GO:0009987~cellular process
+105343159	GO:0071840~cellular component organization or biogenesis
+105343203	GO:0050896~response to stimulus
+105343291	GO:0071840~cellular component organization or biogenesis
+105343343	GO:0009987~cellular process
+105343692	GO:0008152~metabolic process
+105343777	GO:0009987~cellular process
+105343815	GO:0009987~cellular process
+105343974	GO:0009987~cellular process
+105343974	GO:0065007~biological regulation
+105344018	GO:0008152~metabolic process
+105344077	GO:0008152~metabolic process
+105344211	GO:0009987~cellular process
+105344212	GO:0009987~cellular process
+105344212	GO:0050789~regulation of biological process
+105344372	GO:0050789~regulation of biological process
+105344524	GO:0008152~metabolic process
+105344258	GO:0044699~single-organism process
+105344268	GO:0008152~metabolic process
+105344284	GO:0051179~localization
+105344505	GO:0009987~cellular process
+105344575	GO:0044699~single-organism process
+105344575	GO:0008152~metabolic process
+105344624	GO:0044699~single-organism process
+105344628	GO:0009987~cellular process
+105344652	GO:0065007~biological regulation
+105344652	GO:0044699~single-organism process
+105344652	GO:0023052~signaling
+105344940	GO:0050789~regulation of biological process
+105345139	GO:0044699~single-organism process
+105345314	GO:0008152~metabolic process
+105345481	GO:0009987~cellular process
+105345221	GO:0050789~regulation of biological process
+105345251	GO:0044699~single-organism process
+105345279	GO:0008152~metabolic process
+105345305	GO:0050896~response to stimulus
+105345377	GO:0050789~regulation of biological process
+105345474	GO:0008152~metabolic process
+105345505	GO:0008152~metabolic process
+105345680	GO:0051179~localization
+105345688	GO:0002376~immune system process
+105345701	GO:0071840~cellular component organization or biogenesis
+105345777	GO:0051179~localization
+105345800	GO:0008152~metabolic process
+105345800	GO:0065007~biological regulation
+105345814	GO:0008152~metabolic process
+105345819	GO:0050896~response to stimulus
+105346265	GO:0023052~signaling
+105345936	GO:0044699~single-organism process
+105345940	GO:0044699~single-organism process
+105345957	GO:0009987~cellular process
+105345989	GO:0050896~response to stimulus
+105346104	GO:0065007~biological regulation
+105346163	GO:0009987~cellular process
+105346307	GO:0050789~regulation of biological process
+105346675	GO:0044699~single-organism process
+105346718	GO:0008152~metabolic process
+105346721	GO:0009987~cellular process
+105346725	GO:0050896~response to stimulus
+105346731	GO:0008152~metabolic process
+105346809	GO:0008152~metabolic process
+105346809	GO:0050896~response to stimulus
+105346809	GO:0009987~cellular process
+105346851	GO:0051179~localization
+105346960	GO:0050896~response to stimulus
+105346960	GO:0044699~single-organism process
+105347012	GO:0044699~single-organism process
+105347041	GO:0044699~single-organism process
+105347041	GO:0008152~metabolic process
+105347132	GO:0009987~cellular process
+105347138	GO:0009987~cellular process
+105347320	GO:0009987~cellular process
+105347344	GO:0065007~biological regulation
+105347376	GO:0009987~cellular process
+105348446	GO:0044699~single-organism process
+105347460	GO:0050896~response to stimulus
+105347463	GO:0044699~single-organism process
+105347464	GO:0008152~metabolic process
+105347548	GO:0065007~biological regulation
+105347620	GO:0050789~regulation of biological process
+105347640	GO:0008152~metabolic process
+105347828	GO:0009987~cellular process
+105347906	GO:0009987~cellular process
+105348023	GO:0008152~metabolic process
+105348069	GO:0065007~biological regulation
+105348169	GO:0008152~metabolic process
+105348223	GO:0009987~cellular process
+105348446	GO:0050896~response to stimulus
+105348494	GO:0008152~metabolic process
+105348550	GO:0065007~biological regulation
+105348550	GO:0032501~multicellular organismal process
+105348583	GO:0023052~signaling
+105348590	GO:0044699~single-organism process
+105348592	GO:0065007~biological regulation
+105348611	GO:0008152~metabolic process
+105348652	GO:0008152~metabolic process
+105348742	GO:0051179~localization
+105348837	GO:0051179~localization
+105349013	GO:0044699~single-organism process
+105349134	GO:0044699~single-organism process
+105349141	GO:0008152~metabolic process
+808827	GO:0008152~metabolic process
+808828	GO:0009987~cellular process
+808833	GO:0008152~metabolic process
+105317034	GO:0009987~cellular process
+105317143	GO:0023052~signaling
+105317193	GO:0009987~cellular process
+105317286	GO:0008152~metabolic process
+105317316	GO:0008152~metabolic process
+105317394	GO:0044699~single-organism process
+105317417	GO:0008152~metabolic process
+105317439	GO:0044699~single-organism process
+105317439	GO:0009987~cellular process
+105317500	GO:0044699~single-organism process
+105317541	GO:0032501~multicellular organismal process
+105317621	GO:0009987~cellular process
+105317627	GO:0050896~response to stimulus
+105317637	GO:0071840~cellular component organization or biogenesis
+105317637	GO:0009987~cellular process
+105317704	GO:0008152~metabolic process
+105317759	GO:0008152~metabolic process
+105317809	GO:0050896~response to stimulus
+105317888	GO:0050789~regulation of biological process
+105317952	GO:0009987~cellular process
+105318127	GO:0009987~cellular process
+105318392	GO:0065007~biological regulation
+105318392	GO:0044699~single-organism process
+105318404	GO:0050789~regulation of biological process
+105318584	GO:0008152~metabolic process
+105318654	GO:0050789~regulation of biological process
+105318668	GO:0051179~localization
+105318783	GO:0008152~metabolic process
+105318809	GO:0009987~cellular process
+105318810	GO:0009987~cellular process
+105318856	GO:0009987~cellular process
+105318860	GO:0065007~biological regulation
+105318917	GO:0050789~regulation of biological process
+105318917	GO:0009987~cellular process
+105318917	GO:0023052~signaling
+105318949	GO:0009987~cellular process
+105318957	GO:0050896~response to stimulus
+105319167	GO:0008152~metabolic process
+105319241	GO:0009987~cellular process
+105319371	GO:0071840~cellular component organization or biogenesis
+105319409	GO:0044699~single-organism process
+105319510	GO:0044699~single-organism process
+105319510	GO:0009987~cellular process
+105319530	GO:0065007~biological regulation
+105319538	GO:0009987~cellular process
+105319538	GO:0051179~localization
+105319542	GO:0044699~single-organism process
+105319552	GO:0051179~localization
+105319565	GO:0009987~cellular process
+105319566	GO:0023052~signaling
+105319597	GO:0009987~cellular process
+105319753	GO:0009987~cellular process
+105319808	GO:0044699~single-organism process
+105319808	GO:0023052~signaling
+105319862	GO:0044699~single-organism process
+105319919	GO:0050789~regulation of biological process
+105319932	GO:0050896~response to stimulus
+105320074	GO:0009987~cellular process
+105320255	GO:0023052~signaling
+105320341	GO:0023052~signaling
+105320630	GO:0002376~immune system process
+105320634	GO:0008152~metabolic process
+105320645	GO:0009987~cellular process
+105320742	GO:0044699~single-organism process
+105320791	GO:0050896~response to stimulus
+105321012	GO:0050789~regulation of biological process
+105321012	GO:0044699~single-organism process
+105321012	GO:0009987~cellular process
+105321012	GO:0050896~response to stimulus
+105321025	GO:0051179~localization
+105321084	GO:0008152~metabolic process
+105321101	GO:0065007~biological regulation
+105321150	GO:0051179~localization
+105321854	GO:0023052~signaling
+105321530	GO:0044699~single-organism process
+105321543	GO:0008152~metabolic process
+105321821	GO:0008152~metabolic process
+105321830	GO:0050896~response to stimulus
+105321830	GO:0023052~signaling
+105321831	GO:0071840~cellular component organization or biogenesis
+105321861	GO:0044699~single-organism process
+105322124	GO:0009987~cellular process
+105322262	GO:0008152~metabolic process
+105322314	GO:0008152~metabolic process
+105322320	GO:0065007~biological regulation
+105322341	GO:0023052~signaling
+105322492	GO:0009987~cellular process
+105322510	GO:0044699~single-organism process
+105322763	GO:0009987~cellular process
+105322958	GO:0008152~metabolic process
+105323053	GO:0065007~biological regulation
+105323135	GO:0044699~single-organism process
+105323135	GO:0023052~signaling
+105323153	GO:0065007~biological regulation
+105323161	GO:0065007~biological regulation
+105323190	GO:0050789~regulation of biological process
+105323213	GO:0008152~metabolic process
+105323257	GO:0065007~biological regulation
+105323257	GO:0050789~regulation of biological process
+105323264	GO:0065007~biological regulation
+105323279	GO:0009987~cellular process
+105323279	GO:0050896~response to stimulus
+105323294	GO:0050896~response to stimulus
+105323313	GO:0023052~signaling
+105323369	GO:0050896~response to stimulus
+105323394	GO:0050789~regulation of biological process
+105323463	GO:0044699~single-organism process
+105323549	GO:0009987~cellular process
+105323733	GO:0009987~cellular process
+105324105	GO:0071840~cellular component organization or biogenesis
+105324497	GO:0009987~cellular process
+105324253	GO:0065007~biological regulation
+105324253	GO:0050896~response to stimulus
+105324298	GO:0051179~localization
+105324323	GO:0051179~localization
+105324454	GO:0023052~signaling
+105324508	GO:0008152~metabolic process
+105324534	GO:0008152~metabolic process
+105324545	GO:0009987~cellular process
+105324548	GO:0008152~metabolic process
+105324629	GO:0009987~cellular process
+105324643	GO:0044699~single-organism process
+105324661	GO:0009987~cellular process
+105324820	GO:0009987~cellular process
+105324879	GO:0008152~metabolic process
+105324884	GO:0009987~cellular process
+105324897	GO:0009987~cellular process
+105324980	GO:0009987~cellular process
+105325123	GO:0065007~biological regulation
+105325123	GO:0044699~single-organism process
+105325123	GO:0009987~cellular process
+105325168	GO:0009987~cellular process
+105325178	GO:0008152~metabolic process
+105325179	GO:0050896~response to stimulus
+105325249	GO:0051179~localization
+105325279	GO:0044699~single-organism process
+105325395	GO:0050789~regulation of biological process
+105325413	GO:0008152~metabolic process
+105325470	GO:0009987~cellular process
+105325532	GO:0071840~cellular component organization or biogenesis
+105325537	GO:0071840~cellular component organization or biogenesis
+105325588	GO:0009987~cellular process
+105325588	GO:0050789~regulation of biological process
+105325593	GO:0044699~single-organism process
+105325608	GO:0065007~biological regulation
+105325742	GO:0044699~single-organism process
+105325742	GO:0009987~cellular process
+105325787	GO:0032502~developmental process
+105325787	GO:0065007~biological regulation
+105325899	GO:0044699~single-organism process
+105325946	GO:0044699~single-organism process
+105326105	GO:0050896~response to stimulus
+105326147	GO:0051179~localization
+105326196	GO:0008152~metabolic process
+105326324	GO:0008152~metabolic process
+105326426	GO:0065007~biological regulation
+105326426	GO:0050896~response to stimulus
+105326462	GO:0008152~metabolic process
+105326480	GO:0051179~localization
+105326646	GO:0008152~metabolic process
+105326723	GO:0065007~biological regulation
+105327034	GO:0009987~cellular process
+105327160	GO:0008152~metabolic process
+105327165	GO:0009987~cellular process
+105327165	GO:0065007~biological regulation
+105327328	GO:0044699~single-organism process
+105327365	GO:0009987~cellular process
+105327406	GO:0050789~regulation of biological process
+105327496	GO:0044699~single-organism process
+105327826	GO:0050789~regulation of biological process
+105327847	GO:0008152~metabolic process
+105327885	GO:0050789~regulation of biological process
+105327885	GO:0050896~response to stimulus
+105327885	GO:0044699~single-organism process
+105327928	GO:0008152~metabolic process
+105328095	GO:0009987~cellular process
+105328117	GO:0009987~cellular process
+105328179	GO:0065007~biological regulation
+105328413	GO:0008152~metabolic process
+105328470	GO:0009987~cellular process
+105328488	GO:0008152~metabolic process
+105328509	GO:0044699~single-organism process
+105328544	GO:0009987~cellular process
+105328544	GO:0050789~regulation of biological process
+105328638	GO:0009987~cellular process
+105328734	GO:0008152~metabolic process
+105328734	GO:0009987~cellular process
+105328743	GO:0002376~immune system process
+105328869	GO:0008152~metabolic process
+105328926	GO:0009987~cellular process
+105328983	GO:0009987~cellular process
+105329001	GO:0023052~signaling
+105329061	GO:0051179~localization
+105329340	GO:0044699~single-organism process
+105329612	GO:0044699~single-organism process
+105329398	GO:0008152~metabolic process
+105329476	GO:0051179~localization
+105329599	GO:0050789~regulation of biological process
+105329639	GO:0044699~single-organism process
+105329650	GO:0023052~signaling
+105329775	GO:0050896~response to stimulus
+105329777	GO:0050896~response to stimulus
+105330118	GO:0065007~biological regulation
+105331115	GO:0008152~metabolic process
+105329913	GO:0050789~regulation of biological process
+105329922	GO:0009987~cellular process
+105329939	GO:0009987~cellular process
+105330015	GO:0009987~cellular process
+105330038	GO:0008152~metabolic process
+105330147	GO:0008152~metabolic process
+105330192	GO:0009987~cellular process
+105330307	GO:0044699~single-organism process
+105330308	GO:0008152~metabolic process
+105330399	GO:0044699~single-organism process
+105330445	GO:0051179~localization
+105330764	GO:0044699~single-organism process
+105330997	GO:0051179~localization
+105331060	GO:0044699~single-organism process
+105331187	GO:0008152~metabolic process
+105331253	GO:0009987~cellular process
+105331277	GO:0044699~single-organism process
+105331277	GO:0009987~cellular process
+105331406	GO:0071840~cellular component organization or biogenesis
+105331482	GO:0009987~cellular process
+105331671	GO:0008152~metabolic process
+105331671	GO:0044699~single-organism process
+105331688	GO:0050789~regulation of biological process
+105331688	GO:0009987~cellular process
+105331707	GO:0023052~signaling
+105331959	GO:0009987~cellular process
+105332576	GO:0008152~metabolic process
+105332016	GO:0009987~cellular process
+105332128	GO:0023052~signaling
+105332136	GO:0009987~cellular process
+105332180	GO:0051179~localization
+105332184	GO:0009987~cellular process
+105332184	GO:0071840~cellular component organization or biogenesis
+105332186	GO:0065007~biological regulation
+105332223	GO:0065007~biological regulation
+105332234	GO:0009987~cellular process
+105332317	GO:0009987~cellular process
+105332570	GO:0051179~localization
+105332611	GO:0050896~response to stimulus
+105332675	GO:0071840~cellular component organization or biogenesis
+105333108	GO:0044699~single-organism process
+105332764	GO:0009987~cellular process
+105332783	GO:0050789~regulation of biological process
+105332792	GO:0002376~immune system process
+105332980	GO:0009987~cellular process
+105332995	GO:0050896~response to stimulus
+105333107	GO:0044699~single-organism process
+105333108	GO:0050789~regulation of biological process
+105333108	GO:0009987~cellular process
+105333119	GO:0051179~localization
+105333154	GO:0008152~metabolic process
+105333363	GO:0071840~cellular component organization or biogenesis
+105333556	GO:0050789~regulation of biological process
+105333670	GO:0009987~cellular process
+105333706	GO:0065007~biological regulation
+105333393	GO:0008152~metabolic process
+105333401	GO:0050789~regulation of biological process
+105333452	GO:0009987~cellular process
+105333474	GO:0051179~localization
+105333569	GO:0071840~cellular component organization or biogenesis
+105333706	GO:0009987~cellular process
+105333800	GO:0009987~cellular process
+105333843	GO:0009987~cellular process
+105333843	GO:0008152~metabolic process
+105334012	GO:0023052~signaling
+105334251	GO:0009987~cellular process
+105334689	GO:0051179~localization
+105334689	GO:0009987~cellular process
+105334761	GO:0008152~metabolic process
+105335003	GO:0071840~cellular component organization or biogenesis
+105335025	GO:0009987~cellular process
+105335027	GO:0009987~cellular process
+105335077	GO:0008152~metabolic process
+105335086	GO:0009987~cellular process
+105335086	GO:0071840~cellular component organization or biogenesis
+105335187	GO:0065007~biological regulation
+105335265	GO:0050896~response to stimulus
+105335420	GO:0032502~developmental process
+105335553	GO:0008152~metabolic process
+105335599	GO:0065007~biological regulation
+105335599	GO:0044699~single-organism process
+105335801	GO:0044699~single-organism process
+105335875	GO:0009987~cellular process
+105335878	GO:0008152~metabolic process
+105335895	GO:0071840~cellular component organization or biogenesis
+105335896	GO:0044699~single-organism process
+105335997	GO:0009987~cellular process
+105336152	GO:0044699~single-organism process
+105336396	GO:0050789~regulation of biological process
+105336786	GO:0009987~cellular process
+105336376	GO:0050789~regulation of biological process
+105336396	GO:0044699~single-organism process
+105336396	GO:0065007~biological regulation
+105336637	GO:0009987~cellular process
+105336700	GO:0044699~single-organism process
+105336700	GO:0050896~response to stimulus
+105336792	GO:0071840~cellular component organization or biogenesis
+105336792	GO:0050789~regulation of biological process
+105336795	GO:0009987~cellular process
+105336911	GO:0009987~cellular process
+105336969	GO:0044699~single-organism process
+105336976	GO:0071840~cellular component organization or biogenesis
+105336986	GO:0044699~single-organism process
+105337059	GO:0044699~single-organism process
+105337064	GO:0023052~signaling
+105337064	GO:0050789~regulation of biological process
+105337244	GO:0009987~cellular process
+105337285	GO:0008152~metabolic process
+105337298	GO:0009987~cellular process
+105337299	GO:0044699~single-organism process
+105337339	GO:0050896~response to stimulus
+105337448	GO:0050789~regulation of biological process
+105337516	GO:0009987~cellular process
+105337532	GO:0009987~cellular process
+105337536	GO:0009987~cellular process
+105337537	GO:0050896~response to stimulus
+105337632	GO:0023052~signaling
+105337798	GO:0008152~metabolic process
+105337844	GO:0050789~regulation of biological process
+105337846	GO:0051179~localization
+105337858	GO:0023052~signaling
+105337947	GO:0009987~cellular process
+105337984	GO:0065007~biological regulation
+105338441	GO:0009987~cellular process
+105338171	GO:0008152~metabolic process
+105338218	GO:0065007~biological regulation
+105338273	GO:0044699~single-organism process
+105338324	GO:0009987~cellular process
+105338527	GO:0009987~cellular process
+105338879	GO:0044699~single-organism process
+105338589	GO:0008152~metabolic process
+105338619	GO:0050896~response to stimulus
+105338677	GO:0023052~signaling
+105338740	GO:0009987~cellular process
+105338793	GO:0009987~cellular process
+105338996	GO:0065007~biological regulation
+105338999	GO:0009987~cellular process
+105338999	GO:0044699~single-organism process
+105339029	GO:0009987~cellular process
+105339234	GO:0008152~metabolic process
+105339244	GO:0008152~metabolic process
+105339255	GO:0044699~single-organism process
+105339296	GO:0044699~single-organism process
+105339341	GO:0009987~cellular process
+105339372	GO:0009987~cellular process
+105339470	GO:0008152~metabolic process
+105339535	GO:0050789~regulation of biological process
+105339535	GO:0065007~biological regulation
+105339535	GO:0044699~single-organism process
+105339535	GO:0050896~response to stimulus
+105339543	GO:0051179~localization
+105339544	GO:0065007~biological regulation
+105340045	GO:0032502~developmental process
+105339646	GO:0009987~cellular process
+105339655	GO:0044699~single-organism process
+105339901	GO:0009987~cellular process
+105339937	GO:0051179~localization
+105340057	GO:0009987~cellular process
+105340169	GO:0065007~biological regulation
+105340169	GO:0050789~regulation of biological process
+105340305	GO:0008152~metabolic process
+105340334	GO:0009987~cellular process
+105340380	GO:0044699~single-organism process
+105340433	GO:0044699~single-organism process
+105340433	GO:0009987~cellular process
+105340434	GO:0009987~cellular process
+105341328	GO:0009987~cellular process
+105341455	GO:0009987~cellular process
+105340523	GO:0044699~single-organism process
+105340546	GO:0051179~localization
+105340608	GO:0008152~metabolic process
+105340685	GO:0009987~cellular process
+105340697	GO:0044699~single-organism process
+105341095	GO:0065007~biological regulation
+105341117	GO:0050789~regulation of biological process
+105341117	GO:0044699~single-organism process
+105341160	GO:0009987~cellular process
+105341160	GO:0008152~metabolic process
+105341233	GO:0009987~cellular process
+105341233	GO:0008152~metabolic process
+105341347	GO:0008152~metabolic process
+105341348	GO:0009987~cellular process
+105341391	GO:0050789~regulation of biological process
+105341486	GO:0071840~cellular component organization or biogenesis
+105341500	GO:0008152~metabolic process
+105341555	GO:0022610~biological adhesion
+105341586	GO:0065007~biological regulation
+105341698	GO:0009987~cellular process
+105341744	GO:0009987~cellular process
+105341794	GO:0050896~response to stimulus
+105341804	GO:0044699~single-organism process
+105341996	GO:0023052~signaling
+105341996	GO:0009987~cellular process
+105342031	GO:0023052~signaling
+105342183	GO:0009987~cellular process
+105342258	GO:0050896~response to stimulus
+105342335	GO:0009987~cellular process
+105342338	GO:0032502~developmental process
+105342387	GO:0009987~cellular process
+105342392	GO:0009987~cellular process
+105342415	GO:0050789~regulation of biological process
+105342431	GO:0008152~metabolic process
+105342739	GO:0008152~metabolic process
+105343050	GO:0008152~metabolic process
+105343201	GO:0050896~response to stimulus
+105343201	GO:0050789~regulation of biological process
+105342670	GO:0050789~regulation of biological process
+105342853	GO:0050896~response to stimulus
+105342894	GO:0051179~localization
+105342896	GO:0009987~cellular process
+105342980	GO:0009987~cellular process
+105343010	GO:0050789~regulation of biological process
+105343048	GO:0008152~metabolic process
+105343095	GO:0009987~cellular process
+105343103	GO:0008152~metabolic process
+105343201	GO:0044699~single-organism process
+105343298	GO:0051179~localization
+105343298	GO:0009987~cellular process
+105343328	GO:0009987~cellular process
+105343332	GO:0050789~regulation of biological process
+105343429	GO:0050789~regulation of biological process
+105344211	GO:0023052~signaling
+105343475	GO:0022610~biological adhesion
+105343487	GO:0008152~metabolic process
+105343487	GO:0050789~regulation of biological process
+105343777	GO:0008152~metabolic process
+105343777	GO:0050896~response to stimulus
+105343813	GO:0044699~single-organism process
+105343883	GO:0009987~cellular process
+105343997	GO:0008152~metabolic process
+105344096	GO:0044699~single-organism process
+105344165	GO:0071840~cellular component organization or biogenesis
+105344165	GO:0009987~cellular process
+105344192	GO:0009987~cellular process
+105344211	GO:0065007~biological regulation
+105344347	GO:0009987~cellular process
+105344214	GO:0050789~regulation of biological process
+105344214	GO:0065007~biological regulation
+105344214	GO:0009987~cellular process
+105344258	GO:0032501~multicellular organismal process
+105344258	GO:0065007~biological regulation
+105344333	GO:0009987~cellular process
+105344333	GO:0044699~single-organism process
+105344499	GO:0065007~biological regulation
+105344519	GO:0009987~cellular process
+105344562	GO:0050789~regulation of biological process
+105344624	GO:0009987~cellular process
+105344641	GO:0008152~metabolic process
+105344801	GO:0071840~cellular component organization or biogenesis
+105345109	GO:0050789~regulation of biological process
+105345185	GO:0044699~single-organism process
+105345279	GO:0044699~single-organism process
+105345317	GO:0044699~single-organism process
+105345317	GO:0008152~metabolic process
+105345371	GO:0009987~cellular process
+105345481	GO:0008152~metabolic process
+105345680	GO:0009987~cellular process
+105345777	GO:0009987~cellular process
+105345819	GO:0065007~biological regulation
+105345989	GO:0009987~cellular process
+105346005	GO:0044699~single-organism process
+105346017	GO:0008152~metabolic process
+105346104	GO:0032501~multicellular organismal process
+105346162	GO:0009987~cellular process
+105346174	GO:0050896~response to stimulus
+105346265	GO:0065007~biological regulation
+105346265	GO:0009987~cellular process
+105346267	GO:0044699~single-organism process
+105346307	GO:0065007~biological regulation
+105346358	GO:0044699~single-organism process
+105346394	GO:0050896~response to stimulus
+105346394	GO:0009987~cellular process
+105346725	GO:0009987~cellular process
+105346397	GO:0071840~cellular component organization or biogenesis
+105346419	GO:0023052~signaling
+105346495	GO:0044699~single-organism process
+105346675	GO:0065007~biological regulation
+105346725	GO:0065007~biological regulation
+105346725	GO:0050789~regulation of biological process
+105346774	GO:0009987~cellular process
+105346846	GO:0051179~localization
+105346905	GO:0071840~cellular component organization or biogenesis
+105346908	GO:0071840~cellular component organization or biogenesis
+105347083	GO:0009987~cellular process
+105347043	GO:0044699~single-organism process
+105347058	GO:0065007~biological regulation
+105347138	GO:0008152~metabolic process
+105347169	GO:0051179~localization
+105347203	GO:0050896~response to stimulus
+105347306	GO:0050896~response to stimulus
+105347306	GO:0065007~biological regulation
+105347316	GO:0008152~metabolic process
+105347320	GO:0050896~response to stimulus
+105347346	GO:0009987~cellular process
+105347376	GO:0023052~signaling
+105347376	GO:0044699~single-organism process
+105347432	GO:0008152~metabolic process
+105347546	GO:0044699~single-organism process
+105347574	GO:0008152~metabolic process
+105347574	GO:0009987~cellular process
+105347670	GO:0051179~localization
+105347800	GO:0009987~cellular process
+105347814	GO:0008152~metabolic process
+105347974	GO:0008152~metabolic process
+105348011	GO:0050789~regulation of biological process
+105348011	GO:0065007~biological regulation
+105348045	GO:0009987~cellular process
+105348179	GO:0050896~response to stimulus
+105348313	GO:0044699~single-organism process
+105348489	GO:0008152~metabolic process
+105348496	GO:0051179~localization
+105348553	GO:0050789~regulation of biological process
+105348583	GO:0009987~cellular process
+105348592	GO:0050896~response to stimulus
+105348635	GO:0051179~localization
+105348659	GO:0065007~biological regulation
+105348932	GO:0051179~localization
+105348988	GO:0000003~reproduction
+105349013	GO:0009987~cellular process
+105349070	GO:0009987~cellular process
+105349134	GO:0050789~regulation of biological process
+105349135	GO:0044699~single-organism process

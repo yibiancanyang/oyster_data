@@ -1,0 +1,3895 @@
+XM_011413955	GO:0033588~Elongator holoenzyme complex
+XM_011414106	GO:0016021~integral component of membrane
+XM_011414248	GO:0005622~intracellular
+XM_011414299	GO:0005737~cytoplasm
+XM_011414346	GO:0005744~mitochondrial inner membrane presequence translocase complex
+XM_011414366	GO:0016021~integral component of membrane
+XM_011414373	GO:0016021~integral component of membrane
+XM_011414444	GO:0005622~intracellular
+XM_011414473	GO:0016021~integral component of membrane
+XM_011414488	GO:0016021~integral component of membrane
+XM_011414715	GO:0016021~integral component of membrane
+XM_011414722	GO:0016021~integral component of membrane
+XM_011414727	GO:0016021~integral component of membrane
+XM_011414721	GO:0016021~integral component of membrane
+XM_011414730	GO:0005886~plasma membrane
+XM_011414906	GO:0016021~integral component of membrane
+XM_011415003	GO:0005622~intracellular
+XM_011415005	GO:0016021~integral component of membrane
+XM_011415105	GO:0005789~endoplasmic reticulum membrane
+XM_011415104	GO:0016021~integral component of membrane
+XM_011415109	GO:0016021~integral component of membrane
+XM_011415106	GO:0016021~integral component of membrane
+XM_011415140	GO:0016021~integral component of membrane
+XM_011415467	GO:0019013~viral nucleocapsid
+XM_011415467	GO:0030529~intracellular ribonucleoprotein complex
+XM_011415651	GO:0005622~intracellular
+XM_011415650	GO:0005622~intracellular
+XM_011415731	GO:0016021~integral component of membrane
+XM_011415756	GO:0016021~integral component of membrane
+AJ427419	GO:0016021~integral component of membrane
+XM_011415906	GO:0000940~condensed chromosome outer kinetochore
+XM_011416055	GO:0005622~intracellular
+AY039648	GO:0005737~cytoplasm
+XM_011416888	GO:0008076~voltage-gated potassium channel complex
+XM_011417841	GO:0005622~intracellular
+XM_011416150	GO:0005634~nucleus
+NM_001308909	GO:0005622~intracellular
+XM_011416224	GO:0016021~integral component of membrane
+XM_011416240	GO:0005634~nucleus
+XM_011416241	GO:0005634~nucleus
+XM_011416283	GO:0016021~integral component of membrane
+XM_011416389	GO:0005840~ribosome
+XM_011416444	GO:0005737~cytoplasm
+XM_011416540	GO:0031314~extrinsic component of mitochondrial inner membrane
+XM_011416819	GO:0016021~integral component of membrane
+XM_011417114	GO:0000502~proteasome complex
+XM_011417652	GO:0016514~SWI/SNF complex
+FJ768956	GO:0005634~nucleus
+XM_011417330	GO:0016021~integral component of membrane
+XM_011417424	GO:0005634~nucleus
+NM_001308866	GO:0005576~extracellular region
+XM_011417422	GO:0005576~extracellular region
+XM_011417439	GO:0016021~integral component of membrane
+XM_011417781	GO:0016021~integral component of membrane
+XM_011417840	GO:0016020~membrane
+XM_011417867	GO:0016021~integral component of membrane
+XM_011417884	GO:0005786~signal recognition particle, endoplasmic reticulum targeting
+XM_011417923	GO:0016021~integral component of membrane
+XM_011417924	GO:0016021~integral component of membrane
+XM_011418007	GO:0016021~integral component of membrane
+XM_011418011	GO:0016021~integral component of membrane
+XM_011418319	GO:0016021~integral component of membrane
+XM_011418340	GO:0000786~nucleosome
+XM_011418345	GO:0005634~nucleus
+XM_011418352	GO:0005634~nucleus
+XM_011418572	GO:0016021~integral component of membrane
+XM_011419576	GO:0005840~ribosome
+XM_011421157	GO:0005737~cytoplasm
+XM_011418358	GO:0000786~nucleosome
+XM_011418433	GO:0016021~integral component of membrane
+XM_011418499	GO:0016592~mediator complex
+XM_011418733	GO:0016021~integral component of membrane
+HM034838	GO:0016021~integral component of membrane
+XM_011418861	GO:0005622~intracellular
+NM_001319970	GO:0005622~intracellular
+XM_011419296	GO:0005634~nucleus
+XM_011419301	GO:0005622~intracellular
+XM_011419370	GO:0016021~integral component of membrane
+XM_011419504	GO:0005921~gap junction
+XM_011419683	GO:0016021~integral component of membrane
+XM_011419836	GO:0031011~Ino80 complex
+XM_011420312	GO:0016021~integral component of membrane
+XM_011420514	GO:0005622~intracellular
+XM_011420781	GO:0005576~extracellular region
+XM_011420781	GO:0016021~integral component of membrane
+XM_011420904	GO:0005634~nucleus
+XM_011420925	GO:0016021~integral component of membrane
+XM_011421207	GO:0016021~integral component of membrane
+XM_011421239	GO:0016021~integral component of membrane
+XM_011421257	GO:0005921~gap junction
+XM_011421262	GO:0016021~integral component of membrane
+XM_011421265	GO:0005921~gap junction
+NM_001308852	GO:0005576~extracellular region
+EF190193	GO:0005576~extracellular region
+XM_011421780	GO:0000151~ubiquitin ligase complex
+XM_011421791	GO:0005576~extracellular region
+XM_011421291	GO:0005634~nucleus
+XM_011421582	GO:0016021~integral component of membrane
+XM_011421747	GO:0016021~integral component of membrane
+XM_011421758	GO:0000786~nucleosome
+XM_011421870	GO:0005681~spliceosomal complex
+XM_011421880	GO:0005576~extracellular region
+XM_011422199	GO:0016021~integral component of membrane
+XM_011422265	GO:0016021~integral component of membrane
+XM_011422322	GO:0005634~nucleus
+XM_011422334	GO:0005622~intracellular
+XM_011422355	GO:0005622~intracellular
+XM_011423870	GO:0005622~intracellular
+XM_011424603	GO:0016020~membrane
+XM_011424716	GO:0016020~membrane
+XM_011424830	GO:0005622~intracellular
+XM_011425219	GO:0005622~intracellular
+XM_011425224	GO:0005622~intracellular
+XM_011422670	GO:0005840~ribosome
+AY659986	GO:0005576~extracellular region
+XM_011422747	GO:0005576~extracellular region
+XM_011422824	GO:0016021~integral component of membrane
+XM_011422997	GO:0016021~integral component of membrane
+XM_011423056	GO:0016021~integral component of membrane
+XM_011423070	GO:0005622~intracellular
+XM_011423489	GO:0016021~integral component of membrane
+XM_011424136	GO:0016021~integral component of membrane
+XM_011424157	GO:0016021~integral component of membrane
+XM_011424289	GO:0016021~integral component of membrane
+XM_011424867	GO:0016021~integral component of membrane
+XM_011425147	GO:0000139~Golgi membrane
+XM_011425149	GO:0016021~integral component of membrane
+AM286405	GO:0016459~myosin complex
+XM_011425542	GO:0016021~integral component of membrane
+XM_011425529	GO:0016021~integral component of membrane
+XM_011425501	GO:0016021~integral component of membrane
+XM_011425521	GO:0016021~integral component of membrane
+XM_011425772	GO:0016021~integral component of membrane
+XM_011425778	GO:0016021~integral component of membrane
+XM_011425930	GO:0016021~integral component of membrane
+XM_011425943	GO:0016021~integral component of membrane
+XM_011426214	GO:0016021~integral component of membrane
+XM_011426300	GO:0005581~collagen trimer
+XM_011426310	GO:0016021~integral component of membrane
+XM_011426455	GO:0016021~integral component of membrane
+XM_011426527	GO:0016021~integral component of membrane
+XM_011426556	GO:0016021~integral component of membrane
+XM_011426709	GO:0016021~integral component of membrane
+XM_011426857	GO:0043189~H4/H2A histone acetyltransferase complex
+XM_011427418	GO:0005654~nucleoplasm
+XM_011427679	GO:0005840~ribosome
+XM_011427934	GO:0000786~nucleosome
+XM_011428443	GO:0005622~intracellular
+EU108717	GO:0005622~intracellular
+XM_011429725	GO:0030286~dynein complex
+XM_011426787	GO:0005732~small nucleolar ribonucleoprotein complex
+XM_011427385	GO:0016021~integral component of membrane
+XM_011427491	GO:0016021~integral component of membrane
+XM_011427872	GO:0016021~integral component of membrane
+XM_011428169	GO:0016021~integral component of membrane
+AB516438	GO:0005634~nucleus
+XM_011429592	GO:0030132~clathrin coat of coated pit
+XM_011429591	GO:0030130~clathrin coat of trans-Golgi network vesicle
+XM_011429672	GO:0016021~integral component of membrane
+XM_011429695	GO:0016021~integral component of membrane
+XM_011429909	GO:0005581~collagen trimer
+XM_011429983	GO:0005634~nucleus
+XM_011430960	GO:0005874~microtubule
+XM_011430976	GO:0005622~intracellular
+XM_011430974	GO:0005622~intracellular
+XM_011430246	GO:0005852~eukaryotic translation initiation factor 3 complex
+XM_011430246	GO:0033290~eukaryotic 48S preinitiation complex
+XM_011430692	GO:0016021~integral component of membrane
+XM_011430698	GO:0005634~nucleus
+NM_001305373	GO:0005737~cytoplasm
+XM_011431078	GO:0005737~cytoplasm
+XM_011431116	GO:0030127~COPII vesicle coat
+XM_011431587	GO:0005737~cytoplasm
+XM_011431781	GO:0005887~integral component of plasma membrane
+XM_011431779	GO:0005887~integral component of plasma membrane
+XM_011432184	GO:0030286~dynein complex
+XM_011432183	GO:0030286~dynein complex
+XM_011432185	GO:0030286~dynein complex
+XM_011431357	GO:0016021~integral component of membrane
+XM_011431356	GO:0016021~integral component of membrane
+XM_011431366	GO:0016021~integral component of membrane
+XM_011431425	GO:0016021~integral component of membrane
+XM_011431467	GO:0016021~integral component of membrane
+XM_011431497	GO:0005886~plasma membrane
+HQ228218	GO:0016021~integral component of membrane
+XM_011431767	GO:0016021~integral component of membrane
+AM904565	GO:0016021~integral component of membrane
+XM_011432093	GO:0016021~integral component of membrane
+XM_011432238	GO:0005634~nucleus
+XM_011432755	GO:0005622~intracellular
+XM_011432758	GO:0005622~intracellular
+XM_011433097	GO:0005622~intracellular
+XM_011433247	GO:0005622~intracellular
+XM_011433734	GO:0016021~integral component of membrane
+XM_011433735	GO:0016021~integral component of membrane
+XM_011433870	GO:0016021~integral component of membrane
+XM_011433905	GO:0005622~intracellular
+NM_001305363	GO:0005737~cytoplasm
+XM_011434433	GO:0005730~nucleolus
+XM_011434436	GO:0005576~extracellular region
+EU583802	GO:0005622~intracellular
+XM_011432710	GO:0016021~integral component of membrane
+XM_011432965	GO:0016021~integral component of membrane
+NM_001305307	GO:0005885~Arp2/3 protein complex
+XM_011432998	GO:0005737~cytoplasm
+XM_011433024	GO:0016021~integral component of membrane
+XM_011433099	GO:0005737~cytoplasm
+XM_011433224	GO:0016021~integral component of membrane
+XM_011433286	GO:0016021~integral component of membrane
+XM_011433289	GO:0016021~integral component of membrane
+XM_011433818	GO:0016021~integral component of membrane
+XM_011433992	GO:0016021~integral component of membrane
+XM_011433996	GO:0005634~nucleus
+XM_011434565	GO:0016021~integral component of membrane
+XM_011434638	GO:0016021~integral component of membrane
+XM_011434846	GO:0016021~integral component of membrane
+XM_011434845	GO:0016021~integral component of membrane
+XM_011435094	GO:0016020~membrane
+XM_011435212	GO:0016021~integral component of membrane
+XM_011435212	GO:0005604~basement membrane
+XM_011435211	GO:0005604~basement membrane
+XM_011436587	GO:0005622~intracellular
+XM_011437270	GO:0005622~intracellular
+XM_011438169	GO:0008076~voltage-gated potassium channel complex
+XM_011438260	GO:0005643~nuclear pore
+XM_011435753	GO:0016021~integral component of membrane
+XM_011435893	GO:0016021~integral component of membrane
+XM_011435895	GO:0016021~integral component of membrane
+XM_011436075	GO:0016021~integral component of membrane
+XM_011436193	GO:0005634~nucleus
+XR_900959	GO:0019013~viral nucleocapsid
+XM_011436435	GO:0005759~mitochondrial matrix
+XM_011436685	GO:0016021~integral component of membrane
+XM_011437054	GO:0016021~integral component of membrane
+XM_011437067	GO:0016021~integral component of membrane
+XM_011437258	GO:0005634~nucleus
+XM_011437409	GO:0016021~integral component of membrane
+XM_011437413	GO:0016021~integral component of membrane
+XM_011437626	GO:0005634~nucleus
+XM_011437629	GO:0016021~integral component of membrane
+XM_011437631	GO:0016021~integral component of membrane
+XM_011437653	GO:0005783~endoplasmic reticulum
+XM_011437718	GO:0005901~caveola
+XM_011437719	GO:0000139~Golgi membrane
+XM_011437719	GO:0005901~caveola
+XM_011437786	GO:0016021~integral component of membrane
+XM_011437984	GO:0016592~mediator complex
+XM_011438068	GO:0016021~integral component of membrane
+XM_011438069	GO:0016021~integral component of membrane
+XM_011438528	GO:0005622~intracellular
+XM_011439114	GO:0005576~extracellular region
+XM_011439275	GO:0005737~cytoplasm
+XM_011440021	GO:0016020~membrane
+XM_011440257	GO:0005622~intracellular
+XM_011439060	GO:0016021~integral component of membrane
+XM_011439300	GO:0016021~integral component of membrane
+XM_011439814	GO:0005634~nucleus
+XM_011440114	GO:0030131~clathrin adaptor complex
+XM_011440114	GO:0005802~trans-Golgi network
+XM_011440466	GO:0016021~integral component of membrane
+XM_011440543	GO:0030133~transport vesicle
+XM_011440673	GO:0005622~intracellular
+XM_011440937	GO:0005622~intracellular
+XM_011440936	GO:0005622~intracellular
+XM_011441890	GO:0005737~cytoplasm
+XM_011441928	GO:0016020~membrane
+XM_011441932	GO:0016020~membrane
+XM_011442148	GO:0005622~intracellular
+XM_011442784	GO:0005737~cytoplasm
+XM_011442944	GO:0005667~transcription factor complex
+XM_011443223	GO:0005737~cytoplasm
+XM_011443879	GO:0005740~mitochondrial envelope
+XM_011443901	GO:0005622~intracellular
+XM_011443908	GO:0005622~intracellular
+XM_011440581	GO:0005623~cell
+XM_011440589	GO:0016021~integral component of membrane
+XM_011440892	GO:0016021~integral component of membrane
+XM_011441351	GO:0005921~gap junction
+XM_011441353	GO:0016021~integral component of membrane
+AB262086	GO:0005783~endoplasmic reticulum
+XM_011441599	GO:0016021~integral component of membrane
+XM_011441722	GO:0016021~integral component of membrane
+XM_011441881	GO:0016021~integral component of membrane
+XM_011442068	GO:0005634~nucleus
+XM_011442067	GO:0005634~nucleus
+XM_011442525	GO:0016021~integral component of membrane
+XM_011442704	GO:0016021~integral component of membrane
+XM_011442703	GO:0016021~integral component of membrane
+XM_011442894	GO:0016021~integral component of membrane
+XM_011443122	GO:0016021~integral component of membrane
+XM_011443223	GO:0005634~nucleus
+XM_011443516	GO:0016021~integral component of membrane
+XM_011443506	GO:0016021~integral component of membrane
+XM_011443520	GO:0000502~proteasome complex
+XM_011443529	GO:0016021~integral component of membrane
+XM_011443536	GO:0000786~nucleosome
+XM_011443586	GO:0016021~integral component of membrane
+XM_011443719	GO:0005667~transcription factor complex
+XM_011443764	GO:0016021~integral component of membrane
+XM_011443978	GO:0016021~integral component of membrane
+XM_011444125	GO:0005634~nucleus
+XM_011444431	GO:0005840~ribosome
+XM_011444720	GO:0005737~cytoplasm
+XM_011444821	GO:0016021~integral component of membrane
+XM_011444151	GO:0016592~mediator complex
+XM_011444202	GO:0016021~integral component of membrane
+AB262088	GO:0016021~integral component of membrane
+XM_011444609	GO:0016021~integral component of membrane
+XM_011444791	GO:0031514~motile cilium
+XM_011444841	GO:0016020~membrane
+XM_011444841	GO:0005578~proteinaceous extracellular matrix
+XM_011444842	GO:0005576~extracellular region
+XM_011444924	GO:0016021~integral component of membrane
+XM_011444986	GO:0005622~intracellular
+XM_011445101	GO:0016021~integral component of membrane
+XR_901987	GO:0016021~integral component of membrane
+XM_011445008	GO:0016021~integral component of membrane
+XM_011445009	GO:0016021~integral component of membrane
+XM_011445098	GO:0016021~integral component of membrane
+XM_011445120	GO:0005622~intracellular
+XM_011445299	GO:0005622~intracellular
+XM_011445505	GO:0016020~membrane
+XM_011445879	GO:0005737~cytoplasm
+XM_011446471	GO:0005622~intracellular
+XM_011446495	GO:0005622~intracellular
+FJ669295	GO:0005856~cytoskeleton
+XM_011447553	GO:0005737~cytoplasm
+XM_011448054	GO:0016021~integral component of membrane
+XM_011448379	GO:0016021~integral component of membrane
+XM_011448523	GO:0016021~integral component of membrane
+NM_001305337	GO:0005634~nucleus
+XM_011445333	GO:0016021~integral component of membrane
+XM_011445448	GO:0005887~integral component of plasma membrane
+XM_011445538	GO:0005887~integral component of plasma membrane
+XM_011445847	GO:0005634~nucleus
+XM_011445990	GO:0016021~integral component of membrane
+XM_011446261	GO:0016021~integral component of membrane
+XM_011446263	GO:0016021~integral component of membrane
+NM_001308895	GO:0016021~integral component of membrane
+FJ669289	GO:0005737~cytoplasm
+FJ669287	GO:0005737~cytoplasm
+XM_011446558	GO:0016021~integral component of membrane
+XM_011446687	GO:0016021~integral component of membrane
+XM_011446733	GO:0016021~integral component of membrane
+XM_011446860	GO:0005634~nucleus
+XM_011447074	GO:0016021~integral component of membrane
+XM_011447087	GO:0016021~integral component of membrane
+XM_011447306	GO:0000502~proteasome complex
+XM_011447780	GO:0005777~peroxisome
+XM_011447801	GO:0016021~integral component of membrane
+XM_011447796	GO:0016021~integral component of membrane
+XM_011447831	GO:0016021~integral component of membrane
+XM_011447863	GO:0005634~nucleus
+XM_011447936	GO:0005622~intracellular
+XM_011447973	GO:0016021~integral component of membrane
+XM_011448076	GO:0034464~BBSome
+XM_011448475	GO:0016021~integral component of membrane
+XM_011448516	GO:0016021~integral component of membrane
+FJ347727	GO:0005737~cytoplasm
+FJ347726	GO:0005737~cytoplasm
+FJ347730	GO:0005737~cytoplasm
+FJ347733	GO:0005737~cytoplasm
+FJ347753	GO:0005737~cytoplasm
+FJ347744	GO:0005737~cytoplasm
+FJ347749	GO:0005737~cytoplasm
+XM_011449511	GO:0005737~cytoplasm
+XM_011448652	GO:0016021~integral component of membrane
+XM_011448801	GO:0000439~core TFIIH complex
+XM_011448812	GO:0016020~membrane
+XM_011448849	GO:0016021~integral component of membrane
+XM_011448952	GO:0016021~integral component of membrane
+XM_011449425	GO:0030132~clathrin coat of coated pit
+XM_011449502	GO:0016021~integral component of membrane
+XM_011449511	GO:0005885~Arp2/3 protein complex
+XM_011449582	GO:0033557~Slx1-Slx4 complex
+AJ563459	GO:0005840~ribosome
+XM_011449691	GO:0016021~integral component of membrane
+XM_011449760	GO:0005634~nucleus
+XM_011449779	GO:0016021~integral component of membrane
+XM_011450006	GO:0016021~integral component of membrane
+XM_011451256	GO:0005622~intracellular
+XM_011451502	GO:0016021~integral component of membrane
+XM_011451542	GO:0005622~intracellular
+XM_011451894	GO:0005622~intracellular
+XM_011452006	GO:0005576~extracellular region
+XM_011452036	GO:0045211~postsynaptic membrane
+XM_011450088	GO:0005622~intracellular
+AY321300	GO:0005623~cell
+XM_011450379	GO:0016021~integral component of membrane
+XM_011450623	GO:0016021~integral component of membrane
+XM_011450792	GO:0030529~intracellular ribonucleoprotein complex
+XM_011450870	GO:0016021~integral component of membrane
+XM_011451086	GO:0005643~nuclear pore
+XM_011451122	GO:0016021~integral component of membrane
+XM_011451244	GO:0016021~integral component of membrane
+XM_011451302	GO:0030286~dynein complex
+XM_011451661	GO:0016021~integral component of membrane
+XM_011451755	GO:0005874~microtubule
+XM_011451779	GO:0016021~integral component of membrane
+XM_011451859	GO:0030136~clathrin-coated vesicle
+XM_011452031	GO:0045211~postsynaptic membrane
+XM_011452064	GO:0031012~extracellular matrix
+AB106142	GO:0031012~extracellular matrix
+XM_011452286	GO:0005783~endoplasmic reticulum
+XM_011452560	GO:0016021~integral component of membrane
+XM_011452558	GO:0016021~integral component of membrane
+XM_011452608	GO:0016021~integral component of membrane
+HQ144188	GO:0005622~intracellular
+XM_011452857	GO:0005789~endoplasmic reticulum membrane
+XM_011453121	GO:0016021~integral component of membrane
+XM_011453124	GO:0016021~integral component of membrane
+XM_011453123	GO:0016021~integral component of membrane
+XM_011453188	GO:0005737~cytoplasm
+XM_011453221	GO:0000123~histone acetyltransferase complex
+XM_011453240	GO:0016021~integral component of membrane
+XM_011453345	GO:0016021~integral component of membrane
+XM_011453285	GO:0005634~nucleus
+XM_011453817	GO:0005739~mitochondrion
+XM_011453946	GO:0016471~vacuolar proton-transporting V-type ATPase complex
+XM_011453564	GO:0005622~intracellular
+XM_011453865	GO:0030529~intracellular ribonucleoprotein complex
+XM_011453904	GO:0031514~motile cilium
+XM_011453916	GO:0016021~integral component of membrane
+XM_011453976	GO:0016021~integral component of membrane
+XM_011453979	GO:0005622~intracellular
+XM_011454117	GO:0016021~integral component of membrane
+XM_011454118	GO:0016021~integral component of membrane
+XM_011454114	GO:0016021~integral component of membrane
+XM_011454123	GO:0070469~respiratory chain
+XM_011454138	GO:0016021~integral component of membrane
+XM_011454321	GO:0048500~signal recognition particle
+XM_011454969	GO:0005737~cytoplasm
+XM_011455641	GO:0005622~intracellular
+XM_011456115	GO:0005622~intracellular
+XM_011456250	GO:0016021~integral component of membrane
+XM_011456249	GO:0016021~integral component of membrane
+XM_011456384	GO:0005737~cytoplasm
+XM_011456571	GO:0016282~eukaryotic 43S preinitiation complex
+XM_011456684	GO:0005622~intracellular
+XM_011457046	GO:0005737~cytoplasm
+XM_011457504	GO:0016020~membrane
+XM_011454366	GO:0016021~integral component of membrane
+XM_011454478	GO:0005622~intracellular
+XM_011454619	GO:0016021~integral component of membrane
+XM_011454846	GO:0016021~integral component of membrane
+XM_011454888	GO:0005634~nucleus
+XM_011455028	GO:0016021~integral component of membrane
+XM_011455046	GO:0016021~integral component of membrane
+XM_011455370	GO:0005623~cell
+NM_001308879	GO:0005623~cell
+XM_011455590	GO:0005737~cytoplasm
+NM_001308855	GO:0005622~intracellular
+XM_011456050	GO:0005634~nucleus
+XM_011456224	GO:0016021~integral component of membrane
+XM_011456343	GO:0016021~integral component of membrane
+XM_011456381	GO:0005634~nucleus
+XM_011456380	GO:0005634~nucleus
+XM_011456676	GO:0016021~integral component of membrane
+XM_011456689	GO:0016021~integral component of membrane
+XM_011456961	GO:0016021~integral component of membrane
+XM_011456963	GO:0016021~integral component of membrane
+AB199895	GO:0005840~ribosome
+XM_011457154	GO:0016021~integral component of membrane
+XM_011457552	GO:0005732~small nucleolar ribonucleoprotein complex
+XM_011457811	GO:0016021~integral component of membrane
+XM_011457920	GO:0030054~cell junction
+XM_011457830	GO:0015935~small ribosomal subunit
+XM_011457920	GO:0045211~postsynaptic membrane
+XM_011457957	GO:0016021~integral component of membrane
+XM_011458051	GO:0016021~integral component of membrane
+XM_011458186	GO:0016021~integral component of membrane
+XM_011458186	GO:0005886~plasma membrane
+XM_011458608	GO:0005622~intracellular
+XM_011458830	GO:0005622~intracellular
+XM_011458541	GO:0016021~integral component of membrane
+XM_011458602	GO:0016021~integral component of membrane
+XM_011458949	GO:0016021~integral component of membrane
+XM_011435914	GO:0019008~molybdopterin synthase complex
+XM_011435914	GO:0005829~cytosol
+XM_011413692	GO:0016021~integral component of membrane
+XM_011413731	GO:0005634~nucleus
+XM_011413845	GO:0005622~intracellular
+XM_011414138	GO:0005869~dynactin complex
+XM_011414107	GO:0016021~integral component of membrane
+XM_011414150	GO:0005634~nucleus
+XM_011414315	GO:0016021~integral component of membrane
+XM_011414358	GO:0016021~integral component of membrane
+XM_011414489	GO:0016021~integral component of membrane
+XM_011414494	GO:0005634~nucleus
+XM_011414677	GO:0005622~intracellular
+XM_011414689	GO:0005885~Arp2/3 protein complex
+XM_011414719	GO:0016021~integral component of membrane
+XM_011415016	GO:0005846~nuclear cap binding complex
+XM_011415038	GO:0005634~nucleus
+XM_011415110	GO:0005789~endoplasmic reticulum membrane
+XM_011415111	GO:0005789~endoplasmic reticulum membrane
+XM_011415128	GO:0016021~integral component of membrane
+XM_011415309	GO:0008076~voltage-gated potassium channel complex
+XM_011415312	GO:0008076~voltage-gated potassium channel complex
+XM_011415314	GO:0008076~voltage-gated potassium channel complex
+XM_011415319	GO:0008076~voltage-gated potassium channel complex
+XM_011415469	GO:0005622~intracellular
+XM_011415600	GO:0016021~integral component of membrane
+XM_011415666	GO:0016021~integral component of membrane
+XM_011415693	GO:0016021~integral component of membrane
+XM_011415746	GO:0005856~cytoskeleton
+XM_011415748	GO:0016021~integral component of membrane
+XM_011415752	GO:0016021~integral component of membrane
+NM_001308908	GO:0005737~cytoplasm
+XM_011415809	GO:0016021~integral component of membrane
+XM_011415868	GO:0030896~checkpoint clamp complex
+XM_011416001	GO:0005622~intracellular
+XM_011416429	GO:0005737~cytoplasm
+XM_011416986	GO:0016021~integral component of membrane
+XM_011417845	GO:0005622~intracellular
+XM_011418307	GO:0005622~intracellular
+XM_011416159	GO:0005622~intracellular
+XM_011416459	GO:0005634~nucleus
+XM_011416541	GO:0005622~intracellular
+XM_011416830	GO:0005622~intracellular
+XM_011416703	GO:0016021~integral component of membrane
+XM_011416759	GO:0016021~integral component of membrane
+XM_011416837	GO:0016021~integral component of membrane
+XM_011416907	GO:0016021~integral component of membrane
+XM_011416944	GO:0005777~peroxisome
+XM_011417080	GO:0016021~integral component of membrane
+XM_011417499	GO:0016514~SWI/SNF complex
+XM_011417188	GO:0016514~SWI/SNF complex
+XM_011417643	GO:0005634~nucleus
+XM_011417700	GO:0016021~integral component of membrane
+XM_011417883	GO:0016021~integral component of membrane
+XM_011417926	GO:0016021~integral component of membrane
+XM_011417935	GO:0016021~integral component of membrane
+XM_011418004	GO:0016021~integral component of membrane
+XM_011418005	GO:0016021~integral component of membrane
+XM_011418117	GO:0005622~intracellular
+XM_011418170	GO:0016021~integral component of membrane
+XM_011418337	GO:0005634~nucleus
+XM_011418341	GO:0000786~nucleosome
+XM_011418343	GO:0000786~nucleosome
+XM_011418351	GO:0005634~nucleus
+XM_011418353	GO:0000786~nucleosome
+XM_011418776	GO:0005874~microtubule
+XM_011418832	GO:0005622~intracellular
+XM_011419275	GO:0005737~cytoplasm
+XM_011419274	GO:0005622~intracellular
+XM_011421252	GO:0016021~integral component of membrane
+XM_011418435	GO:0016021~integral component of membrane
+XM_011418721	GO:0016021~integral component of membrane
+XM_011418720	GO:0016021~integral component of membrane
+XM_011418758	GO:0000159~protein phosphatase type 2A complex
+XM_011418769	GO:0071203~WASH complex
+XM_011418770	GO:0005622~intracellular
+XM_011418827	GO:0016021~integral component of membrane
+XM_011418860	GO:0016021~integral component of membrane
+XM_011418998	GO:0016021~integral component of membrane
+XM_011419041	GO:0005622~intracellular
+XM_011419319	GO:0016021~integral component of membrane
+XM_011419358	GO:0016021~integral component of membrane
+XM_011419361	GO:0016021~integral component of membrane
+XM_011419378	GO:0005789~endoplasmic reticulum membrane
+XM_011419504	GO:0016021~integral component of membrane
+XM_011419599	GO:0016021~integral component of membrane
+XM_011419688	GO:0016021~integral component of membrane
+XM_011419781	GO:0016021~integral component of membrane
+XM_011419842	GO:0016021~integral component of membrane
+XM_011420407	GO:0016021~integral component of membrane
+XR_899064	GO:0016021~integral component of membrane
+XM_011420499	GO:0016021~integral component of membrane
+XM_011420513	GO:0005622~intracellular
+XM_011420673	GO:0016021~integral component of membrane
+XM_011421142	GO:0016021~integral component of membrane
+XM_011421165	GO:0016021~integral component of membrane
+XM_011421257	GO:0016021~integral component of membrane
+XM_011421256	GO:0016021~integral component of membrane
+XM_011421258	GO:0005886~plasma membrane
+XM_011421256	GO:0005886~plasma membrane
+XM_011421261	GO:0016021~integral component of membrane
+XM_011421261	GO:0005921~gap junction
+XM_011421262	GO:0005921~gap junction
+XM_011421265	GO:0016021~integral component of membrane
+XM_011421562	GO:0005622~intracellular
+XM_011421754	GO:0016021~integral component of membrane
+XM_011421873	GO:0005576~extracellular region
+XM_011422009	GO:0005622~intracellular
+XM_011421580	GO:0016021~integral component of membrane
+XM_011422261	GO:0016021~integral component of membrane
+XM_011422262	GO:0016021~integral component of membrane
+XM_011422263	GO:0016021~integral component of membrane
+XM_011422319	GO:0005634~nucleus
+XM_011422467	GO:0016020~membrane
+XM_011423982	GO:0005737~cytoplasm
+KJ531893	GO:0005576~extracellular region
+XM_011425226	GO:0005578~proteinaceous extracellular matrix
+XM_011422488	GO:0005623~cell
+XM_011422503	GO:0000786~nucleosome
+XM_011422636	GO:0005737~cytoplasm
+XM_011422637	GO:0005737~cytoplasm
+XM_011422637	GO:0005634~nucleus
+XM_011423600	GO:0005737~cytoplasm
+XM_011423764	GO:0005622~intracellular
+XM_011424139	GO:0005840~ribosome
+XM_011422838	GO:0016021~integral component of membrane
+XM_011422913	GO:0016021~integral component of membrane
+XM_011423331	GO:0016021~integral component of membrane
+XM_011423388	GO:0005794~Golgi apparatus
+XM_011423389	GO:0005783~endoplasmic reticulum
+XM_011424004	GO:0016021~integral component of membrane
+XM_011424076	GO:0016021~integral component of membrane
+XM_011424449	GO:0016021~integral component of membrane
+XM_011424481	GO:0016021~integral component of membrane
+XM_011424754	GO:0019013~viral nucleocapsid
+XM_011424897	GO:0016021~integral component of membrane
+XM_011424903	GO:0016021~integral component of membrane
+XM_011424989	GO:0032580~Golgi cisterna membrane
+XM_011425146	GO:0005901~caveola
+XM_011425148	GO:0016021~integral component of membrane
+XM_011425150	GO:0000139~Golgi membrane
+XM_011425153	GO:0000139~Golgi membrane
+XM_011425247	GO:0031307~integral component of mitochondrial outer membrane
+XM_011425292	GO:0005634~nucleus
+XM_011425423	GO:0016459~myosin complex
+XM_011425424	GO:0016459~myosin complex
+XM_011425425	GO:0016459~myosin complex
+XM_011425425	GO:0016021~integral component of membrane
+XM_011426154	GO:0005737~cytoplasm
+XM_011426361	GO:0005730~nucleolus
+XM_011426544	GO:0005622~intracellular
+XM_011425625	GO:0008076~voltage-gated potassium channel complex
+XM_011425612	GO:0008076~voltage-gated potassium channel complex
+XM_011425608	GO:0000502~proteasome complex
+XM_011425781	GO:0005622~intracellular
+XM_011425925	GO:0005737~cytoplasm
+XM_011425942	GO:0016021~integral component of membrane
+XM_011426213	GO:0005622~intracellular
+XM_011426211	GO:0005622~intracellular
+XM_011426464	GO:0043564~Ku70:Ku80 complex
+XM_011426524	GO:0016021~integral component of membrane
+XM_011426608	GO:0016021~integral component of membrane
+XM_011426609	GO:0016021~integral component of membrane
+XM_011427482	GO:0005622~intracellular
+XM_011427986	GO:0016021~integral component of membrane
+XM_011428607	GO:0005576~extracellular region
+XM_011429370	GO:0005622~intracellular
+XM_011429376	GO:0005622~intracellular
+XM_011429525	GO:0016020~membrane
+XM_011429622	GO:0005737~cytoplasm
+XM_011429928	GO:0005576~extracellular region
+XM_011426748	GO:0005852~eukaryotic translation initiation factor 3 complex
+XM_011426756	GO:0005852~eukaryotic translation initiation factor 3 complex
+XM_011426896	GO:0005623~cell
+XM_011426964	GO:0016021~integral component of membrane
+XM_011427435	GO:0016021~integral component of membrane
+XM_011427524	GO:0016021~integral component of membrane
+XM_011427828	GO:0005581~collagen trimer
+XM_011427918	GO:0005814~centriole
+XM_011427944	GO:0005634~nucleus
+XM_011427943	GO:0005634~nucleus
+XM_011427997	GO:0005886~plasma membrane
+XM_011427999	GO:0016021~integral component of membrane
+XM_011428470	GO:0030027~lamellipodium
+XM_011428456	GO:0030027~lamellipodium
+XM_011428948	GO:0016021~integral component of membrane
+XM_011429196	GO:0016021~integral component of membrane
+XM_011429237	GO:0016021~integral component of membrane
+XM_011429269	GO:0005622~intracellular
+XM_011429338	GO:0016021~integral component of membrane
+XM_011429458	GO:0016272~prefoldin complex
+XM_011429592	GO:0030130~clathrin coat of trans-Golgi network vesicle
+XM_011429974	GO:0005634~nucleus
+XM_011429976	GO:0005634~nucleus
+XM_011429977	GO:0005634~nucleus
+XM_011429995	GO:0005634~nucleus
+XM_011429993	GO:0005634~nucleus
+XM_011430527	GO:0005739~mitochondrion
+XM_011430975	GO:0005622~intracellular
+XM_011431193	GO:0005622~intracellular
+XM_011430074	GO:0016021~integral component of membrane
+XM_011430086	GO:0016021~integral component of membrane
+XM_011430467	GO:0016021~integral component of membrane
+XM_011430711	GO:0033588~Elongator holoenzyme complex
+XM_011430747	GO:0016021~integral component of membrane
+XM_011431117	GO:0030127~COPII vesicle coat
+XM_011431258	GO:0016021~integral component of membrane
+XM_011431296	GO:0005891~voltage-gated calcium channel complex
+XM_011431410	GO:0005739~mitochondrion
+XM_011432098	GO:0016021~integral component of membrane
+XM_011432180	GO:0030286~dynein complex
+XM_011431427	GO:0016021~integral component of membrane
+XM_011431424	GO:0016021~integral component of membrane
+XM_011431666	GO:0016021~integral component of membrane
+XM_011431668	GO:0005789~endoplasmic reticulum membrane
+XM_011431667	GO:0016021~integral component of membrane
+XM_011431928	GO:0005634~nucleus
+AM904566	GO:0005886~plasma membrane
+XM_011432060	GO:0016021~integral component of membrane
+XM_011432079	GO:0005952~cAMP-dependent protein kinase complex
+XM_011432074	GO:0005952~cAMP-dependent protein kinase complex
+XM_011432337	GO:0016021~integral component of membrane
+XM_011433096	GO:0005622~intracellular
+XM_011433698	GO:0005680~anaphase-promoting complex
+XM_011434435	GO:0005576~extracellular region
+XM_011434801	GO:0005622~intracellular
+XM_011434884	GO:0005622~intracellular
+XM_011435125	GO:0016021~integral component of membrane
+XM_011432570	GO:0016021~integral component of membrane
+XM_011432642	GO:0016021~integral component of membrane
+XM_011432982	GO:0016020~membrane
+AJ563460	GO:0005885~Arp2/3 protein complex
+XM_011433051	GO:0016021~integral component of membrane
+XM_011433184	GO:0045202~synapse
+XM_011433185	GO:0005886~plasma membrane
+XM_011433229	GO:0005739~mitochondrion
+XM_011433364	GO:0005634~nucleus
+XM_011433667	GO:0016021~integral component of membrane
+XM_011433820	GO:0005634~nucleus
+NM_001305363	GO:0005874~microtubule
+AB196534	GO:0005874~microtubule
+XM_011434117	GO:0005737~cytoplasm
+XM_011434636	GO:0016021~integral component of membrane
+XM_011434667	GO:0016282~eukaryotic 43S preinitiation complex
+XM_011435213	GO:0016021~integral component of membrane
+XM_011438151	GO:0005739~mitochondrion
+XM_011435233	GO:0046540~U4/U6 x U5 tri-snRNP complex
+XR_900816	GO:0016021~integral component of membrane
+XM_011435455	GO:0016021~integral component of membrane
+XM_011435495	GO:0030008~TRAPP complex
+XM_011435574	GO:0000502~proteasome complex
+XM_011435890	GO:0016021~integral component of membrane
+XM_011436192	GO:0005634~nucleus
+XM_011436291	GO:0016021~integral component of membrane
+XM_011436414	GO:0030529~intracellular ribonucleoprotein complex
+XM_011436415	GO:0030529~intracellular ribonucleoprotein complex
+XM_011436523	GO:0030991~intraciliary transport particle A
+XM_011436985	GO:0016021~integral component of membrane
+XR_901040	GO:0016021~integral component of membrane
+XR_901040	GO:0005789~endoplasmic reticulum membrane
+XM_011437333	GO:0016021~integral component of membrane
+XM_011437334	GO:0016021~integral component of membrane
+XM_011437454	GO:0016021~integral component of membrane
+XM_011437630	GO:0016021~integral component of membrane
+XM_011437653	GO:0016021~integral component of membrane
+EU152921	GO:0005901~caveola
+NM_001305334	GO:0005764~lysosome
+XM_011438220	GO:0005732~small nucleolar ribonucleoprotein complex
+XM_011438244	GO:0005622~intracellular
+XM_011438653	GO:0016021~integral component of membrane
+XM_011438662	GO:0030136~clathrin-coated vesicle
+XM_011439038	GO:0005840~ribosome
+XM_011439915	GO:0008076~voltage-gated potassium channel complex
+XM_011440551	GO:0005737~cytoplasm
+XM_011440242	GO:0016021~integral component of membrane
+XM_011438753	GO:0016021~integral component of membrane
+XM_011438773	GO:0005737~cytoplasm
+XM_011439154	GO:0016021~integral component of membrane
+XM_011439211	GO:0016021~integral component of membrane
+XM_011439341	GO:0005581~collagen trimer
+XM_011439437	GO:0005673~transcription factor TFIIE complex
+XM_011439438	GO:0005673~transcription factor TFIIE complex
+XM_011439496	GO:0005783~endoplasmic reticulum
+XM_011439644	GO:0005634~nucleus
+XM_011439819	GO:0016021~integral component of membrane
+XM_011440197	GO:0005737~cytoplasm
+XM_011440245	GO:0031012~extracellular matrix
+XM_011440258	GO:0005634~nucleus
+XM_011440928	GO:0016021~integral component of membrane
+XM_011441114	GO:0016021~integral component of membrane
+XM_011441256	GO:0033290~eukaryotic 48S preinitiation complex
+XM_011441804	GO:0005622~intracellular
+XM_011441931	GO:0016020~membrane
+XM_011442023	GO:0005622~intracellular
+XM_011442465	GO:0016459~myosin complex
+XM_011442617	GO:0005840~ribosome
+XM_011442783	GO:0005737~cytoplasm
+XM_011442943	GO:0005737~cytoplasm
+XM_011443509	GO:0005921~gap junction
+XM_011443508	GO:0005921~gap junction
+XM_011443582	GO:0005764~lysosome
+XM_011440486	GO:0016021~integral component of membrane
+XM_011440497	GO:0045202~synapse
+XM_011440497	GO:0016021~integral component of membrane
+XM_011440667	GO:0005622~intracellular
+XM_011440693	GO:0030119~AP-type membrane coat adaptor complex
+XM_011440893	GO:0016021~integral component of membrane
+XM_011441100	GO:0016020~membrane
+XM_011441177	GO:0016021~integral component of membrane
+XM_011441192	GO:0005856~cytoskeleton
+XM_011441353	GO:0005921~gap junction
+XM_011441387	GO:0016021~integral component of membrane
+XM_011441490	GO:0005783~endoplasmic reticulum
+AF075693	GO:0015629~actin cytoskeleton
+XM_011441796	GO:0005622~intracellular
+XM_011441965	GO:0016021~integral component of membrane
+XM_011442087	GO:0005811~lipid particle
+XM_011442102	GO:0016021~integral component of membrane
+XM_011442251	GO:0016021~integral component of membrane
+XM_011442275	GO:0005622~intracellular
+NM_001305316	GO:0016021~integral component of membrane
+XM_011443215	GO:0016021~integral component of membrane
+XM_011443222	GO:0005634~nucleus
+XM_011443512	GO:0016021~integral component of membrane
+XM_011443537	GO:0005634~nucleus
+XM_011443602	GO:0005886~plasma membrane
+XM_011443603	GO:0005886~plasma membrane
+XM_011443727	GO:0016021~integral component of membrane
+XM_011443995	GO:0016021~integral component of membrane
+XM_011443997	GO:0016021~integral component of membrane
+XM_011444430	GO:0005840~ribosome
+XM_011444074	GO:0005739~mitochondrion
+XM_011444307	GO:0016021~integral component of membrane
+XM_011444363	GO:0005634~nucleus
+XM_011444473	GO:0016021~integral component of membrane
+XM_011444584	GO:0016021~integral component of membrane
+XM_011444609	GO:0005741~mitochondrial outer membrane
+XM_011444667	GO:0016021~integral component of membrane
+XM_011444790	GO:0031514~motile cilium
+XM_011444789	GO:0031514~motile cilium
+XM_011444812	GO:0005634~nucleus
+XM_011444816	GO:0016021~integral component of membrane
+XM_011444820	GO:0005634~nucleus
+XM_011444835	GO:0042555~MCM complex
+XM_011444835	GO:0005634~nucleus
+XM_011445069	GO:0016021~integral component of membrane
+XM_011445097	GO:0016021~integral component of membrane
+XM_011445095	GO:0016021~integral component of membrane
+XM_011445297	GO:0005622~intracellular
+XM_011446470	GO:0005622~intracellular
+FJ669293	GO:0005856~cytoskeleton
+FJ669287	GO:0005856~cytoskeleton
+XM_011447682	GO:0016592~mediator complex
+XM_011447930	GO:0005622~intracellular
+XM_011447929	GO:0005622~intracellular
+AJ561117	GO:0005840~ribosome
+XM_011448070	GO:0005622~intracellular
+XM_011448136	GO:0005576~extracellular region
+XM_011445269	GO:0005882~intermediate filament
+XM_011445281	GO:0005829~cytosol
+XM_011445625	GO:0005581~collagen trimer
+XM_011445662	GO:0016021~integral component of membrane
+AB290410	GO:0016021~integral component of membrane
+XM_011445986	GO:0016021~integral component of membrane
+XM_011445982	GO:0016021~integral component of membrane
+XM_011445983	GO:0016021~integral component of membrane
+XM_011445985	GO:0016021~integral component of membrane
+XM_011446313	GO:0016021~integral component of membrane
+XM_011446439	GO:0016021~integral component of membrane
+XM_011446431	GO:0016021~integral component of membrane
+XM_011446442	GO:0016021~integral component of membrane
+AM236465	GO:0005634~nucleus
+XM_011446482	GO:0005634~nucleus
+XM_011446511	GO:0005634~nucleus
+FJ669291	GO:0005737~cytoplasm
+FJ669288	GO:0005737~cytoplasm
+AF026063	GO:0005737~cytoplasm
+XM_011446710	GO:0015935~small ribosomal subunit
+NM_001305343	GO:0015935~small ribosomal subunit
+XM_011446811	GO:0005960~glycine cleavage complex
+XM_011446826	GO:0016021~integral component of membrane
+XM_011446942	GO:0016021~integral component of membrane
+XM_011447003	GO:0016021~integral component of membrane
+XM_011447254	GO:0016021~integral component of membrane
+XM_011447554	GO:0005634~nucleus
+XM_011447677	GO:0000139~Golgi membrane
+XM_011447734	GO:0005622~intracellular
+XM_011447780	GO:0016021~integral component of membrane
+XM_011447799	GO:0016021~integral component of membrane
+XM_011447794	GO:0016021~integral component of membrane
+XM_011447793	GO:0016021~integral component of membrane
+XM_011447903	GO:0005634~nucleus
+XM_011447913	GO:0005622~intracellular
+XM_011448368	GO:0016021~integral component of membrane
+XM_011448449	GO:0016021~integral component of membrane
+XM_011448813	GO:0005622~intracellular
+FJ347746	GO:0005737~cytoplasm
+FJ347735	GO:0005737~cytoplasm
+FJ347723	GO:0005737~cytoplasm
+FJ347721	GO:0005737~cytoplasm
+FJ347740	GO:0005737~cytoplasm
+FJ347745	GO:0005737~cytoplasm
+FJ347737	GO:0005737~cytoplasm
+AF288678	GO:0005737~cytoplasm
+JQ030888	GO:0005840~ribosome
+XM_011449340	GO:0005840~ribosome
+XM_011448746	GO:0016021~integral component of membrane
+XM_011448802	GO:0000439~core TFIIH complex
+XR_902449	GO:0016021~integral component of membrane
+XM_011448855	GO:0016021~integral component of membrane
+XM_011448967	GO:0016021~integral component of membrane
+XM_011449159	GO:0005634~nucleus
+XM_011449162	GO:0000445~THO complex part of transcription export complex
+XM_011449306	GO:0016021~integral component of membrane
+XM_011449498	GO:0016021~integral component of membrane
+XM_011449532	GO:0005622~intracellular
+EU152941	GO:0005840~ribosome
+XM_011451562	GO:0005622~intracellular
+XM_011451893	GO:0016020~membrane
+XM_011451892	GO:0016020~membrane
+XM_011452032	GO:0045211~postsynaptic membrane
+XM_011452440	GO:0005840~ribosome
+XM_011449974	GO:0016021~integral component of membrane
+XM_011450020	GO:0005581~collagen trimer
+XM_011450217	GO:0005623~cell
+XM_011450368	GO:0016021~integral component of membrane
+XM_011450376	GO:0016021~integral component of membrane
+XM_011450540	GO:0030529~intracellular ribonucleoprotein complex
+XM_011450669	GO:0005622~intracellular
+XM_011451234	GO:0016021~integral component of membrane
+XM_011451242	GO:0005694~chromosome
+XM_011451322	GO:0016021~integral component of membrane
+XM_011451443	GO:0016020~membrane
+XM_011451727	GO:0005622~intracellular
+XM_011452015	GO:0016021~integral component of membrane
+XM_011452034	GO:0030054~cell junction
+XM_011452150	GO:0016021~integral component of membrane
+XM_011452175	GO:0005622~intracellular
+XM_011452280	GO:0005622~intracellular
+XM_011452439	GO:0016021~integral component of membrane
+XM_011452551	GO:0016021~integral component of membrane
+XM_011452561	GO:0016021~integral component of membrane
+XM_011452595	GO:0005634~nucleus
+XM_011452685	GO:0005737~cytoplasm
+XM_011452692	GO:0016021~integral component of membrane
+XM_011452703	GO:0016021~integral component of membrane
+XM_011452856	GO:0005622~intracellular
+XM_011452936	GO:0016021~integral component of membrane
+XM_011453119	GO:0016021~integral component of membrane
+XM_011453348	GO:0016021~integral component of membrane
+XM_011453381	GO:0005737~cytoplasm
+XM_011453650	GO:0005622~intracellular
+XM_011453436	GO:0005622~intracellular
+XM_011453454	GO:0016021~integral component of membrane
+XM_011453612	GO:0030529~intracellular ribonucleoprotein complex
+XM_011453730	GO:0016021~integral component of membrane
+XM_011453731	GO:0016021~integral component of membrane
+XM_011453979	GO:0016021~integral component of membrane
+XM_011454070	GO:0005737~cytoplasm
+XM_011454115	GO:0016021~integral component of membrane
+XM_011454141	GO:0016021~integral component of membrane
+XM_011454970	GO:0005737~cytoplasm
+XM_011455605	GO:0005576~extracellular region
+XM_011456097	GO:0005622~intracellular
+XM_011456568	GO:0005622~intracellular
+XM_011456569	GO:0005622~intracellular
+XM_011456632	GO:0005622~intracellular
+XM_011456767	GO:0005622~intracellular
+XM_011456773	GO:0005622~intracellular
+XM_011456796	GO:0005737~cytoplasm
+XM_011456797	GO:0005737~cytoplasm
+XM_011454428	GO:0016021~integral component of membrane
+XM_011454629	GO:0030532~small nuclear ribonucleoprotein complex
+XM_011454853	GO:0016021~integral component of membrane
+XM_011455042	GO:0016021~integral component of membrane
+AJ564624	GO:0016021~integral component of membrane
+XM_011455430	GO:0005737~cytoplasm
+XM_011455532	GO:0005739~mitochondrion
+XM_011456456	GO:0005634~nucleus
+XM_011455597	GO:0005737~cytoplasm
+XM_011455598	GO:0005737~cytoplasm
+XM_011455591	GO:0005737~cytoplasm
+XM_011455872	GO:0016021~integral component of membrane
+XM_011455898	GO:0005634~nucleus
+XM_011455942	GO:0005634~nucleus
+XM_011456006	GO:0005634~nucleus
+XM_011456018	GO:0016021~integral component of membrane
+XM_011456015	GO:0005886~plasma membrane
+XM_011456083	GO:0016021~integral component of membrane
+XM_011456096	GO:0016021~integral component of membrane
+XM_011456100	GO:0005634~nucleus
+XM_011456100	GO:0000786~nucleosome
+XM_011456113	GO:0016021~integral component of membrane
+XM_011456227	GO:0016021~integral component of membrane
+XM_011456312	GO:0016021~integral component of membrane
+XR_903397	GO:0016021~integral component of membrane
+XM_011456684	GO:0016021~integral component of membrane
+XM_011456690	GO:0016021~integral component of membrane
+XM_011456868	GO:0005789~endoplasmic reticulum membrane
+XM_011456956	GO:0016021~integral component of membrane
+XM_011456954	GO:0016021~integral component of membrane
+XM_011457159	GO:0016021~integral component of membrane
+XM_011457161	GO:0016021~integral component of membrane
+XM_011457194	GO:0016021~integral component of membrane
+XM_011457200	GO:0016021~integral component of membrane
+XM_011457272	GO:0005634~nucleus
+XM_011457360	GO:0005634~nucleus
+XM_011457773	GO:0005634~nucleus
+EU152936	GO:0015935~small ribosomal subunit
+XM_011457860	GO:0016021~integral component of membrane
+XM_011457920	GO:0016021~integral component of membrane
+XM_011457943	GO:0016021~integral component of membrane
+XM_011457940	GO:0016021~integral component of membrane
+XM_011457945	GO:0016021~integral component of membrane
+XM_011457956	GO:0016021~integral component of membrane
+XM_011458104	GO:0017053~transcriptional repressor complex
+XM_011458187	GO:0005886~plasma membrane
+XM_011458765	GO:0005622~intracellular
+XM_011458909	GO:0005622~intracellular
+XM_011458601	GO:0005892~acetylcholine-gated channel complex
+XM_011458674	GO:0016021~integral component of membrane
+XM_011458874	GO:0016021~integral component of membrane
+XM_011428201	GO:0019008~molybdopterin synthase complex
+XM_011428201	GO:0005829~cytosol
+XM_011413601	GO:0005622~intracellular
+XM_011413846	GO:0005622~intracellular
+XM_011413958	GO:0016021~integral component of membrane
+XM_011414082	GO:0005737~cytoplasm
+XM_011414118	GO:0005964~phosphorylase kinase complex
+XM_011414116	GO:0005964~phosphorylase kinase complex
+XM_011414387	GO:0005622~intracellular
+XM_011415947	GO:0005737~cytoplasm
+XM_011414514	GO:0005623~cell
+XM_011414515	GO:0016021~integral component of membrane
+XM_011414680	GO:0016021~integral component of membrane
+XM_011414682	GO:0016021~integral component of membrane
+XM_011414688	GO:0005885~Arp2/3 protein complex
+XM_011414716	GO:0016021~integral component of membrane
+XM_011414724	GO:0016021~integral component of membrane
+XM_011414785	GO:0016021~integral component of membrane
+XM_011414984	GO:0005622~intracellular
+XM_011415103	GO:0016021~integral component of membrane
+XM_011415299	GO:0005622~intracellular
+XM_011415313	GO:0008076~voltage-gated potassium channel complex
+XM_011415396	GO:0000221~vacuolar proton-transporting V-type ATPase, V1 domain
+XM_011415653	GO:0005622~intracellular
+XM_011415648	GO:0005622~intracellular
+XM_011415732	GO:0016021~integral component of membrane
+XM_011415895	GO:0016020~membrane
+XM_011415749	GO:0016021~integral component of membrane
+XM_011415768	GO:0005840~ribosome
+XM_011415811	GO:0016021~integral component of membrane
+XM_011415842	GO:0016021~integral component of membrane
+XM_011415951	GO:0016021~integral component of membrane
+XM_011415978	GO:0005737~cytoplasm
+XM_011416143	GO:0005634~nucleus
+XM_011417568	GO:0005622~intracellular
+XM_011417947	GO:0005622~intracellular
+NM_001319969	GO:0005622~intracellular
+XM_011418355	GO:0005634~nucleus
+XM_011416242	GO:0005634~nucleus
+XM_011416268	GO:0016021~integral component of membrane
+XM_011416877	GO:0005840~ribosome
+XM_011416447	GO:0005634~nucleus
+XM_011416536	GO:0016021~integral component of membrane
+XM_011416560	GO:0005840~ribosome
+XM_011416582	GO:0005634~nucleus
+XM_011416761	GO:0016021~integral component of membrane
+XM_011416843	GO:0005737~cytoplasm
+XM_011416852	GO:0031515~tRNA (m1A) methyltransferase complex
+XM_011416908	GO:0016021~integral component of membrane
+XM_011417129	GO:0005758~mitochondrial intermembrane space
+XM_011417577	GO:0016514~SWI/SNF complex
+XM_011417423	GO:0016514~SWI/SNF complex
+NM_001308898	GO:0005634~nucleus
+XM_011417420	GO:0005576~extracellular region
+XM_011417644	GO:0005634~nucleus
+XM_011417773	GO:0016021~integral component of membrane
+XM_011417844	GO:0016020~membrane
+XM_011417875	GO:0016593~Cdc73/Paf1 complex
+XM_011417925	GO:0016021~integral component of membrane
+XM_011418117	GO:0016020~membrane
+XM_011418120	GO:0016020~membrane
+XM_011418246	GO:0016021~integral component of membrane
+XM_011418338	GO:0005634~nucleus
+XM_011418341	GO:0005634~nucleus
+XM_011418348	GO:0005634~nucleus
+XM_011418350	GO:0000786~nucleosome
+XM_011418352	GO:0000786~nucleosome
+XM_011418354	GO:0000786~nucleosome
+XM_011418850	GO:0005622~intracellular
+XM_011420223	GO:0005622~intracellular
+XM_011420331	GO:0005622~intracellular
+XM_011420664	GO:0005654~nucleoplasm
+XM_011421159	GO:0005737~cytoplasm
+XM_011421158	GO:0005737~cytoplasm
+XM_011421160	GO:0005737~cytoplasm
+XM_011418360	GO:0000786~nucleosome
+XM_011418361	GO:0000786~nucleosome
+XM_011418523	GO:0016021~integral component of membrane
+XM_011418646	GO:0016021~integral component of membrane
+XM_011418703	GO:0032783~ELL-EAF complex
+XM_011418763	GO:0016021~integral component of membrane
+XM_011419727	GO:0005622~intracellular
+XM_011418774	GO:0016021~integral component of membrane
+XM_011418885	GO:0016021~integral component of membrane
+XM_011419111	GO:0005622~intracellular
+XM_011419131	GO:0016021~integral component of membrane
+XM_011419299	GO:0005622~intracellular
+XM_011419359	GO:0016021~integral component of membrane
+XM_011419365	GO:0005581~collagen trimer
+XM_011419379	GO:0005789~endoplasmic reticulum membrane
+XM_011419380	GO:0016021~integral component of membrane
+XM_011419479	GO:0016021~integral component of membrane
+XM_011420952	GO:0016021~integral component of membrane
+XM_011421052	GO:0016021~integral component of membrane
+XM_011421133	GO:0016021~integral component of membrane
+XM_011421141	GO:0016021~integral component of membrane
+XM_011421158	GO:0005667~transcription factor complex
+XM_011421231	GO:0016021~integral component of membrane
+NM_001305380	GO:0016021~integral component of membrane
+XM_011421257	GO:0005886~plasma membrane
+XM_011422219	GO:0008076~voltage-gated potassium channel complex
+XM_011421324	GO:0016021~integral component of membrane
+XM_011421460	GO:0016021~integral component of membrane
+XM_011421509	GO:0016021~integral component of membrane
+XM_011421802	GO:0016021~integral component of membrane
+XM_011422048	GO:0016021~integral component of membrane
+XM_011422048	GO:0005743~mitochondrial inner membrane
+FM253117	GO:0016021~integral component of membrane
+XM_011422145	GO:0005840~ribosome
+XM_011422153	GO:0016021~integral component of membrane
+XM_011422333	GO:0016020~membrane
+XM_011422737	GO:0005576~extracellular region
+XM_011424876	GO:0005737~cytoplasm
+XM_011424936	GO:0005622~intracellular
+XM_011422531	GO:0016272~prefoldin complex
+XM_011422627	GO:0016021~integral component of membrane
+XM_011422636	GO:0005634~nucleus
+XM_011422669	GO:0005840~ribosome
+XM_011422676	GO:0016021~integral component of membrane
+XM_011422814	GO:0005846~nuclear cap binding complex
+XM_011422990	GO:0005634~nucleus
+XM_011423161	GO:0005885~Arp2/3 protein complex
+XM_011423460	GO:0016021~integral component of membrane
+XM_011423498	GO:0016021~integral component of membrane
+XM_011423556	GO:0016021~integral component of membrane
+XM_011423578	GO:0030286~dynein complex
+XM_011423580	GO:0030286~dynein complex
+XM_011423657	GO:0032777~Piccolo NuA4 histone acetyltransferase complex
+XM_011424038	GO:0016021~integral component of membrane
+XM_011424157	GO:0005789~endoplasmic reticulum membrane
+XM_011424487	GO:0016021~integral component of membrane
+AB234293	GO:0016021~integral component of membrane
+XM_011424753	GO:0019013~viral nucleocapsid
+XM_011424836	GO:0016021~integral component of membrane
+XM_011424989	GO:0016021~integral component of membrane
+XM_011425161	GO:0001527~microfibril
+XM_011425147	GO:0005901~caveola
+XM_011425148	GO:0005901~caveola
+XM_011425148	GO:0000139~Golgi membrane
+XM_011425150	GO:0005901~caveola
+XM_011425224	GO:0016020~membrane
+XM_011425577	GO:0016021~integral component of membrane
+XM_011425244	GO:0031307~integral component of mitochondrial outer membrane
+AM286405	GO:0016021~integral component of membrane
+XM_011425426	GO:0016021~integral component of membrane
+XM_011425435	GO:0016021~integral component of membrane
+XM_011425515	GO:0016021~integral component of membrane
+XM_011426545	GO:0005622~intracellular
+XM_011426551	GO:0005576~extracellular region
+XM_011425576	GO:0016021~integral component of membrane
+XM_011425924	GO:0005737~cytoplasm
+XM_011425932	GO:0016021~integral component of membrane
+XM_011426085	GO:0016021~integral component of membrane
+XM_011426084	GO:0016021~integral component of membrane
+XM_011426309	GO:0016021~integral component of membrane
+XM_011426544	GO:0016020~membrane
+XM_011426880	GO:0005840~ribosome
+XM_011427418	GO:0005730~nucleolus
+XM_011427992	GO:0016021~integral component of membrane
+AJ544883	GO:0005576~extracellular region
+XM_011428222	GO:0005840~ribosome
+XM_011429371	GO:0016020~membrane
+XM_011429622	GO:0019773~proteasome core complex, alpha-subunit complex
+XM_011429712	GO:0016021~integral component of membrane
+XM_011429814	GO:0005622~intracellular
+XM_011426780	GO:0016021~integral component of membrane
+XM_011426788	GO:0005681~spliceosomal complex
+XM_011426940	GO:0016021~integral component of membrane
+XM_011427083	GO:0016021~integral component of membrane
+XM_011427082	GO:0016021~integral component of membrane
+XM_011427398	GO:0072487~MSL complex
+XM_011427432	GO:0005622~intracellular
+XM_011427469	GO:0016021~integral component of membrane
+XM_011427498	GO:0016021~integral component of membrane
+XM_011427531	GO:0016021~integral component of membrane
+XM_011427589	GO:0005634~nucleus
+XM_011427740	GO:0016021~integral component of membrane
+XM_011427999	GO:0005886~plasma membrane
+XM_011427998	GO:0016021~integral component of membrane
+XM_011428000	GO:0005634~nucleus
+AY321299	GO:0005623~cell
+XM_011428271	GO:0016021~integral component of membrane
+XM_011428458	GO:0030027~lamellipodium
+XM_011428681	GO:0016021~integral component of membrane
+XM_011428852	GO:0005622~intracellular
+AB516433	GO:0005634~nucleus
+XM_011428978	GO:0016021~integral component of membrane
+XM_011429371	GO:0005622~intracellular
+XM_011429372	GO:0016020~membrane
+XM_011429576	GO:0016021~integral component of membrane
+XM_011429591	GO:0030132~clathrin coat of coated pit
+XM_011429880	GO:0016021~integral component of membrane
+XM_011429979	GO:0005634~nucleus
+XM_011429985	GO:0005634~nucleus
+XM_011429971	GO:0005634~nucleus
+XM_011429992	GO:0005634~nucleus
+XM_011430246	GO:0016282~eukaryotic 43S preinitiation complex
+NM_001305373	GO:0005874~microtubule
+XM_011430125	GO:0005930~axoneme
+XM_011430230	GO:0005634~nucleus
+XM_011430634	GO:1902560~GMP reductase complex
+XM_011430960	GO:0005737~cytoplasm
+XM_011431280	GO:0016021~integral component of membrane
+XM_011431295	GO:0005891~voltage-gated calcium channel complex
+XM_011431440	GO:0005576~extracellular region
+XM_011431782	GO:0005887~integral component of plasma membrane
+XM_011431806	GO:0016020~membrane
+XM_011432097	GO:0016021~integral component of membrane
+XM_011432095	GO:0016021~integral component of membrane
+XM_011432231	GO:0005622~intracellular
+XM_011431570	GO:0005929~cilium
+XM_011431667	GO:0005789~endoplasmic reticulum membrane
+AM904565	GO:0005886~plasma membrane
+AM904567	GO:0016021~integral component of membrane
+XM_011432076	GO:0005952~cAMP-dependent protein kinase complex
+XM_011432094	GO:0016021~integral component of membrane
+XM_011432208	GO:0016021~integral component of membrane
+XM_011432207	GO:0016021~integral component of membrane
+AJ971238	GO:0005576~extracellular region
+XM_011433827	GO:0005576~extracellular region
+XM_011434343	GO:0016021~integral component of membrane
+XM_011435123	GO:0016021~integral component of membrane
+XM_011435165	GO:0005622~intracellular
+XM_011432372	GO:0016021~integral component of membrane
+XM_011433044	GO:0030131~clathrin adaptor complex
+XM_011433185	GO:0045202~synapse
+XM_011433274	GO:0005634~nucleus
+XM_011433290	GO:0016021~integral component of membrane
+XM_011433511	GO:0000139~Golgi membrane
+XM_011433512	GO:0000139~Golgi membrane
+XM_011433962	GO:0005874~microtubule
+XM_011434013	GO:0016021~integral component of membrane
+XM_011434117	GO:0005634~nucleus
+XM_011434209	GO:0005747~mitochondrial respiratory chain complex I
+XM_011434433	GO:0030687~preribosome, large subunit precursor
+XM_011434562	GO:0016021~integral component of membrane
+XM_011434639	GO:0016021~integral component of membrane
+XM_011434637	GO:0016021~integral component of membrane
+XM_011434924	GO:0016021~integral component of membrane
+XM_011434983	GO:0016021~integral component of membrane
+XM_011434990	GO:0016021~integral component of membrane
+XM_011435082	GO:0016021~integral component of membrane
+XM_011435083	GO:0016021~integral component of membrane
+XM_011435213	GO:0005604~basement membrane
+XM_011435357	GO:0005634~nucleus
+XM_011437612	GO:0005622~intracellular
+XM_011435364	GO:0016021~integral component of membrane
+XM_011435456	GO:0005743~mitochondrial inner membrane
+XM_011435482	GO:0016021~integral component of membrane
+XM_011435554	GO:0016021~integral component of membrane
+XM_011435624	GO:0016021~integral component of membrane
+XM_011435746	GO:0005622~intracellular
+XM_011436119	GO:0005615~extracellular space
+XM_011436196	GO:0005634~nucleus
+XM_011436286	GO:0005634~nucleus
+XM_011436415	GO:0019013~viral nucleocapsid
+XM_011436418	GO:0005634~nucleus
+XM_011436693	GO:0016021~integral component of membrane
+XM_011436745	GO:0005634~nucleus
+XM_011437049	GO:0005622~intracellular
+XM_011437309	GO:0016021~integral component of membrane
+XM_011437609	GO:0016021~integral component of membrane
+XM_011437632	GO:0016021~integral component of membrane
+XM_011437864	GO:0016021~integral component of membrane
+XM_011437881	GO:0016021~integral component of membrane
+XM_011437982	GO:0016021~integral component of membrane
+XM_011437983	GO:0016592~mediator complex
+XM_011438241	GO:0016021~integral component of membrane
+XM_011438265	GO:0016021~integral component of membrane
+XM_011438387	GO:0016021~integral component of membrane
+XM_011438424	GO:0005634~nucleus
+XM_011438662	GO:0005802~trans-Golgi network
+XM_011440256	GO:0005622~intracellular
+NM_001308851	GO:0005576~extracellular region
+KJ531897	GO:0005576~extracellular region
+XM_011439210	GO:0016021~integral component of membrane
+XM_011439703	GO:0005634~nucleus
+XM_011439784	GO:0016021~integral component of membrane
+XM_011439786	GO:0016021~integral component of membrane
+XM_011440115	GO:0005802~trans-Golgi network
+XM_011440196	GO:0005737~cytoplasm
+XM_011440460	GO:0005634~nucleus
+XM_011440704	GO:0005622~intracellular
+XM_011440759	GO:0005622~intracellular
+XM_011441259	GO:0016021~integral component of membrane
+XM_011441962	GO:0005622~intracellular
+XM_011442024	GO:0005622~intracellular
+XM_011442942	GO:0005737~cytoplasm
+XM_011442943	GO:0005667~transcription factor complex
+XM_011443225	GO:0005737~cytoplasm
+XM_011443222	GO:0005737~cytoplasm
+XM_011443315	GO:0005622~intracellular
+XM_011443513	GO:0005921~gap junction
+XM_011443906	GO:0005622~intracellular
+XM_011440848	GO:0005665~DNA-directed RNA polymerase II, core complex
+XM_011441351	GO:0016021~integral component of membrane
+XM_011441411	GO:0005681~spliceosomal complex
+XM_011441797	GO:0005622~intracellular
+XM_011441995	GO:0016021~integral component of membrane
+XM_011442017	GO:0016021~integral component of membrane
+XM_011442477	GO:0016021~integral component of membrane
+XM_011442570	GO:0016021~integral component of membrane
+XM_011442715	GO:0005634~nucleus
+XM_011442837	GO:0016021~integral component of membrane
+XM_011442877	GO:0005634~nucleus
+XM_011443016	GO:0000502~proteasome complex
+XM_011443066	GO:0005840~ribosome
+XM_011443173	GO:0005634~nucleus
+EU046234	GO:0005634~nucleus
+XM_011443507	GO:0016021~integral component of membrane
+XM_011443602	GO:0016021~integral component of membrane
+XM_011443777	GO:0005794~Golgi apparatus
+XM_011443877	GO:0016021~integral component of membrane
+XM_011443990	GO:0016021~integral component of membrane
+XM_011444225	GO:0016021~integral component of membrane
+NM_001305313	GO:0005737~cytoplasm
+XM_011444362	GO:0005634~nucleus
+XM_011444474	GO:0016021~integral component of membrane
+XM_011444582	GO:0016021~integral component of membrane
+XM_011444583	GO:0016021~integral component of membrane
+NM_001305296	GO:0005741~mitochondrial outer membrane
+XM_011444642	GO:0016021~integral component of membrane
+XM_011444668	GO:0016021~integral component of membrane
+XM_011444813	GO:0005634~nucleus
+XM_011444892	GO:0016021~integral component of membrane
+XM_011444926	GO:0016021~integral component of membrane
+XM_011445119	GO:0005622~intracellular
+XM_011445298	GO:0005622~intracellular
+XM_011445520	GO:0043564~Ku70:Ku80 complex
+XM_011448135	GO:0005576~extracellular region
+XM_011448377	GO:0016021~integral component of membrane
+XM_011448378	GO:0016021~integral component of membrane
+AB289857	GO:0005634~nucleus
+XM_011445214	GO:0005622~intracellular
+XM_011445363	GO:0016021~integral component of membrane
+XM_011445501	GO:0016021~integral component of membrane
+XM_011445533	GO:0005887~integral component of plasma membrane
+XM_011445992	GO:0016021~integral component of membrane
+BK009239	GO:0005634~nucleus
+XM_011446489	GO:0005634~nucleus
+FJ669295	GO:0005737~cytoplasm
+XM_011446672	GO:0016021~integral component of membrane
+XM_011446692	GO:0005622~intracellular
+XR_902216	GO:0016021~integral component of membrane
+XM_011447394	GO:0016021~integral component of membrane
+XM_011447661	GO:0016021~integral component of membrane
+XM_011447675	GO:0000139~Golgi membrane
+XM_011447798	GO:0016021~integral component of membrane
+XM_011447792	GO:0016021~integral component of membrane
+XM_011447931	GO:0005622~intracellular
+XM_011447974	GO:0016021~integral component of membrane
+XM_011447975	GO:0016021~integral component of membrane
+XM_011448008	GO:0016021~integral component of membrane
+XM_011448163	GO:0016021~integral component of membrane
+XM_011448423	GO:0005634~nucleus
+XM_011448499	GO:0016021~integral component of membrane
+XM_011448686	GO:0005634~nucleus
+XM_011448982	GO:0005737~cytoplasm
+FJ347725	GO:0005737~cytoplasm
+FJ347747	GO:0005737~cytoplasm
+FJ347741	GO:0005737~cytoplasm
+FJ347748	GO:0005737~cytoplasm
+FJ347720	GO:0005737~cytoplasm
+FJ347722	GO:0005737~cytoplasm
+FJ347751	GO:0005737~cytoplasm
+FJ347750	GO:0005737~cytoplasm
+XM_011449362	GO:0005622~intracellular
+XM_011449373	GO:0005622~intracellular
+XM_011449714	GO:0005737~cytoplasm
+XM_011448524	GO:0016021~integral component of membrane
+XM_011448721	GO:0005623~cell
+XM_011449002	GO:0016021~integral component of membrane
+NM_001305301	GO:0005634~nucleus
+XM_011449251	GO:0005840~ribosome
+XM_011449425	GO:0030130~clathrin coat of trans-Golgi network vesicle
+XM_011449481	GO:0005789~endoplasmic reticulum membrane
+XM_011449481	GO:0016021~integral component of membrane
+XM_011449499	GO:0016021~integral component of membrane
+XM_011449528	GO:0016021~integral component of membrane
+XM_011449573	GO:0005622~intracellular
+XM_011449989	GO:0005622~intracellular
+XM_011450004	GO:0016021~integral component of membrane
+XM_011450548	GO:0005874~microtubule
+XM_011451035	GO:0005739~mitochondrion
+XM_011451568	GO:0005622~intracellular
+XM_011451708	GO:0005737~cytoplasm
+XM_011452017	GO:0016020~membrane
+XM_011452029	GO:0045211~postsynaptic membrane
+XM_011452031	GO:0030054~cell junction
+XM_011452353	GO:0005622~intracellular
+XM_011452363	GO:0045211~postsynaptic membrane
+XM_011452365	GO:0045211~postsynaptic membrane
+XM_011450350	GO:0016021~integral component of membrane
+XM_011450375	GO:0016021~integral component of membrane
+XM_011450426	GO:0016021~integral component of membrane
+EU583799	GO:0015629~actin cytoskeleton
+XM_011450792	GO:0019013~viral nucleocapsid
+XM_011450883	GO:0005634~nucleus
+XM_011451123	GO:0016021~integral component of membrane
+XM_011451240	GO:0016021~integral component of membrane
+XM_011451251	GO:0030915~Smc5-Smc6 complex
+XM_011451301	GO:0016021~integral component of membrane
+XM_011451421	GO:0016021~integral component of membrane
+XM_011451921	GO:0005622~intracellular
+XM_011451961	GO:0016021~integral component of membrane
+XM_011452034	GO:0016021~integral component of membrane
+XM_011452062	GO:0005634~nucleus
+XM_011452096	GO:0016021~integral component of membrane
+XM_011452265	GO:0016021~integral component of membrane
+XM_011452266	GO:0000502~proteasome complex
+AB262085	GO:0005783~endoplasmic reticulum
+XM_011452329	GO:0016021~integral component of membrane
+XM_011452607	GO:0016021~integral component of membrane
+XM_011452609	GO:0016021~integral component of membrane
+NM_001305317	GO:0005615~extracellular space
+XM_011452854	GO:0016021~integral component of membrane
+XM_011453012	GO:0016021~integral component of membrane
+XM_011453082	GO:0000139~Golgi membrane
+XM_011453120	GO:0016021~integral component of membrane
+XM_011453223	GO:0000123~histone acetyltransferase complex
+XM_011453263	GO:0016021~integral component of membrane
+XM_011453349	GO:0016021~integral component of membrane
+XM_011453351	GO:0016021~integral component of membrane
+XM_011453352	GO:0016021~integral component of membrane
+XM_011453344	GO:0016021~integral component of membrane
+XM_011453492	GO:0016021~integral component of membrane
+XM_011453611	GO:0030529~intracellular ribonucleoprotein complex
+XM_011453611	GO:0005634~nucleus
+XM_011453882	GO:0016021~integral component of membrane
+XM_011454065	GO:0016021~integral component of membrane
+XM_011454112	GO:0016021~integral component of membrane
+XM_011454233	GO:0016021~integral component of membrane
+NM_001308878	GO:0005667~transcription factor complex
+XM_011455140	GO:0005622~intracellular
+XM_011455138	GO:0005622~intracellular
+XM_011455642	GO:0005622~intracellular
+XM_011456037	GO:0005840~ribosome
+XM_011456079	GO:0005622~intracellular
+XM_011456071	GO:0005622~intracellular
+XM_011456688	GO:0005622~intracellular
+XM_011456685	GO:0005622~intracellular
+XM_011456782	GO:0005622~intracellular
+XM_011454434	GO:0016021~integral component of membrane
+XM_011454804	GO:0005838~proteasome regulatory particle
+XM_011454858	GO:0016021~integral component of membrane
+NM_001308878	GO:0005634~nucleus
+XM_011455044	GO:0016021~integral component of membrane
+AM076954	GO:0005623~cell
+XM_011455406	GO:0005622~intracellular
+XM_011455405	GO:0005622~intracellular
+XM_011455430	GO:0005839~proteasome core complex
+XM_011455621	GO:0016021~integral component of membrane
+XM_011455596	GO:0005737~cytoplasm
+XM_011455917	GO:0016021~integral component of membrane
+XM_011456017	GO:0016021~integral component of membrane
+XM_011456018	GO:0005886~plasma membrane
+XM_011456019	GO:0005634~nucleus
+XM_011456099	GO:0005634~nucleus
+XM_011456223	GO:0016021~integral component of membrane
+XM_011456538	GO:0016021~integral component of membrane
+XM_011456571	GO:0005852~eukaryotic translation initiation factor 3 complex
+XM_011456847	GO:0016021~integral component of membrane
+XM_011456960	GO:0016021~integral component of membrane
+XM_011456958	GO:0016021~integral component of membrane
+XM_011457051	GO:0016021~integral component of membrane
+XM_011457064	GO:0015935~small ribosomal subunit
+XM_011457160	GO:0005622~intracellular
+XM_011457211	GO:0016021~integral component of membrane
+XM_011457208	GO:0016021~integral component of membrane
+XM_011457244	GO:0016021~integral component of membrane
+XM_011457640	GO:0005634~nucleus
+EF645271	GO:0016021~integral component of membrane
+XM_011457903	GO:0016459~myosin complex
+AY852246	GO:0015935~small ribosomal subunit
+XM_011457955	GO:0005840~ribosome
+XM_011457960	GO:0016021~integral component of membrane
+XM_011458156	GO:0005739~mitochondrion
+XM_011458054	GO:0016021~integral component of membrane
+XM_011458126	GO:0005737~cytoplasm
+XR_903613	GO:0016021~integral component of membrane
+XM_011458185	GO:0016021~integral component of membrane
+XM_011458831	GO:0016020~membrane
+XM_011458193	GO:0005840~ribosome
+XM_011458243	GO:0016021~integral component of membrane
+XM_011458358	GO:0005576~extracellular region
+XM_011458718	GO:0016021~integral component of membrane
+XM_011458944	GO:0016021~integral component of membrane
+XM_011413602	GO:0005622~intracellular
+XM_011413692	GO:0005622~intracellular
+XM_011413848	GO:0005622~intracellular
+XM_011414029	GO:0016021~integral component of membrane
+XM_011414054	GO:0016021~integral component of membrane
+XM_011414063	GO:0016021~integral component of membrane
+XM_011414079	GO:0016021~integral component of membrane
+XM_011414110	GO:0016021~integral component of membrane
+XM_011414204	GO:0016021~integral component of membrane
+XM_011414250	GO:0005634~nucleus
+XM_011414300	GO:0005737~cytoplasm
+XM_011414347	GO:0016592~mediator complex
+XM_011414445	GO:0005622~intracellular
+XM_011414513	GO:0005623~cell
+XM_011414579	GO:0005634~nucleus
+XM_011414681	GO:0016021~integral component of membrane
+XM_011414723	GO:0016021~integral component of membrane
+XM_011414730	GO:0016021~integral component of membrane
+XM_011414974	GO:0005622~intracellular
+XM_011415036	GO:0005622~intracellular
+XM_011415060	GO:0016021~integral component of membrane
+XM_011415103	GO:0005789~endoplasmic reticulum membrane
+XM_011415104	GO:0005789~endoplasmic reticulum membrane
+XM_011415110	GO:0016021~integral component of membrane
+XM_011415317	GO:0008076~voltage-gated potassium channel complex
+XM_011415310	GO:0008076~voltage-gated potassium channel complex
+XM_011415524	GO:0005622~intracellular
+XM_011415568	GO:0016021~integral component of membrane
+XM_011415730	GO:0016021~integral component of membrane
+XM_011415750	GO:0016021~integral component of membrane
+XM_011415907	GO:0005876~spindle microtubule
+XM_011415906	GO:0005876~spindle microtubule
+XM_011416576	GO:0005622~intracellular
+XM_011416577	GO:0005622~intracellular
+XM_011416579	GO:0005622~intracellular
+XM_011417159	GO:0005622~intracellular
+XM_011417160	GO:0005622~intracellular
+XM_011417840	GO:0005622~intracellular
+XM_011417842	GO:0005622~intracellular
+XM_011418266	GO:0005622~intracellular
+XM_011416152	GO:0005634~nucleus
+AF288677	GO:0005622~intracellular
+XM_011416231	GO:0016021~integral component of membrane
+XM_011416244	GO:0005634~nucleus
+XM_011416243	GO:0005634~nucleus
+XM_011416268	GO:0031966~mitochondrial membrane
+NM_001305332	GO:0005634~nucleus
+XM_011416690	GO:0016021~integral component of membrane
+XM_011416768	GO:0005622~intracellular
+XM_011416830	GO:0016021~integral component of membrane
+XM_011417264	GO:0016514~SWI/SNF complex
+XM_011417158	GO:0016021~integral component of membrane
+XM_011417217	GO:0005840~ribosome
+XM_011417343	GO:0016021~integral component of membrane
+XM_011417498	GO:0016021~integral component of membrane
+XM_011417664	GO:0016021~integral component of membrane
+XM_011417764	GO:0005576~extracellular region
+XM_011417842	GO:0016020~membrane
+XM_011417952	GO:0016021~integral component of membrane
+XM_011418090	GO:0016021~integral component of membrane
+XM_011418116	GO:0005622~intracellular
+XM_011418120	GO:0005622~intracellular
+XM_011418339	GO:0005634~nucleus
+XM_011418340	GO:0005634~nucleus
+XM_011418359	GO:0005634~nucleus
+XM_011418771	GO:0005622~intracellular
+XM_011418773	GO:0016021~integral component of membrane
+XM_011418844	GO:0016021~integral component of membrane
+XM_011418839	GO:0016021~integral component of membrane
+XM_011419069	GO:0016021~integral component of membrane
+EU678319	GO:0005622~intracellular
+XM_011419357	GO:0016021~integral component of membrane
+XM_011419378	GO:0016021~integral component of membrane
+XM_011419374	GO:0016021~integral component of membrane
+XM_011419687	GO:0016021~integral component of membrane
+XM_011419835	GO:0016021~integral component of membrane
+XM_011419894	GO:0016021~integral component of membrane
+XM_011420043	GO:0005622~intracellular
+XM_011420129	GO:0016021~integral component of membrane
+XM_011420498	GO:0016021~integral component of membrane
+XM_011420756	GO:0005737~cytoplasm
+XM_011420923	GO:0016021~integral component of membrane
+XM_011420964	GO:0016021~integral component of membrane
+XM_011421160	GO:0005667~transcription factor complex
+AB066348	GO:0016021~integral component of membrane
+XM_011421258	GO:0016021~integral component of membrane
+XM_011421259	GO:0005886~plasma membrane
+XM_011421308	GO:0005576~extracellular region
+XM_011422050	GO:0005840~ribosome
+XM_011421325	GO:0016021~integral component of membrane
+XM_011421462	GO:0016021~integral component of membrane
+XM_011421547	GO:0016021~integral component of membrane
+XM_011421638	GO:0005634~nucleus
+XM_011421691	GO:0016021~integral component of membrane
+XM_011421869	GO:0005681~spliceosomal complex
+XM_011422049	GO:0016021~integral component of membrane
+XM_011422049	GO:0005743~mitochondrial inner membrane
+AB199896	GO:0005840~ribosome
+XM_011422215	GO:0016021~integral component of membrane
+XM_011422324	GO:0005634~nucleus
+XM_011422353	GO:0005622~intracellular
+AJ563478	GO:0005840~ribosome
+XM_011422560	GO:0005840~ribosome
+XM_011422578	GO:0030915~Smc5-Smc6 complex
+XM_011422636	GO:0005667~transcription factor complex
+XM_011422637	GO:0005667~transcription factor complex
+XM_011423268	GO:0005730~nucleolus
+XM_011424108	GO:0005737~cytoplasm
+XM_011424863	GO:0005739~mitochondrion
+XM_011424934	GO:0005622~intracellular
+XM_011424937	GO:0005622~intracellular
+XM_011422464	GO:0016021~integral component of membrane
+XM_011422471	GO:0005634~nucleus
+XM_011422503	GO:0005634~nucleus
+XM_011422603	GO:0005634~nucleus
+XM_011424199	GO:0016020~membrane
+XM_011425222	GO:0005622~intracellular
+XM_011423364	GO:0016021~integral component of membrane
+NM_001308844	GO:0016021~integral component of membrane
+XM_011423636	GO:0016021~integral component of membrane
+XM_011423650	GO:0005634~nucleus
+XM_011423864	GO:0016021~integral component of membrane
+XM_011424059	GO:0016021~integral component of membrane
+XM_011424201	GO:0016021~integral component of membrane
+XM_011424482	GO:0016021~integral component of membrane
+XM_011424632	GO:0016021~integral component of membrane
+XM_011424625	GO:0016021~integral component of membrane
+XM_011424712	GO:0016021~integral component of membrane
+NM_001305349	GO:0016021~integral component of membrane
+XM_011424918	GO:0016021~integral component of membrane
+XM_011424936	GO:0016020~membrane
+XM_011425149	GO:0000139~Golgi membrane
+XM_011425153	GO:0005901~caveola
+XM_011425222	GO:0016020~membrane
+XM_011425494	GO:0016021~integral component of membrane
+KC700620	GO:0016021~integral component of membrane
+XM_011425490	GO:0005622~intracellular
+XM_011426542	GO:0005622~intracellular
+NM_001305288	GO:0005576~extracellular region
+JQ613282	GO:0005576~extracellular region
+JQ619625	GO:0005576~extracellular region
+XM_011426730	GO:0005739~mitochondrion
+XM_011425533	GO:0016272~prefoldin complex
+NM_001308842	GO:0016021~integral component of membrane
+XM_011425626	GO:0016021~integral component of membrane
+XM_011425889	GO:0005634~nucleus
+XM_011425926	GO:0005737~cytoplasm
+XM_011426080	GO:0016021~integral component of membrane
+XM_011426083	GO:0016021~integral component of membrane
+XM_011426236	GO:0016021~integral component of membrane
+XM_011426268	GO:0016021~integral component of membrane
+XM_011426300	GO:0016021~integral component of membrane
+EU108719	GO:0005840~ribosome
+XM_011426522	GO:0016021~integral component of membrane
+XM_011426537	GO:0016021~integral component of membrane
+XM_011426542	GO:0016020~membrane
+XM_011426606	GO:0016021~integral component of membrane
+XM_011426682	GO:0005737~cytoplasm
+XM_011427164	GO:0005737~cytoplasm
+XM_011427934	GO:0005634~nucleus
+XM_011429526	GO:0005622~intracellular
+XM_011429711	GO:0016021~integral component of membrane
+XM_011426788	GO:0005732~small nucleolar ribonucleoprotein complex
+XM_011426814	GO:0005622~intracellular
+XM_011426957	GO:0016021~integral component of membrane
+XM_011427731	GO:0005886~plasma membrane
+XM_011427744	GO:0005622~intracellular
+XM_011427836	GO:0005634~nucleus
+XM_011427952	GO:0016021~integral component of membrane
+XM_011427997	GO:0016021~integral component of membrane
+XM_011428033	GO:0016021~integral component of membrane
+XM_011428063	GO:0005623~cell
+XM_011428221	GO:0005737~cytoplasm
+XM_011428365	GO:0016021~integral component of membrane
+XM_011428544	GO:0005622~intracellular
+XM_011428558	GO:0005634~nucleus
+XM_011428619	GO:0016021~integral component of membrane
+XM_011428731	GO:0005634~nucleus
+KC700617	GO:0016021~integral component of membrane
+XM_011428959	GO:0016592~mediator complex
+XM_011429370	GO:0016020~membrane
+XM_011429988	GO:0005634~nucleus
+XM_011429981	GO:0005634~nucleus
+XM_011429982	GO:0005634~nucleus
+AB794884	GO:0016021~integral component of membrane
+XM_011430126	GO:0005930~axoneme
+XM_011430200	GO:0005788~endoplasmic reticulum lumen
+XM_011430392	GO:0016021~integral component of membrane
+XM_011430746	GO:0000502~proteasome complex
+XM_011431288	GO:0005891~voltage-gated calcium channel complex
+XM_011431423	GO:0016021~integral component of membrane
+XM_011431437	GO:0016021~integral component of membrane
+EF627979	GO:0016021~integral component of membrane
+XM_011431564	GO:0016021~integral component of membrane
+XM_011431706	GO:0016021~integral component of membrane
+XM_011431717	GO:0005840~ribosome
+AJ890150	GO:0016021~integral component of membrane
+AM904566	GO:0016021~integral component of membrane
+XM_011432077	GO:0005952~cAMP-dependent protein kinase complex
+XM_011432075	GO:0005952~cAMP-dependent protein kinase complex
+XM_011432233	GO:0005634~nucleus
+XM_011432757	GO:0005622~intracellular
+XM_011433962	GO:0005737~cytoplasm
+XM_011432556	GO:0016021~integral component of membrane
+XM_011432565	GO:0016021~integral component of membrane
+XM_011432554	GO:0016021~integral component of membrane
+XM_011432781	GO:0005634~nucleus
+XM_011432963	GO:0005622~intracellular
+AJ563460	GO:0005737~cytoplasm
+XM_011433184	GO:0016021~integral component of membrane
+XM_011433277	GO:0005634~nucleus
+XM_011433511	GO:0016021~integral component of membrane
+XM_011433536	GO:0016021~integral component of membrane
+XM_011433811	GO:0000786~nucleosome
+XM_011434032	GO:0016021~integral component of membrane
+XM_011434207	GO:0016021~integral component of membrane
+XM_011434341	GO:0016021~integral component of membrane
+XM_011434355	GO:0005680~anaphase-promoting complex
+XM_011434433	GO:0005654~nucleoplasm
+XM_011434476	GO:0016021~integral component of membrane
+XM_011434563	GO:0016021~integral component of membrane
+XM_011434586	GO:0016021~integral component of membrane
+XM_011434635	GO:0016021~integral component of membrane
+XM_011434713	GO:0005623~cell
+XM_011434796	GO:0016021~integral component of membrane
+XM_011434952	GO:0016021~integral component of membrane
+XM_011434991	GO:0016021~integral component of membrane
+XM_011435072	GO:0016021~integral component of membrane
+XM_011435166	GO:0005760~gamma DNA polymerase complex
+XM_011435458	GO:0005622~intracellular
+XM_011435457	GO:0005622~intracellular
+XM_011436088	GO:0005634~nucleus
+XM_011436179	GO:0005869~dynactin complex
+XM_011436588	GO:0005622~intracellular
+XM_011436826	GO:0005634~nucleus
+XM_011437273	GO:0005622~intracellular
+XR_901055	GO:0005622~intracellular
+XM_011438261	GO:0005643~nuclear pore
+XM_011435233	GO:0019013~viral nucleocapsid
+XM_011435260	GO:0005834~heterotrimeric G-protein complex
+XM_011435349	GO:0005634~nucleus
+XM_011435483	GO:0016021~integral component of membrane
+XM_011435487	GO:0016021~integral component of membrane
+XM_011435583	GO:0005887~integral component of plasma membrane
+XM_011435609	GO:0005634~nucleus
+XM_011435670	GO:0016021~integral component of membrane
+XM_011436353	GO:0005634~nucleus
+XM_011436351	GO:0005634~nucleus
+XM_011436470	GO:0005890~sodium:potassium-exchanging ATPase complex
+XM_011436525	GO:0030991~intraciliary transport particle A
+XM_011436617	GO:0008623~CHRAC
+XM_011436684	GO:0016021~integral component of membrane
+XM_011436977	GO:0016021~integral component of membrane
+XM_011437162	GO:0005789~endoplasmic reticulum membrane
+XM_011437259	GO:0005634~nucleus
+XM_011437627	GO:0019013~viral nucleocapsid
+XM_011437652	GO:0016021~integral component of membrane
+XM_011437718	GO:0000139~Golgi membrane
+XM_011437860	GO:0016021~integral component of membrane
+XM_011437863	GO:0016021~integral component of membrane
+XM_011437861	GO:0016021~integral component of membrane
+XM_011437880	GO:0016021~integral component of membrane
+XM_011438051	GO:0016021~integral component of membrane
+XM_011438052	GO:0016021~integral component of membrane
+XM_011438055	GO:0016021~integral component of membrane
+XM_011438083	GO:0016021~integral component of membrane
+XM_011438225	GO:0016021~integral component of membrane
+XM_011438306	GO:0016021~integral component of membrane
+XM_011438388	GO:0016021~integral component of membrane
+XM_011438519	GO:0005622~intracellular
+XM_011438653	GO:0005886~plasma membrane
+XM_011438663	GO:0030136~clathrin-coated vesicle
+XM_011438662	GO:0005768~endosome
+XM_011438773	GO:0005856~cytoskeleton
+AJ563464	GO:0005840~ribosome
+XM_011440036	GO:0016021~integral component of membrane
+XM_011439393	GO:0005634~nucleus
+XM_011439109	GO:0016021~integral component of membrane
+XM_011439469	GO:0005622~intracellular
+XM_011439468	GO:0005622~intracellular
+XM_011439481	GO:0005634~nucleus
+XM_011440116	GO:0005802~trans-Golgi network
+XM_011440134	GO:0016021~integral component of membrane
+XM_011440152	GO:0005634~nucleus
+XM_011440175	GO:0005634~nucleus
+XM_011440246	GO:0031012~extracellular matrix
+XM_011440263	GO:0005789~endoplasmic reticulum membrane
+XM_011440474	GO:0016021~integral component of membrane
+XM_011440760	GO:0005622~intracellular
+XM_011440795	GO:0016021~integral component of membrane
+XM_011440948	GO:0005874~microtubule
+XM_011442462	GO:0016459~myosin complex
+XM_011442942	GO:0005667~transcription factor complex
+XM_011442944	GO:0005737~cytoplasm
+XM_011443314	GO:0005622~intracellular
+XM_011443505	GO:0005921~gap junction
+XM_011443512	GO:0005921~gap junction
+XM_011443584	GO:0005730~nucleolus
+XM_011443768	GO:0005874~microtubule
+XM_011440497	GO:0005886~plasma membrane
+XM_011441297	GO:0016021~integral component of membrane
+XM_011441359	GO:0016021~integral component of membrane
+NM_001305333	GO:0005783~endoplasmic reticulum
+XM_011441619	GO:0005856~cytoskeleton
+XM_011441884	GO:0016021~integral component of membrane
+XM_011442093	GO:0005634~nucleus
+XM_011442190	GO:0016021~integral component of membrane
+XM_011442245	GO:0000139~Golgi membrane
+XM_011442246	GO:0000139~Golgi membrane
+XM_011442273	GO:0005622~intracellular
+XM_011442723	GO:0005634~nucleus
+XM_011442839	GO:0016021~integral component of membrane
+XM_011442838	GO:0016021~integral component of membrane
+XM_011442884	GO:0005634~nucleus
+XM_011442942	GO:0005634~nucleus
+XM_011442943	GO:0005634~nucleus
+XM_011443103	GO:0016021~integral component of membrane
+XM_011443511	GO:0016021~integral component of membrane
+XM_011443587	GO:0005886~plasma membrane
+XM_011443588	GO:0005886~plasma membrane
+XM_011443603	GO:0016021~integral component of membrane
+XM_011443644	GO:0016021~integral component of membrane
+XM_011443731	GO:0016021~integral component of membrane
+XM_011443992	GO:0016021~integral component of membrane
+XM_011443991	GO:0016021~integral component of membrane
+XM_011443996	GO:0016021~integral component of membrane
+XM_011444020	GO:0005737~cytoplasm
+XM_011444092	GO:0016021~integral component of membrane
+XM_011444093	GO:0016021~integral component of membrane
+XM_011444359	GO:0016607~nuclear speck
+XM_011444475	GO:0016021~integral component of membrane
+XM_011444927	GO:0016021~integral component of membrane
+XM_011444972	GO:0016021~integral component of membrane
+XM_011445094	GO:0016021~integral component of membrane
+XM_011445161	GO:0005737~cytoplasm
+XM_011445890	GO:0005840~ribosome
+XM_011445906	GO:0005622~intracellular
+NM_001308859	GO:0005856~cytoskeleton
+FJ669291	GO:0005856~cytoskeleton
+XM_011446898	GO:0005622~intracellular
+XM_011447681	GO:0016592~mediator complex
+EU152950	GO:0005840~ribosome
+XM_011445281	GO:0045335~phagocytic vesicle
+XM_011445323	GO:0016021~integral component of membrane
+XM_011445341	GO:0005901~caveola
+XM_011445539	GO:0005887~integral component of plasma membrane
+XM_011445540	GO:0005887~integral component of plasma membrane
+XM_011445692	GO:0016021~integral component of membrane
+XM_011445780	GO:0016021~integral component of membrane
+XM_011445781	GO:0016021~integral component of membrane
+XM_011445879	GO:0034464~BBSome
+XM_011446017	GO:0005634~nucleus
+XM_011446260	GO:0016021~integral component of membrane
+XM_011446290	GO:0016021~integral component of membrane
+XM_011446434	GO:0031515~tRNA (m1A) methyltransferase complex
+XM_011446475	GO:0005634~nucleus
+XM_011446667	GO:0016021~integral component of membrane
+XM_011447064	GO:0016021~integral component of membrane
+XM_011447073	GO:0016021~integral component of membrane
+XM_011447412	GO:0016021~integral component of membrane
+XM_011447406	GO:0005783~endoplasmic reticulum
+XM_011447675	GO:0016021~integral component of membrane
+XM_011447676	GO:0000139~Golgi membrane
+XM_011447800	GO:0016021~integral component of membrane
+XM_011447946	GO:0016602~CCAAT-binding factor complex
+XM_011447979	GO:0016021~integral component of membrane
+XM_011448036	GO:0016021~integral component of membrane
+XM_011448498	GO:0016021~integral component of membrane
+XM_011448692	GO:0005622~intracellular
+XM_011448812	GO:0005622~intracellular
+FJ347724	GO:0005737~cytoplasm
+FJ347729	GO:0005737~cytoplasm
+NM_001305352	GO:0005840~ribosome
+XM_011448538	GO:0005634~nucleus
+XM_011449062	GO:0016021~integral component of membrane
+XM_011449118	GO:0005576~extracellular region
+XM_011449482	GO:0005789~endoplasmic reticulum membrane
+XM_011449773	GO:0016021~integral component of membrane
+XR_902615	GO:0005634~nucleus
+XM_011449988	GO:0005622~intracellular
+XM_011450240	GO:0005874~microtubule
+XM_011450460	GO:0005622~intracellular
+XM_011451564	GO:0005622~intracellular
+XM_011451565	GO:0005622~intracellular
+XM_011451756	GO:0005840~ribosome
+XM_011452031	GO:0016021~integral component of membrane
+XM_011452365	GO:0030054~cell junction
+XM_011449985	GO:0030008~TRAPP complex
+XM_011450117	GO:0005853~eukaryotic translation elongation factor 1 complex
+XM_011450372	GO:0016021~integral component of membrane
+XM_011450374	GO:0016021~integral component of membrane
+NM_001308861	GO:0015629~actin cytoskeleton
+XM_011450662	GO:0016021~integral component of membrane
+XM_011450667	GO:0045261~proton-transporting ATP synthase complex, catalytic core F(1)
+XM_011451087	GO:0005643~nuclear pore
+XM_011451120	GO:0016021~integral component of membrane
+XM_011451242	GO:0005634~nucleus
+XM_011451300	GO:0016021~integral component of membrane
+XM_011451468	GO:0016021~integral component of membrane
+XM_011451592	GO:0005737~cytoplasm
+XM_011451747	GO:0016021~integral component of membrane
+XM_011452030	GO:0030131~clathrin adaptor complex
+XM_011452029	GO:0016021~integral component of membrane
+XM_011452036	GO:0030054~cell junction
+XM_011452042	GO:0016021~integral component of membrane
+XM_011452072	GO:0005856~cytoskeleton
+XM_011452097	GO:0016021~integral component of membrane
+XM_011452215	GO:0005622~intracellular
+NM_001305378	GO:0016021~integral component of membrane
+XM_011452553	GO:0016021~integral component of membrane
+XM_011453114	GO:0005634~nucleus
+XM_011453230	GO:0005634~nucleus
+XM_011453244	GO:0016021~integral component of membrane
+XM_011453285	GO:0042555~MCM complex
+XM_011453346	GO:0016021~integral component of membrane
+XM_011453582	GO:0005622~intracellular
+XM_011453773	GO:0005622~intracellular
+AY551099	GO:0016471~vacuolar proton-transporting V-type ATPase complex
+XM_011453383	GO:0016021~integral component of membrane
+XM_011453501	GO:0005634~nucleus
+XM_011453618	GO:0016021~integral component of membrane
+XM_011453723	GO:0005622~intracellular
+XM_011454062	GO:0016021~integral component of membrane
+XM_011454111	GO:0016021~integral component of membrane
+FJ872817	GO:0070469~respiratory chain
+XM_011454137	GO:0016021~integral component of membrane
+XM_011454659	GO:0005622~intracellular
+XM_011454767	GO:0005622~intracellular
+XM_011454970	GO:0005667~transcription factor complex
+XM_011455457	GO:0005737~cytoplasm
+XM_011455732	GO:0005622~intracellular
+XM_011456134	GO:0005622~intracellular
+XM_011456053	GO:0005622~intracellular
+XM_011456273	GO:0005634~nucleus
+XM_011454297	GO:0016021~integral component of membrane
+XM_011454426	GO:0016021~integral component of membrane
+XM_011454547	GO:0005622~intracellular
+XM_011454771	GO:0005634~nucleus
+XM_011454849	GO:0016021~integral component of membrane
+XM_011454937	GO:0016021~integral component of membrane
+XM_011454970	GO:0005634~nucleus
+XM_011454969	GO:0005634~nucleus
+XM_011454994	GO:0016021~integral component of membrane
+XM_011455142	GO:0016021~integral component of membrane
+XM_011455371	GO:0005623~cell
+XM_011455372	GO:0005623~cell
+XM_011455429	GO:0016021~integral component of membrane
+XM_011456458	GO:0005634~nucleus
+XM_011455592	GO:0005737~cytoplasm
+XM_011455768	GO:0005874~microtubule
+XM_011455767	GO:0005874~microtubule
+XM_011455873	GO:0005623~cell
+XM_011455917	GO:0005737~cytoplasm
+XM_011455981	GO:0019013~viral nucleocapsid
+XM_011456014	GO:0016021~integral component of membrane
+XM_011456099	GO:0000786~nucleosome
+XM_011456173	GO:0005578~proteinaceous extracellular matrix
+XM_011456235	GO:0016021~integral component of membrane
+XM_011456379	GO:0005634~nucleus
+XM_011456721	GO:0005737~cytoplasm
+XM_011456868	GO:0016021~integral component of membrane
+NM_001305367	GO:0005840~ribosome
+AB199894	GO:0015935~small ribosomal subunit
+XM_011457218	GO:0016021~integral component of membrane
+XM_011457234	GO:0016021~integral component of membrane
+XM_011457246	GO:0005634~nucleus
+XM_011457488	GO:0016021~integral component of membrane
+XM_011457778	GO:0005634~nucleus
+XM_011457946	GO:0016021~integral component of membrane
+XM_011457869	GO:0005634~nucleus
+XM_011457941	GO:0016021~integral component of membrane
+XM_011457947	GO:0016021~integral component of membrane
+XM_011457991	GO:0016021~integral component of membrane
+XM_011458030	GO:0005634~nucleus
+XM_011458052	GO:0016021~integral component of membrane
+XM_011458106	GO:0005622~intracellular
+XM_011458391	GO:0016021~integral component of membrane
+XM_011458404	GO:0016021~integral component of membrane
+XM_011458542	GO:0016021~integral component of membrane
+XM_011458680	GO:0005634~nucleus
+XM_011413865	GO:0016021~integral component of membrane
+XM_011413868	GO:0016021~integral component of membrane
+XM_011413926	GO:0005840~ribosome
+XM_011413954	GO:0016021~integral component of membrane
+XM_011414198	GO:0016021~integral component of membrane
+XM_011414209	GO:0016021~integral component of membrane
+XM_011414300	GO:0005634~nucleus
+XM_011414318	GO:0005681~spliceosomal complex
+XM_011414332	GO:0016021~integral component of membrane
+XM_011414346	GO:0016021~integral component of membrane
+XM_011414354	GO:0016021~integral component of membrane
+XM_011414358	GO:0000139~Golgi membrane
+XM_011414373	GO:0000139~Golgi membrane
+XM_011414652	GO:0016021~integral component of membrane
+XM_011414994	GO:0005622~intracellular
+XM_011415038	GO:0005737~cytoplasm
+XM_011415107	GO:0016021~integral component of membrane
+XM_011415184	GO:0016021~integral component of membrane
+XM_011415294	GO:0005622~intracellular
+XM_011415292	GO:0005622~intracellular
+XM_011415311	GO:0008076~voltage-gated potassium channel complex
+XM_011415547	GO:0016021~integral component of membrane
+XM_011415566	GO:0016021~integral component of membrane
+AJ557141	GO:0005737~cytoplasm
+XM_011415869	GO:0030896~checkpoint clamp complex
+XM_011415928	GO:0005789~endoplasmic reticulum membrane
+XM_011415928	GO:0016021~integral component of membrane
+XM_011415976	GO:0016021~integral component of membrane
+XM_011416197	GO:0016021~integral component of membrane
+XM_011416245	GO:0005634~nucleus
+XM_011416275	GO:0005634~nucleus
+XM_011416400	GO:0016021~integral component of membrane
+XM_011416429	GO:0005634~nucleus
+XM_011416443	GO:0005634~nucleus
+XM_011417081	GO:0016021~integral component of membrane
+XM_011417339	GO:0016514~SWI/SNF complex
+XM_011417218	GO:0005634~nucleus
+XM_011417331	GO:0016021~integral component of membrane
+XM_011417334	GO:0016021~integral component of membrane
+XM_011417407	GO:0005634~nucleus
+XM_011417421	GO:0005576~extracellular region
+XM_011417522	GO:0005634~nucleus
+XM_011417662	GO:0016021~integral component of membrane
+XM_011417702	GO:0016021~integral component of membrane
+XM_011418006	GO:0016021~integral component of membrane
+XM_011418009	GO:0016021~integral component of membrane
+XM_011418003	GO:0016021~integral component of membrane
+XM_011418119	GO:0005622~intracellular
+XM_011418119	GO:0016020~membrane
+XM_011418243	GO:0005777~peroxisome
+XM_011418339	GO:0000786~nucleosome
+XM_011418343	GO:0005634~nucleus
+XM_011418345	GO:0000786~nucleosome
+XM_011418348	GO:0000786~nucleosome
+XM_011418841	GO:0005622~intracellular
+XM_011419859	GO:0005840~ribosome
+XM_011420016	GO:0005576~extracellular region
+XM_011418356	GO:0000786~nucleosome
+XM_011418356	GO:0005634~nucleus
+XM_011418358	GO:0005634~nucleus
+XM_011418432	GO:0016021~integral component of membrane
+XM_011418535	GO:0005634~nucleus
+XM_011418762	GO:0016021~integral component of membrane
+NM_001308835	GO:0016021~integral component of membrane
+XM_011419031	GO:0016021~integral component of membrane
+XM_011419040	GO:0016021~integral component of membrane
+XM_011419230	GO:0016021~integral component of membrane
+XM_011419289	GO:0005737~cytoplasm
+XM_011419364	GO:0005887~integral component of plasma membrane
+XM_011419377	GO:0005789~endoplasmic reticulum membrane
+XM_011419379	GO:0016021~integral component of membrane
+XM_011419461	GO:0016021~integral component of membrane
+XM_011419503	GO:0016021~integral component of membrane
+XM_011419648	GO:0016021~integral component of membrane
+XM_011419757	GO:0005634~nucleus
+XM_011420035	GO:0016021~integral component of membrane
+XM_011420262	GO:0016021~integral component of membrane
+XM_011420341	GO:0016363~nuclear matrix
+XM_011420347	GO:0008076~voltage-gated potassium channel complex
+XM_011420806	GO:0016021~integral component of membrane
+XM_011420905	GO:0005634~nucleus
+XM_011420963	GO:0016021~integral component of membrane
+XM_011421012	GO:0005634~nucleus
+XM_011421157	GO:0005667~transcription factor complex
+XM_011421159	GO:0005667~transcription factor complex
+XM_011421157	GO:0005634~nucleus
+XM_011421206	GO:0016021~integral component of membrane
+XM_011421259	GO:0005921~gap junction
+XM_011421266	GO:0005921~gap junction
+XM_011421291	GO:0019773~proteasome core complex, alpha-subunit complex
+XM_011421707	GO:0005622~intracellular
+XM_011421814	GO:0005622~intracellular
+XM_011422051	GO:0005576~extracellular region
+XM_011421385	GO:0016021~integral component of membrane
+XM_011421461	GO:0016021~integral component of membrane
+XM_011421548	GO:0016021~integral component of membrane
+XM_011421758	GO:0005634~nucleus
+XM_011421827	GO:1990316~ATG1/ULK1 kinase complex
+XM_011421870	GO:0005732~small nucleolar ribonucleoprotein complex
+XM_011422252	GO:0016021~integral component of membrane
+XM_011422266	GO:0016021~integral component of membrane
+XM_011422260	GO:0016021~integral component of membrane
+XM_011422320	GO:0005634~nucleus
+XM_011422323	GO:0005634~nucleus
+XM_011422334	GO:0016020~membrane
+XM_011422523	GO:0005622~intracellular
+XM_011422611	GO:0005840~ribosome
+XM_011422646	GO:0005737~cytoplasm
+XM_011425202	GO:0005869~dynactin complex
+XM_011425221	GO:0005622~intracellular
+XM_011425220	GO:0005622~intracellular
+XM_011425225	GO:0005622~intracellular
+XM_011422327	GO:0016021~integral component of membrane
+XM_011422430	GO:0005622~intracellular
+XM_011422539	GO:0030286~dynein complex
+XM_011422635	GO:0005737~cytoplasm
+XM_011422749	GO:0016021~integral component of membrane
+XM_011422970	GO:0005622~intracellular
+XM_011423023	GO:0016021~integral component of membrane
+XM_011423273	GO:0005739~mitochondrion
+XM_011423380	GO:0016021~integral component of membrane
+XM_011423389	GO:0005794~Golgi apparatus
+AJ563455	GO:0022627~cytosolic small ribosomal subunit
+XM_011424009	GO:0016021~integral component of membrane
+XM_011424033	GO:0016021~integral component of membrane
+XM_011424124	GO:0016021~integral component of membrane
+XM_011424316	GO:0005737~cytoplasm
+XM_011424340	GO:0016021~integral component of membrane
+XM_011424488	GO:0016021~integral component of membrane
+XM_011424560	GO:0016021~integral component of membrane
+XM_011424754	GO:0030529~intracellular ribonucleoprotein complex
+XM_011424902	GO:0016021~integral component of membrane
+XM_011424937	GO:0016020~membrane
+XM_011424971	GO:0005634~nucleus
+XM_011425053	GO:0016021~integral component of membrane
+XM_011425146	GO:0000139~Golgi membrane
+XM_011425152	GO:0016021~integral component of membrane
+XM_011425416	GO:0005783~endoplasmic reticulum
+XM_011425415	GO:0005783~endoplasmic reticulum
+XM_011425424	GO:0016021~integral component of membrane
+XM_011425491	GO:0005622~intracellular
+JQ355006	GO:0005576~extracellular region
+XM_011426721	GO:0005576~extracellular region
+XM_011425540	GO:0016021~integral component of membrane
+XM_011425604	GO:0008076~voltage-gated potassium channel complex
+XM_011425633	GO:0008076~voltage-gated potassium channel complex
+XM_011425931	GO:0016021~integral component of membrane
+XM_011426418	GO:0005737~cytoplasm
+XM_011426514	GO:0005840~ribosome
+XM_011426523	GO:0016021~integral component of membrane
+XM_011426605	GO:0016021~integral component of membrane
+AB199897	GO:0005840~ribosome
+XM_011427740	GO:0005921~gap junction
+XM_011428295	GO:0005622~intracellular
+XM_011429470	GO:0005622~intracellular
+XM_011429523	GO:0005622~intracellular
+XM_011429525	GO:0005622~intracellular
+XM_011429539	GO:0043231~intracellular membrane-bounded organelle
+XM_011429975	GO:0005634~nucleus
+XM_011427084	GO:0005634~nucleus
+XR_899963	GO:0016021~integral component of membrane
+XM_011427384	GO:0016021~integral component of membrane
+XM_011427418	GO:0030687~preribosome, large subunit precursor
+XM_011427523	GO:0016021~integral component of membrane
+XM_011427998	GO:0005886~plasma membrane
+AJ564625	GO:0005623~cell
+XM_011428170	GO:0016021~integral component of membrane
+XM_011428337	GO:0005634~nucleus
+XM_011428463	GO:0030027~lamellipodium
+XM_011428469	GO:0030027~lamellipodium
+XM_011428467	GO:0030027~lamellipodium
+XM_011428459	GO:0030027~lamellipodium
+XM_011428466	GO:0030027~lamellipodium
+AB516436	GO:0005634~nucleus
+NM_001305377	GO:0005634~nucleus
+XM_011429117	GO:0016021~integral component of membrane
+XM_011429270	GO:0005622~intracellular
+XM_011429729	GO:0016021~integral component of membrane
+XM_011429730	GO:0005737~cytoplasm
+XM_011429990	GO:0005634~nucleus
+XM_011429973	GO:0005634~nucleus
+XM_011429987	GO:0005634~nucleus
+XM_011429984	GO:0005634~nucleus
+XM_011430791	GO:0005750~mitochondrial respiratory chain complex III
+XM_011430067	GO:0016021~integral component of membrane
+XM_011430130	GO:0071821~FANCM-MHF complex
+XM_011430562	GO:0016021~integral component of membrane
+XM_011430657	GO:0016021~integral component of membrane
+XM_011430750	GO:0016021~integral component of membrane
+XM_011430895	GO:0016021~integral component of membrane
+XM_011430924	GO:0005737~cytoplasm
+XM_011431114	GO:0030127~COPII vesicle coat
+XM_011431293	GO:0005891~voltage-gated calcium channel complex
+XM_011431784	GO:0005887~integral component of plasma membrane
+XM_011431426	GO:0016021~integral component of membrane
+XM_011431428	GO:0016021~integral component of membrane
+XM_011431497	GO:0016021~integral component of membrane
+XM_011431606	GO:0016021~integral component of membrane
+NM_001305356	GO:0016021~integral component of membrane
+XM_011432007	GO:0016021~integral component of membrane
+XM_011432115	GO:0016021~integral component of membrane
+XM_011432509	GO:0000123~histone acetyltransferase complex
+XM_011432756	GO:0005622~intracellular
+XM_011432773	GO:0005623~cell
+XM_011433732	GO:0016021~integral component of membrane
+AB196534	GO:0005737~cytoplasm
+XM_011434764	GO:0005737~cytoplasm
+XM_011434883	GO:0005622~intracellular
+NM_001308902	GO:0005576~extracellular region
+XM_011435093	GO:0005622~intracellular
+XM_011435124	GO:0016021~integral component of membrane
+XM_011435122	GO:0016021~integral component of membrane
+XM_011432360	GO:0000176~nuclear exosome (RNase complex)
+XM_011433023	GO:0016021~integral component of membrane
+XM_011433042	GO:0016021~integral component of membrane
+XM_011433166	GO:0016021~integral component of membrane
+XM_011433168	GO:0016021~integral component of membrane
+XM_011433184	GO:0005886~plasma membrane
+XM_011433185	GO:0016021~integral component of membrane
+XM_011433288	GO:0016021~integral component of membrane
+XM_011433811	GO:0005634~nucleus
+XM_011434645	GO:0005623~cell
+XM_011434746	GO:0005634~nucleus
+XM_011434743	GO:0005634~nucleus
+XM_011434844	GO:0016021~integral component of membrane
+XM_011434847	GO:0016021~integral component of membrane
+XM_011435086	GO:0016021~integral component of membrane
+XM_011436017	GO:0005622~intracellular
+XM_011436027	GO:0016021~integral component of membrane
+XM_011436158	GO:0005737~cytoplasm
+XM_011436589	GO:0005622~intracellular
+XM_011437269	GO:0005622~intracellular
+XM_011437271	GO:0005622~intracellular
+XM_011435349	GO:0005694~chromosome
+XM_011437644	GO:0016021~integral component of membrane
+XM_011435565	GO:0016021~integral component of membrane
+XM_011435745	GO:0005622~intracellular
+XM_011436044	GO:0016021~integral component of membrane
+XM_011436134	GO:0016021~integral component of membrane
+XM_011436135	GO:0016021~integral component of membrane
+XM_011436194	GO:0005634~nucleus
+XM_011436281	GO:0016021~integral component of membrane
+XM_011436288	GO:0005634~nucleus
+XM_011436350	GO:0005634~nucleus
+XM_011436416	GO:0019013~viral nucleocapsid
+XM_011436417	GO:0019013~viral nucleocapsid
+XM_011436413	GO:0030529~intracellular ribonucleoprotein complex
+XM_011436441	GO:0005730~nucleolus
+XM_011436579	GO:0005887~integral component of plasma membrane
+XM_011437102	GO:0005622~intracellular
+XM_011437331	GO:0016021~integral component of membrane
+XM_011437426	GO:0016021~integral component of membrane
+XM_011437609	GO:0032580~Golgi cisterna membrane
+XM_011437652	GO:0005783~endoplasmic reticulum
+XM_011437689	GO:0016021~integral component of membrane
+XM_011437717	GO:0000139~Golgi membrane
+XM_011438084	GO:0016021~integral component of membrane
+XM_011438086	GO:0016021~integral component of membrane
+XM_011438174	GO:0016021~integral component of membrane
+JN315144	GO:0005764~lysosome
+XM_011438495	GO:0008290~F-actin capping protein complex
+XM_011438513	GO:0005622~intracellular
+XM_011438649	GO:0016021~integral component of membrane
+XM_011439007	GO:0005739~mitochondrion
+XM_011439079	GO:0005622~intracellular
+XM_011439673	GO:0005622~intracellular
+XM_011439980	GO:0005622~intracellular
+XM_011440020	GO:0016020~membrane
+XM_011439108	GO:0016021~integral component of membrane
+XM_011439470	GO:0005622~intracellular
+XM_011439505	GO:0032300~mismatch repair complex
+XM_011439869	GO:0022627~cytosolic small ribosomal subunit
+XM_011440209	GO:0005634~nucleus
+XM_011440475	GO:0016021~integral component of membrane
+XM_011440486	GO:0005787~signal peptidase complex
+NM_001305354	GO:0016020~membrane
+XM_011442777	GO:0005789~endoplasmic reticulum membrane
+XM_011443510	GO:0005921~gap junction
+XM_011443516	GO:0005921~gap junction
+XM_011443910	GO:0030123~AP-3 adaptor complex
+XM_011440497	GO:0030054~cell junction
+XM_011440751	GO:0016021~integral component of membrane
+XM_011441163	GO:0005622~intracellular
+XM_011441256	GO:0016282~eukaryotic 43S preinitiation complex
+XM_011441260	GO:0005634~nucleus
+XM_011441295	GO:0005819~spindle
+XM_011441352	GO:0016021~integral component of membrane
+XM_011441381	GO:0005634~nucleus
+XM_011441463	GO:0005576~extracellular region
+XM_011441633	GO:0005622~intracellular
+XM_011441672	GO:0016021~integral component of membrane
+XM_011442087	GO:0005789~endoplasmic reticulum membrane
+XM_011442094	GO:0005634~nucleus
+XM_011442360	GO:0016021~integral component of membrane
+XM_011442681	GO:0016021~integral component of membrane
+XM_011442702	GO:0016021~integral component of membrane
+XM_011442835	GO:0016021~integral component of membrane
+XM_011442836	GO:0016021~integral component of membrane
+XM_011442878	GO:0005634~nucleus
+XM_011443119	GO:0016021~integral component of membrane
+XM_011443224	GO:0005634~nucleus
+NM_001308905	GO:0005634~nucleus
+XM_011443514	GO:0016021~integral component of membrane
+XM_011443505	GO:0016021~integral component of membrane
+XM_011443510	GO:0016021~integral component of membrane
+XM_011443509	GO:0016021~integral component of membrane
+XM_011443513	GO:0016021~integral component of membrane
+XM_011443538	GO:0000786~nucleosome
+XM_011443588	GO:0016021~integral component of membrane
+XM_011443719	GO:0005634~nucleus
+XM_011443766	GO:0005581~collagen trimer
+XM_011443777	GO:0016021~integral component of membrane
+XM_011443880	GO:0016021~integral component of membrane
+XM_011443994	GO:0016021~integral component of membrane
+XM_011444870	GO:0005622~intracellular
+XM_011444019	GO:0016592~mediator complex
+XM_011444073	GO:0016021~integral component of membrane
+XM_011444204	GO:0016021~integral component of membrane
+XM_011444227	GO:0005581~collagen trimer
+XM_011444303	GO:0005737~cytoplasm
+XM_011444330	GO:0016021~integral component of membrane
+XM_011444365	GO:0016021~integral component of membrane
+XM_011444741	GO:0005634~nucleus
+XM_011444968	GO:0005634~nucleus
+XM_011445099	GO:0016021~integral component of membrane
+XM_011445719	GO:0005622~intracellular
+XM_011445879	GO:0005856~cytoskeleton
+XM_011446472	GO:0005622~intracellular
+XM_011446496	GO:0005622~intracellular
+XM_011446514	GO:0005856~cytoskeleton
+FJ669294	GO:0005856~cytoskeleton
+XM_011445121	GO:0005634~nucleus
+XM_011445211	GO:0016021~integral component of membrane
+XM_011445281	GO:0005802~trans-Golgi network
+XM_011445281	GO:0055037~recycling endosome
+XM_011445311	GO:0016021~integral component of membrane
+XM_011445449	GO:0005887~integral component of plasma membrane
+XM_011445513	GO:0005622~intracellular
+XM_011445622	GO:0000407~pre-autophagosomal structure
+XM_011445623	GO:0000407~pre-autophagosomal structure
+XM_011445775	GO:0016021~integral component of membrane
+XM_011445872	GO:0005643~nuclear pore
+XM_011445980	GO:0016021~integral component of membrane
+XM_011445989	GO:0016021~integral component of membrane
+XM_011446090	GO:0005680~anaphase-promoting complex
+XM_011446214	GO:0005622~intracellular
+XM_011446314	GO:0016021~integral component of membrane
+XM_011446346	GO:0016021~integral component of membrane
+XM_011446413	GO:0016592~mediator complex
+XM_011446731	GO:0016021~integral component of membrane
+XM_011446734	GO:0016021~integral component of membrane
+XM_011446757	GO:0030897~HOPS complex
+XM_011446986	GO:0016021~integral component of membrane
+XM_011446978	GO:0016021~integral component of membrane
+XM_011447169	GO:0016021~integral component of membrane
+XM_011447375	GO:0016021~integral component of membrane
+XM_011447552	GO:0016021~integral component of membrane
+XM_011447677	GO:0016021~integral component of membrane
+XM_011447795	GO:0016021~integral component of membrane
+XM_011447837	GO:0005634~nucleus
+XM_011447906	GO:0005634~nucleus
+XM_011447904	GO:0005634~nucleus
+XM_011447945	GO:0016602~CCAAT-binding factor complex
+XM_011447947	GO:0016602~CCAAT-binding factor complex
+XM_011448199	GO:0016021~integral component of membrane
+XM_011448417	GO:0016021~integral component of membrane
+XM_011448507	GO:0016021~integral component of membrane
+XM_011448783	GO:0005576~extracellular region
+XM_011448811	GO:0005622~intracellular
+XM_011449211	GO:0005737~cytoplasm
+FJ347736	GO:0005737~cytoplasm
+FJ347742	GO:0005737~cytoplasm
+FJ347738	GO:0005737~cytoplasm
+FJ347752	GO:0005737~cytoplasm
+XM_011448766	GO:0016021~integral component of membrane
+XM_011448851	GO:0016021~integral component of membrane
+XM_011448850	GO:0016021~integral component of membrane
+XM_011448959	GO:0016021~integral component of membrane
+XM_011449085	GO:0016021~integral component of membrane
+KF823111	GO:0005634~nucleus
+XM_011449160	GO:0005634~nucleus
+XM_011449243	GO:0005737~cytoplasm
+XM_011449326	GO:0005666~DNA-directed RNA polymerase III complex
+XM_011449500	GO:0016021~integral component of membrane
+XM_011449503	GO:0016021~integral component of membrane
+XM_011449504	GO:0016021~integral component of membrane
+XM_011449904	GO:0005634~nucleus
+XM_011449987	GO:0005622~intracellular
+AY713400	GO:0005874~microtubule
+XM_011450681	GO:0005622~intracellular
+XM_011451561	GO:0005622~intracellular
+XM_011451563	GO:0005622~intracellular
+XM_011451774	GO:0005737~cytoplasm
+XM_011451892	GO:0005622~intracellular
+XM_011451894	GO:0016020~membrane
+XM_011452029	GO:0030054~cell junction
+XM_011452033	GO:0045211~postsynaptic membrane
+XM_011452034	GO:0045211~postsynaptic membrane
+XM_011452363	GO:0030054~cell junction
+XM_011450118	GO:0016020~membrane
+AY713400	GO:0005737~cytoplasm
+XM_011450322	GO:0005783~endoplasmic reticulum
+XM_011450370	GO:0016021~integral component of membrane
+XM_011450377	GO:0016021~integral component of membrane
+XM_011450378	GO:0016021~integral component of membrane
+XM_011450481	GO:0016021~integral component of membrane
+XM_011450697	GO:0016021~integral component of membrane
+XM_011451263	GO:0016021~integral component of membrane
+XM_011451219	GO:0016021~integral component of membrane
+XM_011451227	GO:0016021~integral component of membrane
+XM_011451287	GO:0016021~integral component of membrane
+XM_011451428	GO:0016021~integral component of membrane
+XM_011451458	GO:0016021~integral component of membrane
+XM_011451641	GO:0046930~pore complex
+XM_011452033	GO:0016021~integral component of membrane
+XM_011452035	GO:0016021~integral component of membrane
+XM_011452047	GO:0016021~integral component of membrane
+NM_001305378	GO:0005783~endoplasmic reticulum
+XM_011452693	GO:0016021~integral component of membrane
+JN029960	GO:0005622~intracellular
+NM_001305344	GO:0005622~intracellular
+XM_011452921	GO:0016021~integral component of membrane
+XM_011453243	GO:0016021~integral component of membrane
+XM_011453262	GO:0005576~extracellular region
+XM_011453347	GO:0016021~integral component of membrane
+XM_011453383	GO:0005622~intracellular
+XM_011453575	GO:0005622~intracellular
+XM_011453905	GO:0005856~cytoskeleton
+XM_011453427	GO:0030529~intracellular ribonucleoprotein complex
+XM_011453603	GO:0022626~cytosolic ribosome
+XM_011453612	GO:0005634~nucleus
+XM_011453612	GO:0019013~viral nucleocapsid
+XM_011454047	GO:0005622~intracellular
+XM_011454068	GO:0016021~integral component of membrane
+XM_011454066	GO:0016021~integral component of membrane
+XM_011454116	GO:0016021~integral component of membrane
+XM_011454196	GO:0016021~integral component of membrane
+XM_011454732	GO:0005576~extracellular region
+AJ560757	GO:0005737~cytoplasm
+NM_001308878	GO:0005737~cytoplasm
+XM_011455139	GO:0005622~intracellular
+XM_011456124	GO:0005622~intracellular
+XM_011456251	GO:0016021~integral component of membrane
+XM_011456382	GO:0005737~cytoplasm
+XM_011456383	GO:0005737~cytoplasm
+XM_011456384	GO:0005874~microtubule
+XM_011456571	GO:0033290~eukaryotic 48S preinitiation complex
+XM_011457818	GO:0005789~endoplasmic reticulum membrane
+XM_011454285	GO:0016021~integral component of membrane
+XM_011454379	GO:0016021~integral component of membrane
+XM_011454474	GO:0016021~integral component of membrane
+XM_011454540	GO:0005622~intracellular
+XM_011454616	GO:0016021~integral component of membrane
+XM_011454887	GO:0005634~nucleus
+XM_011454937	GO:0005886~plasma membrane
+AJ560757	GO:0005634~nucleus
+XM_011455048	GO:0016021~integral component of membrane
+XM_011455369	GO:0005623~cell
+AJ563479	GO:0005623~cell
+XM_011455532	GO:0005634~nucleus
+XM_011455589	GO:0005737~cytoplasm
+XM_011455595	GO:0005737~cytoplasm
+XM_011456383	GO:0005874~microtubule
+XM_011455729	GO:0016021~integral component of membrane
+XM_011455781	GO:0016021~integral component of membrane
+XM_011456098	GO:0000786~nucleosome
+XM_011456342	GO:0016021~integral component of membrane
+XM_011456408	GO:0016021~integral component of membrane
+XM_011456598	GO:0016021~integral component of membrane
+XM_011456677	GO:0016021~integral component of membrane
+XR_903396	GO:0016021~integral component of membrane
+XM_011456686	GO:0016021~integral component of membrane
+XM_011456691	GO:0005634~nucleus
+XM_011456795	GO:0016592~mediator complex
+XM_011456835	GO:0016021~integral component of membrane
+XM_011456955	GO:0016021~integral component of membrane
+XM_011457148	GO:0016021~integral component of membrane
+XM_011457170	GO:0016021~integral component of membrane
+XM_011457201	GO:0016021~integral component of membrane
+XM_011457199	GO:0016021~integral component of membrane
+XM_011457207	GO:0016021~integral component of membrane
+XM_011457252	GO:0016021~integral component of membrane
+XM_011457958	GO:0016021~integral component of membrane
+XM_011458043	GO:0016021~integral component of membrane
+XM_011458037	GO:0016021~integral component of membrane
+XM_011458101	GO:0017053~transcriptional repressor complex
+XM_011458227	GO:0071564~npBAF complex
+XM_011458301	GO:0016021~integral component of membrane
+XM_011458405	GO:0016021~integral component of membrane
+XM_011458480	GO:0016021~integral component of membrane
+XM_011458536	GO:0016021~integral component of membrane
+XM_011458603	GO:0016021~integral component of membrane
+XM_011458618	GO:0030870~Mre11 complex
+XM_011414117	GO:0005964~phosphorylase kinase complex
+XM_011414474	GO:0016021~integral component of membrane
+XM_011414511	GO:0016021~integral component of membrane
+XM_011414725	GO:0016021~integral component of membrane
+XM_011414726	GO:0016021~integral component of membrane
+XM_011414873	GO:0016021~integral component of membrane
+XM_011414969	GO:0016021~integral component of membrane
+XM_011414971	GO:0016021~integral component of membrane
+XM_011415038	GO:0005839~proteasome core complex
+XM_011415297	GO:0005622~intracellular
+XM_011415300	GO:0005622~intracellular
+XM_011415333	GO:0016021~integral component of membrane
+XM_011415395	GO:0000221~vacuolar proton-transporting V-type ATPase, V1 domain
+XM_011415394	GO:0000221~vacuolar proton-transporting V-type ATPase, V1 domain
+XM_011415571	GO:0016021~integral component of membrane
+XM_011415907	GO:0000940~condensed chromosome outer kinetochore
+XM_011416057	GO:0005634~nucleus
+AY039649	GO:0005737~cytoplasm
+XM_011416582	GO:0019773~proteasome core complex, alpha-subunit complex
+XM_011417161	GO:0005622~intracellular
+XM_011417844	GO:0005622~intracellular
+XM_011417847	GO:0005622~intracellular
+XM_011416196	GO:0016021~integral component of membrane
+AY039648	GO:0005634~nucleus
+XM_011416543	GO:0005622~intracellular
+XM_011416945	GO:0005777~peroxisome
+XM_011416943	GO:0005777~peroxisome
+XM_011417123	GO:0016021~integral component of membrane
+XM_011417728	GO:0016514~SWI/SNF complex
+XM_011417195	GO:0005634~nucleus
+XM_011417243	GO:0016021~integral component of membrane
+XM_011417341	GO:0016021~integral component of membrane
+XM_011417342	GO:0016021~integral component of membrane
+XM_011417344	GO:0016021~integral component of membrane
+XM_011417414	GO:0005634~nucleus
+XM_011417418	GO:0016021~integral component of membrane
+AB242177	GO:0005576~extracellular region
+XM_011417419	GO:0005576~extracellular region
+XM_011417480	GO:0005840~ribosome
+XM_011417664	GO:0005622~intracellular
+XM_011417704	GO:0016021~integral component of membrane
+XM_011417845	GO:0016020~membrane
+XM_011417922	GO:0016021~integral component of membrane
+XM_011417949	GO:0016021~integral component of membrane
+XM_011417954	GO:0016021~integral component of membrane
+XM_011418008	GO:0016021~integral component of membrane
+XM_011418010	GO:0016021~integral component of membrane
+XM_011418116	GO:0016020~membrane
+XM_011418337	GO:0000786~nucleosome
+XM_011418509	GO:0005739~mitochondrion
+XM_011420664	GO:0005739~mitochondrion
+XM_011418359	GO:0000786~nucleosome
+XM_011418517	GO:0005741~mitochondrial outer membrane
+XM_011418543	GO:0005681~spliceosomal complex
+XM_011418640	GO:0005634~nucleus
+XM_011418759	GO:0016021~integral component of membrane
+XM_011418840	GO:0016021~integral component of membrane
+XM_011418872	GO:0016021~integral component of membrane
+XM_011419069	GO:0005634~nucleus
+XM_011419170	GO:0005622~intracellular
+XM_011419205	GO:0005622~intracellular
+XM_011419294	GO:0005634~nucleus
+XM_011419360	GO:0016021~integral component of membrane
+XM_011419371	GO:0016021~integral component of membrane
+XM_011419377	GO:0016021~integral component of membrane
+XM_011419475	GO:0000178~exosome (RNase complex)
+XM_011419954	GO:0005634~nucleus
+XM_011420042	GO:0005634~nucleus
+XM_011420044	GO:0005622~intracellular
+XM_011420130	GO:0016021~integral component of membrane
+XR_899052	GO:0016021~integral component of membrane
+XM_011420571	GO:0016021~integral component of membrane
+XM_011420664	GO:0005730~nucleolus
+XM_011421226	GO:0016021~integral component of membrane
+XM_011421384	GO:0032021~NELF complex
+XM_011421424	GO:0005622~intracellular
+XM_011422064	GO:0005737~cytoplasm
+XM_011422057	GO:0005737~cytoplasm
+XM_011422139	GO:0005622~intracellular
+XM_011421293	GO:0016021~integral component of membrane
+XM_011421545	GO:0016021~integral component of membrane
+XM_011421958	GO:0005634~nucleus
+XM_011422074	GO:0016021~integral component of membrane
+AJ563471	GO:0005840~ribosome
+XM_011422214	GO:0016021~integral component of membrane
+XM_011422216	GO:0016021~integral component of membrane
+XM_011422218	GO:0016021~integral component of membrane
+XM_011422321	GO:0005634~nucleus
+XM_011422354	GO:0005622~intracellular
+XM_011422612	GO:0005840~ribosome
+NM_001305336	GO:0005576~extracellular region
+XM_011422976	GO:0005622~intracellular
+XM_011424165	GO:0016021~integral component of membrane
+XM_011424861	GO:0005739~mitochondrion
+XM_011424933	GO:0016020~membrane
+XM_011424933	GO:0005622~intracellular
+XM_011425219	GO:0016020~membrane
+XM_011425221	GO:0016020~membrane
+XM_011425337	GO:0005730~nucleolus
+XM_011422348	GO:0016021~integral component of membrane
+XM_011422388	GO:0016021~integral component of membrane
+XM_011422394	GO:0016021~integral component of membrane
+XM_011422620	GO:0043190~ATP-binding cassette (ABC) transporter complex
+XM_011422638	GO:0005737~cytoplasm
+XM_011422724	GO:0016021~integral component of membrane
+XM_011422761	GO:0016021~integral component of membrane
+XM_011422990	GO:0000786~nucleosome
+XM_011423579	GO:0030286~dynein complex
+XM_011423863	GO:0016021~integral component of membrane
+AJ549813	GO:0016021~integral component of membrane
+XM_011424561	GO:0016021~integral component of membrane
+XM_011424719	GO:0016021~integral component of membrane
+XM_011424900	GO:0016021~integral component of membrane
+XM_011424970	GO:0005634~nucleus
+XM_011424972	GO:0005634~nucleus
+XM_011425049	GO:0005634~nucleus
+XM_011425152	GO:0005901~caveola
+XM_011425225	GO:0016020~membrane
+XM_011425246	GO:0031307~integral component of mitochondrial outer membrane
+XM_011425287	GO:0016021~integral component of membrane
+XM_011425337	GO:0032040~small-subunit processome
+XM_011425414	GO:0005783~endoplasmic reticulum
+XM_011425508	GO:0016021~integral component of membrane
+XM_011425880	GO:0005887~integral component of plasma membrane
+JQ362455	GO:0005576~extracellular region
+AY551098	GO:0016021~integral component of membrane
+XM_011425618	GO:0008076~voltage-gated potassium channel complex
+XM_011425648	GO:0008076~voltage-gated potassium channel complex
+XM_011425929	GO:0016021~integral component of membrane
+XM_011426017	GO:0016021~integral component of membrane
+XM_011426032	GO:0016021~integral component of membrane
+XM_011426067	GO:0005794~Golgi apparatus
+XM_011426206	GO:0016021~integral component of membrane
+XM_011426212	GO:0005622~intracellular
+XM_011426237	GO:0016021~integral component of membrane
+XM_011426308	GO:0016021~integral component of membrane
+XM_011426308	GO:0031966~mitochondrial membrane
+XM_011426395	GO:0005622~intracellular
+XM_011426546	GO:0016020~membrane
+XM_011426610	GO:0016021~integral component of membrane
+NM_001305345	GO:0005840~ribosome
+XM_011427810	GO:0005622~intracellular
+XM_011429377	GO:0005622~intracellular
+XM_011429526	GO:0016020~membrane
+XM_011429709	GO:0016021~integral component of membrane
+XM_011426940	GO:0005743~mitochondrial inner membrane
+XM_011426950	GO:0016021~integral component of membrane
+XM_011427240	GO:0016021~integral component of membrane
+XM_011427434	GO:0016021~integral component of membrane
+XM_011427528	GO:0016021~integral component of membrane
+XM_011427740	GO:0005886~plasma membrane
+XM_011427788	GO:0005634~nucleus
+XM_011427916	GO:0005814~centriole
+XM_011427917	GO:0005814~centriole
+XM_011428034	GO:0016021~integral component of membrane
+AJ563475	GO:0005623~cell
+XM_011428222	GO:0005739~mitochondrion
+XM_011428399	GO:0030529~intracellular ribonucleoprotein complex
+XM_011428455	GO:0030027~lamellipodium
+XM_011428468	GO:0030027~lamellipodium
+XM_011428457	GO:0030027~lamellipodium
+XM_011428454	GO:0030027~lamellipodium
+XM_011428889	GO:0005634~nucleus
+XM_011429126	GO:0016021~integral component of membrane
+XM_011429392	GO:0016021~integral component of membrane
+XM_011429449	GO:0016021~integral component of membrane
+XM_011429577	GO:0016021~integral component of membrane
+XM_011429622	GO:0005634~nucleus
+XM_011429624	GO:0005634~nucleus
+XR_900273	GO:0005634~nucleus
+XM_011429994	GO:0005634~nucleus
+XM_011429991	GO:0005634~nucleus
+XM_011430046	GO:0005840~ribosome
+AB196533	GO:0005874~microtubule
+XR_900377	GO:0005622~intracellular
+XM_011430236	GO:0016021~integral component of membrane
+XM_011430237	GO:0008537~proteasome activator complex
+XM_011430288	GO:0008076~voltage-gated potassium channel complex
+XM_011430306	GO:0016021~integral component of membrane
+XM_011430312	GO:0016021~integral component of membrane
+XM_011430635	GO:1902560~GMP reductase complex
+XM_011430823	GO:0016021~integral component of membrane
+XM_011430920	GO:0016021~integral component of membrane
+AB196533	GO:0005737~cytoplasm
+XM_011431038	GO:0005622~intracellular
+XM_011431073	GO:0017119~Golgi transport complex
+XM_011431291	GO:0005891~voltage-gated calcium channel complex
+XM_011431286	GO:0005891~voltage-gated calcium channel complex
+XM_011431292	GO:0005891~voltage-gated calcium channel complex
+XM_011431589	GO:0005737~cytoplasm
+XM_011431418	GO:0016021~integral component of membrane
+XM_011431439	GO:0016021~integral component of membrane
+XM_011431534	GO:0016021~integral component of membrane
+XM_011431666	GO:0005789~endoplasmic reticulum membrane
+XM_011431668	GO:0016021~integral component of membrane
+JQ973737	GO:0016021~integral component of membrane
+XM_011432062	GO:0005886~plasma membrane
+XM_011432062	GO:0016021~integral component of membrane
+XM_011432236	GO:0005634~nucleus
+XM_011432376	GO:0005840~ribosome
+XM_011433098	GO:0005622~intracellular
+XM_011433338	GO:0005622~intracellular
+XM_011433697	GO:0005680~anaphase-promoting complex
+XM_011433733	GO:0016021~integral component of membrane
+XM_011433997	GO:0005622~intracellular
+XM_011434861	GO:0005737~cytoplasm
+KJ531895	GO:0005576~extracellular region
+XM_011435016	GO:0005576~extracellular region
+XM_011435121	GO:0016021~integral component of membrane
+NM_001308868	GO:0005576~extracellular region
+XM_011435202	GO:0005576~extracellular region
+XM_011432665	GO:0005634~nucleus
+XM_011432998	GO:0005885~Arp2/3 protein complex
+NM_001305307	GO:0005737~cytoplasm
+XM_011433180	GO:0016021~integral component of membrane
+XM_011433287	GO:0016021~integral component of membrane
+XM_011433388	GO:0016021~integral component of membrane
+XM_011433512	GO:0016021~integral component of membrane
+XM_011433602	GO:0005576~extracellular region
+XM_011433819	GO:0016021~integral component of membrane
+XM_011433930	GO:0005634~nucleus
+XM_011433930	GO:0000786~nucleosome
+XM_011433939	GO:0016021~integral component of membrane
+XM_011433987	GO:0016021~integral component of membrane
+XM_011434071	GO:0016021~integral component of membrane
+XM_011434133	GO:0016021~integral component of membrane
+XM_011434667	GO:0005852~eukaryotic translation initiation factor 3 complex
+XM_011434878	GO:0045211~postsynaptic membrane
+XM_011434982	GO:0016021~integral component of membrane
+XM_011435093	GO:0016020~membrane
+XM_011435195	GO:0005622~intracellular
+XM_011435508	GO:0005739~mitochondrion
+XM_011437275	GO:0005622~intracellular
+XM_011437268	GO:0005622~intracellular
+XM_011437577	GO:0000502~proteasome complex
+XM_011435232	GO:0046540~U4/U6 x U5 tri-snRNP complex
+XM_011435232	GO:0019013~viral nucleocapsid
+XM_011435447	GO:0016272~prefoldin complex
+XM_011435565	GO:0031225~anchored component of membrane
+XM_011435602	GO:0005758~mitochondrial intermembrane space
+XM_011435739	GO:0016021~integral component of membrane
+XM_011435744	GO:0005622~intracellular
+XM_011435891	GO:0016021~integral component of membrane
+XM_011435946	GO:0016021~integral component of membrane
+XM_011435975	GO:0005634~nucleus
+XM_011436190	GO:0005634~nucleus
+XM_011436195	GO:0005634~nucleus
+XM_011436198	GO:0005634~nucleus
+XM_011436287	GO:0005634~nucleus
+XM_011436352	GO:0005634~nucleus
+XM_011436413	GO:0019013~viral nucleocapsid
+XM_011436416	GO:0030529~intracellular ribonucleoprotein complex
+XM_011436419	GO:0005634~nucleus
+XM_011436720	GO:0016021~integral component of membrane
+XM_011437065	GO:0016021~integral component of membrane
+XM_011437174	GO:0005622~intracellular
+XM_011437532	GO:0016021~integral component of membrane
+XM_011437627	GO:0030529~intracellular ribonucleoprotein complex
+XR_901097	GO:0016021~integral component of membrane
+EU152921	GO:0000139~Golgi membrane
+XM_011437788	GO:0016021~integral component of membrane
+XM_011437789	GO:0016021~integral component of membrane
+XM_011438082	GO:0016021~integral component of membrane
+XM_011438167	GO:0016021~integral component of membrane
+XM_011438204	GO:0005764~lysosome
+XM_011438226	GO:0016021~integral component of membrane
+XM_011438496	GO:0008290~F-actin capping protein complex
+XM_011438661	GO:0005768~endosome
+XM_011440254	GO:0005622~intracellular
+EF627976	GO:0005634~nucleus
+XM_011439123	GO:0016021~integral component of membrane
+XM_011439208	GO:0016021~integral component of membrane
+XM_011439353	GO:0016021~integral component of membrane
+XM_011439643	GO:0005634~nucleus
+XM_011439704	GO:0005634~nucleus
+XM_011439787	GO:0016021~integral component of membrane
+XM_011439815	GO:0005634~nucleus
+XM_011439816	GO:0005634~nucleus
+XM_011440013	GO:0005840~ribosome
+XM_011440115	GO:0030131~clathrin adaptor complex
+XM_011440251	GO:0016021~integral component of membrane
+XM_011440263	GO:0016021~integral component of membrane
+XM_011440279	GO:0005634~nucleus
+XM_011440473	GO:0016021~integral component of membrane
+XM_011440761	GO:0005622~intracellular
+KC700618	GO:0016021~integral component of membrane
+XM_011441192	GO:0005737~cytoplasm
+XM_011441930	GO:0016020~membrane
+XM_011442463	GO:0016459~myosin complex
+XM_011442489	GO:0016459~myosin complex
+XM_011442611	GO:0005622~intracellular
+XM_011442612	GO:0005622~intracellular
+XM_011443507	GO:0005921~gap junction
+XM_011443607	GO:0016020~membrane
+XM_011443907	GO:0005622~intracellular
+XM_011440543	GO:0016021~integral component of membrane
+XM_011440588	GO:0016021~integral component of membrane
+XM_011440587	GO:0016021~integral component of membrane
+XM_011440590	GO:0005576~extracellular region
+XM_011440908	GO:0030008~TRAPP complex
+XM_011441238	GO:0016021~integral component of membrane
+XM_011441295	GO:0005874~microtubule
+XM_011441314	GO:0016021~integral component of membrane
+XM_011441319	GO:0016021~integral component of membrane
+XM_011441352	GO:0005921~gap junction
+XM_011441352	GO:0005886~plasma membrane
+XM_011441353	GO:0005886~plasma membrane
+XM_011441360	GO:0016021~integral component of membrane
+XM_011441388	GO:0016021~integral component of membrane
+XM_011441417	GO:0016021~integral component of membrane
+XM_011441618	GO:0005856~cytoskeleton
+XM_011442088	GO:0005789~endoplasmic reticulum membrane
+XM_011442088	GO:0005811~lipid particle
+XM_011442088	GO:0016021~integral component of membrane
+XM_011442091	GO:0005634~nucleus
+XM_011442252	GO:0016021~integral component of membrane
+AB185408	GO:0016021~integral component of membrane
+XM_011442790	GO:0016021~integral component of membrane
+XM_011442763	GO:0016021~integral component of membrane
+XM_011442773	GO:0016021~integral component of membrane
+XM_011442840	GO:0016021~integral component of membrane
+XM_011442895	GO:0016021~integral component of membrane
+XM_011443051	GO:0017119~Golgi transport complex
+XM_011443290	GO:0016021~integral component of membrane
+XM_011443362	GO:0005634~nucleus
+XM_011443459	GO:0016021~integral component of membrane
+XM_011443508	GO:0016021~integral component of membrane
+XM_011443536	GO:0005634~nucleus
+XM_011443537	GO:0000786~nucleosome
+XM_011443587	GO:0016021~integral component of membrane
+XM_011443643	GO:0016021~integral component of membrane
+XM_011444294	GO:0005840~ribosome
+XM_011444559	GO:0016021~integral component of membrane
+XM_011444707	GO:0005634~nucleus
+XM_011444144	GO:0016021~integral component of membrane
+XM_011444361	GO:0016607~nuclear speck
+XM_011444366	GO:0016021~integral component of membrane
+XM_011444400	GO:0016021~integral component of membrane
+XM_011444562	GO:0016021~integral component of membrane
+NM_001305296	GO:0016021~integral component of membrane
+XM_011444670	GO:0016021~integral component of membrane
+XM_011444925	GO:0016021~integral component of membrane
+XM_011444952	GO:0005622~intracellular
+XM_011445080	GO:0016021~integral component of membrane
+XM_011445300	GO:0005622~intracellular
+XM_011445519	GO:0043564~Ku70:Ku80 complex
+FJ669288	GO:0005856~cytoskeleton
+AF026063	GO:0005856~cytoskeleton
+XM_011447368	GO:0005737~cytoplasm
+XM_011447837	GO:0005737~cytoplasm
+XM_011448134	GO:0005576~extracellular region
+XM_011445108	GO:0016021~integral component of membrane
+XM_011445111	GO:0005622~intracellular
+XM_011445122	GO:0005634~nucleus
+XM_011445212	GO:0016021~integral component of membrane
+XM_011445535	GO:0005887~integral component of plasma membrane
+XM_011445534	GO:0005887~integral component of plasma membrane
+XM_011445987	GO:0016021~integral component of membrane
+XM_011445984	GO:0016021~integral component of membrane
+XM_011445979	GO:0016021~integral component of membrane
+XM_011446011	GO:0016020~membrane
+XM_011446069	GO:0016021~integral component of membrane
+XM_011446357	GO:0005634~nucleus
+XM_011446388	GO:0016021~integral component of membrane
+BK009238	GO:0005634~nucleus
+XM_011446498	GO:0005634~nucleus
+FJ669292	GO:0005737~cytoplasm
+NM_001308859	GO:0005737~cytoplasm
+FJ669293	GO:0005737~cytoplasm
+XM_011446548	GO:0016021~integral component of membrane
+XM_011446666	GO:0016021~integral component of membrane
+XM_011446791	GO:0005885~Arp2/3 protein complex
+XM_011446941	GO:0016021~integral component of membrane
+XR_902215	GO:0016021~integral component of membrane
+XM_011447473	GO:0016021~integral component of membrane
+XM_011447553	GO:0005634~nucleus
+XM_011447652	GO:0016021~integral component of membrane
+XM_011447797	GO:0016021~integral component of membrane
+XM_011447898	GO:0005623~cell
+XM_011447905	GO:0005634~nucleus
+XM_011447921	GO:0005622~intracellular
+XM_011447976	GO:0016021~integral component of membrane
+XM_011447978	GO:0016021~integral component of membrane
+XM_011448009	GO:0016021~integral component of membrane
+FJ347734	GO:0005737~cytoplasm
+FJ347743	GO:0005737~cytoplasm
+FJ347731	GO:0005737~cytoplasm
+XM_011449272	GO:0005622~intracellular
+XM_011448641	GO:0016021~integral component of membrane
+XM_011448722	GO:0005623~cell
+XM_011448745	GO:0016021~integral component of membrane
+XM_011448813	GO:0016020~membrane
+XM_011448831	GO:0005634~nucleus
+XM_011448848	GO:0016021~integral component of membrane
+KJ531896	GO:0005576~extracellular region
+XM_011449158	GO:0005634~nucleus
+XM_011449220	GO:0000786~nucleosome
+XM_011449225	GO:0016021~integral component of membrane
+XM_011449388	GO:0016021~integral component of membrane
+XM_011449482	GO:0016021~integral component of membrane
+AF075688	GO:0016021~integral component of membrane
+XM_011449604	GO:0005840~ribosome
+XM_011449716	GO:0016021~integral component of membrane
+XM_011449898	GO:0005634~nucleus
+XM_011450220	GO:0005622~intracellular
+XM_011451566	GO:0005622~intracellular
+XM_011452207	GO:0016021~integral component of membrane
+XM_011453183	GO:0016021~integral component of membrane
+XM_011450154	GO:0016021~integral component of membrane
+NM_001305318	GO:0005623~cell
+XM_011450218	GO:0005623~cell
+XM_011450240	GO:0005737~cytoplasm
+XM_011450292	GO:0005634~nucleus
+XM_011450322	GO:0016021~integral component of membrane
+XM_011450336	GO:0016021~integral component of membrane
+XM_011450651	GO:0005634~nucleus
+XM_011450662	GO:0000836~Hrd1p ubiquitin ligase complex
+XM_011451272	GO:0016021~integral component of membrane
+XM_011451728	GO:0005622~intracellular
+XM_011451749	GO:0016021~integral component of membrane
+XM_011451748	GO:0016021~integral component of membrane
+XM_011451891	GO:0005622~intracellular
+XM_011452006	GO:0016021~integral component of membrane
+XM_011452018	GO:0005622~intracellular
+XM_011452023	GO:0016021~integral component of membrane
+XM_011452022	GO:0016021~integral component of membrane
+XM_011452033	GO:0030054~cell junction
+XM_011452032	GO:0030054~cell junction
+XM_011452035	GO:0030054~cell junction
+XM_011452036	GO:0016021~integral component of membrane
+XM_011452115	GO:0005634~nucleus
+XM_011452144	GO:0031588~nucleotide-activated protein kinase complex
+XM_011452286	GO:0016021~integral component of membrane
+XM_011452300	GO:0016021~integral component of membrane
+XM_011452477	GO:0016021~integral component of membrane
+XM_011452559	GO:0016021~integral component of membrane
+XM_011452610	GO:0016021~integral component of membrane
+XM_011452616	GO:0016592~mediator complex
+XM_011452747	GO:0005615~extracellular space
+XM_011453222	GO:0000123~histone acetyltransferase complex
+XM_011453242	GO:0016021~integral component of membrane
+XM_011453350	GO:0016021~integral component of membrane
+XM_011453488	GO:0005622~intracellular
+XM_011453982	GO:0005737~cytoplasm
+XM_011454135	GO:0005622~intracellular
+XM_011453396	GO:0000439~core TFIIH complex
+XM_011453619	GO:0016021~integral component of membrane
+XM_011453621	GO:0016021~integral component of membrane
+XM_011453918	GO:0016021~integral component of membrane
+XM_011453945	GO:0016021~integral component of membrane
+XM_011454122	GO:0016021~integral component of membrane
+XM_011454123	GO:0005743~mitochondrial inner membrane
+FJ872817	GO:0005743~mitochondrial inner membrane
+XM_011454234	GO:0016021~integral component of membrane
+XM_011454660	GO:0005622~intracellular
+XM_011454969	GO:0005667~transcription factor complex
+XM_011456089	GO:0005622~intracellular
+XR_903397	GO:0005622~intracellular
+XM_011456690	GO:0005622~intracellular
+XM_011457048	GO:0005737~cytoplasm
+XM_011454435	GO:0016021~integral component of membrane
+XM_011454629	GO:0019013~viral nucleocapsid
+XM_011454770	GO:0005634~nucleus
+XM_011454772	GO:0005634~nucleus
+XM_011454854	GO:0016021~integral component of membrane
+XM_011454984	GO:0016021~integral component of membrane
+XM_011455047	GO:0016021~integral component of membrane
+XM_011455271	GO:0005634~nucleus
+NM_001305298	GO:0016021~integral component of membrane
+XM_011455531	GO:0005634~nucleus
+XM_011455588	GO:0005737~cytoplasm
+XM_011456382	GO:0005874~microtubule
+XM_011456006	GO:0000786~nucleosome
+XM_011456030	GO:0005622~intracellular
+XM_011456049	GO:0005634~nucleus
+XM_011456098	GO:0005634~nucleus
+XM_011456225	GO:0016021~integral component of membrane
+XM_011456688	GO:0016021~integral component of membrane
+XM_011456769	GO:0005634~nucleus
+XM_011457009	GO:0005840~ribosome
+NM_001305376	GO:0015935~small ribosomal subunit
+XM_011457169	GO:0016021~integral component of membrane
+XM_011457245	GO:0005634~nucleus
+XM_011457609	GO:0016021~integral component of membrane
+XM_011457777	GO:0005634~nucleus
+XM_011457779	GO:0005634~nucleus
+XM_011457824	GO:0005622~intracellular
+XM_011457902	GO:0016459~myosin complex
+XM_011457818	GO:0016021~integral component of membrane
+XM_011457959	GO:0016021~integral component of membrane
+XM_011457961	GO:0016021~integral component of membrane
+XM_011457992	GO:0016021~integral component of membrane
+XM_011458036	GO:0016021~integral component of membrane
+XM_011458102	GO:0017053~transcriptional repressor complex
+XM_011458127	GO:0005737~cytoplasm
+XM_011458129	GO:0005737~cytoplasm
+XR_903613	GO:0005886~plasma membrane
+XM_011458187	GO:0016021~integral component of membrane
+XM_011458836	GO:0005576~extracellular region
+XM_011458876	GO:0005622~intracellular
+XM_011458948	GO:0016021~integral component of membrane
+XM_011458364	GO:0016021~integral component of membrane
+XM_011458377	GO:0016021~integral component of membrane
+XM_011458560	GO:0005743~mitochondrial inner membrane
+XM_011458821	GO:0034464~BBSome
+XM_011458947	GO:0016021~integral component of membrane
+XM_011416149	GO:0016021~integral component of membrane
+XM_011413716	GO:0016021~integral component of membrane
+XM_011413740	GO:0005581~collagen trimer
+XM_011413847	GO:0005622~intracellular
+XM_011413991	GO:0016021~integral component of membrane
+XM_011414028	GO:0016021~integral component of membrane
+XM_011414070	GO:0005869~dynactin complex
+XM_011414068	GO:0016021~integral component of membrane
+XM_011414109	GO:0016021~integral component of membrane
+XM_011414112	GO:0005634~nucleus
+XM_011414136	GO:0016021~integral component of membrane
+XM_011414137	GO:0016021~integral component of membrane
+XM_011414155	GO:0016021~integral component of membrane
+XM_011414250	GO:0000775~chromosome, centromeric region
+XM_011414371	GO:0005576~extracellular region
+XM_011414322	GO:0016021~integral component of membrane
+XM_011414364	GO:0005840~ribosome
+XM_011414388	GO:0005622~intracellular
+XM_011414717	GO:0016021~integral component of membrane
+XM_011414774	GO:0016021~integral component of membrane
+XM_011414869	GO:0005576~extracellular region
+XM_011414967	GO:0005622~intracellular
+XM_011415109	GO:0005789~endoplasmic reticulum membrane
+XM_011415106	GO:0005789~endoplasmic reticulum membrane
+XM_011415105	GO:0016021~integral component of membrane
+XM_011415127	GO:0016021~integral component of membrane
+XM_011415129	GO:0016021~integral component of membrane
+XM_011415293	GO:0005622~intracellular
+XM_011416040	GO:0005622~intracellular
+XM_011415316	GO:0008076~voltage-gated potassium channel complex
+XM_011415315	GO:0008076~voltage-gated potassium channel complex
+XM_011415570	GO:0016021~integral component of membrane
+XM_011415649	GO:0005622~intracellular
+XM_011415786	GO:0005576~extracellular region
+XM_011415754	GO:0005856~cytoskeleton
+XM_011416001	GO:0016021~integral component of membrane
+XM_011416430	GO:0005737~cytoplasm
+XM_011416578	GO:0005622~intracellular
+XM_011417848	GO:0005622~intracellular
+KM975680	GO:0005622~intracellular
+XM_011418308	GO:0005622~intracellular
+XM_011416247	GO:0016021~integral component of membrane
+XM_011416392	GO:0016021~integral component of membrane
+AY039649	GO:0005634~nucleus
+XM_011416443	GO:0005737~cytoplasm
+XM_011416444	GO:0005634~nucleus
+XM_011416538	GO:0016021~integral component of membrane
+XM_011416582	GO:0005737~cytoplasm
+XM_011416662	GO:0016021~integral component of membrane
+XM_011416957	GO:0016021~integral component of membrane
+XM_011417129	GO:0005829~cytosol
+XM_011417362	GO:0005634~nucleus
+XM_011417524	GO:0005737~cytoplasm
+XM_011417642	GO:0005634~nucleus
+XM_011417657	GO:0016021~integral component of membrane
+XM_011417656	GO:0016021~integral component of membrane
+XM_011417663	GO:0032580~Golgi cisterna membrane
+XM_011417774	GO:0016021~integral component of membrane
+XM_011417841	GO:0016020~membrane
+XM_011417848	GO:0016020~membrane
+XM_011417882	GO:0016021~integral component of membrane
+XM_011418074	GO:0016021~integral component of membrane
+XM_011418153	GO:0005622~intracellular
+XM_011418338	GO:0000786~nucleosome
+XM_011418342	GO:0000786~nucleosome
+XM_011418349	GO:0005634~nucleus
+XM_011418350	GO:0005634~nucleus
+AJ563476	GO:0005840~ribosome
+XM_011418389	GO:0016021~integral component of membrane
+XM_011418663	GO:0016021~integral component of membrane
+XM_011418760	GO:0016021~integral component of membrane
+XM_011418842	GO:0016021~integral component of membrane
+XM_011419265	GO:0005634~nucleus
+XM_011419488	GO:0005777~peroxisome
+XM_011419380	GO:0005789~endoplasmic reticulum membrane
+XM_011419375	GO:0005789~endoplasmic reticulum membrane
+XM_011419503	GO:0005921~gap junction
+XM_011419625	GO:0019013~viral nucleocapsid
+XM_011419776	GO:0016021~integral component of membrane
+XM_011420293	GO:0008076~voltage-gated potassium channel complex
+XM_011420311	GO:0016021~integral component of membrane
+XM_011420924	GO:0016021~integral component of membrane
+XM_011420945	GO:0005604~basement membrane
+XM_011420955	GO:0016021~integral component of membrane
+XM_011420960	GO:0005783~endoplasmic reticulum
+XM_011420965	GO:0016021~integral component of membrane
+XM_011421159	GO:0005634~nucleus
+XM_011421158	GO:0005634~nucleus
+XM_011421260	GO:0016021~integral component of membrane
+XM_011421260	GO:0005921~gap junction
+XM_011421782	GO:0000151~ubiquitin ligase complex
+XM_011421596	GO:0016021~integral component of membrane
+XM_011421869	GO:0005732~small nucleolar ribonucleoprotein complex
+NM_001305330	GO:0016021~integral component of membrane
+XM_011422176	GO:0016021~integral component of membrane
+XM_011422200	GO:0016021~integral component of membrane
+XM_011422227	GO:0030126~COPI vesicle coat
+XM_011422264	GO:0016021~integral component of membrane
+XM_011422467	GO:0005622~intracellular
+NM_001305291	GO:0005576~extracellular region
+XM_011424453	GO:0005576~extracellular region
+XM_011424715	GO:0090498~extrinsic component of Golgi membrane
+XM_011424720	GO:0090498~extrinsic component of Golgi membrane
+XM_011424775	GO:0005777~peroxisome
+XM_011424836	GO:0005622~intracellular
+XM_011424934	GO:0016020~membrane
+XM_011422499	GO:0016021~integral component of membrane
+XM_011422638	GO:0005634~nucleus
+XM_011424138	GO:0005840~ribosome
+XM_011422925	GO:0016021~integral component of membrane
+JN315146	GO:0016021~integral component of membrane
+XM_011423577	GO:0030286~dynein complex
+XM_011424034	GO:0016021~integral component of membrane
+XM_011424036	GO:0016021~integral component of membrane
+XM_011424108	GO:0005634~nucleus
+NM_001305348	GO:0016021~integral component of membrane
+XM_011424499	GO:0016021~integral component of membrane
+XM_011424595	GO:0000276~mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)
+XM_011424713	GO:0016021~integral component of membrane
+XM_011424711	GO:0016021~integral component of membrane
+XM_011424876	GO:0016021~integral component of membrane
+XM_011425149	GO:0005901~caveola
+XM_011425152	GO:0000139~Golgi membrane
+XM_011425245	GO:0031307~integral component of mitochondrial outer membrane
+XM_011425274	GO:0005634~nucleus
+XM_011425426	GO:0016459~myosin complex
+XM_011425423	GO:0016021~integral component of membrane
+XM_011425488	GO:0005840~ribosome
+NM_001308899	GO:0016021~integral component of membrane
+XM_011425522	GO:0016021~integral component of membrane
+XM_011426546	GO:0005622~intracellular
+XM_011425771	GO:0016021~integral component of membrane
+XR_899809	GO:0005634~nucleus
+XM_011426010	GO:0016021~integral component of membrane
+XM_011426067	GO:0016021~integral component of membrane
+XM_011426079	GO:0016021~integral component of membrane
+XM_011426292	GO:0016021~integral component of membrane
+XM_011426529	GO:0000786~nucleosome
+XM_011426545	GO:0016020~membrane
+XM_011426552	GO:0005576~extracellular region
+XM_011426612	GO:0016021~integral component of membrane
+XM_011426611	GO:0016021~integral component of membrane
+XM_011426785	GO:0005739~mitochondrion
+XM_011427084	GO:0005737~cytoplasm
+XM_011427481	GO:0005622~intracellular
+XM_011427731	GO:0005921~gap junction
+XM_011427979	GO:0016021~integral component of membrane
+XM_011428088	GO:0016021~integral component of membrane
+XM_011428146	GO:0005576~extracellular region
+XM_011428347	GO:0016020~membrane
+XM_011429351	GO:0005874~microtubule
+XM_011429523	GO:0016020~membrane
+XM_011426730	GO:0016021~integral component of membrane
+XM_011426934	GO:0005581~collagen trimer
+XM_011427278	GO:0016021~integral component of membrane
+XR_899964	GO:0016021~integral component of membrane
+XM_011427493	GO:0016021~integral component of membrane
+XM_011427871	GO:0016021~integral component of membrane
+XM_011427953	GO:0016021~integral component of membrane
+NM_001305338	GO:0005623~cell
+XM_011428399	GO:0019013~viral nucleocapsid
+XM_011428460	GO:0030027~lamellipodium
+XM_011428682	GO:0016021~integral component of membrane
+AB516439	GO:0005634~nucleus
+XM_011428947	GO:0016021~integral component of membrane
+NM_001308854	GO:0016021~integral component of membrane
+XM_011429474	GO:0005622~intracellular
+XM_011429575	GO:0016021~integral component of membrane
+XM_011429909	GO:0016021~integral component of membrane
+XM_011429969	GO:0005634~nucleus
+XM_011429986	GO:0005634~nucleus
+XM_011429997	GO:0005634~nucleus
+NM_001305319	GO:0016021~integral component of membrane
+AJ551182	GO:0016021~integral component of membrane
+XM_011430439	GO:0016021~integral component of membrane
+XM_011430577	GO:0016021~integral component of membrane
+XM_011430692	GO:0005783~endoplasmic reticulum
+XM_011430694	GO:0031314~extrinsic component of mitochondrial inner membrane
+XM_011430893	GO:0016021~integral component of membrane
+XM_011430973	GO:0016021~integral component of membrane
+XM_011431026	GO:0005672~transcription factor TFIIA complex
+XM_011431048	GO:0016021~integral component of membrane
+XM_011431112	GO:0016021~integral component of membrane
+XM_011431115	GO:0030127~COPII vesicle coat
+XM_011431260	GO:0016021~integral component of membrane
+XM_011431259	GO:0016021~integral component of membrane
+XM_011431290	GO:0005891~voltage-gated calcium channel complex
+XM_011431294	GO:0005891~voltage-gated calcium channel complex
+XM_011431629	GO:0005622~intracellular
+XM_011432182	GO:0030286~dynein complex
+XM_011432237	GO:0005634~nucleus
+XM_011431394	GO:0005634~nucleus
+XM_011431404	GO:0005623~cell
+XM_011431416	GO:0016021~integral component of membrane
+XM_011431880	GO:0016021~integral component of membrane
+AJ890150	GO:0005886~plasma membrane
+XM_011432117	GO:0016021~integral component of membrane
+XM_011432760	GO:0005622~intracellular
+XM_011432759	GO:0005622~intracellular
+XM_011433151	GO:0005576~extracellular region
+XM_011433185	GO:0030054~cell junction
+XM_011433730	GO:0016021~integral component of membrane
+NM_001305326	GO:0005576~extracellular region
+XM_011434575	GO:0005622~intracellular
+XM_011434587	GO:0005737~cytoplasm
+EU108715	GO:0005737~cytoplasm
+XM_011434878	GO:0030054~cell junction
+XM_011434879	GO:0016021~integral component of membrane
+XM_011435220	GO:0005576~extracellular region
+XM_011432626	GO:0000502~proteasome complex
+XM_011432781	GO:0000775~chromosome, centromeric region
+XM_011433151	GO:0005581~collagen trimer
+XM_011433279	GO:0005634~nucleus
+XM_011433736	GO:0016021~integral component of membrane
+XM_011433853	GO:0016021~integral component of membrane
+XM_011433856	GO:0005634~nucleus
+XM_011433938	GO:0016021~integral component of membrane
+XM_011434033	GO:0016021~integral component of membrane
+XM_011434208	GO:0016021~integral component of membrane
+XM_011434459	GO:0016021~integral component of membrane
+XM_011434564	GO:0016021~integral component of membrane
+XM_011434647	GO:0005737~cytoplasm
+XM_011435459	GO:0005622~intracellular
+XM_011436001	GO:0005622~intracellular
+XM_011436016	GO:0005622~intracellular
+XM_011436586	GO:0005622~intracellular
+XM_011436938	GO:0005622~intracellular
+XM_011437613	GO:0005622~intracellular
+XM_011437975	GO:0005622~intracellular
+XM_011438129	GO:0005622~intracellular
+XM_011435281	GO:0005622~intracellular
+XM_011435282	GO:0016021~integral component of membrane
+XM_011435456	GO:0016021~integral component of membrane
+XM_011435455	GO:0005743~mitochondrial inner membrane
+XM_011435505	GO:0016021~integral component of membrane
+XM_011435504	GO:0016021~integral component of membrane
+XM_011435751	GO:0000502~proteasome complex
+XM_011435933	GO:0005622~intracellular
+XM_011436008	GO:0016021~integral component of membrane
+XM_011436007	GO:0016021~integral component of membrane
+XM_011436009	GO:0005743~mitochondrial inner membrane
+NM_001305379	GO:0005615~extracellular space
+KF927126	GO:0005615~extracellular space
+XM_011436191	GO:0005634~nucleus
+XM_011436285	GO:0005634~nucleus
+XM_011436354	GO:0005634~nucleus
+XM_011436420	GO:0005634~nucleus
+XM_011437332	GO:0016021~integral component of membrane
+XM_011437530	GO:0016021~integral component of membrane
+XM_011437553	GO:0016021~integral component of membrane
+XM_011437577	GO:0005783~endoplasmic reticulum
+XM_011437922	GO:0016021~integral component of membrane
+XM_011438054	GO:0016021~integral component of membrane
+XM_011438131	GO:0005634~nucleus
+XM_011438661	GO:0005802~trans-Golgi network
+XM_011438508	GO:0016021~integral component of membrane
+XM_011438649	GO:0005886~plasma membrane
+XM_011438661	GO:0030136~clathrin-coated vesicle
+XM_011439823	GO:0005622~intracellular
+XM_011439863	GO:0043231~intracellular membrane-bounded organelle
+XM_011439979	GO:0005622~intracellular
+XM_011440255	GO:0005622~intracellular
+XM_011438685	GO:0016021~integral component of membrane
+XM_011438753	GO:0005743~mitochondrial inner membrane
+XM_011439080	GO:0016021~integral component of membrane
+XM_011439107	GO:0016021~integral component of membrane
+XM_011439209	GO:0016021~integral component of membrane
+XM_011439504	GO:0016021~integral component of membrane
+XM_011439812	GO:0005634~nucleus
+XM_011439824	GO:0016021~integral component of membrane
+XM_011440116	GO:0030131~clathrin adaptor complex
+XM_011440260	GO:0005634~nucleus
+XM_011441024	GO:0016021~integral component of membrane
+XM_011441056	GO:0005739~mitochondrion
+NM_001308875	GO:0016021~integral component of membrane
+XM_011441478	GO:0005622~intracellular
+XM_011441961	GO:0005622~intracellular
+XM_011442245	GO:0016021~integral component of membrane
+XM_011442460	GO:0016459~myosin complex
+XM_011443104	GO:0005622~intracellular
+XM_011443224	GO:0005737~cytoplasm
+XM_011443514	GO:0005921~gap junction
+XM_011443511	GO:0005921~gap junction
+XM_011443768	GO:0005737~cytoplasm
+XM_011440520	GO:0016020~membrane
+XM_011440678	GO:0005786~signal recognition particle, endoplasmic reticulum targeting
+XM_011441088	GO:0031011~Ino80 complex
+XM_011441178	GO:0016021~integral component of membrane
+XM_011441256	GO:0005852~eukaryotic translation initiation factor 3 complex
+XM_011441351	GO:0005886~plasma membrane
+XM_011441504	GO:0015629~actin cytoskeleton
+XM_011441964	GO:0016021~integral component of membrane
+XM_011442085	GO:0016021~integral component of membrane
+XM_011442090	GO:0005622~intracellular
+XM_011442092	GO:0005634~nucleus
+XM_011442273	GO:0016020~membrane
+XM_011442275	GO:0016020~membrane
+XM_011442699	GO:0016021~integral component of membrane
+XM_011442701	GO:0016021~integral component of membrane
+XM_011442841	GO:0016021~integral component of membrane
+XM_011442944	GO:0005634~nucleus
+XM_011443385	GO:0016021~integral component of membrane
+XM_011443430	GO:0032039~integrator complex
+XM_011443538	GO:0005634~nucleus
+XM_011443719	GO:0005737~cytoplasm
+XM_011443778	GO:0016021~integral component of membrane
+XM_011444042	GO:0016021~integral component of membrane
+AB122066	GO:0005737~cytoplasm
+XM_011444503	GO:0016021~integral component of membrane
+XM_011444585	GO:0016021~integral component of membrane
+AB262088	GO:0005741~mitochondrial outer membrane
+XM_011444788	GO:0031514~motile cilium
+EU678311	GO:0016020~membrane
+XM_011444894	GO:0016021~integral component of membrane
+XM_011445088	GO:0016021~integral component of membrane
+XM_011445518	GO:0043564~Ku70:Ku80 complex
+FJ669292	GO:0005856~cytoskeleton
+XM_011446757	GO:0005622~intracellular
+XM_011447763	GO:0005740~mitochondrial envelope
+XM_011447948	GO:0005840~ribosome
+XM_011447951	GO:0005622~intracellular
+XM_011448381	GO:0016021~integral component of membrane
+XM_011448503	GO:0016020~membrane
+XM_011445127	GO:0016021~integral component of membrane
+XM_011445274	GO:0016021~integral component of membrane
+XM_011445303	GO:0016021~integral component of membrane
+XM_011445341	GO:0000139~Golgi membrane
+EU108716	GO:0005777~peroxisome
+XM_011445873	GO:0016021~integral component of membrane
+XM_011445981	GO:0016021~integral component of membrane
+XM_011445991	GO:0016021~integral component of membrane
+XM_011446262	GO:0016021~integral component of membrane
+JQ647412	GO:0016021~integral component of membrane
+EU152932	GO:0016021~integral component of membrane
+XM_011446426	GO:0016021~integral component of membrane
+AJ563469	GO:0031515~tRNA (m1A) methyltransferase complex
+XM_011446506	GO:0005634~nucleus
+XM_011446514	GO:0005737~cytoplasm
+FJ669290	GO:0005737~cytoplasm
+XM_011446670	GO:0016021~integral component of membrane
+AJ563463	GO:0015935~small ribosomal subunit
+XM_011446827	GO:0016021~integral component of membrane
+XM_011447063	GO:0016021~integral component of membrane
+XM_011447422	GO:0016021~integral component of membrane
+XM_011447403	GO:0016021~integral component of membrane
+XM_011447676	GO:0016021~integral component of membrane
+XM_011447788	GO:0005623~cell
+XM_011447902	GO:0005634~nucleus
+XM_011447901	GO:0005634~nucleus
+XM_011447943	GO:0016602~CCAAT-binding factor complex
+XM_011447977	GO:0016021~integral component of membrane
+XM_011448164	GO:0016021~integral component of membrane
+XM_011448449	GO:0005742~mitochondrial outer membrane translocase complex
+FJ347728	GO:0005737~cytoplasm
+FJ347732	GO:0005737~cytoplasm
+XM_011448536	GO:0005634~nucleus
+XM_011448649	GO:0016021~integral component of membrane
+XM_011448768	GO:0016021~integral component of membrane
+XM_011449054	GO:0005751~mitochondrial respiratory chain complex IV
+XM_011449150	GO:0005634~nucleus
+XM_011449220	GO:0005634~nucleus
+AF075688	GO:0005789~endoplasmic reticulum membrane
+XM_011449501	GO:0016021~integral component of membrane
+XM_011449990	GO:0005622~intracellular
+XM_011450002	GO:0016021~integral component of membrane
+XM_011450003	GO:0016021~integral component of membrane
+XM_011450457	GO:0005622~intracellular
+XM_011451567	GO:0005622~intracellular
+XM_011451709	GO:0005737~cytoplasm
+XM_011451893	GO:0005622~intracellular
+XM_011452226	GO:0005622~intracellular
+XM_011452556	GO:0016021~integral component of membrane
+XM_011450123	GO:0016021~integral component of membrane
+XM_011450366	GO:0016021~integral component of membrane
+XM_011450369	GO:0016021~integral component of membrane
+XM_011450480	GO:0016021~integral component of membrane
+XM_011450540	GO:0019013~viral nucleocapsid
+XM_011450814	GO:0016021~integral component of membrane
+XM_011451255	GO:0016021~integral component of membrane
+XM_011451235	GO:0005615~extracellular space
+XM_011451286	GO:0016021~integral component of membrane
+XM_011451463	GO:0016021~integral component of membrane
+XM_011452025	GO:0016021~integral component of membrane
+XM_011452026	GO:0016021~integral component of membrane
+XM_011452032	GO:0016021~integral component of membrane
+XM_011452043	GO:0016021~integral component of membrane
+XM_011452145	GO:0031588~nucleotide-activated protein kinase complex
+AB262085	GO:0016021~integral component of membrane
+XM_011452363	GO:0016021~integral component of membrane
+XM_011452476	GO:0016021~integral component of membrane
+XM_011452554	GO:0016021~integral component of membrane
+XM_011452552	GO:0016021~integral component of membrane
+XM_011452857	GO:0016021~integral component of membrane
+XM_011452891	GO:0016021~integral component of membrane
+XM_011452935	GO:0016021~integral component of membrane
+XM_011453166	GO:0016021~integral component of membrane
+XM_011453199	GO:0005634~nucleus
+XM_011453237	GO:0016021~integral component of membrane
+XM_011453241	GO:0016021~integral component of membrane
+XM_011453342	GO:0016021~integral component of membrane
+XM_011453426	GO:0016592~mediator complex
+XM_011453662	GO:0016021~integral component of membrane
+XM_011453865	GO:0019013~viral nucleocapsid
+XM_011454067	GO:0016021~integral component of membrane
+XM_011454121	GO:0016021~integral component of membrane
+XM_011454120	GO:0016021~integral component of membrane
+XM_011454128	GO:0016021~integral component of membrane
+XM_011455141	GO:0005622~intracellular
+XM_011455457	GO:0016021~integral component of membrane
+XM_011455640	GO:0005622~intracellular
+XM_011455674	GO:0008076~voltage-gated potassium channel complex
+XM_011456062	GO:0005622~intracellular
+XM_011456106	GO:0005622~intracellular
+XM_011456254	GO:0016021~integral component of membrane
+XM_011456689	GO:0005622~intracellular
+XM_011456686	GO:0005622~intracellular
+XM_011457047	GO:0005737~cytoplasm
+XM_011454306	GO:0016021~integral component of membrane
+XM_011454534	GO:0005622~intracellular
+XM_011454659	GO:0016020~membrane
+XM_011454660	GO:0016020~membrane
+XM_011454767	GO:0016020~membrane
+XM_011454769	GO:0005634~nucleus
+XM_011454852	GO:0016021~integral component of membrane
+XM_011454845	GO:0016021~integral component of membrane
+XM_011454868	GO:0016021~integral component of membrane
+XM_011455045	GO:0016021~integral component of membrane
+XM_011455043	GO:0016021~integral component of membrane
+XM_011455430	GO:0005634~nucleus
+XM_011455594	GO:0005737~cytoplasm
+XM_011455587	GO:0005737~cytoplasm
+XM_011455639	GO:0005622~intracellular
+XM_011455807	GO:0016021~integral component of membrane
+XM_011455916	GO:0016021~integral component of membrane
+XM_011456015	GO:0016021~integral component of membrane
+XM_011456031	GO:0005622~intracellular
+AB375065	GO:0005622~intracellular
+XM_011456226	GO:0016021~integral component of membrane
+XM_011456305	GO:0016021~integral component of membrane
+XM_011456448	GO:0016021~integral component of membrane
+XM_011456478	GO:0016021~integral component of membrane
+XM_011456483	GO:0005737~cytoplasm
+XM_011456484	GO:0005737~cytoplasm
+XM_011456609	GO:0016021~integral component of membrane
+XM_011456685	GO:0016021~integral component of membrane
+XM_011456957	GO:0016021~integral component of membrane
+XM_011456962	GO:0016021~integral component of membrane
+AJ563480	GO:0015935~small ribosomal subunit
+XM_011457224	GO:0016021~integral component of membrane
+XM_011457202	GO:0016021~integral component of membrane
+XM_011457504	GO:0005622~intracellular
+XM_011457775	GO:0005634~nucleus
+XM_011457774	GO:0005634~nucleus
+XM_011457901	GO:0016459~myosin complex
+NM_001305314	GO:0015935~small ribosomal subunit
+XM_011457944	GO:0016021~integral component of membrane
+XM_011458031	GO:0016021~integral component of membrane
+XM_011458103	GO:0017053~transcriptional repressor complex
+XM_011458128	GO:0005737~cytoplasm
+XM_011458185	GO:0005886~plasma membrane
+XM_011458830	GO:0016020~membrane
+XM_011458404	GO:0005783~endoplasmic reticulum
+XM_011458572	GO:0030529~intracellular ribonucleoprotein complex
+XM_011458587	GO:0016021~integral component of membrane
+XM_011458946	GO:0016021~integral component of membrane
+XM_011413829	GO:0016021~integral component of membrane
+XM_011413927	GO:0016021~integral component of membrane
+XM_011414217	GO:0005869~dynactin complex
+XM_011415510	GO:0005740~mitochondrial envelope
+XM_011414299	GO:0005634~nucleus
+XM_011414353	GO:0016021~integral component of membrane
+XM_011414366	GO:0000139~Golgi membrane
+XM_011414970	GO:0016021~integral component of membrane
+XM_011415102	GO:0005789~endoplasmic reticulum membrane
+XM_011415107	GO:0005789~endoplasmic reticulum membrane
+XM_011415102	GO:0016021~integral component of membrane
+XM_011415111	GO:0016021~integral component of membrane
+XM_011415221	GO:0016021~integral component of membrane
+XM_011415298	GO:0005622~intracellular
+XM_011415296	GO:0005622~intracellular
+XM_011415397	GO:0000221~vacuolar proton-transporting V-type ATPase, V1 domain
+XM_011415567	GO:0016021~integral component of membrane
+XM_011415569	GO:0016021~integral component of membrane
+XM_011415894	GO:0016020~membrane
+XM_011415751	GO:0016021~integral component of membrane
+XM_011415799	GO:0005737~cytoplasm
+NM_001305359	GO:0016021~integral component of membrane
+XM_011416020	GO:0005737~cytoplasm
+NM_001305332	GO:0005737~cytoplasm
+XM_011417843	GO:0005622~intracellular
+XM_011418146	GO:0016020~membrane
+XM_011416274	GO:0005634~nucleus
+XM_011416430	GO:0005634~nucleus
+XM_011416539	GO:0016021~integral component of membrane
+XM_011416545	GO:0005622~intracellular
+XM_011416544	GO:0005622~intracellular
+XM_011416704	GO:0016021~integral component of membrane
+XM_011416760	GO:0016021~integral component of membrane
+XM_011417083	GO:0016021~integral component of membrane
+XM_011417082	GO:0016021~integral component of membrane
+XM_011417376	GO:0016021~integral component of membrane
+XM_011417389	GO:0005634~nucleus
+XM_011417399	GO:0005634~nucleus
+XM_011417663	GO:0016021~integral component of membrane
+XM_011417662	GO:0032580~Golgi cisterna membrane
+XM_011417752	GO:0016021~integral component of membrane
+XM_011417847	GO:0016020~membrane
+XM_011417843	GO:0016020~membrane
+XM_011418073	GO:0016021~integral component of membrane
+XM_011418342	GO:0005634~nucleus
+XM_011418349	GO:0000786~nucleosome
+XM_011418351	GO:0000786~nucleosome
+XM_011418353	GO:0005634~nucleus
+XM_011418354	GO:0005634~nucleus
+XM_011418355	GO:0000786~nucleosome
+XM_011418483	GO:0016021~integral component of membrane
+XM_011418777	GO:0005874~microtubule
+XM_011421264	GO:0005921~gap junction
+XM_011418360	GO:0005634~nucleus
+XM_011418361	GO:0005634~nucleus
+XM_011418664	GO:0016021~integral component of membrane
+XM_011418843	GO:0016021~integral component of membrane
+XM_011418911	GO:0016020~membrane
+XM_011420432	GO:0005622~intracellular
+XM_011419295	GO:0005634~nucleus
+XM_011419373	GO:0016021~integral component of membrane
+XM_011419372	GO:0016021~integral component of membrane
+XM_011419374	GO:0005789~endoplasmic reticulum membrane
+XM_011419375	GO:0016021~integral component of membrane
+XM_011419389	GO:0016021~integral component of membrane
+XM_011419600	GO:0016021~integral component of membrane
+XM_011419598	GO:0016021~integral component of membrane
+XM_011419625	GO:0030529~intracellular ribonucleoprotein complex
+XM_011419685	GO:0016021~integral component of membrane
+XM_011419684	GO:0016021~integral component of membrane
+XM_011419776	GO:0005789~endoplasmic reticulum membrane
+XM_011419895	GO:0016021~integral component of membrane
+XM_011419999	GO:0005634~nucleus
+XM_011420131	GO:0016021~integral component of membrane
+XM_011420263	GO:0016021~integral component of membrane
+XM_011420341	GO:0000815~ESCRT III complex
+XM_011420443	GO:0016021~integral component of membrane
+XM_011420463	GO:0016021~integral component of membrane
+XM_011420497	GO:0016021~integral component of membrane
+XM_011420959	GO:0005783~endoplasmic reticulum
+XM_011420970	GO:0005634~nucleus
+XM_011421160	GO:0005634~nucleus
+XM_011421258	GO:0005921~gap junction
+XM_011421256	GO:0005921~gap junction
+XM_011421259	GO:0016021~integral component of membrane
+XM_011421264	GO:0016021~integral component of membrane
+XM_011421266	GO:0016021~integral component of membrane
+XM_011421291	GO:0005737~cytoplasm
+XM_011422220	GO:0008076~voltage-gated potassium channel complex
+XM_011421386	GO:0016021~integral component of membrane
+XM_011421469	GO:0016021~integral component of membrane
+XM_011421477	GO:0016021~integral component of membrane
+XM_011421581	GO:0016021~integral component of membrane
+XM_011422082	GO:0016021~integral component of membrane
+XM_011422106	GO:0016021~integral component of membrane
+XM_011422201	GO:0016021~integral component of membrane
+XM_011422333	GO:0005622~intracellular
+XM_011422352	GO:0005622~intracellular
+XM_011422638	GO:0005667~transcription factor complex
+AF321279	GO:0005576~extracellular region
+XM_011423428	GO:0005622~intracellular
+XM_011423523	GO:0000159~protein phosphatase type 2A complex
+XM_011424166	GO:0016021~integral component of membrane
+XM_011424864	GO:0005739~mitochondrion
+XM_011424862	GO:0005739~mitochondrion
+XM_011425220	GO:0016020~membrane
+XM_011422756	GO:0005576~extracellular region
+NM_001305339	GO:0005576~extracellular region
+XM_011423388	GO:0005783~endoplasmic reticulum
+XM_011423421	GO:0022627~cytosolic small ribosomal subunit
+XM_011423558	GO:0016021~integral component of membrane
+XM_011423589	GO:0005634~nucleus
+XM_011424035	GO:0016021~integral component of membrane
+XM_011424108	GO:0005839~proteasome core complex
+XM_011424455	GO:0005634~nucleus
+XM_011424527	GO:0031461~cullin-RING ubiquitin ligase complex
+XM_011424528	GO:0031461~cullin-RING ubiquitin ligase complex
+XM_011424753	GO:0030529~intracellular ribonucleoprotein complex
+XM_011424950	GO:0016021~integral component of membrane
+XM_011425056	GO:0016021~integral component of membrane
+XM_011425134	GO:0016021~integral component of membrane
+XM_011425150	GO:0016021~integral component of membrane
+XM_011425153	GO:0016021~integral component of membrane
+XM_011425288	GO:0016021~integral component of membrane
+XM_011425535	GO:0016021~integral component of membrane
+XM_011426543	GO:0005622~intracellular
+XM_011425527	GO:0005622~intracellular
+XM_011425627	GO:0016021~integral component of membrane
+XM_011425745	GO:0016021~integral component of membrane
+XM_011426081	GO:0016021~integral component of membrane
+XM_011426082	GO:0016021~integral component of membrane
+XM_011426149	GO:0016021~integral component of membrane
+XM_011426484	GO:0005634~nucleus
+XM_011426529	GO:0005634~nucleus
+XM_011426543	GO:0016020~membrane
+XM_011426613	GO:0016021~integral component of membrane
+XM_011428617	GO:0005737~cytoplasm
+XM_011429372	GO:0005622~intracellular
+XM_011429550	GO:0005737~cytoplasm
+XM_011429710	GO:0016021~integral component of membrane
+XM_011426740	GO:0005852~eukaryotic translation initiation factor 3 complex
+XM_011426767	GO:0016021~integral component of membrane
+XM_011426787	GO:0005681~spliceosomal complex
+XM_011427222	GO:0016021~integral component of membrane
+XM_011427239	GO:0016021~integral component of membrane
+XM_011427387	GO:0016021~integral component of membrane
+XM_011427406	GO:0072487~MSL complex
+XM_011427436	GO:0016021~integral component of membrane
+XM_011427731	GO:0016021~integral component of membrane
+XM_011428309	GO:0016021~integral component of membrane
+XM_011428462	GO:0030027~lamellipodium
+XM_011428464	GO:0030027~lamellipodium
+XM_011428461	GO:0030027~lamellipodium
+XM_011428509	GO:0016021~integral component of membrane
+XM_011428636	GO:0016021~integral component of membrane
+XM_011428701	GO:0005622~intracellular
+XM_011428946	GO:0016021~integral component of membrane
+XM_011429457	GO:0016021~integral component of membrane
+XM_011429495	GO:0005829~cytosol
+XM_011429866	GO:0016021~integral component of membrane
+XM_011429919	GO:0016021~integral component of membrane
+XM_011429980	GO:0005634~nucleus
+XM_011429972	GO:0005634~nucleus
+XM_011430533	GO:0005730~nucleolus
+XM_011431121	GO:0005622~intracellular
+NM_001305350	GO:0016021~integral component of membrane
+XM_011430351	GO:0005779~integral component of peroxisomal membrane
+XM_011430684	GO:0016021~integral component of membrane
+XM_011430809	GO:0016021~integral component of membrane
+XM_011430894	GO:0016021~integral component of membrane
+XM_011431047	GO:0016021~integral component of membrane
+XM_011431057	GO:0005741~mitochondrial outer membrane
+XM_011431111	GO:0016021~integral component of membrane
+XM_011431193	GO:0016021~integral component of membrane
+XM_011431289	GO:0005891~voltage-gated calcium channel complex
+XM_011431691	GO:0005737~cytoplasm
+XM_011431783	GO:0005887~integral component of plasma membrane
+XM_011431299	GO:0016021~integral component of membrane
+XM_011431468	GO:0016021~integral component of membrane
+XM_011431490	GO:0016021~integral component of membrane
+XM_011431617	GO:0016021~integral component of membrane
+XM_011431879	GO:0016021~integral component of membrane
+XM_011432058	GO:0005622~intracellular
+XM_011432057	GO:0005622~intracellular
+AM904567	GO:0005886~plasma membrane
+XM_011432060	GO:0005886~plasma membrane
+XM_011432234	GO:0005634~nucleus
+XM_011432232	GO:0005634~nucleus
+XM_011432338	GO:0016021~integral component of membrane
+XM_011432511	GO:0000123~histone acetyltransferase complex
+XM_011433184	GO:0030054~cell junction
+XM_011433339	GO:0005622~intracellular
+XM_011434667	GO:0033290~eukaryotic 48S preinitiation complex
+XR_900770	GO:0005576~extracellular region
+XM_011435081	GO:0016021~integral component of membrane
+XM_011435094	GO:0005622~intracellular
+KJ531894	GO:0005576~extracellular region
+XM_011432663	GO:0016021~integral component of membrane
+XM_011432662	GO:0016021~integral component of membrane
+XM_011432709	GO:0016021~integral component of membrane
+XM_011433164	GO:0016021~integral component of membrane
+XM_011433167	GO:0016021~integral component of membrane
+XM_011433575	GO:0000178~exosome (RNase complex)
+XM_011433817	GO:0016021~integral component of membrane
+XM_011433824	GO:0016021~integral component of membrane
+XM_011434251	GO:0016021~integral component of membrane
+XM_011434528	GO:0016021~integral component of membrane
+XM_011434583	GO:0016593~Cdc73/Paf1 complex
+XM_011434650	GO:0005622~intracellular
+XM_011434869	GO:0005634~nucleus
+XM_011434878	GO:0016021~integral component of membrane
+XM_011434952	GO:0005741~mitochondrial outer membrane
+XM_011435086	GO:0005886~plasma membrane
+XM_011435167	GO:0005760~gamma DNA polymerase complex
+XM_011435211	GO:0016021~integral component of membrane
+XM_011436089	GO:0005634~nucleus
+XM_011436292	GO:0005622~intracellular
+XM_011436937	GO:0005622~intracellular
+XM_011437272	GO:0005622~intracellular
+XM_011437614	GO:0005622~intracellular
+XM_011438293	GO:0016021~integral component of membrane
+XM_011438433	GO:0005634~nucleus
+XM_011435250	GO:0016021~integral component of membrane
+XM_011435481	GO:0016021~integral component of membrane
+XM_011435582	GO:0005887~integral component of plasma membrane
+XM_011435655	GO:0016021~integral component of membrane
+XM_011435669	GO:0016021~integral component of membrane
+XM_011435671	GO:0016021~integral component of membrane
+XM_011435742	GO:0005622~intracellular
+XM_011435932	GO:0005622~intracellular
+XM_011435970	GO:0016021~integral component of membrane
+XM_011436009	GO:0005759~mitochondrial matrix
+XM_011436197	GO:0005634~nucleus
+XM_011436284	GO:0005634~nucleus
+XM_011436283	GO:0005634~nucleus
+XM_011436414	GO:0019013~viral nucleocapsid
+XM_011436417	GO:0030529~intracellular ribonucleoprotein complex
+XR_900959	GO:0030529~intracellular ribonucleoprotein complex
+XM_011436524	GO:0030991~intraciliary transport particle A
+XM_011436683	GO:0016021~integral component of membrane
+XM_011436702	GO:0016021~integral component of membrane
+XM_011436698	GO:0000502~proteasome complex
+XM_011437066	GO:0016021~integral component of membrane
+XM_011437101	GO:0005622~intracellular
+XM_011437162	GO:0016021~integral component of membrane
+XM_011437200	GO:0016021~integral component of membrane
+XM_011437288	GO:0016021~integral component of membrane
+XM_011437408	GO:0016021~integral component of membrane
+XM_011437644	GO:0005622~intracellular
+XM_011437717	GO:0005901~caveola
+XM_011437787	GO:0016021~integral component of membrane
+XM_011437866	GO:0016021~integral component of membrane
+XM_011438650	GO:0005886~plasma membrane
+XM_011438650	GO:0016021~integral component of membrane
+XM_011438663	GO:0005802~trans-Golgi network
+XM_011438663	GO:0005768~endosome
+XM_011440287	GO:0005576~extracellular region
+XM_011440294	GO:0005622~intracellular
+XM_011440427	GO:0005622~intracellular
+XM_011438692	GO:0016021~integral component of membrane
+XM_011439275	GO:0005634~nucleus
+XM_011439298	GO:0005622~intracellular
+XM_011439788	GO:0016021~integral component of membrane
+XM_011439785	GO:0016021~integral component of membrane
+XM_011440141	GO:0016021~integral component of membrane
+XM_011440281	GO:0005634~nucleus
+XM_011440472	GO:0016021~integral component of membrane
+XM_011440471	GO:0016021~integral component of membrane
+XM_011440949	GO:0005874~microtubule
+XM_011441889	GO:0005737~cytoplasm
+XM_011441922	GO:0016021~integral component of membrane
+XM_011441933	GO:0016020~membrane
+JN382542	GO:0016020~membrane
+XM_011442246	GO:0016021~integral component of membrane
+XM_011442461	GO:0016459~myosin complex
+XM_011442718	GO:0005622~intracellular
+XM_011442778	GO:0005622~intracellular
+XM_011442798	GO:0005576~extracellular region
+XM_011443221	GO:0005737~cytoplasm
+XM_011443506	GO:0005921~gap junction
+XM_011443552	GO:0005622~intracellular
+XM_011443736	GO:0005576~extracellular region
+XM_011443737	GO:0005576~extracellular region
+XM_011443817	GO:0005622~intracellular
+XM_011441617	GO:0005856~cytoskeleton
+XM_011441798	GO:0005622~intracellular
+XM_011441966	GO:0016021~integral component of membrane
+XM_011442069	GO:0005634~nucleus
+XM_011442073	GO:0016021~integral component of membrane
+XM_011442087	GO:0016021~integral component of membrane
+XM_011442248	GO:0016021~integral component of membrane
+XM_011442249	GO:0016021~integral component of membrane
+XM_011442755	GO:0016021~integral component of membrane
+XM_011442782	GO:0016021~integral component of membrane
+XM_011442777	GO:0016021~integral component of membrane
+XM_011442777	GO:0000139~Golgi membrane
+XM_011443033	GO:0016021~integral component of membrane
+XM_011443225	GO:0005634~nucleus
+XM_011443221	GO:0005634~nucleus
+XM_011443376	GO:0005737~cytoplasm
+XM_011443565	GO:0005634~nucleus
+XM_011443604	GO:0016021~integral component of membrane
+XM_011443604	GO:0005886~plasma membrane
+XR_901809	GO:0016021~integral component of membrane
+XM_011443656	GO:0016021~integral component of membrane
+XM_011443778	GO:0005794~Golgi apparatus
+XM_011443879	GO:0016021~integral component of membrane
+XM_011443917	GO:0030123~AP-3 adaptor complex
+XM_011444022	GO:0005737~cytoplasm
+XM_011444144	GO:0005789~endoplasmic reticulum membrane
+XM_011444152	GO:0016592~mediator complex
+XM_011444226	GO:0016021~integral component of membrane
+XM_011444440	GO:0005634~nucleus
+XM_011444457	GO:0005634~nucleus
+XM_011444581	GO:0016021~integral component of membrane
+XM_011444602	GO:0016021~integral component of membrane
+XM_011444611	GO:0016021~integral component of membrane
+XM_011444787	GO:0031514~motile cilium
+XM_011444815	GO:0016021~integral component of membrane
+EU678311	GO:0005578~proteinaceous extracellular matrix
+XM_011445100	GO:0016021~integral component of membrane
+XM_011445096	GO:0016021~integral component of membrane
+XM_011445093	GO:0016021~integral component of membrane
+FJ669289	GO:0005856~cytoskeleton
+FJ669290	GO:0005856~cytoskeleton
+XR_902306	GO:0005737~cytoplasm
+XM_011447554	GO:0005737~cytoplasm
+XM_011447762	GO:0005740~mitochondrial envelope
+XM_011447837	GO:0019773~proteasome core complex, alpha-subunit complex
+NM_001305369	GO:0005840~ribosome
+XM_011448036	GO:0005794~Golgi apparatus
+XM_011448504	GO:0016020~membrane
+XM_011445128	GO:0016021~integral component of membrane
+XM_011445163	GO:0005622~intracellular
+XM_011445270	GO:0005882~intermediate filament
+XM_011445511	GO:0005777~peroxisome
+XM_011445536	GO:0005887~integral component of plasma membrane
+XM_011445661	GO:0016021~integral component of membrane
+NM_001305308	GO:0016021~integral component of membrane
+XM_011445887	GO:0005743~mitochondrial inner membrane
+XM_011445933	GO:0016021~integral component of membrane
+XM_011445941	GO:0016021~integral component of membrane
+XM_011446012	GO:0016020~membrane
+XM_011446017	GO:0000786~nucleosome
+XM_011446079	GO:0016021~integral component of membrane
+XM_011446309	GO:0016021~integral component of membrane
+XM_011446360	GO:0032580~Golgi cisterna membrane
+XM_011446421	GO:0016021~integral component of membrane
+FJ669294	GO:0005737~cytoplasm
+XM_011446828	GO:0016021~integral component of membrane
+XM_011447071	GO:0016021~integral component of membrane
+XM_011447444	GO:0016021~integral component of membrane
+XM_011447523	GO:0016021~integral component of membrane
+XR_902306	GO:0005634~nucleus
+XM_011447935	GO:0005622~intracellular
+XM_011447937	GO:0005622~intracellular
+XM_011447990	GO:0005737~cytoplasm
+FJ347739	GO:0005737~cytoplasm
+XM_011449319	GO:0005622~intracellular
+XM_011448804	GO:0016021~integral component of membrane
+XM_011448811	GO:0016020~membrane
+XM_011448847	GO:0016021~integral component of membrane
+XM_011448853	GO:0016021~integral component of membrane
+XM_011448854	GO:0016021~integral component of membrane
+NM_001308845	GO:0005576~extracellular region
+XM_011449161	GO:0005634~nucleus
+XM_011449325	GO:0005666~DNA-directed RNA polymerase III complex
+XM_011449375	GO:0016021~integral component of membrane
+XM_011449426	GO:0030130~clathrin coat of trans-Golgi network vesicle
+XM_011449426	GO:0030132~clathrin coat of coated pit
+XM_011449690	GO:0016021~integral component of membrane
+XM_011449762	GO:0016021~integral component of membrane
+XM_011449890	GO:0005634~nucleus
+XM_011450245	GO:0005869~dynactin complex
+XM_011450929	GO:0005622~intracellular
+XM_011451756	GO:0005739~mitochondrion
+XM_011451773	GO:0005737~cytoplasm
+XM_011451891	GO:0016020~membrane
+XM_011452035	GO:0045211~postsynaptic membrane
+XM_011452106	GO:0005622~intracellular
+XM_011452920	GO:0005622~intracellular
+XM_011449986	GO:0016021~integral component of membrane
+XM_011450373	GO:0016021~integral component of membrane
+XM_011450367	GO:0016021~integral component of membrane
+XM_011450371	GO:0016021~integral component of membrane
+XM_011450580	GO:0005576~extracellular region
+XM_011450598	GO:0015629~actin cytoskeleton
+XM_011450928	GO:0005743~mitochondrial inner membrane
+XM_011451037	GO:0005615~extracellular space
+XM_011451247	GO:0016021~integral component of membrane
+XM_011451299	GO:0016021~integral component of membrane
+XM_011451591	GO:0005737~cytoplasm
+XM_011451660	GO:0016021~integral component of membrane
+XM_011451718	GO:0016021~integral component of membrane
+XM_011451825	GO:0005694~chromosome
+XM_011451858	GO:0016021~integral component of membrane
+XM_011452024	GO:0016021~integral component of membrane
+XM_011452046	GO:0016021~integral component of membrane
+NM_001305300	GO:0031012~extracellular matrix
+XM_011452115	GO:0000786~nucleosome
+XM_011452207	GO:0005789~endoplasmic reticulum membrane
+XM_011452365	GO:0016021~integral component of membrane
+XM_011452702	GO:0016021~integral component of membrane
+XM_011452704	GO:0016021~integral component of membrane
+XM_011452733	GO:0016021~integral component of membrane
+HM992925	GO:0005615~extracellular space
+XM_011453082	GO:0016021~integral component of membrane
+XM_011453245	GO:0016021~integral component of membrane
+XM_011453198	GO:0005634~nucleus
+XM_011453238	GO:0016021~integral component of membrane
+XM_011453354	GO:0016021~integral component of membrane
+XM_011453389	GO:0031390~Ctf18 RFC-like complex
+XM_011453427	GO:0019013~viral nucleocapsid
+XM_011453428	GO:0016021~integral component of membrane
+XM_011453435	GO:0005622~intracellular
+XM_011453611	GO:0019013~viral nucleocapsid
+XR_903115	GO:0016021~integral component of membrane
+XM_011454119	GO:0016021~integral component of membrane
+NM_001305290	GO:0070469~respiratory chain
+NM_001305290	GO:0005743~mitochondrial inner membrane
+XM_011454142	GO:0016021~integral component of membrane
+XM_011454232	GO:0016021~integral component of membrane
+XM_011454941	GO:0097361~CIA complex
+AJ560757	GO:0005667~transcription factor complex
+XM_011455439	GO:0005840~ribosome
+XM_011456253	GO:0016021~integral component of membrane
+XM_011456255	GO:0016021~integral component of membrane
+XR_903396	GO:0005622~intracellular
+XM_011454427	GO:0016021~integral component of membrane
+XM_011454576	GO:0016021~integral component of membrane
+XM_011454618	GO:0016021~integral component of membrane
+XM_011454889	GO:0005783~endoplasmic reticulum
+XM_011454937	GO:0005622~intracellular
+XM_011455277	GO:0016021~integral component of membrane
+XM_011455531	GO:0005739~mitochondrion
+XM_011455670	GO:0005779~integral component of peroxisomal membrane
+XM_011455769	GO:0005874~microtubule
+XM_011455781	GO:0005578~proteinaceous extracellular matrix
+XM_011455844	GO:0016021~integral component of membrane
+XM_011455916	GO:0005737~cytoplasm
+XM_011455981	GO:0005681~spliceosomal complex
+XM_011456014	GO:0005886~plasma membrane
+XM_011456017	GO:0005886~plasma membrane
+XM_011456295	GO:0016021~integral component of membrane
+XM_011456378	GO:0005634~nucleus
+XM_011456597	GO:0016021~integral component of membrane
+XM_011456774	GO:0005634~nucleus
+XM_011457155	GO:0016021~integral component of membrane
+XM_011457162	GO:0016021~integral component of membrane
+XM_011457168	GO:0016021~integral component of membrane
+XM_011457233	GO:0016021~integral component of membrane
+NM_001305302	GO:0016021~integral component of membrane
+XM_011457868	GO:0005634~nucleus
+XM_011457942	GO:0016021~integral component of membrane
+XM_011458106	GO:0016021~integral component of membrane
+XM_011458086	GO:0016021~integral component of membrane
+XM_011458085	GO:0016021~integral component of membrane
+XM_011458607	GO:0005622~intracellular
+XM_011458831	GO:0005622~intracellular
+XM_011458342	GO:0016021~integral component of membrane
+XM_011458458	GO:0016021~integral component of membrane
+XM_011458572	GO:0019013~viral nucleocapsid
+XM_011458681	GO:0005634~nucleus
+XM_011458861	GO:0016021~integral component of membrane
+XM_011458890	GO:0005622~intracellular

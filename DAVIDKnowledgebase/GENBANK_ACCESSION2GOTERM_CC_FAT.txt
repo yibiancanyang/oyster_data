@@ -1,0 +1,3468 @@
+XM_011413955	GO:0033588~Elongator holoenzyme complex
+XM_011414138	GO:0015630~microtubule cytoskeleton
+XM_011414070	GO:0015629~actin cytoskeleton
+XM_011414346	GO:0005744~mitochondrial inner membrane presequence translocase complex
+XM_011414688	GO:0015629~actin cytoskeleton
+XM_011415104	GO:0005783~endoplasmic reticulum
+XM_011415105	GO:0005789~endoplasmic reticulum membrane
+XM_011415109	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011415311	GO:0031226~intrinsic component of plasma membrane
+XM_011415311	GO:0034702~ion channel complex
+XM_011415311	GO:0034703~cation channel complex
+XM_011415316	GO:0034702~ion channel complex
+XM_011415315	GO:1990351~transporter complex
+XM_011415315	GO:0005887~integral component of plasma membrane
+XM_011415317	GO:0031226~intrinsic component of plasma membrane
+XM_011415317	GO:0034703~cation channel complex
+XM_011415310	GO:1990351~transporter complex
+XM_011415310	GO:0034702~ion channel complex
+XM_011415312	GO:0005887~integral component of plasma membrane
+XM_011415314	GO:1990351~transporter complex
+XM_011415395	GO:0033180~proton-transporting V-type ATPase, V1 domain
+XM_011415395	GO:0005774~vacuolar membrane
+XM_011415397	GO:0005774~vacuolar membrane
+XM_011415394	GO:0033178~proton-transporting two-sector ATPase complex, catalytic domain
+XM_011415394	GO:0005774~vacuolar membrane
+XM_011418340	GO:0032993~protein-DNA complex
+XM_011415467	GO:0019013~viral nucleocapsid
+XM_011415467	GO:0030529~intracellular ribonucleoprotein complex
+XM_011417652	GO:0016514~SWI/SNF complex
+XM_011416540	GO:0031314~extrinsic component of mitochondrial inner membrane
+XM_011415906	GO:0005874~microtubule
+XM_011415868	GO:0044427~chromosomal part
+XM_011415907	GO:0000793~condensed chromosome
+XM_011415906	GO:0000940~condensed chromosome outer kinetochore
+XM_011415907	GO:0015630~microtubule cytoskeleton
+XM_011415906	GO:0000775~chromosome, centromeric region
+XM_011415928	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011416268	GO:0005740~mitochondrial envelope
+XM_011416389	GO:0005840~ribosome
+XM_011416540	GO:0031967~organelle envelope
+XM_011416560	GO:1990904~ribonucleoprotein complex
+XM_011416582	GO:0000502~proteasome complex
+XM_011416582	GO:0005839~proteasome core complex
+XM_011416852	GO:0034708~methyltransferase complex
+XM_011416888	GO:0008076~voltage-gated potassium channel complex
+XM_011417114	GO:0000502~proteasome complex
+XM_011417652	GO:0090544~BAF-type complex
+XM_011417499	GO:0090544~BAF-type complex
+XM_011417188	GO:0090544~BAF-type complex
+XM_011417217	GO:1990904~ribonucleoprotein complex
+NM_001308866	GO:0005576~extracellular region
+XM_011417422	GO:0005576~extracellular region
+XM_011417875	GO:0005654~nucleoplasm
+XM_011417884	GO:0005786~signal recognition particle, endoplasmic reticulum targeting
+XM_011418355	GO:0044427~chromosomal part
+XM_011418358	GO:0000786~nucleosome
+XM_011418358	GO:0044427~chromosomal part
+XM_011418358	GO:0005694~chromosome
+XM_011418340	GO:0000786~nucleosome
+XM_011418341	GO:0000785~chromatin
+XM_011418343	GO:0000785~chromatin
+XM_011418343	GO:0044815~DNA packaging complex
+XM_011418345	GO:0032993~protein-DNA complex
+XM_011418349	GO:0005694~chromosome
+XM_011418359	GO:0044815~DNA packaging complex
+XM_011418350	GO:0032993~protein-DNA complex
+XM_011418351	GO:0044815~DNA packaging complex
+XM_011418352	GO:0000785~chromatin
+XM_011418355	GO:0032993~protein-DNA complex
+XM_011418359	GO:0032993~protein-DNA complex
+XM_011418361	GO:0032993~protein-DNA complex
+XM_011418499	GO:0005654~nucleoplasm
+XM_011419364	GO:0031226~intrinsic component of plasma membrane
+XM_011419576	GO:0005840~ribosome
+XM_011420293	GO:0034705~potassium channel complex
+XM_011422049	GO:0031966~mitochondrial membrane
+XM_011418499	GO:0016592~mediator complex
+XM_011418517	GO:0005740~mitochondrial envelope
+XM_011418777	GO:0099512~supramolecular fiber
+XM_011418776	GO:0099513~polymeric cytoskeletal fiber
+XM_011419836	GO:0033202~DNA helicase complex
+XM_011419378	GO:0005783~endoplasmic reticulum
+XM_011419504	GO:0005921~gap junction
+AJ563476	GO:0030529~intracellular ribonucleoprotein complex
+XM_011419576	GO:0030529~intracellular ribonucleoprotein complex
+XM_011419625	GO:0019012~virion
+XM_011419836	GO:0031011~Ino80 complex
+XM_011419836	GO:0000785~chromatin
+XM_011420293	GO:1990351~transporter complex
+XM_011420341	GO:0044440~endosomal part
+XM_011420347	GO:0005887~integral component of plasma membrane
+XM_011420781	GO:0005576~extracellular region
+XM_011421257	GO:0005921~gap junction
+XM_011421258	GO:0030054~cell junction
+XM_011421259	GO:0030054~cell junction
+XM_011421265	GO:0005921~gap junction
+XM_011421260	GO:0030054~cell junction
+XM_011421265	GO:0005911~cell-cell junction
+NM_001308852	GO:0005576~extracellular region
+EF190193	GO:0005576~extracellular region
+XM_011421758	GO:0000786~nucleosome
+XM_011421780	GO:0000151~ubiquitin ligase complex
+XM_011421791	GO:0005576~extracellular region
+XM_011421870	GO:0005681~spliceosomal complex
+XM_011421869	GO:1990904~ribonucleoprotein complex
+XM_011421880	GO:0005576~extracellular region
+XM_011422219	GO:0031226~intrinsic component of plasma membrane
+XM_011422227	GO:0048475~coated membrane
+XM_011422227	GO:0030659~cytoplasmic vesicle membrane
+XM_011422227	GO:0012506~vesicle membrane
+XM_011422227	GO:0030120~vesicle coat
+XM_011422611	GO:1990904~ribonucleoprotein complex
+XM_011422620	GO:1904949~ATPase complex
+XM_011423523	GO:1903293~phosphatase complex
+XM_011423657	GO:0035267~NuA4 histone acetyltransferase complex
+XM_011424138	GO:1990904~ribonucleoprotein complex
+XM_011424595	GO:0031975~envelope
+XM_011424720	GO:0019898~extrinsic component of membrane
+XM_011425150	GO:0044431~Golgi apparatus part
+XM_011425246	GO:0031968~organelle outer membrane
+XM_011425247	GO:0005741~mitochondrial outer membrane
+XM_011425247	GO:0031968~organelle outer membrane
+XM_011425244	GO:0031975~envelope
+XM_011422503	GO:0044815~DNA packaging complex
+XM_011422990	GO:0044815~DNA packaging complex
+XM_011422670	GO:1990904~ribonucleoprotein complex
+XM_011422670	GO:0005840~ribosome
+AY659986	GO:0005576~extracellular region
+XM_011422747	GO:0005576~extracellular region
+AJ563455	GO:0030529~intracellular ribonucleoprotein complex
+AJ563455	GO:0044445~cytosolic part
+AJ563455	GO:0005829~cytosol
+XM_011424157	GO:0044432~endoplasmic reticulum part
+XM_011424595	GO:0098798~mitochondrial protein complex
+XM_011424989	GO:0031985~Golgi cisterna
+XM_011425146	GO:0098589~membrane region
+XM_011425146	GO:0098590~plasma membrane region
+XM_011425147	GO:0000139~Golgi membrane
+XM_011425147	GO:0098590~plasma membrane region
+XM_011425149	GO:0098589~membrane region
+XM_011425149	GO:0005794~Golgi apparatus
+XM_011425152	GO:0044853~plasma membrane raft
+XM_011425152	GO:0005794~Golgi apparatus
+XM_011425153	GO:0005794~Golgi apparatus
+XM_011425153	GO:0044431~Golgi apparatus part
+XM_011425247	GO:0044429~mitochondrial part
+XM_011425247	GO:0005739~mitochondrion
+XM_011425245	GO:0005739~mitochondrion
+XM_011425245	GO:0031966~mitochondrial membrane
+AM286405	GO:0016459~myosin complex
+XM_011425625	GO:0034702~ion channel complex
+XM_011425625	GO:1990351~transporter complex
+XM_011425618	GO:0034703~cation channel complex
+XM_011425612	GO:0031226~intrinsic component of plasma membrane
+XM_011426940	GO:0031975~envelope
+XM_011427740	GO:0005911~cell-cell junction
+XM_011427934	GO:0000786~nucleosome
+XM_011428455	GO:0031252~cell leading edge
+XM_011428456	GO:0031252~cell leading edge
+XM_011426300	GO:0005581~collagen trimer
+XM_011426787	GO:0005732~small nucleolar ribonucleoprotein complex
+XM_011426857	GO:0043189~H4/H2A histone acetyltransferase complex
+XM_011427418	GO:0005654~nucleoplasm
+XM_011427679	GO:0005840~ribosome
+XM_011428222	GO:1990904~ribonucleoprotein complex
+XM_011429591	GO:0030130~clathrin coat of trans-Golgi network vesicle
+XM_011429592	GO:0030125~clathrin vesicle coat
+XM_011429592	GO:0098589~membrane region
+XM_011429725	GO:0030286~dynein complex
+XM_011430237	GO:0022624~proteasome accessory complex
+XM_011430246	GO:0005852~eukaryotic translation initiation factor 3 complex
+XM_011430288	GO:1990351~transporter complex
+XM_011430960	GO:0005874~microtubule
+NM_001305373	GO:0099512~supramolecular fiber
+AB196533	GO:0099512~supramolecular fiber
+XM_011431114	GO:0044433~cytoplasmic vesicle part
+XM_011431117	GO:0030117~membrane coat
+XM_011431117	GO:0012507~ER to Golgi transport vesicle membrane
+XM_011431115	GO:0030133~transport vesicle
+XM_011431286	GO:0034702~ion channel complex
+XM_011431286	GO:0034703~cation channel complex
+XM_011431286	GO:1990351~transporter complex
+XM_011431290	GO:0034703~cation channel complex
+XM_011431296	GO:0034704~calcium channel complex
+XM_011431288	GO:0034704~calcium channel complex
+XM_011431294	GO:1990351~transporter complex
+XM_011431779	GO:0031226~intrinsic component of plasma membrane
+XM_011432077	GO:1902911~protein kinase complex
+XM_011429351	GO:0099513~polymeric cytoskeletal fiber
+XM_011429591	GO:0012506~vesicle membrane
+XM_011429592	GO:0030132~clathrin coat of coated pit
+XM_011429592	GO:0030140~trans-Golgi network transport vesicle
+XM_011429592	GO:0030133~transport vesicle
+XM_011429592	GO:0031988~membrane-bounded vesicle
+XM_011429592	GO:0005798~Golgi-associated vesicle
+XM_011429591	GO:0005905~clathrin-coated pit
+XM_011429592	GO:0005905~clathrin-coated pit
+XM_011431114	GO:0030662~coated vesicle membrane
+XM_011431117	GO:0030662~coated vesicle membrane
+XM_011429909	GO:0005581~collagen trimer
+XM_011430130	GO:0044451~nucleoplasm part
+XM_011430246	GO:0070993~translation preinitiation complex
+XM_011430246	GO:0033290~eukaryotic 48S preinitiation complex
+XM_011430791	GO:0098798~mitochondrial protein complex
+XM_011430791	GO:0005739~mitochondrion
+XM_011431026	GO:0030880~RNA polymerase complex
+XM_011431026	GO:0000428~DNA-directed RNA polymerase complex
+XM_011431026	GO:0044451~nucleoplasm part
+XM_011431057	GO:0031966~mitochondrial membrane
+XM_011431116	GO:0031988~membrane-bounded vesicle
+XM_011431115	GO:0030120~vesicle coat
+XM_011431116	GO:0030127~COPII vesicle coat
+XM_011431781	GO:0005887~integral component of plasma membrane
+XM_011431779	GO:0005887~integral component of plasma membrane
+XM_011432183	GO:0030286~dynein complex
+XM_011432183	GO:0005875~microtubule associated complex
+XM_011432184	GO:0030286~dynein complex
+XM_011432184	GO:0015630~microtubule cytoskeleton
+XM_011432183	GO:0015630~microtubule cytoskeleton
+XM_011432182	GO:0015630~microtubule cytoskeleton
+XM_011432185	GO:0030286~dynein complex
+XM_011432509	GO:0005654~nucleoplasm
+XM_011432511	GO:1902493~acetyltransferase complex
+XM_011433512	GO:0005794~Golgi apparatus
+XM_011433930	GO:0044815~DNA packaging complex
+XM_011434209	GO:0031967~organelle envelope
+XM_011434209	GO:0098803~respiratory chain complex
+XM_011434433	GO:0005730~nucleolus
+XM_011434436	GO:0005576~extracellular region
+XM_011434583	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011434952	GO:0005739~mitochondrion
+XM_011434952	GO:0031968~organelle outer membrane
+XM_011432509	GO:0044451~nucleoplasm part
+XM_011432511	GO:0044451~nucleoplasm part
+NM_001305307	GO:0005885~Arp2/3 protein complex
+XM_011433044	GO:0030118~clathrin coat
+XM_011433044	GO:0030117~membrane coat
+XM_011433512	GO:0044431~Golgi apparatus part
+XM_011433698	GO:0000152~nuclear ubiquitin ligase complex
+XM_011433811	GO:0044427~chromosomal part
+NM_001305363	GO:0099513~polymeric cytoskeletal fiber
+XM_011434209	GO:0045271~respiratory chain complex I
+XM_011434355	GO:0000152~nuclear ubiquitin ligase complex
+XM_011435167	GO:0005759~mitochondrial matrix
+XM_011435167	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011435212	GO:0031012~extracellular matrix
+XM_011435212	GO:0005604~basement membrane
+XM_011435211	GO:0005578~proteinaceous extracellular matrix
+XM_011435211	GO:0005604~basement membrane
+XM_011435232	GO:0044423~virion part
+XM_011435456	GO:0031975~envelope
+XM_011436417	GO:1990904~ribonucleoprotein complex
+XR_900959	GO:0019013~viral nucleocapsid
+XM_011436435	GO:0005759~mitochondrial matrix
+XM_011436470	GO:0098533~ATPase dependent transmembrane transport complex
+XM_011437627	GO:0019028~viral capsid
+XM_011437719	GO:0005901~caveola
+XM_011435232	GO:1990904~ribonucleoprotein complex
+XM_011435260	GO:0031234~extrinsic component of cytoplasmic side of plasma membrane
+XM_011435455	GO:0031967~organelle envelope
+XM_011436119	GO:0044421~extracellular region part
+XM_011436414	GO:0019012~virion
+XM_011436470	GO:0031226~intrinsic component of plasma membrane
+XM_011437653	GO:0005783~endoplasmic reticulum
+XM_011437718	GO:0005901~caveola
+XM_011437719	GO:0098590~plasma membrane region
+XM_011437719	GO:0000139~Golgi membrane
+XM_011437984	GO:0016592~mediator complex
+XM_011438169	GO:0031226~intrinsic component of plasma membrane
+XM_011438169	GO:1902495~transmembrane transporter complex
+XM_011438169	GO:0008076~voltage-gated potassium channel complex
+NM_001305334	GO:0000323~lytic vacuole
+XM_011438220	GO:1990904~ribonucleoprotein complex
+XM_011438260	GO:0005643~nuclear pore
+XM_011438260	GO:0031975~envelope
+XM_011438662	GO:0031988~membrane-bounded vesicle
+XM_011438663	GO:0098791~Golgi subcompartment
+XM_011438661	GO:0098791~Golgi subcompartment
+XM_011438753	GO:0005740~mitochondrial envelope
+XM_011439438	GO:0016591~DNA-directed RNA polymerase II, holoenzyme
+XM_011439438	GO:0005667~transcription factor complex
+XM_011439869	GO:1990904~ribonucleoprotein complex
+XM_011441088	GO:0044427~chromosomal part
+XM_011441351	GO:0030054~cell junction
+XM_011441351	GO:0005921~gap junction
+AB262086	GO:0005783~endoplasmic reticulum
+XM_011438753	GO:0031966~mitochondrial membrane
+XM_011439114	GO:0005576~extracellular region
+XM_011439437	GO:0090575~RNA polymerase II transcription factor complex
+XM_011439915	GO:0034703~cation channel complex
+XM_011440116	GO:0030118~clathrin coat
+XM_011440114	GO:0005802~trans-Golgi network
+XM_011440114	GO:0030131~clathrin adaptor complex
+XM_011440486	GO:0044432~endoplasmic reticulum part
+XM_011440543	GO:0030133~transport vesicle
+XM_011440949	GO:0099513~polymeric cytoskeletal fiber
+XM_011443066	GO:0030529~intracellular ribonucleoprotein complex
+XM_011443430	GO:0016591~DNA-directed RNA polymerase II, holoenzyme
+XM_011443505	GO:0005911~cell-cell junction
+XM_011443511	GO:0005911~cell-cell junction
+XM_011443507	GO:0005911~cell-cell junction
+XM_011443512	GO:0005911~cell-cell junction
+XM_011443513	GO:0030054~cell junction
+XM_011443536	GO:0005694~chromosome
+XM_011443538	GO:0005694~chromosome
+XM_011443538	GO:0044815~DNA packaging complex
+XM_011442944	GO:0005667~transcription factor complex
+XM_011443520	GO:0000502~proteasome complex
+XM_011443536	GO:0000786~nucleosome
+XM_011443879	GO:0031967~organelle envelope
+XM_011443879	GO:0005740~mitochondrial envelope
+XM_011443917	GO:0030119~AP-type membrane coat adaptor complex
+XM_011444609	GO:0031967~organelle envelope
+XM_011444842	GO:0005576~extracellular region
+XM_011445281	GO:0098791~Golgi subcompartment
+XM_011445341	GO:0098857~membrane microdomain
+XM_011445448	GO:0005887~integral component of plasma membrane
+XM_011445879	GO:0044441~ciliary part
+XM_011446017	GO:0000785~chromatin
+XM_011446360	GO:0005795~Golgi stack
+XM_011446360	GO:0000139~Golgi membrane
+XM_011446710	GO:0044391~ribosomal subunit
+XM_011443719	GO:0005667~transcription factor complex
+XM_011444019	GO:0005654~nucleoplasm
+XM_011444841	GO:0005578~proteinaceous extracellular matrix
+XM_011444144	GO:0005783~endoplasmic reticulum
+XM_011444151	GO:0016592~mediator complex
+XM_011444151	GO:0044451~nucleoplasm part
+XM_011444294	GO:0030529~intracellular ribonucleoprotein complex
+XM_011444431	GO:0005840~ribosome
+XM_011444431	GO:1990904~ribonucleoprotein complex
+AB262088	GO:0005740~mitochondrial envelope
+XM_011444791	GO:0031514~motile cilium
+EU678311	GO:0031012~extracellular matrix
+XM_011445281	GO:0031988~membrane-bounded vesicle
+XM_011445448	GO:0031226~intrinsic component of plasma membrane
+XM_011445538	GO:0031226~intrinsic component of plasma membrane
+XM_011445533	GO:0031226~intrinsic component of plasma membrane
+XM_011445538	GO:0005887~integral component of plasma membrane
+XM_011446360	GO:0005794~Golgi apparatus
+XM_011447306	GO:0000502~proteasome complex
+XM_011447947	GO:0044798~nuclear transcription factor complex
+XM_011447943	GO:0005667~transcription factor complex
+EU152950	GO:1990904~ribonucleoprotein complex
+XM_011447763	GO:0005739~mitochondrion
+XM_011447762	GO:0044429~mitochondrial part
+XM_011447780	GO:0005777~peroxisome
+XM_011447780	GO:0042579~microbody
+AJ561117	GO:1990904~ribonucleoprotein complex
+XM_011448076	GO:0005929~cilium
+XM_011448449	GO:0098798~mitochondrial protein complex
+XM_011448801	GO:0000439~core TFIIH complex
+XM_011449054	GO:0098803~respiratory chain complex
+XM_011449426	GO:0012510~trans-Golgi network transport vesicle membrane
+XM_011449426	GO:0005905~clathrin-coated pit
+XM_011449425	GO:0030133~transport vesicle
+XM_011449425	GO:0030140~trans-Golgi network transport vesicle
+XM_011449425	GO:0030132~clathrin coat of coated pit
+XM_011449482	GO:0005783~endoplasmic reticulum
+XM_011449604	GO:1990904~ribonucleoprotein complex
+XM_011450548	GO:0099513~polymeric cytoskeletal fiber
+XM_011450792	GO:0030529~intracellular ribonucleoprotein complex
+XM_011450928	GO:0005739~mitochondrion
+XM_011448076	GO:0034464~BBSome
+XM_011449054	GO:0005746~mitochondrial respiratory chain
+XM_011449054	GO:0005740~mitochondrial envelope
+XM_011449426	GO:0030120~vesicle coat
+XM_011449426	GO:0030658~transport vesicle membrane
+XM_011449511	GO:0005885~Arp2/3 protein complex
+XM_011449582	GO:0033557~Slx1-Slx4 complex
+AJ563459	GO:0005840~ribosome
+XM_011449604	GO:0030529~intracellular ribonucleoprotein complex
+XM_011450240	GO:0015630~microtubule cytoskeleton
+XM_011451086	GO:0005643~nuclear pore
+XM_011451755	GO:0099513~polymeric cytoskeletal fiber
+XM_011451755	GO:0015630~microtubule cytoskeleton
+XM_011451756	GO:1990904~ribonucleoprotein complex
+XM_011452031	GO:0045202~synapse
+XM_011452031	GO:0045211~postsynaptic membrane
+XM_011452036	GO:0098794~postsynapse
+XM_011452036	GO:0097060~synaptic membrane
+XM_011452115	GO:0005694~chromosome
+XM_011452286	GO:0005783~endoplasmic reticulum
+XM_011452747	GO:0005576~extracellular region
+HM992925	GO:0005576~extracellular region
+XM_011452857	GO:0005789~endoplasmic reticulum membrane
+XM_011453612	GO:0019028~viral capsid
+XM_011453611	GO:0019028~viral capsid
+XM_011453865	GO:0030529~intracellular ribonucleoprotein complex
+XM_011453946	GO:0016471~vacuolar proton-transporting V-type ATPase complex
+XM_011454123	GO:0070469~respiratory chain
+FJ872817	GO:0019866~organelle inner membrane
+XM_011454629	GO:0044423~virion part
+XM_011451302	GO:0030286~dynein complex
+XM_011451302	GO:0005875~microtubule associated complex
+XM_011451755	GO:0005874~microtubule
+XM_011451859	GO:0030136~clathrin-coated vesicle
+XM_011452006	GO:0005576~extracellular region
+XM_011452029	GO:0098794~postsynapse
+XM_011452036	GO:0045211~postsynaptic membrane
+XM_011452035	GO:0098590~plasma membrane region
+XM_011452032	GO:0045202~synapse
+XM_011452035	GO:0045202~synapse
+XM_011452064	GO:0031012~extracellular matrix
+AB106142	GO:0031012~extracellular matrix
+XM_011452440	GO:0030529~intracellular ribonucleoprotein complex
+HM992925	GO:0044421~extracellular region part
+XM_011453223	GO:0044451~nucleoplasm part
+XM_011453221	GO:0000123~histone acetyltransferase complex
+XM_011453817	GO:0005739~mitochondrion
+XM_011453904	GO:0031514~motile cilium
+XM_011453946	GO:0033176~proton-transporting V-type ATPase complex
+XM_011454123	GO:0044429~mitochondrial part
+FJ872817	GO:0031967~organelle envelope
+NM_001305290	GO:0031967~organelle envelope
+XM_011454321	GO:0048500~signal recognition particle
+XM_011454629	GO:1990904~ribonucleoprotein complex
+XM_011454804	GO:0000502~proteasome complex
+XM_011455674	GO:0034703~cation channel complex
+XM_011456098	GO:0044427~chromosomal part
+XM_011456173	GO:0031012~extracellular matrix
+XM_011456384	GO:0099513~polymeric cytoskeletal fiber
+XM_011456571	GO:0016282~eukaryotic 43S preinitiation complex
+AB199895	GO:0005840~ribosome
+AJ563480	GO:0030529~intracellular ribonucleoprotein complex
+XM_011457818	GO:0005783~endoplasmic reticulum
+NM_001305314	GO:1990904~ribonucleoprotein complex
+XM_011457920	GO:0030054~cell junction
+XM_011457920	GO:0045211~postsynaptic membrane
+XM_011457920	GO:0097060~synaptic membrane
+XM_011458227	GO:0070603~SWI/SNF superfamily-type complex
+XM_011458560	GO:0031967~organelle envelope
+XM_011458601	GO:0034702~ion channel complex
+XM_011455674	GO:0031226~intrinsic component of plasma membrane
+XM_011456868	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011457552	GO:0005732~small nucleolar ribonucleoprotein complex
+XM_011457818	GO:0044432~endoplasmic reticulum part
+XM_011457830	GO:0015935~small ribosomal subunit
+XM_011458601	GO:1902495~transmembrane transporter complex
+XM_011435914	GO:0019008~molybdopterin synthase complex
+XM_011435914	GO:0005829~cytosol
+XM_011414117	GO:1902554~serine/threonine protein kinase complex
+XM_011414138	GO:0005869~dynactin complex
+XM_011414346	GO:0031975~envelope
+XM_011414346	GO:0044429~mitochondrial part
+XM_011414366	GO:0005794~Golgi apparatus
+XM_011414689	GO:0005885~Arp2/3 protein complex
+XM_011415016	GO:0005846~nuclear cap binding complex
+XM_011415105	GO:0044432~endoplasmic reticulum part
+XM_011415103	GO:0005783~endoplasmic reticulum
+XM_011415110	GO:0005789~endoplasmic reticulum membrane
+XM_011415111	GO:0005789~endoplasmic reticulum membrane
+XM_011415106	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011415309	GO:1902495~transmembrane transporter complex
+XM_011415316	GO:1902495~transmembrane transporter complex
+XM_011415311	GO:1990351~transporter complex
+XM_011415309	GO:0008076~voltage-gated potassium channel complex
+XM_011415309	GO:0034702~ion channel complex
+XM_011415315	GO:0034702~ion channel complex
+XM_011415317	GO:0005887~integral component of plasma membrane
+XM_011415310	GO:1902495~transmembrane transporter complex
+XM_011415312	GO:1990351~transporter complex
+XM_011415312	GO:0008076~voltage-gated potassium channel complex
+XM_011415314	GO:0005887~integral component of plasma membrane
+XM_011415314	GO:0008076~voltage-gated potassium channel complex
+XM_011415314	GO:0034705~potassium channel complex
+XM_011415319	GO:1902495~transmembrane transporter complex
+XM_011415319	GO:0008076~voltage-gated potassium channel complex
+XM_011415396	GO:0033180~proton-transporting V-type ATPase, V1 domain
+XM_011415396	GO:0005774~vacuolar membrane
+XM_011415394	GO:0044437~vacuolar part
+XM_011415394	GO:0033176~proton-transporting V-type ATPase complex
+XM_011415394	GO:0016471~vacuolar proton-transporting V-type ATPase complex
+XM_011416888	GO:1902495~transmembrane transporter complex
+XM_011416944	GO:0005777~peroxisome
+XM_011417499	GO:0016514~SWI/SNF complex
+XM_011417188	GO:0016514~SWI/SNF complex
+XM_011415510	GO:0031967~organelle envelope
+XM_011415868	GO:0030896~checkpoint clamp complex
+XM_011415906	GO:0005819~spindle
+XM_011415907	GO:0000777~condensed chromosome kinetochore
+XM_011415907	GO:0098687~chromosomal region
+XM_011415907	GO:0000776~kinetochore
+XM_011416540	GO:0044429~mitochondrial part
+XM_011416540	GO:0005743~mitochondrial inner membrane
+XM_011416888	GO:1990351~transporter complex
+XM_011417129	GO:0031967~organelle envelope
+XM_011417129	GO:0031970~organelle envelope lumen
+XM_011417264	GO:0090544~BAF-type complex
+XM_011417577	GO:0090544~BAF-type complex
+XM_011417480	GO:1990904~ribonucleoprotein complex
+XM_011417663	GO:0098791~Golgi subcompartment
+XM_011418339	GO:0044427~chromosomal part
+XM_011418341	GO:0000786~nucleosome
+XM_011418340	GO:0005694~chromosome
+XM_011418353	GO:0000786~nucleosome
+XM_011418340	GO:0044427~chromosomal part
+XM_011418341	GO:0044815~DNA packaging complex
+XM_011418342	GO:0044815~DNA packaging complex
+XM_011418343	GO:0000786~nucleosome
+XM_011418348	GO:0044427~chromosomal part
+XM_011418359	GO:0044427~chromosomal part
+XM_011418350	GO:0044815~DNA packaging complex
+XM_011418350	GO:0044427~chromosomal part
+XM_011418354	GO:0000785~chromatin
+XM_011419380	GO:0044432~endoplasmic reticulum part
+XM_011420341	GO:0010008~endosome membrane
+XM_011420341	GO:0034399~nuclear periphery
+XM_011421873	GO:0005576~extracellular region
+XM_011422048	GO:0031966~mitochondrial membrane
+XM_011418758	GO:0000159~protein phosphatase type 2A complex
+XM_011418703	GO:0005654~nucleoplasm
+XM_011418769	GO:0071203~WASH complex
+XM_011418776	GO:0099512~supramolecular fiber
+XM_011418776	GO:0005874~microtubule
+XM_011419378	GO:0005789~endoplasmic reticulum membrane
+XM_011419380	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011419625	GO:0044423~virion part
+XM_011419859	GO:1990904~ribonucleoprotein complex
+XM_011420293	GO:0034702~ion channel complex
+XM_011420341	GO:0036452~ESCRT complex
+XM_011420347	GO:0034703~cation channel complex
+XM_011421258	GO:0005911~cell-cell junction
+XM_011421261	GO:0005921~gap junction
+XM_011421262	GO:0005921~gap junction
+XM_011421261	GO:0030054~cell junction
+XM_011421758	GO:0005694~chromosome
+XM_011422048	GO:0044429~mitochondrial part
+XM_011422050	GO:0030529~intracellular ribonucleoprotein complex
+XM_011422219	GO:0034705~potassium channel complex
+XM_011422227	GO:0030660~Golgi-associated vesicle membrane
+XM_011422227	GO:0030663~COPI-coated vesicle membrane
+XM_011422503	GO:0000786~nucleosome
+XM_011422990	GO:0000785~chromatin
+XM_011423389	GO:0005783~endoplasmic reticulum
+XM_011424527	GO:0000151~ubiquitin ligase complex
+XM_011424595	GO:0045263~proton-transporting ATP synthase complex, coupling factor F(o)
+XM_011424595	GO:0044455~mitochondrial membrane part
+XM_011424754	GO:0019013~viral nucleocapsid
+XM_011424989	GO:0032580~Golgi cisterna membrane
+XM_011425153	GO:0045121~membrane raft
+XM_011425153	GO:0000139~Golgi membrane
+XM_011425153	GO:0098590~plasma membrane region
+XM_011425226	GO:0005578~proteinaceous extracellular matrix
+XM_011425245	GO:0031968~organelle outer membrane
+XM_011422611	GO:0030529~intracellular ribonucleoprotein complex
+XM_011422814	GO:0034518~RNA cap binding complex
+XM_011423388	GO:0005794~Golgi apparatus
+XM_011423421	GO:0030529~intracellular ribonucleoprotein complex
+XM_011423421	GO:0044445~cytosolic part
+XM_011423421	GO:0015935~small ribosomal subunit
+XM_011423579	GO:0015630~microtubule cytoskeleton
+XM_011423578	GO:0015630~microtubule cytoskeleton
+XM_011423580	GO:0015630~microtubule cytoskeleton
+XM_011423657	GO:0000123~histone acetyltransferase complex
+XM_011424139	GO:0005840~ribosome
+XM_011424157	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+KJ531893	GO:0005576~extracellular region
+XM_011424595	GO:0005743~mitochondrial inner membrane
+XM_011424715	GO:0044431~Golgi apparatus part
+XM_011425161	GO:0043205~fibril
+XM_011425146	GO:0005901~caveola
+XM_011425146	GO:0098857~membrane microdomain
+XM_011425147	GO:0044431~Golgi apparatus part
+XM_011425148	GO:0044853~plasma membrane raft
+XM_011425148	GO:0098857~membrane microdomain
+XM_011425150	GO:0000139~Golgi membrane
+XM_011425152	GO:0044431~Golgi apparatus part
+XM_011425153	GO:0044853~plasma membrane raft
+XM_011425245	GO:0044429~mitochondrial part
+XM_011425246	GO:0019867~outer membrane
+XM_011425247	GO:0031307~integral component of mitochondrial outer membrane
+XM_011425246	GO:0031967~organelle envelope
+XM_011425246	GO:0005740~mitochondrial envelope
+XM_011425244	GO:0031300~intrinsic component of organelle membrane
+XM_011425337	GO:0030684~preribosome
+XM_011425423	GO:0016459~myosin complex
+XM_011425424	GO:0016459~myosin complex
+XM_011425425	GO:0016459~myosin complex
+XM_011425625	GO:0034703~cation channel complex
+XM_011425604	GO:0031226~intrinsic component of plasma membrane
+XM_011425625	GO:0031226~intrinsic component of plasma membrane
+XM_011425618	GO:0031226~intrinsic component of plasma membrane
+XM_011425625	GO:0005887~integral component of plasma membrane
+XM_011425625	GO:0008076~voltage-gated potassium channel complex
+XM_011425618	GO:1902495~transmembrane transporter complex
+XM_011425612	GO:0008076~voltage-gated potassium channel complex
+XM_011425608	GO:0000502~proteasome complex
+XM_011426361	GO:0005730~nucleolus
+XM_011426529	GO:0005694~chromosome
+XM_011427398	GO:0031248~protein acetyltransferase complex
+XM_011427418	GO:1990904~ribonucleoprotein complex
+XM_011427918	GO:0005815~microtubule organizing center
+XM_011427917	GO:0005815~microtubule organizing center
+XM_011428470	GO:0030027~lamellipodium
+XM_011428456	GO:0030027~lamellipodium
+XM_011425648	GO:0034705~potassium channel complex
+XM_011426464	GO:0043564~Ku70:Ku80 complex
+EU108719	GO:0030529~intracellular ribonucleoprotein complex
+XM_011426748	GO:0005852~eukaryotic translation initiation factor 3 complex
+XM_011426756	GO:0005852~eukaryotic translation initiation factor 3 complex
+XM_011426788	GO:1990904~ribonucleoprotein complex
+XM_011427398	GO:0044451~nucleoplasm part
+XM_011427406	GO:1902493~acetyltransferase complex
+NM_001305345	GO:1990904~ribonucleoprotein complex
+XM_011427740	GO:0030054~cell junction
+XM_011427828	GO:0005581~collagen trimer
+XM_011427918	GO:0005814~centriole
+XM_011428222	GO:0030529~intracellular ribonucleoprotein complex
+XM_011428399	GO:0019012~virion
+XM_011428607	GO:0005576~extracellular region
+XM_011429458	GO:0016272~prefoldin complex
+XM_011429591	GO:0005794~Golgi apparatus
+XM_011429592	GO:0030130~clathrin coat of trans-Golgi network vesicle
+XM_011430200	GO:0005783~endoplasmic reticulum
+XM_011430200	GO:0044432~endoplasmic reticulum part
+XM_011430694	GO:0005740~mitochondrial envelope
+XM_011430791	GO:0098800~inner mitochondrial membrane protein complex
+XM_011431026	GO:0044798~nuclear transcription factor complex
+XM_011431116	GO:0016023~cytoplasmic, membrane-bounded vesicle
+XM_011431116	GO:0030117~membrane coat
+XM_011431117	GO:0016023~cytoplasmic, membrane-bounded vesicle
+XM_011431117	GO:0030133~transport vesicle
+XM_011431286	GO:1902495~transmembrane transporter complex
+XM_011431289	GO:1902495~transmembrane transporter complex
+XM_011431293	GO:0034702~ion channel complex
+XM_011431291	GO:0034703~cation channel complex
+XM_011431290	GO:1902495~transmembrane transporter complex
+XM_011431290	GO:0034702~ion channel complex
+XM_011431292	GO:0034703~cation channel complex
+XM_011431294	GO:1902495~transmembrane transporter complex
+XM_011431294	GO:0034704~calcium channel complex
+XM_011431717	GO:1990904~ribonucleoprotein complex
+XM_011431784	GO:0031226~intrinsic component of plasma membrane
+XM_011432077	GO:1902554~serine/threonine protein kinase complex
+XM_011432075	GO:1902554~serine/threonine protein kinase complex
+XM_011432079	GO:1902554~serine/threonine protein kinase complex
+XM_011432079	GO:1902911~protein kinase complex
+XM_011432076	GO:1902554~serine/threonine protein kinase complex
+XM_011429592	GO:0012506~vesicle membrane
+XM_011429592	GO:0030659~cytoplasmic vesicle membrane
+XM_011429591	GO:0030662~coated vesicle membrane
+XM_011431026	GO:0005667~transcription factor complex
+XM_011429591	GO:0005798~Golgi-associated vesicle
+XM_011429928	GO:0005576~extracellular region
+XM_011430046	GO:1990904~ribonucleoprotein complex
+XM_011430288	GO:0034702~ion channel complex
+XM_011430288	GO:0034705~potassium channel complex
+XM_011430351	GO:0031301~integral component of organelle membrane
+XM_011430527	GO:0005739~mitochondrion
+XM_011430711	GO:0033588~Elongator holoenzyme complex
+NM_001305373	GO:0099513~polymeric cytoskeletal fiber
+XM_011431114	GO:0031988~membrane-bounded vesicle
+XM_011431116	GO:0030120~vesicle coat
+XM_011431117	GO:0030127~COPII vesicle coat
+XM_011431115	GO:0048475~coated membrane
+XM_011431296	GO:0005891~voltage-gated calcium channel complex
+XM_011431410	GO:0005739~mitochondrion
+XM_011431666	GO:0005783~endoplasmic reticulum
+XM_011431668	GO:0005789~endoplasmic reticulum membrane
+XM_011431667	GO:0005783~endoplasmic reticulum
+XM_011432079	GO:0005952~cAMP-dependent protein kinase complex
+XM_011432074	GO:0005952~cAMP-dependent protein kinase complex
+XM_011432180	GO:0030286~dynein complex
+XM_011432182	GO:0005875~microtubule associated complex
+XM_011432185	GO:0005875~microtubule associated complex
+XM_011432511	GO:0031248~protein acetyltransferase complex
+XM_011432511	GO:0005654~nucleoplasm
+XM_011432781	GO:0005694~chromosome
+XM_011433229	GO:0005739~mitochondrion
+XM_011433811	GO:0032993~protein-DNA complex
+XM_011434209	GO:0044455~mitochondrial membrane part
+XM_011434435	GO:0005576~extracellular region
+XM_011434667	GO:0016282~eukaryotic 43S preinitiation complex
+AJ563460	GO:0005885~Arp2/3 protein complex
+XM_011433184	GO:0045202~synapse
+XM_011433698	GO:0031461~cullin-RING ubiquitin ligase complex
+XM_011433698	GO:0005680~anaphase-promoting complex
+XM_011433811	GO:0044815~DNA packaging complex
+XM_011433930	GO:0005694~chromosome
+XM_011433930	GO:0032993~protein-DNA complex
+NM_001305363	GO:0005874~microtubule
+AB196534	GO:0005874~microtubule
+XM_011434583	GO:0005654~nucleoplasm
+XM_011434878	GO:0045202~synapse
+XM_011435166	GO:0042575~DNA polymerase complex
+XM_011435212	GO:0005576~extracellular region
+XM_011435233	GO:0046540~U4/U6 x U5 tri-snRNP complex
+XM_011435260	GO:0098562~cytoplasmic side of membrane
+XM_011435455	GO:0005740~mitochondrial envelope
+XM_011435495	GO:0030008~TRAPP complex
+XM_011435583	GO:0031226~intrinsic component of plasma membrane
+XM_011435582	GO:0031226~intrinsic component of plasma membrane
+NM_001305379	GO:0005576~extracellular region
+XM_011436415	GO:1990904~ribonucleoprotein complex
+XM_011436523	GO:0030991~intraciliary transport particle A
+XM_011437609	GO:0031985~Golgi cisterna
+XM_011437718	GO:0098589~membrane region
+XM_011437718	GO:0044853~plasma membrane raft
+EU152921	GO:0045121~membrane raft
+EU152921	GO:0005901~caveola
+XM_011438151	GO:0005739~mitochondrion
+XM_011438169	GO:0034702~ion channel complex
+XM_011435456	GO:0005739~mitochondrion
+XM_011435574	GO:0000502~proteasome complex
+XM_011436414	GO:0030529~intracellular ribonucleoprotein complex
+XM_011436415	GO:0030529~intracellular ribonucleoprotein complex
+XM_011436413	GO:0044423~virion part
+XM_011436414	GO:0044423~virion part
+XM_011436435	GO:0044429~mitochondrial part
+XM_011436470	GO:1904949~ATPase complex
+XM_011436470	GO:1990351~transporter complex
+XR_901040	GO:0005789~endoplasmic reticulum membrane
+XM_011437627	GO:0019012~virion
+XM_011437717	GO:0044853~plasma membrane raft
+EU152921	GO:0098590~plasma membrane region
+EU152921	GO:0044431~Golgi apparatus part
+XM_011437984	GO:0044451~nucleoplasm part
+NM_001305334	GO:0005773~vacuole
+NM_001305334	GO:0005764~lysosome
+XM_011438662	GO:0005773~vacuole
+XM_011438662	GO:0016023~cytoplasmic, membrane-bounded vesicle
+XM_011438661	GO:0005773~vacuole
+XM_011438220	GO:0030529~intracellular ribonucleoprotein complex
+XM_011438220	GO:0005732~small nucleolar ribonucleoprotein complex
+XM_011438662	GO:0030136~clathrin-coated vesicle
+XM_011438753	GO:0031967~organelle envelope
+XM_011439038	GO:0005840~ribosome
+XM_011439438	GO:0030880~RNA polymerase complex
+XM_011439915	GO:0008076~voltage-gated potassium channel complex
+XM_011440013	GO:0030529~intracellular ribonucleoprotein complex
+XM_011440116	GO:0031984~organelle subcompartment
+XM_011440497	GO:0045202~synapse
+XM_011440693	GO:0030119~AP-type membrane coat adaptor complex
+XM_011440848	GO:0030880~RNA polymerase complex
+XM_011440848	GO:0055029~nuclear DNA-directed RNA polymerase complex
+XM_011441256	GO:0033290~eukaryotic 48S preinitiation complex
+XM_011441352	GO:0005911~cell-cell junction
+XM_011441353	GO:0005921~gap junction
+XM_011441490	GO:0005783~endoplasmic reticulum
+XM_011442087	GO:0005811~lipid particle
+XM_011442465	GO:0015629~actin cytoskeleton
+XM_011442465	GO:0016459~myosin complex
+XM_011442777	GO:0005794~Golgi apparatus
+XM_011439038	GO:0030529~intracellular ribonucleoprotein complex
+XM_011439341	GO:0005581~collagen trimer
+XM_011439437	GO:0005673~transcription factor TFIIE complex
+XM_011439438	GO:0005673~transcription factor TFIIE complex
+XM_011439437	GO:0000428~DNA-directed RNA polymerase complex
+XM_011439438	GO:0000428~DNA-directed RNA polymerase complex
+XM_011439437	GO:0044798~nuclear transcription factor complex
+XM_011439438	GO:0044798~nuclear transcription factor complex
+XM_011439496	GO:0005783~endoplasmic reticulum
+XM_011440114	GO:0044431~Golgi apparatus part
+XM_011440115	GO:0048475~coated membrane
+XM_011440115	GO:0030117~membrane coat
+XM_011440114	GO:0030117~membrane coat
+XM_011440245	GO:0031012~extracellular matrix
+XM_011440678	GO:1990904~ribonucleoprotein complex
+XM_011440949	GO:0015630~microtubule cytoskeleton
+XM_011440948	GO:0015630~microtubule cytoskeleton
+XM_011441088	GO:0044454~nuclear chromosome part
+AF075693	GO:0015629~actin cytoskeleton
+XM_011442245	GO:0044431~Golgi apparatus part
+XM_011442246	GO:0044431~Golgi apparatus part
+XM_011442617	GO:0005840~ribosome
+XM_011443508	GO:0030054~cell junction
+XM_011443509	GO:0005921~gap junction
+XM_011443508	GO:0005921~gap junction
+XM_011444074	GO:0005739~mitochondrion
+NM_001305296	GO:0019867~outer membrane
+XM_011444790	GO:0005929~cilium
+XM_011444787	GO:0005929~cilium
+XM_011445269	GO:0099512~supramolecular fiber
+XM_011445281	GO:0005829~cytosol
+XM_011446017	GO:0005694~chromosome
+XM_011446413	GO:0005654~nucleoplasm
+XM_011446434	GO:0043527~tRNA methyltransferase complex
+XM_011446710	GO:0005840~ribosome
+AJ563463	GO:0005840~ribosome
+XM_011446791	GO:0015629~actin cytoskeleton
+XM_011443582	GO:0005764~lysosome
+XM_011443768	GO:0015630~microtubule cytoskeleton
+XM_011443879	GO:0044429~mitochondrial part
+XM_011443910	GO:0030117~membrane coat
+XM_011443917	GO:0030117~membrane coat
+XM_011444152	GO:0044451~nucleoplasm part
+XM_011444430	GO:0005840~ribosome
+XM_011444609	GO:0005741~mitochondrial outer membrane
+XM_011444609	GO:0005739~mitochondrion
+XM_011444790	GO:0031514~motile cilium
+XM_011444789	GO:0031514~motile cilium
+XM_011444835	GO:0042555~MCM complex
+EU678311	GO:0044421~extracellular region part
+XM_011445269	GO:0045111~intermediate filament cytoskeleton
+XM_011445269	GO:0005882~intermediate filament
+XM_011445341	GO:0045121~membrane raft
+XM_011445535	GO:0031226~intrinsic component of plasma membrane
+XM_011445625	GO:0005581~collagen trimer
+XM_011445872	GO:0031967~organelle envelope
+XM_011445887	GO:0031975~envelope
+XM_011446017	GO:0044427~chromosomal part
+XM_011446710	GO:0030529~intracellular ribonucleoprotein complex
+XM_011446710	GO:0015935~small ribosomal subunit
+NM_001305343	GO:0015935~small ribosomal subunit
+XM_011447675	GO:0005794~Golgi apparatus
+XM_011447762	GO:0031975~envelope
+XM_011447837	GO:0005839~proteasome core complex
+AJ561117	GO:0005840~ribosome
+XM_011446811	GO:0005960~glycine cleavage complex
+XM_011447677	GO:0044431~Golgi apparatus part
+XM_011447677	GO:0000139~Golgi membrane
+XM_011447682	GO:0016592~mediator complex
+XM_011447946	GO:0090575~RNA polymerase II transcription factor complex
+XM_011448136	GO:0005576~extracellular region
+XM_011448449	GO:0044455~mitochondrial membrane part
+XM_011448449	GO:0019867~outer membrane
+XM_011448802	GO:0000439~core TFIIH complex
+XM_011449325	GO:0044451~nucleoplasm part
+NM_001305352	GO:0030529~intracellular ribonucleoprotein complex
+JQ030888	GO:0005840~ribosome
+XM_011449340	GO:0005840~ribosome
+XM_011449425	GO:0005905~clathrin-coated pit
+AY713400	GO:0099513~polymeric cytoskeletal fiber
+XM_011450245	GO:0015630~microtubule cytoskeleton
+XM_011450540	GO:0030529~intracellular ribonucleoprotein complex
+XM_011450662	GO:0000835~ER ubiquitin ligase complex
+XM_011448449	GO:0031967~organelle envelope
+XM_011449162	GO:0000445~THO complex part of transcription export complex
+XM_011449251	GO:1990904~ribonucleoprotein complex
+XM_011449425	GO:0030135~coated vesicle
+XM_011449426	GO:0016023~cytoplasmic, membrane-bounded vesicle
+XM_011449426	GO:0031988~membrane-bounded vesicle
+XM_011449426	GO:0044433~cytoplasmic vesicle part
+XM_011449426	GO:0030117~membrane coat
+AF075688	GO:0044432~endoplasmic reticulum part
+EU152941	GO:0005840~ribosome
+XM_011450020	GO:0005581~collagen trimer
+XM_011450245	GO:0005875~microtubule associated complex
+XM_011450667	GO:0016469~proton-transporting two-sector ATPase complex
+XM_011451086	GO:0005635~nuclear envelope
+XM_011451242	GO:0005694~chromosome
+XM_011451756	GO:0030529~intracellular ribonucleoprotein complex
+XM_011452029	GO:0098590~plasma membrane region
+XM_011452033	GO:0098794~postsynapse
+XM_011452034	GO:0030054~cell junction
+XM_011452032	GO:0098794~postsynapse
+XM_011452207	GO:0005783~endoplasmic reticulum
+XM_011452440	GO:0005840~ribosome
+NM_001305317	GO:0005576~extracellular region
+XM_011453221	GO:0005654~nucleoplasm
+XM_011453427	GO:0019012~virion
+XM_011453612	GO:0030529~intracellular ribonucleoprotein complex
+XM_011453612	GO:0044423~virion part
+XM_011453611	GO:0044423~virion part
+XM_011453611	GO:1990904~ribonucleoprotein complex
+NM_001305290	GO:0005740~mitochondrial envelope
+XM_011451037	GO:0044421~extracellular region part
+XM_011452030	GO:0030118~clathrin coat
+XM_011452030	GO:0048475~coated membrane
+XM_011452031	GO:0097060~synaptic membrane
+XM_011452031	GO:0098590~plasma membrane region
+XM_011452032	GO:0045211~postsynaptic membrane
+XM_011452034	GO:0098590~plasma membrane region
+XM_011452036	GO:0098590~plasma membrane region
+XM_011452365	GO:0044456~synapse part
+XM_011453222	GO:0031248~protein acetyltransferase complex
+XM_011453389	GO:0005694~chromosome
+AY551099	GO:0033176~proton-transporting V-type ATPase complex
+XM_011454321	GO:0030529~intracellular ribonucleoprotein complex
+XM_011454629	GO:0030532~small nuclear ribonucleoprotein complex
+XM_011455605	GO:0005576~extracellular region
+XM_011455670	GO:0044438~microbody part
+XM_011455670	GO:0044439~peroxisomal part
+XM_011455781	GO:0031012~extracellular matrix
+XM_011456099	GO:0044427~chromosomal part
+XM_011456868	GO:0005789~endoplasmic reticulum membrane
+AB199894	GO:0044391~ribosomal subunit
+AB199894	GO:0030529~intracellular ribonucleoprotein complex
+XM_011457552	GO:0030529~intracellular ribonucleoprotein complex
+XM_011458601	GO:0005892~acetylcholine-gated channel complex
+XM_011455439	GO:0030529~intracellular ribonucleoprotein complex
+XM_011455532	GO:0005739~mitochondrion
+XM_011455670	GO:0005777~peroxisome
+XM_011455674	GO:0005887~integral component of plasma membrane
+XM_011455781	GO:0005576~extracellular region
+XM_011455981	GO:0019012~virion
+XM_011456006	GO:0044427~chromosomal part
+XM_011456098	GO:0032993~protein-DNA complex
+XM_011456100	GO:0000786~nucleosome
+XM_011456099	GO:0005694~chromosome
+XM_011456868	GO:0005783~endoplasmic reticulum
+XM_011457064	GO:1990904~ribonucleoprotein complex
+XM_011457818	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+EU152936	GO:0015935~small ribosomal subunit
+AY852246	GO:0005840~ribosome
+XM_011458104	GO:0017053~transcriptional repressor complex
+XM_011458193	GO:0030529~intracellular ribonucleoprotein complex
+XM_011458572	GO:1990904~ribonucleoprotein complex
+XM_011428201	GO:0019008~molybdopterin synthase complex
+XM_011428201	GO:0005829~cytosol
+XM_011413926	GO:1990904~ribonucleoprotein complex
+XM_011414118	GO:0005964~phosphorylase kinase complex
+XM_011414116	GO:0005964~phosphorylase kinase complex
+XM_011414116	GO:1902554~serine/threonine protein kinase complex
+XM_011414318	GO:1990904~ribonucleoprotein complex
+XM_011414346	GO:0019866~organelle inner membrane
+XM_011414688	GO:0005885~Arp2/3 protein complex
+XM_011415103	GO:0044432~endoplasmic reticulum part
+XM_011415111	GO:0044432~endoplasmic reticulum part
+XM_011415107	GO:0044432~endoplasmic reticulum part
+XM_011415106	GO:0005783~endoplasmic reticulum
+XM_011415312	GO:1902495~transmembrane transporter complex
+XM_011415312	GO:0034705~potassium channel complex
+XM_011415313	GO:0008076~voltage-gated potassium channel complex
+XM_011415313	GO:0034703~cation channel complex
+XM_011415314	GO:0034703~cation channel complex
+XM_011415396	GO:0000221~vacuolar proton-transporting V-type ATPase, V1 domain
+XM_011415396	GO:0033176~proton-transporting V-type ATPase complex
+XM_011415397	GO:0016469~proton-transporting two-sector ATPase complex
+XM_011415394	GO:0016469~proton-transporting two-sector ATPase complex
+XM_011417884	GO:1990904~ribonucleoprotein complex
+XM_011417577	GO:0016514~SWI/SNF complex
+XM_011417423	GO:0016514~SWI/SNF complex
+XM_011415467	GO:0019028~viral capsid
+XM_011415768	GO:1990904~ribonucleoprotein complex
+XM_011415768	GO:0005840~ribosome
+XM_011415868	GO:0000228~nuclear chromosome
+XM_011417480	GO:0030529~intracellular ribonucleoprotein complex
+XM_011415869	GO:0044454~nuclear chromosome part
+XM_011415869	GO:0044427~chromosomal part
+XM_011415906	GO:0044427~chromosomal part
+XM_011417129	GO:0044429~mitochondrial part
+XM_011415928	GO:0044432~endoplasmic reticulum part
+XM_011416268	GO:0031967~organelle envelope
+XM_011416389	GO:0030529~intracellular ribonucleoprotein complex
+XM_011416389	GO:1990904~ribonucleoprotein complex
+XM_011416540	GO:0031966~mitochondrial membrane
+XM_011416560	GO:0005840~ribosome
+XM_011417129	GO:0005740~mitochondrial envelope
+XM_011416852	GO:0031515~tRNA (m1A) methyltransferase complex
+XM_011416877	GO:0005840~ribosome
+XM_011416888	GO:0031226~intrinsic component of plasma membrane
+XM_011416943	GO:0042579~microbody
+XM_011417129	GO:0005758~mitochondrial intermembrane space
+XM_011417339	GO:0070603~SWI/SNF superfamily-type complex
+XM_011417217	GO:0030529~intracellular ribonucleoprotein complex
+XM_011417420	GO:0005576~extracellular region
+XM_011417663	GO:0005794~Golgi apparatus
+XM_011417662	GO:0000139~Golgi membrane
+XM_011417662	GO:0031984~organelle subcompartment
+XM_011417663	GO:0031984~organelle subcompartment
+XM_011417875	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011417875	GO:0016591~DNA-directed RNA polymerase II, holoenzyme
+XM_011417875	GO:0016593~Cdc73/Paf1 complex
+XM_011418338	GO:0032993~protein-DNA complex
+XM_011418338	GO:0005694~chromosome
+XM_011418339	GO:0005694~chromosome
+XM_011418339	GO:0032993~protein-DNA complex
+XM_011418345	GO:0000785~chromatin
+XM_011418341	GO:0044427~chromosomal part
+XM_011418360	GO:0000786~nucleosome
+XM_011418350	GO:0000785~chromatin
+XM_011418350	GO:0000786~nucleosome
+XM_011418352	GO:0032993~protein-DNA complex
+XM_011418352	GO:0000786~nucleosome
+XM_011418352	GO:0044427~chromosomal part
+XM_011418353	GO:0005694~chromosome
+XM_011418354	GO:0000786~nucleosome
+XM_011418354	GO:0005694~chromosome
+XM_011418359	GO:0000785~chromatin
+XM_011418361	GO:0044427~chromosomal part
+XM_011418361	GO:0000786~nucleosome
+XM_011418361	GO:0005694~chromosome
+XM_011418499	GO:0044451~nucleoplasm part
+XM_011418703	GO:0032783~ELL-EAF complex
+XM_011419378	GO:0044432~endoplasmic reticulum part
+XM_011421869	GO:0030529~intracellular ribonucleoprotein complex
+XM_011418543	GO:1990904~ribonucleoprotein complex
+XM_011418758	GO:1903293~phosphatase complex
+XM_011419365	GO:0005581~collagen trimer
+XM_011419380	GO:0005783~endoplasmic reticulum
+XM_011419379	GO:0005789~endoplasmic reticulum membrane
+XM_011419378	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011419504	GO:0005911~cell-cell junction
+XM_011419625	GO:1990904~ribonucleoprotein complex
+XM_011419836	GO:0044427~chromosomal part
+XM_011419836	GO:0000228~nuclear chromosome
+XM_011420664	GO:0005654~nucleoplasm
+XM_011421158	GO:0005667~transcription factor complex
+XM_011421256	GO:0005911~cell-cell junction
+XM_011421262	GO:0030054~cell junction
+XM_011421758	GO:0000785~chromatin
+XM_011422048	GO:0005743~mitochondrial inner membrane
+XM_011422145	GO:0005840~ribosome
+XM_011422220	GO:0031226~intrinsic component of plasma membrane
+XM_011422220	GO:1902495~transmembrane transporter complex
+XM_011422219	GO:1990351~transporter complex
+XM_011422219	GO:0034702~ion channel complex
+XM_011422219	GO:0008076~voltage-gated potassium channel complex
+XM_011422227	GO:0030117~membrane coat
+XM_011422814	GO:0005846~nuclear cap binding complex
+XM_011424138	GO:0030529~intracellular ribonucleoprotein complex
+XM_011424139	GO:1990904~ribonucleoprotein complex
+XM_011424528	GO:0000151~ubiquitin ligase complex
+XM_011424720	GO:0000139~Golgi membrane
+XM_011424753	GO:0019013~viral nucleocapsid
+XM_011424989	GO:0031984~organelle subcompartment
+XM_011425161	GO:0001527~microfibril
+XM_011425146	GO:0044853~plasma membrane raft
+XM_011425246	GO:0005741~mitochondrial outer membrane
+XM_011425246	GO:0098573~intrinsic component of mitochondrial membrane
+XM_011425247	GO:0098573~intrinsic component of mitochondrial membrane
+XM_011425244	GO:0031968~organelle outer membrane
+XM_011425244	GO:0098573~intrinsic component of mitochondrial membrane
+XM_011425245	GO:0005741~mitochondrial outer membrane
+XM_011423657	GO:0032777~Piccolo NuA4 histone acetyltransferase complex
+XM_011422531	GO:0016272~prefoldin complex
+XM_011422539	GO:0005875~microtubule associated complex
+AJ563478	GO:1990904~ribonucleoprotein complex
+XM_011422670	GO:0030529~intracellular ribonucleoprotein complex
+XM_011422669	GO:0030529~intracellular ribonucleoprotein complex
+XM_011422669	GO:0005840~ribosome
+XM_011422737	GO:0005576~extracellular region
+XM_011422990	GO:0032993~protein-DNA complex
+XM_011423161	GO:0005885~Arp2/3 protein complex
+XM_011423421	GO:1990904~ribonucleoprotein complex
+AJ563455	GO:0044391~ribosomal subunit
+XM_011423421	GO:0044391~ribosomal subunit
+XM_011423578	GO:0030286~dynein complex
+XM_011423580	GO:0030286~dynein complex
+XM_011424157	GO:0005789~endoplasmic reticulum membrane
+XM_011424595	GO:0019866~organelle inner membrane
+XM_011424754	GO:0019012~virion
+XM_011424754	GO:0019028~viral capsid
+XM_011424753	GO:0019028~viral capsid
+XM_011424989	GO:0098791~Golgi subcompartment
+XM_011424989	GO:0005795~Golgi stack
+XM_011425161	GO:0031012~extracellular matrix
+XM_011425147	GO:0005901~caveola
+XM_011425149	GO:0044431~Golgi apparatus part
+XM_011425149	GO:0045121~membrane raft
+XM_011425148	GO:0005901~caveola
+XM_011425148	GO:0000139~Golgi membrane
+XM_011425149	GO:0098857~membrane microdomain
+XM_011425150	GO:0005901~caveola
+XM_011425152	GO:0045121~membrane raft
+XM_011425202	GO:0005875~microtubule associated complex
+XM_011425226	GO:0044421~extracellular region part
+XM_011425246	GO:0005739~mitochondrion
+XM_011425244	GO:0005739~mitochondrion
+XM_011425244	GO:0031966~mitochondrial membrane
+XM_011425244	GO:0032592~integral component of mitochondrial membrane
+XM_011425244	GO:0031307~integral component of mitochondrial outer membrane
+XM_011425247	GO:0019867~outer membrane
+XM_011425244	GO:0019867~outer membrane
+XM_011425247	GO:0031967~organelle envelope
+XM_011425244	GO:0005740~mitochondrial envelope
+XM_011425245	GO:0031967~organelle envelope
+XM_011425245	GO:0005740~mitochondrial envelope
+XM_011425633	GO:0034705~potassium channel complex
+XM_011425612	GO:0005887~integral component of plasma membrane
+XM_011425648	GO:1902495~transmembrane transporter complex
+XM_011425648	GO:0034703~cation channel complex
+XM_011425880	GO:0031226~intrinsic component of plasma membrane
+XM_011426788	GO:0005681~spliceosomal complex
+XM_011426857	GO:0005654~nucleoplasm
+XM_011427398	GO:0072487~MSL complex
+XM_011427406	GO:0031248~protein acetyltransferase complex
+XM_011427917	GO:0044450~microtubule organizing center part
+AJ544883	GO:0005576~extracellular region
+XM_011428458	GO:0030027~lamellipodium
+XM_011428458	GO:0031252~cell leading edge
+XM_011428462	GO:0031252~cell leading edge
+XM_011426529	GO:0044427~chromosomal part
+XM_011426551	GO:0005576~extracellular region
+XM_011426787	GO:1990904~ribonucleoprotein complex
+XM_011426880	GO:0005840~ribosome
+XM_011427406	GO:0000123~histone acetyltransferase complex
+XM_011427418	GO:0005730~nucleolus
+AB199897	GO:1990904~ribonucleoprotein complex
+XM_011427679	GO:1990904~ribonucleoprotein complex
+XM_011428222	GO:0005840~ribosome
+XM_011429591	GO:0030118~clathrin coat
+XM_011429591	GO:0030136~clathrin-coated vesicle
+XM_011429592	GO:0030117~membrane coat
+XM_011429592	GO:0030658~transport vesicle membrane
+XM_011429592	GO:0030136~clathrin-coated vesicle
+XM_011429592	GO:0005794~Golgi apparatus
+XM_011430125	GO:0044441~ciliary part
+XM_011430126	GO:0044441~ciliary part
+XM_011430634	GO:1902560~GMP reductase complex
+XM_011430635	GO:1990204~oxidoreductase complex
+XM_011430694	GO:0031975~envelope
+XM_011430694	GO:0031967~organelle envelope
+XM_011430791	GO:0070069~cytochrome complex
+NM_001305373	GO:0005874~microtubule
+XM_011431114	GO:0030659~cytoplasmic vesicle membrane
+XM_011431114	GO:0030134~ER to Golgi transport vesicle
+XM_011431114	GO:0030117~membrane coat
+XM_011431116	GO:0044433~cytoplasmic vesicle part
+XM_011431116	GO:0030658~transport vesicle membrane
+XM_011431117	GO:0030659~cytoplasmic vesicle membrane
+XM_011431115	GO:0030658~transport vesicle membrane
+XM_011431289	GO:0034703~cation channel complex
+XM_011431289	GO:1990351~transporter complex
+XM_011431291	GO:0034702~ion channel complex
+XM_011431296	GO:0034703~cation channel complex
+XM_011431292	GO:0034702~ion channel complex
+XM_011431294	GO:0034702~ion channel complex
+XM_011431440	GO:0005576~extracellular region
+XM_011431717	GO:0030529~intracellular ribonucleoprotein complex
+XM_011431781	GO:0031226~intrinsic component of plasma membrane
+XM_011432076	GO:1902911~protein kinase complex
+XM_011429591	GO:0030132~clathrin coat of coated pit
+XM_011429591	GO:0030140~trans-Golgi network transport vesicle
+XM_011429591	GO:0030133~transport vesicle
+XM_011429591	GO:0016023~cytoplasmic, membrane-bounded vesicle
+XM_011431115	GO:0030662~coated vesicle membrane
+XM_011429591	GO:0030665~clathrin-coated vesicle membrane
+XM_011429622	GO:0019773~proteasome core complex, alpha-subunit complex
+XM_011429725	GO:0005875~microtubule associated complex
+XM_011430125	GO:0005930~axoneme
+XM_011430126	GO:0097014~ciliary plasm
+XM_011430246	GO:0016282~eukaryotic 43S preinitiation complex
+XM_011430351	GO:0031903~microbody membrane
+XM_011430351	GO:0005778~peroxisomal membrane
+XM_011430791	GO:0031975~envelope
+XM_011430791	GO:0005740~mitochondrial envelope
+XM_011431057	GO:0031967~organelle envelope
+XM_011431117	GO:0031988~membrane-bounded vesicle
+XM_011431115	GO:0031988~membrane-bounded vesicle
+XM_011431116	GO:0048475~coated membrane
+XM_011431295	GO:0005891~voltage-gated calcium channel complex
+XM_011431570	GO:0005929~cilium
+XM_011431667	GO:0005789~endoplasmic reticulum membrane
+XM_011431668	GO:0044432~endoplasmic reticulum part
+XM_011431782	GO:0005887~integral component of plasma membrane
+XM_011432076	GO:0005952~cAMP-dependent protein kinase complex
+XM_011432180	GO:0005875~microtubule associated complex
+XM_011432185	GO:0015630~microtubule cytoskeleton
+XM_011432509	GO:0031248~protein acetyltransferase complex
+XM_011432998	GO:0015629~actin cytoskeleton
+XM_011433185	GO:0045202~synapse
+XM_011433511	GO:0000139~Golgi membrane
+XM_011433512	GO:0000139~Golgi membrane
+XM_011434209	GO:0005747~mitochondrial respiratory chain complex I
+XM_011434433	GO:0030687~preribosome, large subunit precursor
+XM_011433044	GO:0030131~clathrin adaptor complex
+XM_011433697	GO:0000152~nuclear ubiquitin ligase complex
+AJ971238	GO:0005576~extracellular region
+XM_011433827	GO:0005576~extracellular region
+NM_001305363	GO:0099512~supramolecular fiber
+XM_011433962	GO:0099513~polymeric cytoskeletal fiber
+XM_011433962	GO:0005874~microtubule
+XM_011434583	GO:0055029~nuclear DNA-directed RNA polymerase complex
+XM_011434878	GO:0044456~synapse part
+XM_011434952	GO:0019867~outer membrane
+XM_011435166	GO:0005759~mitochondrial matrix
+XM_011435167	GO:0044429~mitochondrial part
+XM_011435166	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011435213	GO:0005604~basement membrane
+XM_011435602	GO:0031967~organelle envelope
+XM_011436009	GO:0031966~mitochondrial membrane
+XM_011436119	GO:0005576~extracellular region
+XM_011436119	GO:0005615~extracellular space
+XM_011436179	GO:0005875~microtubule associated complex
+XM_011436416	GO:1990904~ribonucleoprotein complex
+XM_011436415	GO:0019013~viral nucleocapsid
+XM_011436470	GO:0005887~integral component of plasma membrane
+XM_011436470	GO:0090533~cation-transporting ATPase complex
+XM_011436524	GO:0030990~intraciliary transport particle
+XM_011437627	GO:1990904~ribonucleoprotein complex
+XM_011437717	GO:0098589~membrane region
+XM_011437719	GO:0098857~membrane microdomain
+XM_011435456	GO:0005743~mitochondrial inner membrane
+XM_011435602	GO:0005740~mitochondrial envelope
+XM_011436009	GO:0031967~organelle envelope
+XM_011436416	GO:0019012~virion
+XM_011436435	GO:0005739~mitochondrion
+XM_011437717	GO:0005794~Golgi apparatus
+XM_011437717	GO:0098857~membrane microdomain
+XM_011437983	GO:0016592~mediator complex
+XM_011438169	GO:0034705~potassium channel complex
+JN315144	GO:0005773~vacuole
+XM_011438663	GO:0044431~Golgi apparatus part
+XM_011438496	GO:0015629~actin cytoskeleton
+XM_011438495	GO:0015629~actin cytoskeleton
+XM_011438662	GO:0005794~Golgi apparatus
+XM_011438662	GO:0005802~trans-Golgi network
+XM_011439437	GO:0005654~nucleoplasm
+XM_011439915	GO:1902495~transmembrane transporter complex
+XM_011439915	GO:0005887~integral component of plasma membrane
+XM_011440114	GO:0098791~Golgi subcompartment
+XM_011440114	GO:0005794~Golgi apparatus
+XM_011440486	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011440848	GO:0016591~DNA-directed RNA polymerase II, holoenzyme
+XM_011440848	GO:0000428~DNA-directed RNA polymerase complex
+XM_011442460	GO:0015629~actin cytoskeleton
+XM_011442463	GO:0015629~actin cytoskeleton
+XM_011439505	GO:1990391~DNA repair complex
+XM_011440114	GO:0030118~clathrin coat
+XM_011440115	GO:0044431~Golgi apparatus part
+XM_011440115	GO:0005802~trans-Golgi network
+XM_011440116	GO:0030117~membrane coat
+XM_011440263	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+NM_001308851	GO:0005576~extracellular region
+KJ531897	GO:0005576~extracellular region
+XM_011440486	GO:0005789~endoplasmic reticulum membrane
+XM_011440693	GO:0048475~coated membrane
+XM_011440848	GO:0005665~DNA-directed RNA polymerase II, core complex
+XM_011441411	GO:0005681~spliceosomal complex
+XM_011443051	GO:0005794~Golgi apparatus
+XM_011443430	GO:0044451~nucleoplasm part
+XM_011443514	GO:0030054~cell junction
+XM_011443510	GO:0030054~cell junction
+XM_011443516	GO:0030054~cell junction
+XM_011443512	GO:0030054~cell junction
+XM_011443506	GO:0030054~cell junction
+XM_011443513	GO:0005911~cell-cell junction
+XM_011443508	GO:0005911~cell-cell junction
+XM_011443537	GO:0044427~chromosomal part
+XM_011443536	GO:0044815~DNA packaging complex
+XM_011442943	GO:0005667~transcription factor complex
+XM_011443016	GO:0000502~proteasome complex
+XM_011443066	GO:0005840~ribosome
+XM_011443430	GO:0005654~nucleoplasm
+XM_011443430	GO:0030880~RNA polymerase complex
+XM_011443513	GO:0005921~gap junction
+XM_011443537	GO:0000785~chromatin
+NM_001305296	GO:0031967~organelle envelope
+AB262088	GO:0019867~outer membrane
+XM_011444609	GO:0031968~organelle outer membrane
+XM_011445520	GO:0043564~Ku70:Ku80 complex
+XM_011445887	GO:0019866~organelle inner membrane
+AJ563463	GO:1990904~ribonucleoprotein complex
+XM_011443582	GO:0000323~lytic vacuole
+XM_011443777	GO:0005794~Golgi apparatus
+XM_011444359	GO:0016604~nuclear body
+XM_011444430	GO:0030529~intracellular ribonucleoprotein complex
+NM_001305296	GO:0005741~mitochondrial outer membrane
+NM_001305296	GO:0031966~mitochondrial membrane
+AB262088	GO:0031966~mitochondrial membrane
+XM_011445281	GO:0005773~vacuole
+XM_011445281	GO:0005794~Golgi apparatus
+XM_011445341	GO:0098590~plasma membrane region
+XM_011445533	GO:0005887~integral component of plasma membrane
+XM_011447676	GO:0005794~Golgi apparatus
+XM_011447946	GO:0005667~transcription factor complex
+XM_011447675	GO:0000139~Golgi membrane
+XM_011447762	GO:0005739~mitochondrion
+XM_011448135	GO:0005576~extracellular region
+XM_011449325	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011449326	GO:0030880~RNA polymerase complex
+XM_011449426	GO:0030659~cytoplasmic vesicle membrane
+XM_011449425	GO:0030136~clathrin-coated vesicle
+XM_011449425	GO:0012506~vesicle membrane
+XM_011449425	GO:0030130~clathrin coat of trans-Golgi network vesicle
+XM_011449582	GO:0005694~chromosome
+XM_011450240	GO:0099513~polymeric cytoskeletal fiber
+AY713400	GO:0099512~supramolecular fiber
+XM_011450540	GO:0019028~viral capsid
+XM_011450548	GO:0005874~microtubule
+EU583799	GO:0015629~actin cytoskeleton
+XM_011450662	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011450662	GO:0005783~endoplasmic reticulum
+XM_011450792	GO:0019013~viral nucleocapsid
+XM_011449054	GO:0098798~mitochondrial protein complex
+XM_011449054	GO:0031966~mitochondrial membrane
+XM_011449251	GO:0030529~intracellular ribonucleoprotein complex
+XM_011449251	GO:0005840~ribosome
+XM_011449325	GO:0055029~nuclear DNA-directed RNA polymerase complex
+XM_011449326	GO:0055029~nuclear DNA-directed RNA polymerase complex
+XM_011449326	GO:0000428~DNA-directed RNA polymerase complex
+XM_011449340	GO:1990904~ribonucleoprotein complex
+XM_011449425	GO:0044433~cytoplasmic vesicle part
+XM_011449425	GO:0030117~membrane coat
+XM_011449425	GO:0030120~vesicle coat
+XM_011449482	GO:0044432~endoplasmic reticulum part
+XM_011449481	GO:0005789~endoplasmic reticulum membrane
+XM_011450667	GO:0045259~proton-transporting ATP synthase complex
+XM_011450667	GO:0033178~proton-transporting two-sector ATPase complex, catalytic domain
+XM_011451251	GO:0030915~Smc5-Smc6 complex
+XM_011451755	GO:0099512~supramolecular fiber
+XM_011452031	GO:0030054~cell junction
+XM_011452035	GO:0098794~postsynapse
+XM_011452207	GO:0044432~endoplasmic reticulum part
+XM_011452266	GO:0000502~proteasome complex
+AB262085	GO:0005783~endoplasmic reticulum
+XM_011452363	GO:0098590~plasma membrane region
+XM_011453222	GO:0005654~nucleoplasm
+XM_011453603	GO:0030529~intracellular ribonucleoprotein complex
+XM_011453611	GO:0030529~intracellular ribonucleoprotein complex
+XM_011454123	GO:0031975~envelope
+NM_001305290	GO:0031966~mitochondrial membrane
+XM_011454321	GO:1990904~ribonucleoprotein complex
+XM_011454629	GO:0019028~viral capsid
+XM_011454804	GO:0005838~proteasome regulatory particle
+XM_011451035	GO:0005739~mitochondrion
+XM_011452029	GO:0045211~postsynaptic membrane
+XM_011452031	GO:0098794~postsynapse
+XM_011452036	GO:0044456~synapse part
+XM_011452145	GO:1902911~protein kinase complex
+XM_011452363	GO:0045211~postsynaptic membrane
+XM_011452365	GO:0045211~postsynaptic membrane
+XM_011452440	GO:1990904~ribonucleoprotein complex
+XM_011452616	GO:0044451~nucleoplasm part
+NM_001305317	GO:0005615~extracellular space
+XM_011452747	GO:0044421~extracellular region part
+XM_011452857	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011453082	GO:0000139~Golgi membrane
+XM_011453223	GO:0031248~protein acetyltransferase complex
+XM_011453223	GO:0000123~histone acetyltransferase complex
+XM_011453389	GO:0044427~chromosomal part
+XM_011453603	GO:1990904~ribonucleoprotein complex
+XM_011455439	GO:1990904~ribonucleoprotein complex
+XM_011455768	GO:0099513~polymeric cytoskeletal fiber
+XM_011455767	GO:0099513~polymeric cytoskeletal fiber
+XM_011455981	GO:0030529~intracellular ribonucleoprotein complex
+XM_011457064	GO:0005840~ribosome
+XM_011457064	GO:0015935~small ribosomal subunit
+NM_001305376	GO:0005840~ribosome
+AB199894	GO:0005840~ribosome
+EU152936	GO:1990904~ribonucleoprotein complex
+AY852246	GO:0044391~ribosomal subunit
+XM_011457830	GO:0044391~ribosomal subunit
+XM_011457955	GO:0005840~ribosome
+XM_011458156	GO:0005739~mitochondrion
+XM_011458358	GO:0005576~extracellular region
+XM_011458560	GO:0044429~mitochondrial part
+XM_011458601	GO:0031226~intrinsic component of plasma membrane
+NM_001308878	GO:0005667~transcription factor complex
+XM_011455430	GO:0005839~proteasome core complex
+XM_011456037	GO:0005840~ribosome
+XM_011456099	GO:0032993~protein-DNA complex
+XM_011456382	GO:0099512~supramolecular fiber
+XM_011456571	GO:0005852~eukaryotic translation initiation factor 3 complex
+AY852246	GO:0015935~small ribosomal subunit
+XM_011457903	GO:0016459~myosin complex
+XM_011457955	GO:0030529~intracellular ribonucleoprotein complex
+XM_011458193	GO:0005840~ribosome
+XM_011414118	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011414116	GO:1902911~protein kinase complex
+XM_011414346	GO:0005740~mitochondrial envelope
+XM_011414346	GO:0005739~mitochondrion
+XM_011414346	GO:0044455~mitochondrial membrane part
+XM_011414347	GO:0005654~nucleoplasm
+XM_011414347	GO:0044451~nucleoplasm part
+XM_011414347	GO:0016592~mediator complex
+XM_011414364	GO:0030529~intracellular ribonucleoprotein complex
+XM_011414364	GO:1990904~ribonucleoprotein complex
+XM_011415107	GO:0005783~endoplasmic reticulum
+XM_011415103	GO:0005789~endoplasmic reticulum membrane
+XM_011415104	GO:0005789~endoplasmic reticulum membrane
+XM_011415110	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011415316	GO:1990351~transporter complex
+XM_011415315	GO:1902495~transmembrane transporter complex
+XM_011415317	GO:1990351~transporter complex
+XM_011415317	GO:0008076~voltage-gated potassium channel complex
+XM_011415310	GO:0008076~voltage-gated potassium channel complex
+XM_011415319	GO:0005887~integral component of plasma membrane
+XM_011415395	GO:0033178~proton-transporting two-sector ATPase complex, catalytic domain
+XM_011415394	GO:0005773~vacuole
+XM_011418337	GO:0000785~chromatin
+XM_011418337	GO:0032993~protein-DNA complex
+XM_011415467	GO:0044423~virion part
+XM_011415467	GO:0019012~virion
+XM_011417264	GO:0016514~SWI/SNF complex
+XM_011415868	GO:0005694~chromosome
+XM_011416268	GO:0031966~mitochondrial membrane
+XM_011415907	GO:0044427~chromosomal part
+XM_011415907	GO:0005876~spindle microtubule
+XM_011415906	GO:0005876~spindle microtubule
+XM_011415907	GO:0000779~condensed chromosome, centromeric region
+XM_011415906	GO:0098687~chromosomal region
+XM_011415907	GO:0005694~chromosome
+XM_011415906	GO:0015630~microtubule cytoskeleton
+XM_011415907	GO:0000775~chromosome, centromeric region
+XM_011416540	GO:0005739~mitochondrion
+XM_011416560	GO:0030529~intracellular ribonucleoprotein complex
+XM_011416877	GO:1990904~ribonucleoprotein complex
+XM_011416888	GO:0034705~potassium channel complex
+XM_011417875	GO:0008023~transcription elongation factor complex
+XM_011416888	GO:0034702~ion channel complex
+XM_011417728	GO:0090544~BAF-type complex
+XM_011417217	GO:0005840~ribosome
+XM_011417764	GO:0005576~extracellular region
+XM_011417884	GO:0030529~intracellular ribonucleoprotein complex
+XM_011418358	GO:0044815~DNA packaging complex
+XM_011418340	GO:0000785~chromatin
+XM_011418342	GO:0005694~chromosome
+XM_011418345	GO:0044427~chromosomal part
+XM_011418352	GO:0005694~chromosome
+XM_011418703	GO:0044451~nucleoplasm part
+XM_011419375	GO:0044432~endoplasmic reticulum part
+XM_011419776	GO:0005783~endoplasmic reticulum
+XM_011420347	GO:0031226~intrinsic component of plasma membrane
+XM_011421870	GO:0030529~intracellular ribonucleoprotein complex
+XM_011422227	GO:0030662~coated vesicle membrane
+XM_011418517	GO:0031968~organelle outer membrane
+XM_011418777	GO:0099513~polymeric cytoskeletal fiber
+XM_011419504	GO:0030054~cell junction
+XM_011419776	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011420945	GO:0031012~extracellular matrix
+XM_011421160	GO:0005667~transcription factor complex
+XM_011421257	GO:0030054~cell junction
+XM_011421266	GO:0030054~cell junction
+XM_011421264	GO:0005911~cell-cell junction
+XM_011421308	GO:0005576~extracellular region
+XM_011421384	GO:0044451~nucleoplasm part
+XM_011421869	GO:0005681~spliceosomal complex
+XM_011422049	GO:0005743~mitochondrial inner membrane
+XM_011422049	GO:0031975~envelope
+XM_011422050	GO:0005840~ribosome
+XM_011422050	GO:1990904~ribonucleoprotein complex
+AB199896	GO:0005840~ribosome
+XM_011422220	GO:0034705~potassium channel complex
+XM_011422219	GO:0005887~integral component of plasma membrane
+XM_011422227	GO:0030135~coated vesicle
+XM_011423161	GO:0015629~actin cytoskeleton
+XM_011423268	GO:0005730~nucleolus
+XM_011424139	GO:0030529~intracellular ribonucleoprotein complex
+XM_011424595	GO:0005740~mitochondrial envelope
+XM_011424595	GO:0044429~mitochondrial part
+XM_011424753	GO:0044423~virion part
+XM_011424863	GO:0005739~mitochondrion
+XM_011425146	GO:0045121~membrane raft
+XM_011425147	GO:0044853~plasma membrane raft
+XM_011425150	GO:0098589~membrane region
+XM_011425152	GO:0098857~membrane microdomain
+XM_011425202	GO:0015629~actin cytoskeleton
+XM_011425226	GO:0005576~extracellular region
+XM_011425247	GO:0044455~mitochondrial membrane part
+XM_011425244	GO:0005741~mitochondrial outer membrane
+XM_011425245	GO:0098573~intrinsic component of mitochondrial membrane
+XM_011422503	GO:0044427~chromosomal part
+XM_011422560	GO:0030529~intracellular ribonucleoprotein complex
+AJ563478	GO:0005840~ribosome
+XM_011422560	GO:0005840~ribosome
+XM_011422578	GO:0030915~Smc5-Smc6 complex
+XM_011422620	GO:1902495~transmembrane transporter complex
+XM_011422636	GO:0005667~transcription factor complex
+XM_011422637	GO:0005667~transcription factor complex
+AJ563455	GO:0015935~small ribosomal subunit
+XM_011423579	GO:0005875~microtubule associated complex
+XM_011423657	GO:1902493~acetyltransferase complex
+XM_011424595	GO:0005753~mitochondrial proton-transporting ATP synthase complex
+XM_011424775	GO:0042579~microbody
+XM_011425146	GO:0005794~Golgi apparatus
+XM_011425148	GO:0044431~Golgi apparatus part
+XM_011425149	GO:0000139~Golgi membrane
+XM_011425153	GO:0005901~caveola
+XM_011425246	GO:0031301~integral component of organelle membrane
+XM_011425247	GO:0031300~intrinsic component of organelle membrane
+XM_011425244	GO:0031967~organelle envelope
+XM_011425244	GO:0031301~integral component of organelle membrane
+XM_011425426	GO:0015629~actin cytoskeleton
+XM_011425533	GO:0016272~prefoldin complex
+XM_011425618	GO:0034702~ion channel complex
+XM_011425488	GO:1990904~ribonucleoprotein complex
+XM_011425625	GO:0034705~potassium channel complex
+XM_011425618	GO:0005887~integral component of plasma membrane
+XM_011425604	GO:1902495~transmembrane transporter complex
+XM_011425618	GO:1990351~transporter complex
+XM_011425612	GO:1902495~transmembrane transporter complex
+XM_011425648	GO:0034702~ion channel complex
+XM_011425648	GO:0031226~intrinsic component of plasma membrane
+XM_011426514	GO:1990904~ribonucleoprotein complex
+EU108719	GO:0005840~ribosome
+EU108719	GO:1990904~ribonucleoprotein complex
+XM_011426529	GO:0032993~protein-DNA complex
+XM_011426730	GO:0005739~mitochondrion
+XM_011426787	GO:0030529~intracellular ribonucleoprotein complex
+XM_011426940	GO:0044429~mitochondrial part
+XM_011426940	GO:0005740~mitochondrial envelope
+XM_011427731	GO:0005911~cell-cell junction
+XM_011428467	GO:0031252~cell leading edge
+XM_011428460	GO:0031252~cell leading edge
+XM_011428457	GO:0031252~cell leading edge
+XM_011428464	GO:0031252~cell leading edge
+XM_011428461	GO:0031252~cell leading edge
+XM_011425648	GO:1990351~transporter complex
+XM_011426529	GO:0044815~DNA packaging complex
+NM_001305288	GO:0005576~extracellular region
+JQ613282	GO:0005576~extracellular region
+JQ619625	GO:0005576~extracellular region
+XM_011426788	GO:0005732~small nucleolar ribonucleoprotein complex
+XM_011426880	GO:0030529~intracellular ribonucleoprotein complex
+XM_011426880	GO:1990904~ribonucleoprotein complex
+XM_011427406	GO:0005654~nucleoplasm
+AB199897	GO:0030529~intracellular ribonucleoprotein complex
+XM_011427731	GO:0030054~cell junction
+XM_011427918	GO:0015630~microtubule cytoskeleton
+XM_011427916	GO:0015630~microtubule cytoskeleton
+XM_011427934	GO:0005694~chromosome
+XM_011428959	GO:0016592~mediator complex
+XM_011429591	GO:0030135~coated vesicle
+XM_011429591	GO:0048475~coated membrane
+XM_011429591	GO:0030658~transport vesicle membrane
+XM_011429592	GO:0030660~Golgi-associated vesicle membrane
+XM_011430200	GO:0005788~endoplasmic reticulum lumen
+XM_011430237	GO:0000502~proteasome complex
+XM_011430288	GO:0034703~cation channel complex
+XM_011430694	GO:0005743~mitochondrial inner membrane
+XM_011430694	GO:0044455~mitochondrial membrane part
+XM_011430746	GO:0000502~proteasome complex
+XM_011430791	GO:0031966~mitochondrial membrane
+XM_011430791	GO:0070469~respiratory chain
+XM_011431026	GO:0016591~DNA-directed RNA polymerase II, holoenzyme
+XM_011431114	GO:0012507~ER to Golgi transport vesicle membrane
+XM_011431114	GO:0030658~transport vesicle membrane
+XM_011431117	GO:0030134~ER to Golgi transport vesicle
+XM_011431115	GO:0030659~cytoplasmic vesicle membrane
+XM_011431115	GO:0016023~cytoplasmic, membrane-bounded vesicle
+XM_011431295	GO:0034704~calcium channel complex
+XM_011431291	GO:0034704~calcium channel complex
+XM_011431291	GO:1990351~transporter complex
+XM_011431296	GO:1902495~transmembrane transporter complex
+XM_011431296	GO:1990351~transporter complex
+XM_011431288	GO:1902495~transmembrane transporter complex
+XM_011431288	GO:0034703~cation channel complex
+XM_011431288	GO:1990351~transporter complex
+XM_011431783	GO:0031226~intrinsic component of plasma membrane
+XM_011429592	GO:0030662~coated vesicle membrane
+XM_011430126	GO:0005930~axoneme
+XM_011430351	GO:0044438~microbody part
+XM_011431114	GO:0012506~vesicle membrane
+XM_011430694	GO:0019898~extrinsic component of membrane
+XM_011430791	GO:1990204~oxidoreductase complex
+XM_011430960	GO:0099513~polymeric cytoskeletal fiber
+XM_011431026	GO:0055029~nuclear DNA-directed RNA polymerase complex
+XM_011431057	GO:0044429~mitochondrial part
+XM_011431117	GO:0048475~coated membrane
+XM_011431288	GO:0005891~voltage-gated calcium channel complex
+XM_011431668	GO:0005783~endoplasmic reticulum
+XM_011431717	GO:0005840~ribosome
+XM_011432077	GO:0005952~cAMP-dependent protein kinase complex
+XM_011432075	GO:0005952~cAMP-dependent protein kinase complex
+XM_011432077	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011432074	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011432376	GO:0030529~intracellular ribonucleoprotein complex
+XM_011432509	GO:1902493~acetyltransferase complex
+XM_011433811	GO:0000785~chromatin
+XM_011433811	GO:0000786~nucleosome
+XM_011434209	GO:0031966~mitochondrial membrane
+XM_011434209	GO:1990204~oxidoreductase complex
+XM_011434355	GO:0005680~anaphase-promoting complex
+XM_011434355	GO:0000151~ubiquitin ligase complex
+AB196534	GO:0099512~supramolecular fiber
+XM_011433962	GO:0015630~microtubule cytoskeleton
+XM_011434209	GO:0019866~organelle inner membrane
+XM_011434355	GO:0031461~cullin-RING ubiquitin ligase complex
+XM_011434433	GO:0005654~nucleoplasm
+XM_011434583	GO:0000428~DNA-directed RNA polymerase complex
+XM_011434583	GO:0008023~transcription elongation factor complex
+XM_011434667	GO:0030529~intracellular ribonucleoprotein complex
+XM_011434667	GO:1990904~ribonucleoprotein complex
+XM_011435166	GO:0098798~mitochondrial protein complex
+XM_011435166	GO:0005760~gamma DNA polymerase complex
+XM_011435166	GO:0005739~mitochondrion
+XM_011435213	GO:0044421~extracellular region part
+XM_011435213	GO:0005576~extracellular region
+XM_011435232	GO:0030529~intracellular ribonucleoprotein complex
+XM_011435583	GO:0005887~integral component of plasma membrane
+XM_011435602	GO:0044429~mitochondrial part
+XM_011436470	GO:0005890~sodium:potassium-exchanging ATPase complex
+XM_011436525	GO:0030991~intraciliary transport particle A
+XM_011436617	GO:0008623~CHRAC
+XR_901040	GO:0044432~endoplasmic reticulum part
+XM_011437162	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011437627	GO:0019013~viral nucleocapsid
+XM_011437718	GO:0000139~Golgi membrane
+EU152921	GO:0098857~membrane microdomain
+XM_011435233	GO:0019013~viral nucleocapsid
+XM_011435260	GO:0005834~heterotrimeric G-protein complex
+XM_011435455	GO:0005739~mitochondrion
+XM_011435456	GO:0031967~organelle envelope
+XM_011436009	GO:0005740~mitochondrial envelope
+XM_011436009	GO:0005739~mitochondrion
+KF927126	GO:0044421~extracellular region part
+XM_011436179	GO:0005869~dynactin complex
+XM_011436415	GO:0019012~virion
+XM_011436417	GO:0044423~virion part
+XM_011436416	GO:0019028~viral capsid
+XM_011436413	GO:0019028~viral capsid
+XM_011436417	GO:0019028~viral capsid
+XR_900959	GO:0019028~viral capsid
+XM_011437162	GO:0005789~endoplasmic reticulum membrane
+XM_011437718	GO:0098590~plasma membrane region
+XM_011437718	GO:0045121~membrane raft
+EU152921	GO:0098589~membrane region
+XM_011438204	GO:0005773~vacuole
+XM_011438663	GO:0005773~vacuole
+XM_011438663	GO:0016023~cytoplasmic, membrane-bounded vesicle
+XM_011438662	GO:0005768~endosome
+XM_011438662	GO:0044431~Golgi apparatus part
+XM_011438261	GO:0005643~nuclear pore
+XM_011438261	GO:0031975~envelope
+XM_011438261	GO:0005635~nuclear envelope
+XM_011438663	GO:0030136~clathrin-coated vesicle
+XM_011438662	GO:0030135~coated vesicle
+AJ563464	GO:0005840~ribosome
+XM_011439437	GO:0055029~nuclear DNA-directed RNA polymerase complex
+XM_011439869	GO:0030529~intracellular ribonucleoprotein complex
+XM_011439915	GO:1990351~transporter complex
+XM_011440116	GO:0098791~Golgi subcompartment
+XM_011440116	GO:0030119~AP-type membrane coat adaptor complex
+XM_011440948	GO:0099512~supramolecular fiber
+NM_001305333	GO:0005783~endoplasmic reticulum
+XM_011442462	GO:0015629~actin cytoskeleton
+XM_011442462	GO:0016459~myosin complex
+XM_011442777	GO:0044432~endoplasmic reticulum part
+AJ563464	GO:0030529~intracellular ribonucleoprotein complex
+XM_011439915	GO:0034705~potassium channel complex
+XM_011440116	GO:0048475~coated membrane
+XM_011440116	GO:0005802~trans-Golgi network
+XM_011440246	GO:0031012~extracellular matrix
+XM_011440263	GO:0005789~endoplasmic reticulum membrane
+XM_011440948	GO:0099513~polymeric cytoskeletal fiber
+XM_011440948	GO:0005874~microtubule
+XM_011441088	GO:0097346~INO80-type complex
+XM_011442245	GO:0000139~Golgi membrane
+XM_011442246	GO:0000139~Golgi membrane
+XM_011442246	GO:0005794~Golgi apparatus
+XM_011442777	GO:0005783~endoplasmic reticulum
+XM_011443430	GO:0000428~DNA-directed RNA polymerase complex
+XM_011443506	GO:0005911~cell-cell junction
+XM_011443537	GO:0044815~DNA packaging complex
+XM_011443536	GO:0044427~chromosomal part
+XM_011443538	GO:0044427~chromosomal part
+XM_011442942	GO:0005667~transcription factor complex
+XM_011443505	GO:0005921~gap junction
+XM_011443512	GO:0005921~gap junction
+XM_011443536	GO:0000785~chromatin
+XM_011443584	GO:0005730~nucleolus
+XM_011444359	GO:0016607~nuclear speck
+NM_001305296	GO:0031968~organelle outer membrane
+XM_011444791	GO:0005929~cilium
+XM_011445281	GO:0045335~phagocytic vesicle
+XM_011445281	GO:0030139~endocytic vesicle
+XM_011446360	GO:0031984~organelle subcompartment
+AJ563469	GO:0043527~tRNA methyltransferase complex
+XM_011443768	GO:0005874~microtubule
+NM_001305296	GO:0005739~mitochondrion
+NM_001305296	GO:0044429~mitochondrial part
+XM_011445270	GO:0045111~intermediate filament cytoskeleton
+XM_011445341	GO:0005901~caveola
+XM_011445511	GO:0042579~microbody
+XM_011445536	GO:0031226~intrinsic component of plasma membrane
+XM_011445539	GO:0005887~integral component of plasma membrane
+XM_011445540	GO:0005887~integral component of plasma membrane
+XM_011445879	GO:0034464~BBSome
+XM_011445890	GO:0005840~ribosome
+XM_011446413	GO:0044451~nucleoplasm part
+XM_011446434	GO:0031515~tRNA (m1A) methyltransferase complex
+AJ563463	GO:0030529~intracellular ribonucleoprotein complex
+XM_011447682	GO:0044451~nucleoplasm part
+XM_011447763	GO:0031975~envelope
+EU152950	GO:0005840~ribosome
+XM_011447406	GO:0005783~endoplasmic reticulum
+XM_011447676	GO:0000139~Golgi membrane
+XM_011447682	GO:0005654~nucleoplasm
+XM_011447681	GO:0016592~mediator complex
+XM_011447763	GO:0044429~mitochondrial part
+XM_011447763	GO:0031967~organelle envelope
+XM_011447946	GO:0016602~CCAAT-binding factor complex
+NM_001305369	GO:1990904~ribonucleoprotein complex
+XM_011449118	GO:0005576~extracellular region
+XM_011449326	GO:0044451~nucleoplasm part
+NM_001305352	GO:0005840~ribosome
+XM_011449426	GO:0030125~clathrin vesicle coat
+XM_011449582	GO:0044427~chromosomal part
+AJ563459	GO:1990904~ribonucleoprotein complex
+XM_011450117	GO:0005853~eukaryotic translation elongation factor 1 complex
+XM_011450240	GO:0099512~supramolecular fiber
+XM_011450548	GO:0015630~microtubule cytoskeleton
+NM_001308861	GO:0015629~actin cytoskeleton
+XM_011450928	GO:0031967~organelle envelope
+XM_011450928	GO:0044429~mitochondrial part
+XM_011448076	GO:0044441~ciliary part
+XM_011449054	GO:0031967~organelle envelope
+XM_011449220	GO:0044427~chromosomal part
+XM_011449326	GO:0005654~nucleoplasm
+XM_011449425	GO:0030660~Golgi-associated vesicle membrane
+XM_011449425	GO:0030665~clathrin-coated vesicle membrane
+XM_011449481	GO:0044432~endoplasmic reticulum part
+XM_011449482	GO:0005789~endoplasmic reticulum membrane
+XM_011449985	GO:0030008~TRAPP complex
+XM_011450240	GO:0005874~microtubule
+XM_011450667	GO:0045261~proton-transporting ATP synthase complex, catalytic core F(1)
+XM_011450792	GO:0019012~virion
+XM_011450792	GO:1990904~ribonucleoprotein complex
+XM_011451037	GO:0005576~extracellular region
+XM_011451087	GO:0005643~nuclear pore
+XM_011451087	GO:0005635~nuclear envelope
+XM_011452030	GO:0030131~clathrin adaptor complex
+XM_011452034	GO:0098794~postsynapse
+XM_011452036	GO:0030054~cell junction
+XM_011452115	GO:0032993~protein-DNA complex
+XM_011452365	GO:0030054~cell junction
+XM_011452365	GO:0098590~plasma membrane region
+XM_011453221	GO:1902493~acetyltransferase complex
+XM_011453426	GO:0005654~nucleoplasm
+XM_011453426	GO:0044451~nucleoplasm part
+XM_011453612	GO:1990904~ribonucleoprotein complex
+AY551099	GO:0016471~vacuolar proton-transporting V-type ATPase complex
+FJ872817	GO:0031975~envelope
+FJ872817	GO:0070469~respiratory chain
+FJ872817	GO:0005740~mitochondrial envelope
+XM_011454629	GO:0019012~virion
+XM_011451086	GO:0031975~envelope
+XM_011451087	GO:0031975~envelope
+XM_011451756	GO:0005840~ribosome
+XM_011451859	GO:0031988~membrane-bounded vesicle
+XM_011452033	GO:0098590~plasma membrane region
+XM_011452033	GO:0044456~synapse part
+XM_011452034	GO:0044456~synapse part
+XM_011452032	GO:0044456~synapse part
+XM_011452144	GO:0061695~transferase complex, transferring phosphorus-containing groups
+NM_001305317	GO:0044421~extracellular region part
+XM_011453285	GO:0042555~MCM complex
+XM_011455768	GO:0015630~microtubule cytoskeleton
+XM_011455769	GO:0015630~microtubule cytoskeleton
+XM_011455769	GO:0099513~polymeric cytoskeletal fiber
+XM_011456100	GO:0000785~chromatin
+XM_011456100	GO:0044427~chromosomal part
+XM_011456099	GO:0044815~DNA packaging complex
+XM_011456098	GO:0000785~chromatin
+XM_011456173	GO:0005578~proteinaceous extracellular matrix
+XM_011456571	GO:1990904~ribonucleoprotein complex
+XM_011456795	GO:0044451~nucleoplasm part
+NM_001305367	GO:0005840~ribosome
+XM_011457064	GO:0030529~intracellular ribonucleoprotein complex
+AB199894	GO:0015935~small ribosomal subunit
+XM_011457920	GO:0045202~synapse
+XM_011457920	GO:0098590~plasma membrane region
+XM_011458572	GO:0019028~viral capsid
+XM_011458601	GO:0005887~integral component of plasma membrane
+XM_011454970	GO:0005667~transcription factor complex
+XM_011455670	GO:0042579~microbody
+XM_011455768	GO:0005874~microtubule
+XM_011455767	GO:0005874~microtubule
+XM_011455981	GO:0019013~viral nucleocapsid
+XM_011456006	GO:0032993~protein-DNA complex
+XM_011456099	GO:0000786~nucleosome
+XM_011456100	GO:0005694~chromosome
+AJ563480	GO:1990904~ribonucleoprotein complex
+XM_011413926	GO:0005840~ribosome
+XM_011414250	GO:0044427~chromosomal part
+XM_011414318	GO:0005681~spliceosomal complex
+XM_011414346	GO:0098798~mitochondrial protein complex
+XM_011414346	GO:0031966~mitochondrial membrane
+XM_011414358	GO:0000139~Golgi membrane
+XM_011414373	GO:0000139~Golgi membrane
+XM_011415016	GO:0034518~RNA cap binding complex
+XM_011415109	GO:0044432~endoplasmic reticulum part
+XM_011415102	GO:0005783~endoplasmic reticulum
+XM_011415109	GO:0005783~endoplasmic reticulum
+XM_011415104	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011415111	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011415107	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011415311	GO:0005887~integral component of plasma membrane
+XM_011415311	GO:0008076~voltage-gated potassium channel complex
+XM_011415309	GO:0034705~potassium channel complex
+XM_011415316	GO:0034703~cation channel complex
+XM_011415315	GO:0031226~intrinsic component of plasma membrane
+XM_011415315	GO:0034705~potassium channel complex
+XM_011415317	GO:1902495~transmembrane transporter complex
+XM_011415317	GO:0034702~ion channel complex
+XM_011415310	GO:0005887~integral component of plasma membrane
+XM_011415312	GO:0031226~intrinsic component of plasma membrane
+XM_011415313	GO:1902495~transmembrane transporter complex
+XM_011415313	GO:1990351~transporter complex
+XM_011415313	GO:0005887~integral component of plasma membrane
+XM_011415313	GO:0031226~intrinsic component of plasma membrane
+XM_011415314	GO:1902495~transmembrane transporter complex
+XM_011415314	GO:0034702~ion channel complex
+XM_011415319	GO:0034703~cation channel complex
+XM_011415396	GO:0033178~proton-transporting two-sector ATPase complex, catalytic domain
+XM_011415396	GO:0005773~vacuole
+XM_011415395	GO:0044437~vacuolar part
+XM_011415395	GO:0033176~proton-transporting V-type ATPase complex
+XM_011415397	GO:0005773~vacuole
+XM_011415397	GO:0044437~vacuolar part
+XM_011415397	GO:0033176~proton-transporting V-type ATPase complex
+XM_011415397	GO:0016471~vacuolar proton-transporting V-type ATPase complex
+XM_011417339	GO:0016514~SWI/SNF complex
+XM_011415510	GO:0044429~mitochondrial part
+XM_011415869	GO:0030896~checkpoint clamp complex
+XM_011415869	GO:0000228~nuclear chromosome
+XM_011415906	GO:0000779~condensed chromosome, centromeric region
+XM_011415906	GO:0000793~condensed chromosome
+XM_011415906	GO:0000777~condensed chromosome kinetochore
+XM_011415906	GO:0000776~kinetochore
+XM_011415906	GO:0099513~polymeric cytoskeletal fiber
+XM_011415906	GO:0099512~supramolecular fiber
+XM_011415928	GO:0005789~endoplasmic reticulum membrane
+XM_011416268	GO:0044429~mitochondrial part
+XM_011416540	GO:0031312~extrinsic component of organelle membrane
+XM_011416852	GO:0043527~tRNA methyltransferase complex
+XM_011416888	GO:0005887~integral component of plasma membrane
+XM_011416944	GO:0042579~microbody
+XM_011417129	GO:0031975~envelope
+XM_011417188	GO:0070603~SWI/SNF superfamily-type complex
+XM_011417339	GO:0090544~BAF-type complex
+XM_011417421	GO:0005576~extracellular region
+XM_011417662	GO:0098791~Golgi subcompartment
+XM_011417663	GO:0005795~Golgi stack
+XM_011417663	GO:0044431~Golgi apparatus part
+XM_011417662	GO:0031985~Golgi cisterna
+XM_011418243	GO:0005777~peroxisome
+XM_011418337	GO:0005694~chromosome
+XM_011418339	GO:0000786~nucleosome
+XM_011418343	GO:0032993~protein-DNA complex
+XM_011418348	GO:0044815~DNA packaging complex
+XM_011418349	GO:0044427~chromosomal part
+XM_011418353	GO:0032993~protein-DNA complex
+XM_011418356	GO:0000786~nucleosome
+XM_011418341	GO:0032993~protein-DNA complex
+XM_011418345	GO:0000786~nucleosome
+XM_011418345	GO:0005694~chromosome
+XM_011418348	GO:0000786~nucleosome
+XM_011418348	GO:0000785~chromatin
+XM_011418352	GO:0044815~DNA packaging complex
+XM_011418353	GO:0000785~chromatin
+XM_011418360	GO:0044427~chromosomal part
+XM_011418361	GO:0000785~chromatin
+XM_011419379	GO:0044432~endoplasmic reticulum part
+XM_011420347	GO:0008076~voltage-gated potassium channel complex
+XM_011420945	GO:0005576~extracellular region
+XM_011421291	GO:0000502~proteasome complex
+XM_011422051	GO:0005576~extracellular region
+XM_011422145	GO:0030529~intracellular ribonucleoprotein complex
+XM_011422145	GO:1990904~ribonucleoprotein complex
+XM_011418517	GO:0005739~mitochondrion
+XM_011418543	GO:0030529~intracellular ribonucleoprotein complex
+XM_011419364	GO:0005887~integral component of plasma membrane
+XM_011419859	GO:0005840~ribosome
+XM_011419374	GO:0005783~endoplasmic reticulum
+XM_011419377	GO:0005789~endoplasmic reticulum membrane
+XM_011419375	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011419374	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011419488	GO:0042579~microbody
+XM_011419576	GO:1990904~ribonucleoprotein complex
+XM_011420016	GO:0005576~extracellular region
+XM_011420293	GO:1902495~transmembrane transporter complex
+XM_011420341	GO:0016363~nuclear matrix
+XM_011420347	GO:1990351~transporter complex
+XM_011421157	GO:0005667~transcription factor complex
+XM_011421159	GO:0005667~transcription factor complex
+XM_011421259	GO:0005921~gap junction
+XM_011421266	GO:0005921~gap junction
+XM_011421265	GO:0030054~cell junction
+XM_011421291	GO:0019773~proteasome core complex, alpha-subunit complex
+XM_011421291	GO:0005839~proteasome core complex
+XM_011421384	GO:0005654~nucleoplasm
+XM_011421758	GO:0044815~DNA packaging complex
+XM_011421827	GO:1990316~ATG1/ULK1 kinase complex
+XM_011421870	GO:0005732~small nucleolar ribonucleoprotein complex
+XM_011422049	GO:0005739~mitochondrion
+XM_011422049	GO:0019866~organelle inner membrane
+XM_011422048	GO:0031975~envelope
+XM_011422219	GO:1902495~transmembrane transporter complex
+XM_011422227	GO:0044431~Golgi apparatus part
+XM_011422227	GO:0031988~membrane-bounded vesicle
+XM_011422539	GO:0030286~dynein complex
+XM_011422578	GO:0044427~chromosomal part
+XM_011422620	GO:0098533~ATPase dependent transmembrane transport complex
+XM_011422990	GO:0044427~chromosomal part
+XM_011423273	GO:0005739~mitochondrion
+XM_011424595	GO:0031967~organelle envelope
+XM_011424754	GO:0030529~intracellular ribonucleoprotein complex
+XM_011425146	GO:0044431~Golgi apparatus part
+XM_011425146	GO:0000139~Golgi membrane
+XM_011425153	GO:0098857~membrane microdomain
+XM_011425245	GO:0044455~mitochondrial membrane part
+XM_011422612	GO:0030529~intracellular ribonucleoprotein complex
+XM_011422560	GO:1990904~ribonucleoprotein complex
+XM_011422578	GO:0005694~chromosome
+XM_011422611	GO:0005840~ribosome
+XM_011422669	GO:1990904~ribonucleoprotein complex
+XM_011423389	GO:0005794~Golgi apparatus
+AJ563455	GO:0022627~cytosolic small ribosomal subunit
+XM_011423577	GO:0015630~microtubule cytoskeleton
+XM_011423657	GO:0031248~protein acetyltransferase complex
+XM_011423657	GO:0005654~nucleoplasm
+XM_011424595	GO:0033177~proton-transporting two-sector ATPase complex, proton-transporting domain
+XM_011424595	GO:0031966~mitochondrial membrane
+XM_011424754	GO:1990904~ribonucleoprotein complex
+XM_011425148	GO:0005794~Golgi apparatus
+XM_011425150	GO:0044853~plasma membrane raft
+XM_011425150	GO:0098590~plasma membrane region
+XM_011425150	GO:0045121~membrane raft
+XM_011425152	GO:0098589~membrane region
+XM_011425202	GO:0005869~dynactin complex
+XM_011425246	GO:0031966~mitochondrial membrane
+XM_011425246	GO:0031306~intrinsic component of mitochondrial outer membrane
+XM_011425245	GO:0031306~intrinsic component of mitochondrial outer membrane
+XM_011425245	GO:0031301~integral component of organelle membrane
+XM_011425416	GO:0005783~endoplasmic reticulum
+XM_011425415	GO:0005783~endoplasmic reticulum
+XM_011425425	GO:0015629~actin cytoskeleton
+XM_011425604	GO:0034702~ion channel complex
+XM_011425604	GO:0034705~potassium channel complex
+XM_011425604	GO:0008076~voltage-gated potassium channel complex
+XM_011425625	GO:1902495~transmembrane transporter complex
+XM_011425633	GO:0031226~intrinsic component of plasma membrane
+XM_011425633	GO:0008076~voltage-gated potassium channel complex
+XM_011425633	GO:1902495~transmembrane transporter complex
+XM_011425612	GO:0034702~ion channel complex
+XM_011425612	GO:0034703~cation channel complex
+XM_011426514	GO:0005840~ribosome
+XM_011426857	GO:0044451~nucleoplasm part
+XM_011427740	GO:0005921~gap junction
+XM_011427916	GO:0044450~microtubule organizing center part
+XM_011427917	GO:0005813~centrosome
+XM_011427934	GO:0032993~protein-DNA complex
+XM_011427934	GO:0000785~chromatin
+XM_011428463	GO:0030027~lamellipodium
+XM_011428463	GO:0031252~cell leading edge
+XM_011428469	GO:0030027~lamellipodium
+XM_011428469	GO:0031252~cell leading edge
+XM_011428467	GO:0030027~lamellipodium
+XM_011428459	GO:0030027~lamellipodium
+XM_011428466	GO:0030027~lamellipodium
+XM_011429351	GO:0099512~supramolecular fiber
+XM_011426308	GO:0031967~organelle envelope
+XM_011426308	GO:0005739~mitochondrion
+JQ355006	GO:0005576~extracellular region
+XM_011426721	GO:0005576~extracellular region
+XM_011426940	GO:0031966~mitochondrial membrane
+XM_011427398	GO:0000123~histone acetyltransferase complex
+XM_011427418	GO:0030684~preribosome
+XM_011427418	GO:0030529~intracellular ribonucleoprotein complex
+XM_011427418	GO:0030687~preribosome, large subunit precursor
+AB199897	GO:0005840~ribosome
+XM_011429591	GO:0030660~Golgi-associated vesicle membrane
+XM_011429592	GO:0048475~coated membrane
+XM_011429592	GO:0044433~cytoplasmic vesicle part
+XM_011430288	GO:0005887~integral component of plasma membrane
+XM_011430694	GO:0005739~mitochondrion
+XM_011430791	GO:0031967~organelle envelope
+XM_011430791	GO:0005750~mitochondrial respiratory chain complex III
+XM_011431057	GO:0005739~mitochondrion
+XM_011431057	GO:0019867~outer membrane
+XM_011431114	GO:0030135~coated vesicle
+XM_011431116	GO:0030135~coated vesicle
+XM_011431117	GO:0030658~transport vesicle membrane
+XM_011431115	GO:0044433~cytoplasmic vesicle part
+XM_011431115	GO:0030134~ER to Golgi transport vesicle
+XM_011431289	GO:0034704~calcium channel complex
+XM_011431291	GO:1902495~transmembrane transporter complex
+XM_011431292	GO:1990351~transporter complex
+XM_011431294	GO:0034703~cation channel complex
+XM_011431668	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011429591	GO:0030659~cytoplasmic vesicle membrane
+XM_011429591	GO:0031988~membrane-bounded vesicle
+XM_011431116	GO:0030662~coated vesicle membrane
+XM_011429592	GO:0030665~clathrin-coated vesicle membrane
+XM_011430130	GO:0071821~FANCM-MHF complex
+XM_011430351	GO:0044439~peroxisomal part
+XM_011430351	GO:0042579~microbody
+XM_011430791	GO:0019866~organelle inner membrane
+XM_011430791	GO:0044455~mitochondrial membrane part
+XM_011431026	GO:0090575~RNA polymerase II transcription factor complex
+XM_011431114	GO:0030127~COPII vesicle coat
+XM_011431293	GO:0005891~voltage-gated calcium channel complex
+XM_011431666	GO:0044432~endoplasmic reticulum part
+XM_011431667	GO:0044432~endoplasmic reticulum part
+XM_011431784	GO:0005887~integral component of plasma membrane
+XM_011432075	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011432184	GO:0005875~microtubule associated complex
+XM_011432360	GO:0000176~nuclear exosome (RNase complex)
+XM_011432376	GO:1990904~ribonucleoprotein complex
+XM_011432509	GO:0000123~histone acetyltransferase complex
+XM_011432781	GO:0044427~chromosomal part
+AJ563460	GO:0015629~actin cytoskeleton
+XM_011433511	GO:0005794~Golgi apparatus
+XM_011433698	GO:0000151~ubiquitin ligase complex
+XM_011434209	GO:0030964~NADH dehydrogenase complex
+XM_011434878	GO:0097060~synaptic membrane
+XM_011433511	GO:0044431~Golgi apparatus part
+NM_001305363	GO:0015630~microtubule cytoskeleton
+AB196534	GO:0015630~microtubule cytoskeleton
+XM_011434433	GO:0030529~intracellular ribonucleoprotein complex
+XM_011434667	GO:0070993~translation preinitiation complex
+NM_001308902	GO:0005576~extracellular region
+XM_011435213	GO:0044420~extracellular matrix component
+XM_011435167	GO:0042575~DNA polymerase complex
+XM_011435211	GO:0031012~extracellular matrix
+XM_011435212	GO:0044421~extracellular region part
+XM_011435211	GO:0044420~extracellular matrix component
+XM_011435233	GO:0044423~virion part
+XM_011435233	GO:0019028~viral capsid
+XM_011435260	GO:0009898~cytoplasmic side of plasma membrane
+XM_011436009	GO:0019866~organelle inner membrane
+XM_011436009	GO:0044429~mitochondrial part
+XM_011436416	GO:0019013~viral nucleocapsid
+XM_011436417	GO:0019013~viral nucleocapsid
+XM_011436441	GO:0005730~nucleolus
+XM_011436470	GO:1902495~transmembrane transporter complex
+XM_011436523	GO:0030990~intraciliary transport particle
+XM_011436579	GO:0005887~integral component of plasma membrane
+XM_011437609	GO:0031984~organelle subcompartment
+XM_011435233	GO:0019012~virion
+XM_011435232	GO:0019012~virion
+XM_011435233	GO:0097525~spliceosomal snRNP complex
+XM_011435260	GO:0098552~side of membrane
+XM_011435349	GO:0005694~chromosome
+XM_011435602	GO:0031975~envelope
+XM_011436417	GO:0019012~virion
+XM_011436413	GO:0030529~intracellular ribonucleoprotein complex
+XM_011436416	GO:0044423~virion part
+XM_011436415	GO:0044423~virion part
+XM_011436415	GO:0019028~viral capsid
+XM_011436617	GO:0070603~SWI/SNF superfamily-type complex
+XM_011437162	GO:0005783~endoplasmic reticulum
+XM_011437609	GO:0032580~Golgi cisterna membrane
+XM_011437609	GO:0000139~Golgi membrane
+XM_011437609	GO:0005795~Golgi stack
+XM_011437652	GO:0005783~endoplasmic reticulum
+XM_011437717	GO:0000139~Golgi membrane
+XM_011437718	GO:0098857~membrane microdomain
+XM_011437719	GO:0044431~Golgi apparatus part
+XM_011437719	GO:0098589~membrane region
+XM_011438204	GO:0000323~lytic vacuole
+JN315144	GO:0005764~lysosome
+XM_011438495	GO:0008290~F-actin capping protein complex
+XM_011439437	GO:0005667~transcription factor complex
+XM_011439438	GO:0055029~nuclear DNA-directed RNA polymerase complex
+XM_011439505	GO:0032300~mismatch repair complex
+XM_011439869	GO:0022627~cytosolic small ribosomal subunit
+XM_011440013	GO:1990904~ribonucleoprotein complex
+XM_011440115	GO:0098791~Golgi subcompartment
+XM_011440115	GO:0030119~AP-type membrane coat adaptor complex
+XM_011440115	GO:0005794~Golgi apparatus
+XM_011440114	GO:0031984~organelle subcompartment
+XM_011440486	GO:0005787~signal peptidase complex
+XM_011440497	GO:0030054~cell junction
+XM_011440543	GO:0031988~membrane-bounded vesicle
+XM_011440678	GO:0030529~intracellular ribonucleoprotein complex
+XM_011440848	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011440949	GO:0099512~supramolecular fiber
+XM_011441088	GO:0005694~chromosome
+XM_011441256	GO:1990904~ribonucleoprotein complex
+XM_011441353	GO:0030054~cell junction
+XM_011441353	GO:0005911~cell-cell junction
+XM_011441411	GO:0030529~intracellular ribonucleoprotein complex
+XM_011442087	GO:0005789~endoplasmic reticulum membrane
+XM_011442461	GO:0015629~actin cytoskeleton
+XM_011442617	GO:0030529~intracellular ribonucleoprotein complex
+XM_011442777	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011442777	GO:0005789~endoplasmic reticulum membrane
+XM_011439007	GO:0005739~mitochondrion
+XM_011439438	GO:0044451~nucleoplasm part
+XM_011439437	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011439869	GO:0044391~ribosomal subunit
+XM_011440114	GO:0048475~coated membrane
+XM_011441256	GO:0016282~eukaryotic 43S preinitiation complex
+XM_011441295	GO:0005819~spindle
+XM_011441463	GO:0005576~extracellular region
+XM_011442245	GO:0005794~Golgi apparatus
+XM_011443511	GO:0030054~cell junction
+XM_011443510	GO:0005911~cell-cell junction
+XM_011443516	GO:0005911~cell-cell junction
+XM_011443538	GO:0000786~nucleosome
+XM_011443510	GO:0005921~gap junction
+XM_011443516	GO:0005921~gap junction
+XM_011443538	GO:0032993~protein-DNA complex
+XM_011443766	GO:0005581~collagen trimer
+XM_011443910	GO:0030123~AP-3 adaptor complex
+XM_011444227	GO:0005581~collagen trimer
+XM_011444294	GO:1990904~ribonucleoprotein complex
+XM_011444609	GO:0019867~outer membrane
+XM_011444788	GO:0005929~cilium
+XM_011445281	GO:0055037~recycling endosome
+XM_011445341	GO:0005794~Golgi apparatus
+XM_011445341	GO:0044853~plasma membrane raft
+XM_011445341	GO:0044431~Golgi apparatus part
+XM_011445449	GO:0005887~integral component of plasma membrane
+XM_011445887	GO:0005739~mitochondrion
+XM_011445887	GO:0005740~mitochondrial envelope
+XM_011446017	GO:0032993~protein-DNA complex
+XM_011446017	GO:0044815~DNA packaging complex
+XM_011446090	GO:0005680~anaphase-promoting complex
+XM_011446360	GO:0044431~Golgi apparatus part
+NM_001305343	GO:0005840~ribosome
+XM_011446757	GO:0030897~HOPS complex
+XM_011443879	GO:0005739~mitochondrion
+XM_011444019	GO:0016592~mediator complex
+XM_011444144	GO:0044432~endoplasmic reticulum part
+XM_011444361	GO:0005654~nucleoplasm
+XM_011444361	GO:0044451~nucleoplasm part
+XM_011444430	GO:1990904~ribonucleoprotein complex
+XM_011444841	GO:0031012~extracellular matrix
+XM_011445281	GO:0005802~trans-Golgi network
+XM_011445622	GO:0000407~pre-autophagosomal structure
+XM_011445623	GO:0000407~pre-autophagosomal structure
+XM_011445872	GO:0005643~nuclear pore
+XM_011446090	GO:0031461~cullin-RING ubiquitin ligase complex
+XM_011446413	GO:0016592~mediator complex
+XM_011447945	GO:0005667~transcription factor complex
+XM_011447945	GO:0016602~CCAAT-binding factor complex
+XM_011447947	GO:0016602~CCAAT-binding factor complex
+XM_011447943	GO:0090575~RNA polymerase II transcription factor complex
+AJ561117	GO:0030529~intracellular ribonucleoprotein complex
+NM_001305369	GO:0030529~intracellular ribonucleoprotein complex
+XM_011448449	GO:0031975~envelope
+XM_011448783	GO:0005576~extracellular region
+XM_011449054	GO:0070069~cytochrome complex
+XM_011449054	GO:0044455~mitochondrial membrane part
+XM_011449162	GO:0000346~transcription export complex
+XM_011449220	GO:0005694~chromosome
+XM_011449326	GO:0005666~DNA-directed RNA polymerase III complex
+JQ030888	GO:0030529~intracellular ribonucleoprotein complex
+XM_011449340	GO:0030529~intracellular ribonucleoprotein complex
+XM_011449426	GO:0030136~clathrin-coated vesicle
+XM_011449426	GO:0030662~coated vesicle membrane
+XM_011449426	GO:0044431~Golgi apparatus part
+XM_011449425	GO:0030662~coated vesicle membrane
+XM_011449425	GO:0030659~cytoplasmic vesicle membrane
+XM_011449425	GO:0012510~trans-Golgi network transport vesicle membrane
+XM_011449482	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011450928	GO:0005740~mitochondrial envelope
+XM_011448449	GO:0005740~mitochondrial envelope
+XM_011449054	GO:0031975~envelope
+JQ030888	GO:1990904~ribonucleoprotein complex
+XM_011449425	GO:0031988~membrane-bounded vesicle
+XM_011449426	GO:0030665~clathrin-coated vesicle membrane
+XM_011449426	GO:0030118~clathrin coat
+XM_011449425	GO:0005794~Golgi apparatus
+AJ563459	GO:0030529~intracellular ribonucleoprotein complex
+AY713400	GO:0005874~microtubule
+XM_011450322	GO:0005783~endoplasmic reticulum
+XM_011450540	GO:0044423~virion part
+XM_011450662	GO:0044432~endoplasmic reticulum part
+XM_011450662	GO:0000153~cytoplasmic ubiquitin ligase complex
+XM_011451235	GO:0044421~extracellular region part
+XM_011452030	GO:0030117~membrane coat
+XM_011452029	GO:0097060~synaptic membrane
+XM_011452032	GO:0097060~synaptic membrane
+XM_011452115	GO:0000785~chromatin
+NM_001305378	GO:0005783~endoplasmic reticulum
+XM_011452363	GO:0030054~cell junction
+XM_011452857	GO:0005783~endoplasmic reticulum
+XM_011453082	GO:0005794~Golgi apparatus
+XM_011453427	GO:0030529~intracellular ribonucleoprotein complex
+XM_011453612	GO:0019013~viral nucleocapsid
+XM_011453904	GO:0005929~cilium
+XM_011454123	GO:0031966~mitochondrial membrane
+NM_001305290	GO:0019866~organelle inner membrane
+XM_011454629	GO:0030529~intracellular ribonucleoprotein complex
+XM_011454732	GO:0005576~extracellular region
+XM_011451641	GO:0046930~pore complex
+XM_011451859	GO:0030135~coated vesicle
+XM_011452029	GO:0030054~cell junction
+XM_011452033	GO:0045211~postsynaptic membrane
+XM_011452034	GO:0045211~postsynaptic membrane
+XM_011452036	GO:0045202~synapse
+XM_011452144	GO:1902911~protein kinase complex
+XM_011452363	GO:0098794~postsynapse
+XM_011452363	GO:0045202~synapse
+XM_011452365	GO:0045202~synapse
+XM_011453082	GO:0044431~Golgi apparatus part
+XM_011453221	GO:0031248~protein acetyltransferase complex
+XM_011453262	GO:0005576~extracellular region
+XM_011453603	GO:0022626~cytosolic ribosome
+FJ872817	GO:0044429~mitochondrial part
+FJ872817	GO:0005739~mitochondrion
+XM_011454123	GO:0031967~organelle envelope
+XM_011455430	GO:0000502~proteasome complex
+XM_011456037	GO:0030529~intracellular ribonucleoprotein complex
+XM_011456384	GO:0005874~microtubule
+XM_011456571	GO:0033290~eukaryotic 48S preinitiation complex
+XM_011456795	GO:0016592~mediator complex
+AJ563480	GO:0044391~ribosomal subunit
+EU152936	GO:0044391~ribosomal subunit
+XM_011457920	GO:0098794~postsynapse
+XM_011458227	GO:0090544~BAF-type complex
+XM_011458227	GO:0071564~npBAF complex
+XM_011458618	GO:0030870~Mre11 complex
+XM_011456098	GO:0000786~nucleosome
+XM_011456383	GO:0099512~supramolecular fiber
+XM_011456383	GO:0005874~microtubule
+XM_011456383	GO:0099513~polymeric cytoskeletal fiber
+XM_011457009	GO:1990904~ribonucleoprotein complex
+AB199895	GO:1990904~ribonucleoprotein complex
+AB199894	GO:1990904~ribonucleoprotein complex
+XM_011457818	GO:0005789~endoplasmic reticulum membrane
+AY852246	GO:0030529~intracellular ribonucleoprotein complex
+NM_001305314	GO:0030529~intracellular ribonucleoprotein complex
+XM_011457830	GO:0030529~intracellular ribonucleoprotein complex
+XM_011458101	GO:0017053~transcriptional repressor complex
+XM_011458601	GO:1990351~transporter complex
+XM_011414138	GO:0005875~microtubule associated complex
+XM_011414217	GO:0005875~microtubule associated complex
+XM_011414138	GO:0015629~actin cytoskeleton
+XM_011414217	GO:0015629~actin cytoskeleton
+XM_011414117	GO:0005964~phosphorylase kinase complex
+XM_011414118	GO:1902911~protein kinase complex
+XM_011414117	GO:1902911~protein kinase complex
+XM_011414250	GO:0005694~chromosome
+XM_011414318	GO:0030529~intracellular ribonucleoprotein complex
+XM_011414346	GO:0031967~organelle envelope
+XM_011414358	GO:0044431~Golgi apparatus part
+XM_011414373	GO:0044431~Golgi apparatus part
+XM_011415038	GO:0005839~proteasome core complex
+XM_011415105	GO:0005783~endoplasmic reticulum
+XM_011415309	GO:1990351~transporter complex
+XM_011415309	GO:0005887~integral component of plasma membrane
+XM_011415311	GO:0034705~potassium channel complex
+XM_011415316	GO:0031226~intrinsic component of plasma membrane
+XM_011415310	GO:0034705~potassium channel complex
+XM_011415319	GO:0031226~intrinsic component of plasma membrane
+XM_011415319	GO:0034705~potassium channel complex
+XM_011415396	GO:0016471~vacuolar proton-transporting V-type ATPase complex
+XM_011415397	GO:0033180~proton-transporting V-type ATPase, V1 domain
+XM_011415395	GO:0000221~vacuolar proton-transporting V-type ATPase, V1 domain
+XM_011415396	GO:0044437~vacuolar part
+XM_011415394	GO:0000221~vacuolar proton-transporting V-type ATPase, V1 domain
+XM_011415768	GO:0030529~intracellular ribonucleoprotein complex
+XM_011415869	GO:0000794~condensed nuclear chromosome
+XM_011416945	GO:0005777~peroxisome
+XM_011416943	GO:0005777~peroxisome
+XM_011417480	GO:0005840~ribosome
+XM_011415467	GO:1990904~ribonucleoprotein complex
+XM_011417728	GO:0016514~SWI/SNF complex
+XM_011415868	GO:0044454~nuclear chromosome part
+XM_011415907	GO:0005819~spindle
+XM_011415907	GO:0000940~condensed chromosome outer kinetochore
+XM_011418337	GO:0044427~chromosomal part
+XM_011415907	GO:0099512~supramolecular fiber
+XM_011415928	GO:0005783~endoplasmic reticulum
+XM_011416268	GO:0005739~mitochondrion
+XM_011416582	GO:0019773~proteasome core complex, alpha-subunit complex
+XM_011416945	GO:0042579~microbody
+XM_011417652	GO:0070603~SWI/SNF superfamily-type complex
+XM_011417423	GO:0070603~SWI/SNF superfamily-type complex
+AB242177	GO:0005576~extracellular region
+XM_011417419	GO:0005576~extracellular region
+XM_011417662	GO:0005794~Golgi apparatus
+XM_011417663	GO:0031985~Golgi cisterna
+XM_011418337	GO:0000786~nucleosome
+XM_011418338	GO:0044815~DNA packaging complex
+XM_011418339	GO:0000785~chromatin
+XM_011418349	GO:0000785~chromatin
+XM_011418351	GO:0000785~chromatin
+XM_011418341	GO:0005694~chromosome
+XM_011418342	GO:0044427~chromosomal part
+XM_011418351	GO:0044427~chromosomal part
+XM_011418343	GO:0044427~chromosomal part
+XM_011418350	GO:0005694~chromosome
+XM_011418354	GO:0044815~DNA packaging complex
+XM_011418355	GO:0005694~chromosome
+XM_011418356	GO:0044427~chromosomal part
+XM_011418358	GO:0032993~protein-DNA complex
+XM_011418359	GO:0005694~chromosome
+XM_011418359	GO:0000786~nucleosome
+XM_011418360	GO:0000785~chromatin
+XM_011418360	GO:0044815~DNA packaging complex
+XM_011418517	GO:0005741~mitochondrial outer membrane
+XM_011418517	GO:0031966~mitochondrial membrane
+XM_011418543	GO:0005681~spliceosomal complex
+XM_011419377	GO:0044432~endoplasmic reticulum part
+XM_011419475	GO:0000178~exosome (RNase complex)
+XM_011419836	GO:0005694~chromosome
+XM_011420293	GO:0005887~integral component of plasma membrane
+XM_011422048	GO:0031967~organelle envelope
+XM_011418509	GO:0005739~mitochondrion
+XM_011418517	GO:0031967~organelle envelope
+XM_011422220	GO:0034703~cation channel complex
+XM_011419379	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011419503	GO:0005911~cell-cell junction
+AJ563476	GO:1990904~ribonucleoprotein complex
+XM_011420341	GO:0005774~vacuolar membrane
+XM_011420664	GO:0005739~mitochondrion
+XM_011420664	GO:0005730~nucleolus
+XM_011420945	GO:0044421~extracellular region part
+XM_011421256	GO:0030054~cell junction
+XM_011421384	GO:0032021~NELF complex
+XM_011421870	GO:1990904~ribonucleoprotein complex
+XM_011422048	GO:0005740~mitochondrial envelope
+AJ563471	GO:0005840~ribosome
+XM_011422220	GO:1990351~transporter complex
+XM_011422220	GO:0005887~integral component of plasma membrane
+XM_011422227	GO:0030137~COPI-coated vesicle
+XM_011422227	GO:0005798~Golgi-associated vesicle
+XM_011422503	GO:0000785~chromatin
+XM_011422227	GO:0044433~cytoplasmic vesicle part
+XM_011422620	GO:0043190~ATP-binding cassette (ABC) transporter complex
+AJ563455	GO:0005840~ribosome
+XM_011424595	GO:0016469~proton-transporting two-sector ATPase complex
+XM_011424595	GO:0005739~mitochondrion
+XM_011424861	GO:0005739~mitochondrion
+XM_011425161	GO:0044420~extracellular matrix component
+XM_011425147	GO:0098857~membrane microdomain
+XM_011425150	GO:0098857~membrane microdomain
+XM_011425153	GO:0098589~membrane region
+XM_011425247	GO:0031975~envelope
+XM_011422612	GO:0005840~ribosome
+XM_011422620	GO:1990351~transporter complex
+XM_011424720	GO:0005794~Golgi apparatus
+NM_001305336	GO:0005576~extracellular region
+XM_011422990	GO:0000786~nucleosome
+XM_011422990	GO:0005694~chromosome
+XM_011425161	GO:0044421~extracellular region part
+AJ563455	GO:1990904~ribonucleoprotein complex
+XM_011423579	GO:0030286~dynein complex
+XM_011423657	GO:0043189~H4/H2A histone acetyltransferase complex
+XM_011425152	GO:0005901~caveola
+XM_011424753	GO:0019012~virion
+XM_011425161	GO:0005576~extracellular region
+XM_011425149	GO:0098590~plasma membrane region
+XM_011425202	GO:0015630~microtubule cytoskeleton
+XM_011425246	GO:0044429~mitochondrial part
+XM_011425247	GO:0031966~mitochondrial membrane
+XM_011425246	GO:0031307~integral component of mitochondrial outer membrane
+XM_011425247	GO:0005740~mitochondrial envelope
+XM_011425245	GO:0031300~intrinsic component of organelle membrane
+XM_011425337	GO:0032040~small-subunit processome
+XM_011425337	GO:0005730~nucleolus
+XM_011425337	GO:1990904~ribonucleoprotein complex
+XM_011425414	GO:0005783~endoplasmic reticulum
+XM_011425423	GO:0015629~actin cytoskeleton
+XM_011425618	GO:0008076~voltage-gated potassium channel complex
+XM_011425648	GO:0005887~integral component of plasma membrane
+XM_011425648	GO:0008076~voltage-gated potassium channel complex
+XM_011426308	GO:0044429~mitochondrial part
+XM_011426857	GO:1902562~H4 histone acetyltransferase complex
+XM_011426857	GO:0031248~protein acetyltransferase complex
+XM_011426940	GO:0005743~mitochondrial inner membrane
+XM_011427934	GO:0044427~chromosomal part
+XM_011428399	GO:1990904~ribonucleoprotein complex
+XM_011428455	GO:0030027~lamellipodium
+XM_011428468	GO:0030027~lamellipodium
+XM_011428457	GO:0030027~lamellipodium
+XM_011428459	GO:0031252~cell leading edge
+XM_011428470	GO:0031252~cell leading edge
+XM_011428466	GO:0031252~cell leading edge
+XM_011428454	GO:0030027~lamellipodium
+XM_011428454	GO:0031252~cell leading edge
+XM_011425880	GO:0005887~integral component of plasma membrane
+XM_011426067	GO:0005794~Golgi apparatus
+XM_011426308	GO:0031966~mitochondrial membrane
+JQ362455	GO:0005576~extracellular region
+XM_011426857	GO:1902493~acetyltransferase complex
+XM_011426940	GO:0019866~organelle inner membrane
+XM_011427406	GO:0044451~nucleoplasm part
+XM_011427398	GO:1902493~acetyltransferase complex
+NM_001305345	GO:0005840~ribosome
+XM_011427934	GO:0044815~DNA packaging complex
+XM_011427917	GO:0015630~microtubule cytoskeleton
+XM_011427916	GO:0005814~centriole
+XM_011427917	GO:0005814~centriole
+XM_011428222	GO:0005739~mitochondrion
+XM_011428399	GO:0030529~intracellular ribonucleoprotein complex
+XM_011428399	GO:0019028~viral capsid
+XM_011429725	GO:0015630~microtubule cytoskeleton
+XM_011430288	GO:0008076~voltage-gated potassium channel complex
+XM_011430288	GO:1902495~transmembrane transporter complex
+XM_011430351	GO:0031300~intrinsic component of organelle membrane
+XM_011430634	GO:1990204~oxidoreductase complex
+XM_011430635	GO:1902560~GMP reductase complex
+XM_011430791	GO:0005743~mitochondrial inner membrane
+XM_011430791	GO:0098803~respiratory chain complex
+AB196533	GO:0005874~microtubule
+XM_011431026	GO:0005654~nucleoplasm
+XM_011431114	GO:0030133~transport vesicle
+XM_011431116	GO:0012507~ER to Golgi transport vesicle membrane
+XM_011431115	GO:0030117~membrane coat
+XM_011431115	GO:0012507~ER to Golgi transport vesicle membrane
+XM_011431295	GO:0034702~ion channel complex
+XM_011431293	GO:1902495~transmembrane transporter complex
+XM_011431293	GO:0034703~cation channel complex
+XM_011431293	GO:1990351~transporter complex
+XM_011431296	GO:0034702~ion channel complex
+XM_011431292	GO:0034704~calcium channel complex
+XM_011429592	GO:0012510~trans-Golgi network transport vesicle membrane
+XM_011429622	GO:0000502~proteasome complex
+XM_011430046	GO:0030529~intracellular ribonucleoprotein complex
+XM_011430046	GO:0005840~ribosome
+XM_011430237	GO:0008537~proteasome activator complex
+XM_011430288	GO:0031226~intrinsic component of plasma membrane
+XM_011431116	GO:0012506~vesicle membrane
+XM_011430791	GO:0044429~mitochondrial part
+XM_011430791	GO:0005746~mitochondrial respiratory chain
+XM_011430791	GO:1990351~transporter complex
+NM_001305373	GO:0015630~microtubule cytoskeleton
+AB196533	GO:0099513~polymeric cytoskeletal fiber
+XM_011431073	GO:0017119~Golgi transport complex
+XM_011431114	GO:0030120~vesicle coat
+XM_011431286	GO:0005891~voltage-gated calcium channel complex
+XM_011431291	GO:0005891~voltage-gated calcium channel complex
+XM_011431292	GO:0005891~voltage-gated calcium channel complex
+XM_011431666	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011431666	GO:0005789~endoplasmic reticulum membrane
+XM_011432079	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011433602	GO:0005576~extracellular region
+XM_011434583	GO:0044451~nucleoplasm part
+XM_011434952	GO:0031975~envelope
+XM_011432376	GO:0005840~ribosome
+XM_011432998	GO:0005885~Arp2/3 protein complex
+XM_011433697	GO:0005680~anaphase-promoting complex
+XM_011433930	GO:0000786~nucleosome
+XM_011434209	GO:0044429~mitochondrial part
+XM_011434209	GO:0005740~mitochondrial envelope
+XM_011434667	GO:0005852~eukaryotic translation initiation factor 3 complex
+XM_011434878	GO:0045211~postsynaptic membrane
+KJ531895	GO:0005576~extracellular region
+XM_011435016	GO:0005576~extracellular region
+NM_001308868	GO:0005576~extracellular region
+XM_011435202	GO:0005576~extracellular region
+XM_011435167	GO:0005739~mitochondrion
+XM_011435212	GO:0005578~proteinaceous extracellular matrix
+XM_011435211	GO:0005576~extracellular region
+XM_011435232	GO:0046540~U4/U6 x U5 tri-snRNP complex
+XM_011435232	GO:0019028~viral capsid
+XM_011435456	GO:0031966~mitochondrial membrane
+XM_011435455	GO:0031975~envelope
+XM_011436413	GO:0019013~viral nucleocapsid
+XR_900959	GO:1990904~ribonucleoprotein complex
+XM_011436414	GO:1990904~ribonucleoprotein complex
+XR_901040	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011437162	GO:0044432~endoplasmic reticulum part
+XM_011437609	GO:0044431~Golgi apparatus part
+XM_011437627	GO:0030529~intracellular ribonucleoprotein complex
+EU152921	GO:0044853~plasma membrane raft
+XM_011438169	GO:0005887~integral component of plasma membrane
+XM_011435232	GO:0019013~viral nucleocapsid
+XM_011435233	GO:0030532~small nuclear ribonucleoprotein complex
+XM_011435232	GO:0030532~small nuclear ribonucleoprotein complex
+XM_011435260	GO:0019898~extrinsic component of membrane
+XM_011435447	GO:0016272~prefoldin complex
+XM_011435508	GO:0005739~mitochondrion
+XM_011435565	GO:0031225~anchored component of membrane
+XM_011435602	GO:0005758~mitochondrial intermembrane space
+XM_011436416	GO:0030529~intracellular ribonucleoprotein complex
+XM_011437577	GO:0000502~proteasome complex
+XM_011437609	GO:0098791~Golgi subcompartment
+XM_011437717	GO:0098590~plasma membrane region
+EU152921	GO:0005794~Golgi apparatus
+EU152921	GO:0000139~Golgi membrane
+XM_011438204	GO:0005764~lysosome
+XM_011438260	GO:0031967~organelle envelope
+XM_011438496	GO:0008290~F-actin capping protein complex
+XM_011438661	GO:0005768~endosome
+XM_011438663	GO:0005794~Golgi apparatus
+XM_011438663	GO:0031988~membrane-bounded vesicle
+XM_011438661	GO:0031984~organelle subcompartment
+XM_011439438	GO:0005654~nucleoplasm
+XM_011440013	GO:0005840~ribosome
+XM_011440590	GO:0005576~extracellular region
+XM_011440678	GO:0048500~signal recognition particle
+XM_011441256	GO:0030529~intracellular ribonucleoprotein complex
+XM_011441295	GO:0005874~microtubule
+XM_011441352	GO:0005921~gap junction
+XM_011441351	GO:0005911~cell-cell junction
+XM_011441411	GO:1990904~ribonucleoprotein complex
+XM_011442088	GO:0005789~endoplasmic reticulum membrane
+XM_011442088	GO:0005811~lipid particle
+XM_011442087	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011442463	GO:0016459~myosin complex
+XM_011442777	GO:0044431~Golgi apparatus part
+XM_011438753	GO:0005739~mitochondrion
+XM_011439869	GO:0005829~cytosol
+XM_011439869	GO:0005840~ribosome
+XM_011440115	GO:0030118~clathrin coat
+XM_011440115	GO:0030131~clathrin adaptor complex
+XM_011440486	GO:0005783~endoplasmic reticulum
+XM_011440908	GO:0030008~TRAPP complex
+XM_011441295	GO:0099513~polymeric cytoskeletal fiber
+XM_011442489	GO:0016459~myosin complex
+XM_011443514	GO:0005911~cell-cell junction
+XM_011443051	GO:0044431~Golgi apparatus part
+XM_011443051	GO:0017119~Golgi transport complex
+XM_011443507	GO:0005921~gap junction
+XM_011443537	GO:0000786~nucleosome
+XM_011443538	GO:0000785~chromatin
+XM_011443582	GO:0005773~vacuole
+XM_011443910	GO:0048475~coated membrane
+XM_011444151	GO:0005654~nucleoplasm
+XM_011444294	GO:0005840~ribosome
+XM_011444361	GO:0016607~nuclear speck
+XM_011445270	GO:0099512~supramolecular fiber
+XM_011445281	GO:0044431~Golgi apparatus part
+XM_011445519	GO:0043564~Ku70:Ku80 complex
+XM_011445872	GO:0005635~nuclear envelope
+XM_011446090	GO:0000151~ubiquitin ligase complex
+NM_001305343	GO:1990904~ribonucleoprotein complex
+XM_011446791	GO:0005885~Arp2/3 protein complex
+XM_011443768	GO:0099512~supramolecular fiber
+XM_011444144	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011444359	GO:0005654~nucleoplasm
+XM_011444359	GO:0044451~nucleoplasm part
+XM_011444431	GO:0030529~intracellular ribonucleoprotein complex
+XM_011444609	GO:0031966~mitochondrial membrane
+NM_001305296	GO:0005740~mitochondrial envelope
+XM_011444609	GO:0005740~mitochondrial envelope
+XM_011444841	GO:0044421~extracellular region part
+XM_011445269	GO:0099513~polymeric cytoskeletal fiber
+EU108716	GO:0042579~microbody
+XM_011445539	GO:0031226~intrinsic component of plasma membrane
+XM_011445535	GO:0005887~integral component of plasma membrane
+XM_011445534	GO:0005887~integral component of plasma membrane
+XM_011445872	GO:0031975~envelope
+XM_011446434	GO:0034708~methyltransferase complex
+NM_001305343	GO:0030529~intracellular ribonucleoprotein complex
+XM_011446811	GO:1990204~oxidoreductase complex
+XM_011447945	GO:0044798~nuclear transcription factor complex
+XM_011447945	GO:0090575~RNA polymerase II transcription factor complex
+XM_011447948	GO:0030529~intracellular ribonucleoprotein complex
+XM_011448134	GO:0005576~extracellular region
+XM_011448449	GO:0031968~organelle outer membrane
+XM_011448449	GO:0044429~mitochondrial part
+XM_011449054	GO:0098800~inner mitochondrial membrane protein complex
+KJ531896	GO:0005576~extracellular region
+XM_011449325	GO:0030880~RNA polymerase complex
+XM_011449326	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011449426	GO:0030133~transport vesicle
+XM_011449481	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+AF075688	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011449511	GO:0015629~actin cytoskeleton
+XM_011450245	GO:0015629~actin cytoskeleton
+XM_011448449	GO:0005741~mitochondrial outer membrane
+XM_011448449	GO:0005739~mitochondrion
+XM_011449054	GO:0070469~respiratory chain
+XM_011449054	GO:0005743~mitochondrial inner membrane
+XM_011449426	GO:0048475~coated membrane
+XM_011449220	GO:0000786~nucleosome
+XM_011449220	GO:0044815~DNA packaging complex
+XM_011449325	GO:0000428~DNA-directed RNA polymerase complex
+XM_011449426	GO:0030660~Golgi-associated vesicle membrane
+XM_011449426	GO:0030135~coated vesicle
+XM_011449425	GO:0098589~membrane region
+XM_011449425	GO:0030118~clathrin coat
+XM_011449604	GO:0005840~ribosome
+XM_011450540	GO:1990904~ribonucleoprotein complex
+XM_011450662	GO:0000836~Hrd1p ubiquitin ligase complex
+XM_011450928	GO:0031975~envelope
+XM_011451251	GO:0005694~chromosome
+XM_011452033	GO:0030054~cell junction
+XM_011452033	GO:0097060~synaptic membrane
+XM_011452032	GO:0030054~cell junction
+XM_011452035	GO:0030054~cell junction
+XM_011452144	GO:0031588~nucleotide-activated protein kinase complex
+XM_011453222	GO:1902493~acetyltransferase complex
+XM_011453427	GO:0044423~virion part
+XM_011453946	GO:0016469~proton-transporting two-sector ATPase complex
+AY551099	GO:0044437~vacuolar part
+XM_011454123	GO:0005740~mitochondrial envelope
+XM_011452029	GO:0044456~synapse part
+XM_011452033	GO:0045202~synapse
+XM_011452115	GO:0044815~DNA packaging complex
+XM_011452145	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011452616	GO:0016592~mediator complex
+XM_011452747	GO:0005615~extracellular space
+XM_011453222	GO:0044451~nucleoplasm part
+XM_011453222	GO:0000123~histone acetyltransferase complex
+XM_011453396	GO:0000439~core TFIIH complex
+XM_011453603	GO:0005840~ribosome
+XM_011453865	GO:1990904~ribonucleoprotein complex
+NM_001305290	GO:0005739~mitochondrion
+XM_011454123	GO:0005743~mitochondrial inner membrane
+FJ872817	GO:0005743~mitochondrial inner membrane
+XM_011454629	GO:0019013~viral nucleocapsid
+XM_011454941	GO:0005829~cytosol
+XM_011455670	GO:0031903~microbody membrane
+XM_011455769	GO:0099512~supramolecular fiber
+XM_011455981	GO:0019028~viral capsid
+XM_011456006	GO:0000785~chromatin
+XM_011456006	GO:0000786~nucleosome
+XM_011456100	GO:0044815~DNA packaging complex
+XM_011456384	GO:0099512~supramolecular fiber
+XM_011456571	GO:0030529~intracellular ribonucleoprotein complex
+XM_011456868	GO:0044432~endoplasmic reticulum part
+NM_001305367	GO:0030529~intracellular ribonucleoprotein complex
+XM_011457009	GO:0005840~ribosome
+XM_011457064	GO:0044391~ribosomal subunit
+NM_001305376	GO:0015935~small ribosomal subunit
+XM_011457902	GO:0015629~actin cytoskeleton
+XM_011457903	GO:0015629~actin cytoskeleton
+XM_011457955	GO:1990904~ribonucleoprotein complex
+XM_011458560	GO:0005740~mitochondrial envelope
+XM_011458560	GO:0005743~mitochondrial inner membrane
+XM_011458836	GO:0005576~extracellular region
+XM_011458821	GO:0034464~BBSome
+XM_011454969	GO:0005667~transcription factor complex
+XM_011455674	GO:1902495~transmembrane transporter complex
+XM_011456006	GO:0044815~DNA packaging complex
+XM_011456382	GO:0015630~microtubule cytoskeleton
+XM_011456382	GO:0005874~microtubule
+XM_011457902	GO:0016459~myosin complex
+XM_011458102	GO:0017053~transcriptional repressor complex
+XM_011413740	GO:0005581~collagen trimer
+XM_011414070	GO:0005869~dynactin complex
+XM_011414070	GO:0015630~microtubule cytoskeleton
+XM_011414116	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011414117	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011415106	GO:0005789~endoplasmic reticulum membrane
+XM_011414250	GO:0000775~chromosome, centromeric region
+XM_011414346	GO:0098800~inner mitochondrial membrane protein complex
+XM_011414364	GO:0005840~ribosome
+XM_011414371	GO:0005576~extracellular region
+XM_011414689	GO:0015629~actin cytoskeleton
+XM_011414869	GO:0005576~extracellular region
+XM_011415104	GO:0044432~endoplasmic reticulum part
+XM_011415106	GO:0044432~endoplasmic reticulum part
+XM_011415110	GO:0005783~endoplasmic reticulum
+XM_011415109	GO:0005789~endoplasmic reticulum membrane
+XM_011415105	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011415309	GO:0031226~intrinsic component of plasma membrane
+XM_011415316	GO:0008076~voltage-gated potassium channel complex
+XM_011415315	GO:0008076~voltage-gated potassium channel complex
+XM_011415317	GO:0034705~potassium channel complex
+XM_011415310	GO:0031226~intrinsic component of plasma membrane
+XM_011415312	GO:0034702~ion channel complex
+XM_011415313	GO:0034702~ion channel complex
+XM_011415313	GO:0034705~potassium channel complex
+XM_011415319	GO:0034702~ion channel complex
+XM_011415396	GO:0016469~proton-transporting two-sector ATPase complex
+XM_011415395	GO:0016469~proton-transporting two-sector ATPase complex
+XM_011415395	GO:0005773~vacuole
+XM_011415868	GO:0000794~condensed nuclear chromosome
+XM_011418338	GO:0000785~chromatin
+XM_011418339	GO:0044815~DNA packaging complex
+XM_011415510	GO:0005739~mitochondrion
+XM_011415786	GO:0005576~extracellular region
+XM_011415868	GO:0000793~condensed chromosome
+XM_011416268	GO:0031975~envelope
+XM_011416540	GO:0031975~envelope
+XM_011416540	GO:0005740~mitochondrial envelope
+XM_011416877	GO:0030529~intracellular ribonucleoprotein complex
+XM_011417129	GO:0005829~cytosol
+XM_011417264	GO:0070603~SWI/SNF superfamily-type complex
+XM_011417728	GO:0070603~SWI/SNF superfamily-type complex
+XM_011417499	GO:0070603~SWI/SNF superfamily-type complex
+XM_011417423	GO:0090544~BAF-type complex
+XM_011417662	GO:0005795~Golgi stack
+XM_011417662	GO:0044431~Golgi apparatus part
+XM_011417663	GO:0032580~Golgi cisterna membrane
+XM_011417875	GO:0030880~RNA polymerase complex
+XM_011417875	GO:0044451~nucleoplasm part
+XM_011418338	GO:0000786~nucleosome
+XM_011418349	GO:0044815~DNA packaging complex
+XM_011418354	GO:0044427~chromosomal part
+XM_011418355	GO:0000785~chromatin
+XM_011418356	GO:0044815~DNA packaging complex
+XM_011418356	GO:0032993~protein-DNA complex
+XM_011418342	GO:0000785~chromatin
+XM_011418342	GO:0000786~nucleosome
+XM_011418345	GO:0044815~DNA packaging complex
+XM_011418351	GO:0005694~chromosome
+XM_011418351	GO:0032993~protein-DNA complex
+XM_011418353	GO:0044427~chromosomal part
+XM_011418353	GO:0044815~DNA packaging complex
+XM_011418358	GO:0000785~chromatin
+XM_011418360	GO:0032993~protein-DNA complex
+XM_011418361	GO:0044815~DNA packaging complex
+XM_011418776	GO:0015630~microtubule cytoskeleton
+XM_011419374	GO:0044432~endoplasmic reticulum part
+AJ563476	GO:0005840~ribosome
+XM_011421827	GO:1902554~serine/threonine protein kinase complex
+AJ563471	GO:0030529~intracellular ribonucleoprotein complex
+AB199896	GO:0030529~intracellular ribonucleoprotein complex
+XM_011418517	GO:0019867~outer membrane
+XM_011419379	GO:0005783~endoplasmic reticulum
+XM_011419380	GO:0005789~endoplasmic reticulum membrane
+XM_011419375	GO:0005789~endoplasmic reticulum membrane
+XM_011419377	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011419488	GO:0005777~peroxisome
+XM_011419503	GO:0030054~cell junction
+XM_011419503	GO:0005921~gap junction
+XM_011419625	GO:0019013~viral nucleocapsid
+XM_011419625	GO:0019028~viral capsid
+XM_011419836	GO:0097346~INO80-type complex
+XM_011419836	GO:0044454~nuclear chromosome part
+XM_011419859	GO:0030529~intracellular ribonucleoprotein complex
+XM_011420293	GO:0008076~voltage-gated potassium channel complex
+XM_011420341	GO:0044437~vacuolar part
+XM_011420341	GO:0005768~endosome
+XM_011420945	GO:0005604~basement membrane
+XM_011420945	GO:0044420~extracellular matrix component
+XM_011420960	GO:0005783~endoplasmic reticulum
+XM_011421257	GO:0005911~cell-cell junction
+XM_011421260	GO:0005921~gap junction
+XM_011421264	GO:0030054~cell junction
+XM_011421261	GO:0005911~cell-cell junction
+XM_011421758	GO:0032993~protein-DNA complex
+XM_011421782	GO:0000151~ubiquitin ligase complex
+XM_011421869	GO:0005732~small nucleolar ribonucleoprotein complex
+XM_011422227	GO:0016023~cytoplasmic, membrane-bounded vesicle
+XM_011422227	GO:0030126~COPI vesicle coat
+XM_011422578	GO:0000793~condensed chromosome
+XM_011422612	GO:1990904~ribonucleoprotein complex
+AJ563455	GO:0022626~cytosolic ribosome
+XM_011424595	GO:0000276~mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)
+XM_011424715	GO:0090498~extrinsic component of Golgi membrane
+XM_011424715	GO:0019898~extrinsic component of membrane
+XM_011424720	GO:0090498~extrinsic component of Golgi membrane
+XM_011424775	GO:0005777~peroxisome
+XM_011424989	GO:0005794~Golgi apparatus
+XM_011425246	GO:0031975~envelope
+XM_011425244	GO:0044455~mitochondrial membrane part
+XM_011424715	GO:0005794~Golgi apparatus
+XM_011423577	GO:0030286~dynein complex
+XM_011424108	GO:0000502~proteasome complex
+XM_011424138	GO:0005840~ribosome
+NM_001305291	GO:0005576~extracellular region
+XM_011424453	GO:0005576~extracellular region
+XM_011424595	GO:0098800~inner mitochondrial membrane protein complex
+XM_011424753	GO:1990904~ribonucleoprotein complex
+XM_011424989	GO:0044431~Golgi apparatus part
+XM_011425149	GO:0005901~caveola
+XM_011425148	GO:0098589~membrane region
+XM_011425152	GO:0098590~plasma membrane region
+XM_011425152	GO:0000139~Golgi membrane
+XM_011425244	GO:0044429~mitochondrial part
+XM_011425245	GO:0032592~integral component of mitochondrial membrane
+XM_011425246	GO:0031300~intrinsic component of organelle membrane
+XM_011425245	GO:0019867~outer membrane
+XM_011425245	GO:0031307~integral component of mitochondrial outer membrane
+XM_011425426	GO:0016459~myosin complex
+AM286405	GO:0015629~actin cytoskeleton
+XM_011425604	GO:0034703~cation channel complex
+XM_011425488	GO:0005840~ribosome
+XM_011425604	GO:0005887~integral component of plasma membrane
+XM_011425604	GO:1990351~transporter complex
+XM_011425633	GO:0034702~ion channel complex
+XM_011425633	GO:0005887~integral component of plasma membrane
+XM_011425633	GO:0034703~cation channel complex
+XM_011425612	GO:0034705~potassium channel complex
+XM_011426552	GO:0005576~extracellular region
+XM_011426934	GO:0005581~collagen trimer
+XM_011427918	GO:0005813~centrosome
+XM_011428146	GO:0005576~extracellular region
+XM_011428468	GO:0031252~cell leading edge
+XM_011428460	GO:0030027~lamellipodium
+XM_011428959	GO:0044451~nucleoplasm part
+XM_011428959	GO:0005654~nucleoplasm
+XM_011426308	GO:0031975~envelope
+XM_011426529	GO:0000786~nucleosome
+XM_011426785	GO:0005739~mitochondrion
+XM_011427398	GO:0005654~nucleoplasm
+XM_011427679	GO:0030529~intracellular ribonucleoprotein complex
+XM_011427731	GO:0005921~gap junction
+XM_011428399	GO:0044423~virion part
+XM_011428399	GO:0019013~viral nucleocapsid
+XM_011429591	GO:0030117~membrane coat
+XM_011429591	GO:0030125~clathrin vesicle coat
+XM_011430694	GO:0019866~organelle inner membrane
+XM_011431073	GO:0005794~Golgi apparatus
+XM_011431073	GO:0044431~Golgi apparatus part
+XM_011431116	GO:0030133~transport vesicle
+XM_011431117	GO:0044433~cytoplasmic vesicle part
+XM_011431295	GO:1902495~transmembrane transporter complex
+XM_011431289	GO:0034702~ion channel complex
+XM_011431290	GO:0034704~calcium channel complex
+XM_011431292	GO:1902495~transmembrane transporter complex
+XM_011432075	GO:1902911~protein kinase complex
+XM_011432074	GO:1902911~protein kinase complex
+XM_011429351	GO:0005874~microtubule
+XM_011429591	GO:0012510~trans-Golgi network transport vesicle membrane
+XM_011429591	GO:0030120~vesicle coat
+XM_011430126	GO:0005929~cilium
+XM_011430351	GO:0005777~peroxisome
+XM_011430351	GO:0031231~intrinsic component of peroxisomal membrane
+XM_011431117	GO:0012506~vesicle membrane
+XM_011431115	GO:0012506~vesicle membrane
+XM_011430692	GO:0005783~endoplasmic reticulum
+XM_011430694	GO:0031966~mitochondrial membrane
+XM_011430694	GO:0044429~mitochondrial part
+XM_011430694	GO:0031314~extrinsic component of mitochondrial inner membrane
+AB196533	GO:0015630~microtubule cytoskeleton
+XM_011431026	GO:0005672~transcription factor TFIIA complex
+XM_011431057	GO:0031975~envelope
+XM_011431115	GO:0030127~COPII vesicle coat
+XM_011431114	GO:0048475~coated membrane
+XM_011431290	GO:0005891~voltage-gated calcium channel complex
+XM_011431294	GO:0005891~voltage-gated calcium channel complex
+XM_011432076	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011432182	GO:0030286~dynein complex
+XM_011432360	GO:0000178~exosome (RNase complex)
+NM_001305307	GO:0015629~actin cytoskeleton
+XM_011433151	GO:0005576~extracellular region
+XM_011433185	GO:0030054~cell junction
+XM_011433930	GO:0044427~chromosomal part
+XM_011434209	GO:0005739~mitochondrion
+XM_011434209	GO:0005743~mitochondrial inner membrane
+XM_011434433	GO:0030684~preribosome
+XM_011434878	GO:0030054~cell junction
+XM_011434952	GO:0005740~mitochondrial envelope
+XM_011434952	GO:0044429~mitochondrial part
+XM_011432626	GO:0000502~proteasome complex
+XM_011432781	GO:0000775~chromosome, centromeric region
+XM_011433151	GO:0005581~collagen trimer
+XM_011433697	GO:0031461~cullin-RING ubiquitin ligase complex
+NM_001305326	GO:0005576~extracellular region
+AB196534	GO:0099513~polymeric cytoskeletal fiber
+XM_011434209	GO:0070469~respiratory chain
+XM_011435212	GO:0044420~extracellular matrix component
+XM_011435167	GO:0098798~mitochondrial protein complex
+XM_011435233	GO:0097526~spliceosomal tri-snRNP complex
+XM_011435232	GO:0097526~spliceosomal tri-snRNP complex
+XM_011435456	GO:0019866~organelle inner membrane
+XM_011435455	GO:0019866~organelle inner membrane
+XM_011435455	GO:0031966~mitochondrial membrane
+XM_011435751	GO:0000502~proteasome complex
+NM_001305379	GO:0005615~extracellular space
+KF927126	GO:0005576~extracellular region
+KF927126	GO:0005615~extracellular space
+XM_011436179	GO:0015629~actin cytoskeleton
+XM_011436525	GO:0030990~intraciliary transport particle
+XM_011437609	GO:0005794~Golgi apparatus
+XM_011437627	GO:0044423~virion part
+XM_011437718	GO:0044431~Golgi apparatus part
+XM_011437719	GO:0044853~plasma membrane raft
+XM_011438169	GO:1990351~transporter complex
+XM_011435220	GO:0005576~extracellular region
+XM_011435233	GO:1990904~ribonucleoprotein complex
+XM_011435232	GO:0097525~spliceosomal snRNP complex
+XM_011435455	GO:0005743~mitochondrial inner membrane
+XM_011435456	GO:0044429~mitochondrial part
+XM_011436009	GO:0005743~mitochondrial inner membrane
+NM_001305379	GO:0044421~extracellular region part
+XM_011436179	GO:0015630~microtubule cytoskeleton
+XM_011436414	GO:0019028~viral capsid
+XM_011437577	GO:0005783~endoplasmic reticulum
+XM_011437717	GO:0045121~membrane raft
+XM_011437718	GO:0005794~Golgi apparatus
+XM_011437719	GO:0005794~Golgi apparatus
+XM_011437983	GO:0044451~nucleoplasm part
+XM_011438169	GO:0034703~cation channel complex
+JN315144	GO:0000323~lytic vacuole
+XM_011438261	GO:0031967~organelle envelope
+XM_011438661	GO:0044431~Golgi apparatus part
+XM_011438260	GO:0005635~nuclear envelope
+XM_011438661	GO:0005794~Golgi apparatus
+XM_011438661	GO:0030136~clathrin-coated vesicle
+XM_011438661	GO:0031988~membrane-bounded vesicle
+XM_011438662	GO:0098791~Golgi subcompartment
+XM_011438661	GO:0016023~cytoplasmic, membrane-bounded vesicle
+XM_011438661	GO:0005802~trans-Golgi network
+XM_011438753	GO:0005743~mitochondrial inner membrane
+XM_011439437	GO:0016591~DNA-directed RNA polymerase II, holoenzyme
+XM_011439437	GO:0030880~RNA polymerase complex
+XM_011440115	GO:0031984~organelle subcompartment
+XM_011441056	GO:0005739~mitochondrion
+XM_011441088	GO:0000790~nuclear chromatin
+XM_011441256	GO:0005852~eukaryotic translation initiation factor 3 complex
+XM_011441295	GO:0015630~microtubule cytoskeleton
+XM_011441352	GO:0030054~cell junction
+XM_011442088	GO:0044432~endoplasmic reticulum part
+XM_011442088	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011442460	GO:0016459~myosin complex
+XM_011438753	GO:0019866~organelle inner membrane
+XM_011438753	GO:0044429~mitochondrial part
+XM_011439437	GO:0044451~nucleoplasm part
+XM_011439438	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011439869	GO:0044445~cytosolic part
+XM_011440116	GO:0030131~clathrin adaptor complex
+XM_011440263	GO:0044432~endoplasmic reticulum part
+XM_011440678	GO:0005786~signal recognition particle, endoplasmic reticulum targeting
+XM_011440848	GO:0044451~nucleoplasm part
+XM_011441088	GO:0000228~nuclear chromosome
+XM_011441088	GO:0031011~Ino80 complex
+XM_011441504	GO:0015629~actin cytoskeleton
+XM_011442088	GO:0005783~endoplasmic reticulum
+XM_011442489	GO:0015629~actin cytoskeleton
+XM_011443430	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011443507	GO:0030054~cell junction
+XM_011443509	GO:0005911~cell-cell junction
+XM_011443537	GO:0005694~chromosome
+XM_011443430	GO:0032039~integrator complex
+XM_011443430	GO:0055029~nuclear DNA-directed RNA polymerase complex
+XM_011443514	GO:0005921~gap junction
+XM_011443511	GO:0005921~gap junction
+XM_011443537	GO:0032993~protein-DNA complex
+XM_011443910	GO:0030119~AP-type membrane coat adaptor complex
+XM_011443917	GO:0048475~coated membrane
+XM_011444019	GO:0044451~nucleoplasm part
+XM_011444789	GO:0005929~cilium
+XM_011445281	GO:0016023~cytoplasmic, membrane-bounded vesicle
+XM_011445341	GO:0098589~membrane region
+XM_011445341	GO:0000139~Golgi membrane
+EU108716	GO:0005777~peroxisome
+XM_011445518	GO:0043564~Ku70:Ku80 complex
+XM_011445887	GO:0044429~mitochondrial part
+XM_011445887	GO:0031966~mitochondrial membrane
+XM_011445890	GO:0030529~intracellular ribonucleoprotein complex
+XM_011446090	GO:0000152~nuclear ubiquitin ligase complex
+XM_011446360	GO:0031985~Golgi cisterna
+NM_001305343	GO:0044391~ribosomal subunit
+XM_011444361	GO:0016604~nuclear body
+AB262088	GO:0005741~mitochondrial outer membrane
+AB262088	GO:0005739~mitochondrion
+XM_011444609	GO:0044429~mitochondrial part
+XM_011444609	GO:0031975~envelope
+XM_011444788	GO:0031514~motile cilium
+XM_011445281	GO:0005768~endosome
+XM_011445540	GO:0031226~intrinsic component of plasma membrane
+XM_011445534	GO:0031226~intrinsic component of plasma membrane
+XM_011445879	GO:0005929~cilium
+AJ563469	GO:0031515~tRNA (m1A) methyltransferase complex
+AJ563463	GO:0015935~small ribosomal subunit
+XM_011447763	GO:0005740~mitochondrial envelope
+XM_011447947	GO:0005667~transcription factor complex
+XM_011447948	GO:0005840~ribosome
+XM_011447675	GO:0044431~Golgi apparatus part
+XM_011447676	GO:0044431~Golgi apparatus part
+XM_011447681	GO:0005654~nucleoplasm
+XM_011447762	GO:0031967~organelle envelope
+XM_011447943	GO:0016602~CCAAT-binding factor complex
+XM_011447947	GO:0090575~RNA polymerase II transcription factor complex
+EU152950	GO:0030529~intracellular ribonucleoprotein complex
+XM_011449054	GO:0044429~mitochondrial part
+XM_011449425	GO:0030125~clathrin vesicle coat
+XM_011449425	GO:0044431~Golgi apparatus part
+AF075688	GO:0005783~endoplasmic reticulum
+XM_011450540	GO:0019013~viral nucleocapsid
+XM_011450540	GO:0019012~virion
+XM_011450548	GO:0099512~supramolecular fiber
+XM_011448449	GO:0005742~mitochondrial outer membrane translocase complex
+XM_011449054	GO:0005751~mitochondrial respiratory chain complex IV
+XM_011449162	GO:0000347~THO complex
+XM_011449220	GO:0000785~chromatin
+XM_011449425	GO:0016023~cytoplasmic, membrane-bounded vesicle
+XM_011449425	GO:0005798~Golgi-associated vesicle
+XM_011449426	GO:0005794~Golgi apparatus
+AF075688	GO:0005789~endoplasmic reticulum membrane
+EU152941	GO:0030529~intracellular ribonucleoprotein complex
+XM_011450662	GO:0000151~ubiquitin ligase complex
+XM_011450928	GO:0031966~mitochondrial membrane
+XM_011451251	GO:0044427~chromosomal part
+XM_011451251	GO:0000793~condensed chromosome
+XM_011451302	GO:0015630~microtubule cytoskeleton
+XM_011452035	GO:0097060~synaptic membrane
+XM_011452145	GO:0031588~nucleotide-activated protein kinase complex
+XM_011452616	GO:0005654~nucleoplasm
+XM_011453223	GO:1902493~acetyltransferase complex
+XM_011453223	GO:0005654~nucleoplasm
+XM_011453603	GO:0005829~cytosol
+XM_011453612	GO:0019012~virion
+XM_011453865	GO:0019012~virion
+XM_011453865	GO:0044423~virion part
+XM_011453946	GO:0005773~vacuole
+XM_011453946	GO:0044437~vacuolar part
+AY551099	GO:0005773~vacuole
+XM_011454123	GO:0019866~organelle inner membrane
+FJ872817	GO:0031966~mitochondrial membrane
+NM_001305290	GO:0031975~envelope
+XM_011451235	GO:0005615~extracellular space
+XM_011451859	GO:0016023~cytoplasmic, membrane-bounded vesicle
+XM_011452030	GO:0030119~AP-type membrane coat adaptor complex
+XM_011452035	GO:0044456~synapse part
+XM_011452034	GO:0045202~synapse
+XM_011452363	GO:0044456~synapse part
+XM_011453221	GO:0044451~nucleoplasm part
+XM_011453426	GO:0016592~mediator complex
+XM_011453865	GO:0019013~viral nucleocapsid
+XM_011453946	GO:0005774~vacuolar membrane
+AY551099	GO:0005774~vacuolar membrane
+XM_011454804	GO:0022624~proteasome accessory complex
+XM_011454941	GO:0044445~cytosolic part
+XM_011455674	GO:0008076~voltage-gated potassium channel complex
+XM_011455674	GO:1990351~transporter complex
+XM_011455768	GO:0099512~supramolecular fiber
+XM_011455767	GO:0099512~supramolecular fiber
+XM_011455981	GO:0044423~virion part
+AB199895	GO:0030529~intracellular ribonucleoprotein complex
+AJ563480	GO:0015935~small ribosomal subunit
+NM_001305376	GO:0044391~ribosomal subunit
+NM_001305376	GO:0030529~intracellular ribonucleoprotein complex
+XM_011457552	GO:1990904~ribonucleoprotein complex
+NM_001305314	GO:0044391~ribosomal subunit
+XM_011457830	GO:1990904~ribonucleoprotein complex
+XM_011457920	GO:0044456~synapse part
+XM_011458560	GO:0031975~envelope
+XM_011458572	GO:0030529~intracellular ribonucleoprotein complex
+XM_011458572	GO:0044423~virion part
+XM_011458821	GO:0005929~cilium
+XM_011455670	GO:0031231~intrinsic component of peroxisomal membrane
+XM_011455981	GO:1990904~ribonucleoprotein complex
+XM_011456006	GO:0005694~chromosome
+XM_011456100	GO:0032993~protein-DNA complex
+XM_011456098	GO:0005694~chromosome
+XM_011456173	GO:0005576~extracellular region
+XM_011456383	GO:0015630~microtubule cytoskeleton
+XM_011456384	GO:0015630~microtubule cytoskeleton
+XM_011456795	GO:0005654~nucleoplasm
+XM_011458821	GO:0044441~ciliary part
+NM_001305314	GO:0015935~small ribosomal subunit
+EU152936	GO:0030529~intracellular ribonucleoprotein complex
+XM_011457901	GO:0016459~myosin complex
+XM_011458103	GO:0017053~transcriptional repressor complex
+XM_011458404	GO:0005783~endoplasmic reticulum
+XM_011458560	GO:0019866~organelle inner membrane
+XM_011413926	GO:0030529~intracellular ribonucleoprotein complex
+XM_011414070	GO:0005875~microtubule associated complex
+XM_011414217	GO:0005869~dynactin complex
+XM_011414217	GO:0015630~microtubule cytoskeleton
+XM_011414118	GO:1902554~serine/threonine protein kinase complex
+XM_011414250	GO:0098687~chromosomal region
+XM_011414346	GO:0005743~mitochondrial inner membrane
+XM_011414358	GO:0005794~Golgi apparatus
+XM_011414373	GO:0005794~Golgi apparatus
+XM_011414366	GO:0000139~Golgi membrane
+XM_011414366	GO:0044431~Golgi apparatus part
+XM_011415038	GO:0000502~proteasome complex
+XM_011415110	GO:0044432~endoplasmic reticulum part
+XM_011415102	GO:0044432~endoplasmic reticulum part
+XM_011415111	GO:0005783~endoplasmic reticulum
+XM_011415102	GO:0005789~endoplasmic reticulum membrane
+XM_011415107	GO:0005789~endoplasmic reticulum membrane
+XM_011415103	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011415102	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011415311	GO:1902495~transmembrane transporter complex
+XM_011415309	GO:0034703~cation channel complex
+XM_011415316	GO:0005887~integral component of plasma membrane
+XM_011415316	GO:0034705~potassium channel complex
+XM_011415315	GO:0034703~cation channel complex
+XM_011415310	GO:0034703~cation channel complex
+XM_011415312	GO:0034703~cation channel complex
+XM_011415314	GO:0031226~intrinsic component of plasma membrane
+XM_011415319	GO:1990351~transporter complex
+XM_011415395	GO:0016471~vacuolar proton-transporting V-type ATPase complex
+XM_011415397	GO:0000221~vacuolar proton-transporting V-type ATPase, V1 domain
+XM_011415397	GO:0033178~proton-transporting two-sector ATPase complex, catalytic domain
+XM_011415394	GO:0033180~proton-transporting V-type ATPase, V1 domain
+XM_011418340	GO:0044815~DNA packaging complex
+XM_011416888	GO:0034703~cation channel complex
+XM_011415510	GO:0031975~envelope
+XM_011415907	GO:0005874~microtubule
+XM_011415510	GO:0005740~mitochondrial envelope
+XM_011415869	GO:0005694~chromosome
+XM_011415869	GO:0000793~condensed chromosome
+XM_011415906	GO:0005694~chromosome
+XM_011415907	GO:0099513~polymeric cytoskeletal fiber
+XM_011416540	GO:0019898~extrinsic component of membrane
+XM_011416540	GO:0044455~mitochondrial membrane part
+XM_011416540	GO:0019866~organelle inner membrane
+XM_011417129	GO:0005739~mitochondrion
+XM_011417577	GO:0070603~SWI/SNF superfamily-type complex
+XM_011417663	GO:0000139~Golgi membrane
+XM_011417662	GO:0032580~Golgi cisterna membrane
+XM_011417875	GO:0000428~DNA-directed RNA polymerase complex
+XM_011417875	GO:0055029~nuclear DNA-directed RNA polymerase complex
+XM_011417884	GO:0048500~signal recognition particle
+XM_011418243	GO:0042579~microbody
+XM_011418337	GO:0044815~DNA packaging complex
+XM_011418338	GO:0044427~chromosomal part
+XM_011418342	GO:0032993~protein-DNA complex
+XM_011418351	GO:0000786~nucleosome
+XM_011418343	GO:0005694~chromosome
+XM_011418348	GO:0005694~chromosome
+XM_011418348	GO:0032993~protein-DNA complex
+XM_011418349	GO:0032993~protein-DNA complex
+XM_011418349	GO:0000786~nucleosome
+XM_011418354	GO:0032993~protein-DNA complex
+XM_011418355	GO:0000786~nucleosome
+XM_011418355	GO:0044815~DNA packaging complex
+XM_011418356	GO:0000785~chromatin
+XM_011418356	GO:0005694~chromosome
+XM_011418360	GO:0005694~chromosome
+XM_011418777	GO:0015630~microtubule cytoskeleton
+XM_011420341	GO:0005773~vacuole
+XM_011422049	GO:0031967~organelle envelope
+AJ563471	GO:1990904~ribonucleoprotein complex
+AB199896	GO:1990904~ribonucleoprotein complex
+XM_011418517	GO:0044429~mitochondrial part
+XM_011418517	GO:0031975~envelope
+XM_011418703	GO:0008023~transcription elongation factor complex
+XM_011418758	GO:0008287~protein serine/threonine phosphatase complex
+XM_011418777	GO:0005874~microtubule
+XM_011419375	GO:0005783~endoplasmic reticulum
+XM_011419377	GO:0005783~endoplasmic reticulum
+XM_011419374	GO:0005789~endoplasmic reticulum membrane
+XM_011422219	GO:0034703~cation channel complex
+XM_011422227	GO:0005794~Golgi apparatus
+XM_011419625	GO:0030529~intracellular ribonucleoprotein complex
+XM_011419776	GO:0005789~endoplasmic reticulum membrane
+XM_011419776	GO:0044432~endoplasmic reticulum part
+XM_011419836	GO:0000790~nuclear chromatin
+XM_011419836	GO:0070603~SWI/SNF superfamily-type complex
+XM_011420293	GO:0034703~cation channel complex
+XM_011420293	GO:0031226~intrinsic component of plasma membrane
+XM_011420341	GO:0000815~ESCRT III complex
+XM_011420347	GO:0034702~ion channel complex
+XM_011420347	GO:0034705~potassium channel complex
+XM_011420347	GO:1902495~transmembrane transporter complex
+XM_011420945	GO:0005578~proteinaceous extracellular matrix
+XM_011420959	GO:0005783~endoplasmic reticulum
+XM_011421258	GO:0005921~gap junction
+XM_011421256	GO:0005921~gap junction
+XM_011421259	GO:0005911~cell-cell junction
+XM_011421264	GO:0005921~gap junction
+XM_011421260	GO:0005911~cell-cell junction
+XM_011421262	GO:0005911~cell-cell junction
+XM_011421266	GO:0005911~cell-cell junction
+XM_011421384	GO:0008023~transcription elongation factor complex
+XM_011421758	GO:0044427~chromosomal part
+XM_011421827	GO:1902911~protein kinase complex
+XM_011421827	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011422049	GO:0044429~mitochondrial part
+XM_011422049	GO:0005740~mitochondrial envelope
+XM_011422048	GO:0005739~mitochondrion
+XM_011422048	GO:0019866~organelle inner membrane
+XM_011422220	GO:0034702~ion channel complex
+XM_011422220	GO:0008076~voltage-gated potassium channel complex
+XM_011422503	GO:0005694~chromosome
+XM_011423388	GO:0005783~endoplasmic reticulum
+XM_011423421	GO:0022626~cytosolic ribosome
+XM_011423421	GO:0005840~ribosome
+XM_011423523	GO:0000159~protein phosphatase type 2A complex
+XM_011423657	GO:0044451~nucleoplasm part
+XM_011424157	GO:0005783~endoplasmic reticulum
+XM_011424715	GO:0000139~Golgi membrane
+XM_011424754	GO:0044423~virion part
+XM_011424753	GO:0030529~intracellular ribonucleoprotein complex
+XM_011424864	GO:0005739~mitochondrion
+XM_011424862	GO:0005739~mitochondrion
+XM_011425161	GO:0005578~proteinaceous extracellular matrix
+XM_011425226	GO:0031012~extracellular matrix
+XM_011425246	GO:0044455~mitochondrial membrane part
+XM_011425245	GO:0031975~envelope
+XM_011422503	GO:0032993~protein-DNA complex
+XM_011422539	GO:0015630~microtubule cytoskeleton
+AJ563478	GO:0030529~intracellular ribonucleoprotein complex
+XM_011422638	GO:0005667~transcription factor complex
+AF321279	GO:0005576~extracellular region
+XM_011422756	GO:0005576~extracellular region
+NM_001305339	GO:0005576~extracellular region
+XM_011423421	GO:0005829~cytosol
+XM_011423421	GO:0022627~cytosolic small ribosomal subunit
+XM_011423523	GO:0008287~protein serine/threonine phosphatase complex
+XM_011423577	GO:0005875~microtubule associated complex
+XM_011423578	GO:0005875~microtubule associated complex
+XM_011423580	GO:0005875~microtubule associated complex
+XM_011423657	GO:1902562~H4 histone acetyltransferase complex
+XM_011424108	GO:0005839~proteasome core complex
+XM_011424527	GO:0031461~cullin-RING ubiquitin ligase complex
+XM_011424528	GO:0031461~cullin-RING ubiquitin ligase complex
+XM_011424595	GO:0045259~proton-transporting ATP synthase complex
+XM_011424715	GO:0031312~extrinsic component of organelle membrane
+XM_011424720	GO:0031312~extrinsic component of organelle membrane
+XM_011424720	GO:0044431~Golgi apparatus part
+XM_011424989	GO:0000139~Golgi membrane
+XM_011425147	GO:0005794~Golgi apparatus
+XM_011425147	GO:0098589~membrane region
+XM_011425147	GO:0045121~membrane raft
+XM_011425149	GO:0044853~plasma membrane raft
+XM_011425148	GO:0045121~membrane raft
+XM_011425148	GO:0098590~plasma membrane region
+XM_011425150	GO:0005794~Golgi apparatus
+XM_011425247	GO:0031306~intrinsic component of mitochondrial outer membrane
+XM_011425244	GO:0031306~intrinsic component of mitochondrial outer membrane
+XM_011425246	GO:0032592~integral component of mitochondrial membrane
+XM_011425247	GO:0032592~integral component of mitochondrial membrane
+XM_011425247	GO:0031301~integral component of organelle membrane
+XM_011425424	GO:0015629~actin cytoskeleton
+XM_011425337	GO:0030529~intracellular ribonucleoprotein complex
+XM_011425488	GO:0030529~intracellular ribonucleoprotein complex
+XM_011425618	GO:0034705~potassium channel complex
+XM_011425633	GO:1990351~transporter complex
+XM_011425612	GO:1990351~transporter complex
+XM_011426529	GO:0000785~chromatin
+XM_011426787	GO:0005681~spliceosomal complex
+XM_011426788	GO:0030529~intracellular ribonucleoprotein complex
+XM_011426857	GO:0000123~histone acetyltransferase complex
+XM_011426940	GO:0031967~organelle envelope
+XM_011427406	GO:0072487~MSL complex
+XM_011427918	GO:0044450~microtubule organizing center part
+XM_011427916	GO:0005813~centrosome
+XM_011427916	GO:0005815~microtubule organizing center
+XM_011428462	GO:0030027~lamellipodium
+XM_011428464	GO:0030027~lamellipodium
+XM_011428461	GO:0030027~lamellipodium
+XM_011426308	GO:0005740~mitochondrial envelope
+XM_011426514	GO:0030529~intracellular ribonucleoprotein complex
+XM_011426740	GO:0005852~eukaryotic translation initiation factor 3 complex
+XM_011426940	GO:0005739~mitochondrion
+NM_001305345	GO:0030529~intracellular ribonucleoprotein complex
+XM_011429351	GO:0015630~microtubule cytoskeleton
+XM_011429495	GO:0005829~cytosol
+XM_011429591	GO:0044431~Golgi apparatus part
+XM_011429591	GO:0044433~cytoplasmic vesicle part
+XM_011429591	GO:0098589~membrane region
+XM_011429592	GO:0030118~clathrin coat
+XM_011429592	GO:0030135~coated vesicle
+XM_011429592	GO:0044431~Golgi apparatus part
+XM_011430130	GO:0005654~nucleoplasm
+XM_011430246	GO:0030529~intracellular ribonucleoprotein complex
+XM_011430246	GO:1990904~ribonucleoprotein complex
+XM_011430533	GO:0005730~nucleolus
+XM_011430960	GO:0099512~supramolecular fiber
+XM_011431057	GO:0031968~organelle outer membrane
+XM_011431114	GO:0016023~cytoplasmic, membrane-bounded vesicle
+XM_011431116	GO:0030659~cytoplasmic vesicle membrane
+XM_011431116	GO:0030134~ER to Golgi transport vesicle
+XM_011431117	GO:0030135~coated vesicle
+XM_011431115	GO:0030135~coated vesicle
+XM_011431295	GO:0034703~cation channel complex
+XM_011431295	GO:1990351~transporter complex
+XM_011431286	GO:0034704~calcium channel complex
+XM_011431293	GO:0034704~calcium channel complex
+XM_011431290	GO:1990351~transporter complex
+XM_011431288	GO:0034702~ion channel complex
+XM_011431667	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011431782	GO:0031226~intrinsic component of plasma membrane
+XM_011432074	GO:1902554~serine/threonine protein kinase complex
+XM_011429592	GO:0030120~vesicle coat
+XM_011429592	GO:0016023~cytoplasmic, membrane-bounded vesicle
+XM_011429622	GO:0005839~proteasome core complex
+XM_011430125	GO:0005929~cilium
+XM_011430125	GO:0097014~ciliary plasm
+XM_011430351	GO:0005779~integral component of peroxisomal membrane
+XM_011430694	GO:0031312~extrinsic component of organelle membrane
+XM_011430791	GO:1902495~transmembrane transporter complex
+XM_011430791	GO:0045275~respiratory chain complex III
+XM_011430960	GO:0015630~microtubule cytoskeleton
+XM_011431026	GO:0061695~transferase complex, transferring phosphorus-containing groups
+XM_011431057	GO:0005740~mitochondrial envelope
+XM_011431057	GO:0005741~mitochondrial outer membrane
+XM_011431117	GO:0030120~vesicle coat
+XM_011431289	GO:0005891~voltage-gated calcium channel complex
+XM_011431783	GO:0005887~integral component of plasma membrane
+XM_011432180	GO:0015630~microtubule cytoskeleton
+XM_011432511	GO:0000123~histone acetyltransferase complex
+XM_011432781	GO:0098687~chromosomal region
+XM_011433044	GO:0048475~coated membrane
+XM_011433184	GO:0030054~cell junction
+XM_011433697	GO:0000151~ubiquitin ligase complex
+XM_011433811	GO:0005694~chromosome
+XM_011434209	GO:0098800~inner mitochondrial membrane protein complex
+XM_011434209	GO:0031975~envelope
+XM_011434433	GO:1990904~ribonucleoprotein complex
+XM_011434583	GO:0030880~RNA polymerase complex
+XM_011434583	GO:0016593~Cdc73/Paf1 complex
+XM_011434878	GO:0098590~plasma membrane region
+XM_011434952	GO:0005741~mitochondrial outer membrane
+XM_011434952	GO:0031966~mitochondrial membrane
+XM_011433044	GO:0030119~AP-type membrane coat adaptor complex
+XM_011433575	GO:0000178~exosome (RNase complex)
+XM_011433930	GO:0000785~chromatin
+XM_011433962	GO:0099512~supramolecular fiber
+XM_011434209	GO:0005746~mitochondrial respiratory chain
+XM_011434209	GO:0098798~mitochondrial protein complex
+XM_011434583	GO:0016591~DNA-directed RNA polymerase II, holoenzyme
+XM_011434667	GO:0033290~eukaryotic 48S preinitiation complex
+XM_011434878	GO:0098794~postsynapse
+XM_011434952	GO:0031967~organelle envelope
+XR_900770	GO:0005576~extracellular region
+XM_011435166	GO:0044429~mitochondrial part
+KJ531894	GO:0005576~extracellular region
+XM_011435211	GO:0044421~extracellular region part
+XM_011435167	GO:0005760~gamma DNA polymerase complex
+XM_011435213	GO:0031012~extracellular matrix
+XM_011435213	GO:0005578~proteinaceous extracellular matrix
+XM_011435233	GO:0030529~intracellular ribonucleoprotein complex
+XM_011435456	GO:0005740~mitochondrial envelope
+XM_011435582	GO:0005887~integral component of plasma membrane
+XM_011436009	GO:0005759~mitochondrial matrix
+XM_011436413	GO:1990904~ribonucleoprotein complex
+XM_011436414	GO:0019013~viral nucleocapsid
+XM_011436524	GO:0030991~intraciliary transport particle A
+XM_011436617	GO:0031010~ISWI-type complex
+XM_011437717	GO:0005901~caveola
+XM_011437719	GO:0045121~membrane raft
+XM_011437984	GO:0005654~nucleoplasm
+XM_011437983	GO:0005654~nucleoplasm
+XM_011435260	GO:0019897~extrinsic component of plasma membrane
+XM_011435455	GO:0044429~mitochondrial part
+XM_011435602	GO:0031970~organelle envelope lumen
+XM_011435602	GO:0005739~mitochondrion
+XM_011436009	GO:0031975~envelope
+XM_011436413	GO:0019012~virion
+XR_900959	GO:0019012~virion
+XM_011436417	GO:0030529~intracellular ribonucleoprotein complex
+XR_900959	GO:0030529~intracellular ribonucleoprotein complex
+XR_900959	GO:0044423~virion part
+XM_011436579	GO:0031226~intrinsic component of plasma membrane
+XM_011436698	GO:0000502~proteasome complex
+XR_901040	GO:0005783~endoplasmic reticulum
+XM_011437717	GO:0044431~Golgi apparatus part
+XM_011438663	GO:0005768~endosome
+XM_011438661	GO:0030135~coated vesicle
+XM_011438663	GO:0030135~coated vesicle
+XM_011438663	GO:0005802~trans-Golgi network
+XM_011438663	GO:0031984~organelle subcompartment
+XM_011438662	GO:0031984~organelle subcompartment
+XM_011438753	GO:0031975~envelope
+AJ563464	GO:1990904~ribonucleoprotein complex
+XM_011439038	GO:1990904~ribonucleoprotein complex
+XM_011439869	GO:0022626~cytosolic ribosome
+XM_011439869	GO:0015935~small ribosomal subunit
+XM_011440116	GO:0005794~Golgi apparatus
+XM_011440114	GO:0030119~AP-type membrane coat adaptor complex
+XM_011440263	GO:0005783~endoplasmic reticulum
+XM_011440543	GO:0016023~cytoplasmic, membrane-bounded vesicle
+XM_011440848	GO:0005654~nucleoplasm
+XM_011441256	GO:0070993~translation preinitiation complex
+XM_011442087	GO:0044432~endoplasmic reticulum part
+XM_011442461	GO:0016459~myosin complex
+XM_011442617	GO:1990904~ribonucleoprotein complex
+XM_011442777	GO:0000139~Golgi membrane
+XM_011442798	GO:0005576~extracellular region
+XM_011439438	GO:0090575~RNA polymerase II transcription factor complex
+XM_011439915	GO:0031226~intrinsic component of plasma membrane
+XM_011439915	GO:0034702~ion channel complex
+XM_011440116	GO:0044431~Golgi apparatus part
+XM_011440287	GO:0005576~extracellular region
+XM_011440693	GO:0030117~membrane coat
+XM_011440949	GO:0005874~microtubule
+XM_011441088	GO:0000785~chromatin
+XM_011441088	GO:0033202~DNA helicase complex
+XM_011441088	GO:0070603~SWI/SNF superfamily-type complex
+XM_011441295	GO:0099512~supramolecular fiber
+XM_011442087	GO:0005783~endoplasmic reticulum
+XM_011443505	GO:0030054~cell junction
+XM_011443509	GO:0030054~cell junction
+XM_011443066	GO:1990904~ribonucleoprotein complex
+XM_011443506	GO:0005921~gap junction
+XM_011443536	GO:0032993~protein-DNA complex
+XM_011443736	GO:0005576~extracellular region
+XM_011443737	GO:0005576~extracellular region
+XM_011443917	GO:0030123~AP-3 adaptor complex
+XM_011444152	GO:0005654~nucleoplasm
+AB262088	GO:0031968~organelle outer membrane
+AB262088	GO:0031967~organelle envelope
+EU678311	GO:0005576~extracellular region
+XM_011444841	GO:0005576~extracellular region
+XM_011445511	GO:0005777~peroxisome
+XM_011445887	GO:0005743~mitochondrial inner membrane
+XM_011445890	GO:1990904~ribonucleoprotein complex
+XM_011446360	GO:0098791~Golgi subcompartment
+XM_011446360	GO:0032580~Golgi cisterna membrane
+XM_011446710	GO:1990904~ribonucleoprotein complex
+AJ563463	GO:0044391~ribosomal subunit
+XM_011443768	GO:0099513~polymeric cytoskeletal fiber
+XM_011444144	GO:0005789~endoplasmic reticulum membrane
+XM_011443778	GO:0005794~Golgi apparatus
+XM_011443879	GO:0031975~envelope
+EU678311	GO:0005578~proteinaceous extracellular matrix
+XM_011444152	GO:0016592~mediator complex
+AB262088	GO:0044429~mitochondrial part
+NM_001305296	GO:0031975~envelope
+AB262088	GO:0031975~envelope
+XM_011444787	GO:0031514~motile cilium
+XM_011445270	GO:0099513~polymeric cytoskeletal fiber
+XM_011445270	GO:0005882~intermediate filament
+XM_011445281	GO:0031984~organelle subcompartment
+XM_011445449	GO:0031226~intrinsic component of plasma membrane
+XM_011445536	GO:0005887~integral component of plasma membrane
+XM_011445887	GO:0031967~organelle envelope
+XM_011446017	GO:0000786~nucleosome
+AJ563469	GO:0034708~methyltransferase complex
+XM_011447677	GO:0005794~Golgi apparatus
+XM_011447681	GO:0044451~nucleoplasm part
+XM_011447762	GO:0005740~mitochondrial envelope
+XM_011447946	GO:0044798~nuclear transcription factor complex
+XM_011447943	GO:0044798~nuclear transcription factor complex
+XM_011447837	GO:0000502~proteasome complex
+XM_011447837	GO:0019773~proteasome core complex, alpha-subunit complex
+XM_011447948	GO:1990904~ribonucleoprotein complex
+NM_001305369	GO:0005840~ribosome
+XM_011448036	GO:0005794~Golgi apparatus
+XM_011449054	GO:0005739~mitochondrion
+XM_011449054	GO:0045277~respiratory chain complex IV
+NM_001308845	GO:0005576~extracellular region
+XM_011449325	GO:0005666~DNA-directed RNA polymerase III complex
+XM_011449426	GO:0012506~vesicle membrane
+XM_011449426	GO:0030140~trans-Golgi network transport vesicle
+XM_011449426	GO:0030132~clathrin coat of coated pit
+XM_011449426	GO:0030130~clathrin coat of trans-Golgi network vesicle
+XM_011449481	GO:0005783~endoplasmic reticulum
+EU152941	GO:1990904~ribonucleoprotein complex
+XM_011450245	GO:0005869~dynactin complex
+XM_011450580	GO:0005576~extracellular region
+XM_011450598	GO:0015629~actin cytoskeleton
+XM_011450662	GO:0005789~endoplasmic reticulum membrane
+XM_011448449	GO:0098799~outer mitochondrial membrane protein complex
+XM_011448449	GO:0031966~mitochondrial membrane
+XM_011449425	GO:0048475~coated membrane
+XM_011449054	GO:0019866~organelle inner membrane
+XM_011449220	GO:0032993~protein-DNA complex
+XM_011449325	GO:0005654~nucleoplasm
+NM_001305352	GO:1990904~ribonucleoprotein complex
+XM_011449426	GO:0098589~membrane region
+XM_011449426	GO:0005798~Golgi-associated vesicle
+XM_011449425	GO:0030658~transport vesicle membrane
+XM_011449582	GO:0000228~nuclear chromosome
+XM_011449582	GO:0044454~nuclear chromosome part
+AY713400	GO:0015630~microtubule cytoskeleton
+XM_011450792	GO:0044423~virion part
+XM_011450792	GO:0019028~viral capsid
+XM_011450928	GO:0005743~mitochondrial inner membrane
+XM_011450928	GO:0019866~organelle inner membrane
+XM_011451086	GO:0031967~organelle envelope
+XM_011451087	GO:0031967~organelle envelope
+XM_011451235	GO:0005576~extracellular region
+XM_011452029	GO:0045202~synapse
+XM_011452034	GO:0097060~synaptic membrane
+XM_011452115	GO:0000786~nucleosome
+XM_011452115	GO:0044427~chromosomal part
+XM_011452207	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+XM_011452363	GO:0097060~synaptic membrane
+XM_011452365	GO:0097060~synaptic membrane
+XM_011453389	GO:0031390~Ctf18 RFC-like complex
+XM_011453427	GO:0019013~viral nucleocapsid
+XM_011453611	GO:0019012~virion
+XM_011453611	GO:0019013~viral nucleocapsid
+XM_011453865	GO:0019028~viral capsid
+AY551099	GO:0016469~proton-transporting two-sector ATPase complex
+NM_001305290	GO:0070469~respiratory chain
+XM_011451037	GO:0005615~extracellular space
+XM_011451756	GO:0005739~mitochondrion
+XM_011451825	GO:0005694~chromosome
+XM_011452031	GO:0044456~synapse part
+XM_011452035	GO:0045211~postsynaptic membrane
+XM_011452032	GO:0098590~plasma membrane region
+NM_001305300	GO:0031012~extracellular matrix
+XM_011452207	GO:0005789~endoplasmic reticulum membrane
+XM_011452365	GO:0098794~postsynapse
+HM992925	GO:0005615~extracellular space
+XM_011452857	GO:0044432~endoplasmic reticulum part
+XM_011453427	GO:0019028~viral capsid
+XM_011453427	GO:1990904~ribonucleoprotein complex
+XM_011453603	GO:0044445~cytosolic part
+NM_001305290	GO:0044429~mitochondrial part
+XM_011454123	GO:0005739~mitochondrion
+NM_001305290	GO:0005743~mitochondrial inner membrane
+XM_011454941	GO:0097361~CIA complex
+XM_011455439	GO:0005840~ribosome
+XM_011455670	GO:0031301~integral component of organelle membrane
+XM_011455674	GO:0034705~potassium channel complex
+XM_011455767	GO:0015630~microtubule cytoskeleton
+XM_011455781	GO:0005578~proteinaceous extracellular matrix
+XM_011455981	GO:0005681~spliceosomal complex
+XM_011456099	GO:0000785~chromatin
+XM_011456098	GO:0044815~DNA packaging complex
+XM_011456173	GO:0044421~extracellular region part
+XM_011456571	GO:0070993~translation preinitiation complex
+XM_011457009	GO:0030529~intracellular ribonucleoprotein complex
+AJ563480	GO:0005840~ribosome
+AY852246	GO:1990904~ribonucleoprotein complex
+XM_011457901	GO:0015629~actin cytoskeleton
+XM_011458572	GO:0019012~virion
+XM_011458601	GO:0043235~receptor complex
+XM_011454889	GO:0005783~endoplasmic reticulum
+AJ560757	GO:0005667~transcription factor complex
+XM_011455531	GO:0005739~mitochondrion
+XM_011455670	GO:0031300~intrinsic component of organelle membrane
+XM_011455670	GO:0005779~integral component of peroxisomal membrane
+XM_011455670	GO:0005778~peroxisomal membrane
+XM_011455674	GO:0034702~ion channel complex
+XM_011455769	GO:0005874~microtubule
+XM_011455781	GO:0044421~extracellular region part
+XM_011456037	GO:1990904~ribonucleoprotein complex
+XM_011456382	GO:0099513~polymeric cytoskeletal fiber
+NM_001305367	GO:1990904~ribonucleoprotein complex
+NM_001305376	GO:1990904~ribonucleoprotein complex
+EU152936	GO:0005840~ribosome
+NM_001305314	GO:0005840~ribosome
+XM_011457830	GO:0005840~ribosome
+XM_011458193	GO:1990904~ribonucleoprotein complex
+XM_011458560	GO:0031966~mitochondrial membrane
+XM_011458560	GO:0005739~mitochondrion
+XM_011458572	GO:0019013~viral nucleocapsid
+XM_011458601	GO:0098802~plasma membrane receptor complex

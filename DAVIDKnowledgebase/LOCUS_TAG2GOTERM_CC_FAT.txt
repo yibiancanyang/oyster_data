@@ -1,0 +1,2036 @@
+CGI_10003541	GO:0015629~actin cytoskeleton
+CGI_10003479	GO:0044427~chromosomal part
+CGI_10006290	GO:0034518~RNA cap binding complex
+CGI_10010305	GO:0000502~proteasome complex
+CGI_10014337	GO:0000221~vacuolar proton-transporting V-type ATPase, V1 domain
+CGI_10014337	GO:0044437~vacuolar part
+CGI_10019926	GO:0019028~viral capsid
+CGI_10019926	GO:0019013~viral nucleocapsid
+CGI_10016780	GO:0005694~chromosome
+CGI_10016780	GO:0015630~microtubule cytoskeleton
+CGI_10016780	GO:0000776~kinetochore
+CGI_10016780	GO:0099513~polymeric cytoskeletal fiber
+CGI_10023211	GO:0005783~endoplasmic reticulum
+CGI_10008420	GO:0044429~mitochondrial part
+CGI_10010682	GO:1990904~ribonucleoprotein complex
+CGI_10010682	GO:0005840~ribosome
+CGI_10010021	GO:0005829~cytosol
+CGI_10010021	GO:0031975~envelope
+CGI_10003516	GO:0090544~BAF-type complex
+CGI_10005719	GO:0005840~ribosome
+CGI_10005719	GO:1990904~ribonucleoprotein complex
+CGI_10015795	GO:0098791~Golgi subcompartment
+CGI_10015795	GO:0000139~Golgi membrane
+CGI_10002864	GO:0061695~transferase complex, transferring phosphorus-containing groups
+CGI_10002864	GO:0016591~DNA-directed RNA polymerase II, holoenzyme
+CGI_10002864	GO:0055029~nuclear DNA-directed RNA polymerase complex
+CGI_10007033	GO:0042579~microbody
+CGI_10008057	GO:0044427~chromosomal part
+CGI_10008062	GO:0000785~chromatin
+CGI_10008084	GO:0000785~chromatin
+CGI_10008083	GO:0000785~chromatin
+CGI_10008079	GO:0000786~nucleosome
+CGI_10008078	GO:0044427~chromosomal part
+CGI_10008074	GO:0044427~chromosomal part
+CGI_10008073	GO:0044427~chromosomal part
+CGI_10008073	GO:0005694~chromosome
+CGI_10000673	GO:0044451~nucleoplasm part
+CGI_10015688	GO:0031226~intrinsic component of plasma membrane
+CGI_10015695	GO:0044432~endoplasmic reticulum part
+CGI_10016874	GO:0005911~cell-cell junction
+CGI_10008152	GO:1990904~ribonucleoprotein complex
+CGI_10008152	GO:0044391~ribosomal subunit
+CGI_10024270	GO:0044454~nuclear chromosome part
+CGI_10024270	GO:0033202~DNA helicase complex
+CGI_10024636	GO:0034703~cation channel complex
+CGI_10001824	GO:0034705~potassium channel complex
+CGI_10019046	GO:0005576~extracellular region
+CGI_10019057	GO:0005783~endoplasmic reticulum
+CGI_10009587	GO:0005921~gap junction
+CGI_10025777	GO:0044451~nucleoplasm part
+CGI_10025777	GO:0005654~nucleoplasm
+CGI_10002242	GO:0000151~ubiquitin ligase complex
+CGI_10028116	GO:0005840~ribosome
+CGI_10027342	GO:0005887~integral component of plasma membrane
+CGI_10027342	GO:0034702~ion channel complex
+CGI_10027347	GO:0000139~Golgi membrane
+CGI_10027347	GO:0030117~membrane coat
+CGI_10027347	GO:0012506~vesicle membrane
+CGI_10000075	GO:0005875~microtubule associated complex
+CGI_10000100	GO:0005694~chromosome
+CGI_10000159	GO:1904949~ATPase complex
+CGI_10020634	GO:0034518~RNA cap binding complex
+CGI_10000402	GO:0032993~protein-DNA complex
+CGI_10000402	GO:0000785~chromatin
+CGI_10000829	GO:0005739~mitochondrion
+CGI_10019706	GO:0015935~small ribosomal subunit
+CGI_10002030	GO:0043189~H4/H2A histone acetyltransferase complex
+CGI_10028710	GO:0005794~Golgi apparatus
+CGI_10023795	GO:0005789~endoplasmic reticulum membrane
+CGI_10023795	GO:0044432~endoplasmic reticulum part
+CGI_10028023	GO:0098798~mitochondrial protein complex
+CGI_10028023	GO:0045263~proton-transporting ATP synthase complex, coupling factor F(o)
+CGI_10028023	GO:0000276~mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)
+CGI_10028023	GO:0031967~organelle envelope
+CGI_10028368	GO:1990904~ribonucleoprotein complex
+CGI_10028389	GO:0005777~peroxisome
+CGI_10028710	GO:0098857~membrane microdomain
+CGI_10028709	GO:0044853~plasma membrane raft
+CGI_10028709	GO:0044431~Golgi apparatus part
+CGI_10028711	GO:0045121~membrane raft
+CGI_10028712	GO:0045121~membrane raft
+CGI_10028715	GO:0044431~Golgi apparatus part
+CGI_10028715	GO:0005901~caveola
+CGI_10028781	GO:0005739~mitochondrion
+CGI_10028781	GO:0005741~mitochondrial outer membrane
+CGI_10028781	GO:0098573~intrinsic component of mitochondrial membrane
+CGI_10028781	GO:0031301~integral component of organelle membrane
+CGI_10008941	GO:0016272~prefoldin complex
+CGI_10009032	GO:0005887~integral component of plasma membrane
+CGI_10009032	GO:0034702~ion channel complex
+CGI_10013754	GO:0005887~integral component of plasma membrane
+CGI_10016432	GO:0031975~envelope
+CGI_10026423	GO:0032993~protein-DNA complex
+CGI_10026432	GO:0005576~extracellular region
+CGI_10015337	GO:0005852~eukaryotic translation initiation factor 3 complex
+CGI_10024595	GO:0005581~collagen trimer
+CGI_10015354	GO:0031966~mitochondrial membrane
+CGI_10015354	GO:0031975~envelope
+CGI_10024027	GO:1902495~transmembrane transporter complex
+CGI_10022209	GO:0030008~TRAPP complex
+CGI_10014687	GO:0044450~microtubule organizing center part
+CGI_10014687	GO:0005814~centriole
+CGI_10009149	GO:0032993~protein-DNA complex
+CGI_10014723	GO:0019028~viral capsid
+CGI_10025653	GO:0030665~clathrin-coated vesicle membrane
+CGI_10025653	GO:0030140~trans-Golgi network transport vesicle
+CGI_10025653	GO:0048475~coated membrane
+CGI_10025653	GO:0030662~coated vesicle membrane
+CGI_10025667	GO:0000502~proteasome complex
+CGI_10025667	GO:0019773~proteasome core complex, alpha-subunit complex
+CGI_10005381	GO:0015630~microtubule cytoskeleton
+CGI_10027000	GO:0005576~extracellular region
+CGI_10018517	GO:0044441~ciliary part
+CGI_10018520	GO:0071821~FANCM-MHF complex
+CGI_10018520	GO:0005654~nucleoplasm
+CGI_10023726	GO:1990904~ribonucleoprotein complex
+CGI_10001508	GO:0005778~peroxisomal membrane
+CGI_10001508	GO:0044439~peroxisomal part
+CGI_10016244	GO:1902560~GMP reductase complex
+CGI_10020306	GO:0044429~mitochondrial part
+CGI_10020306	GO:0005743~mitochondrial inner membrane
+CGI_10020335	GO:0000502~proteasome complex
+CGI_10020488	GO:0019866~organelle inner membrane
+CGI_10020488	GO:0031975~envelope
+CGI_10020488	GO:0031967~organelle envelope
+CGI_10012401	GO:0016591~DNA-directed RNA polymerase II, holoenzyme
+CGI_10009698	GO:0031966~mitochondrial membrane
+CGI_10025107	GO:0030658~transport vesicle membrane
+CGI_10025107	GO:0048475~coated membrane
+CGI_10027733	GO:0034704~calcium channel complex
+CGI_10001391	GO:0031226~intrinsic component of plasma membrane
+CGI_10010572	GO:0031248~protein acetyltransferase complex
+CGI_10010572	GO:0044451~nucleoplasm part
+CGI_10026617	GO:0046540~U4/U6 x U5 tri-snRNP complex
+CGI_10024342	GO:0030117~membrane coat
+CGI_10018492	GO:0044431~Golgi apparatus part
+CGI_10019835	GO:0015630~microtubule cytoskeleton
+CGI_10023207	GO:0005740~mitochondrial envelope
+CGI_10023207	GO:0045271~respiratory chain complex I
+CGI_10023207	GO:0005743~mitochondrial inner membrane
+CGI_10021675	GO:1990904~ribonucleoprotein complex
+CGI_10021675	GO:0016282~eukaryotic 43S preinitiation complex
+CGI_10006845	GO:0097060~synaptic membrane
+CGI_10020891	GO:0005739~mitochondrion
+CGI_10026597	GO:0044420~extracellular matrix component
+CGI_10026597	GO:0044421~extracellular region part
+CGI_10026617	GO:0097526~spliceosomal tri-snRNP complex
+CGI_10026636	GO:0009898~cytoplasmic side of plasma membrane
+CGI_10009677	GO:0000502~proteasome complex
+CGI_10012813	GO:0031970~organelle envelope lumen
+CGI_10028469	GO:0019028~viral capsid
+CGI_10028479	GO:0005759~mitochondrial matrix
+CGI_10028508	GO:0005887~integral component of plasma membrane
+CGI_10017485	GO:0005783~endoplasmic reticulum
+CGI_10007942	GO:0098857~membrane microdomain
+CGI_10007942	GO:0044853~plasma membrane raft
+CGI_10002112	GO:0016592~mediator complex
+CGI_10021852	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10002018	GO:0098791~Golgi subcompartment
+CGI_10025401	GO:0019866~organelle inner membrane
+CGI_10025401	GO:0031975~envelope
+CGI_10026827	GO:0000120~RNA polymerase I transcription factor complex
+CGI_10026827	GO:0070860~RNA polymerase I core factor complex
+CGI_10026832	GO:0070531~BRCA1-A complex
+CGI_10025824	GO:0061695~transferase complex, transferring phosphorus-containing groups
+CGI_10025824	GO:0090575~RNA polymerase II transcription factor complex
+CGI_10025856	GO:0032300~mismatch repair complex
+CGI_10021852	GO:1990904~ribonucleoprotein complex
+CGI_10019309	GO:0030131~clathrin adaptor complex
+CGI_10023573	GO:0048500~signal recognition particle
+CGI_10001199	GO:0016591~DNA-directed RNA polymerase II, holoenzyme
+CGI_10001199	GO:0061695~transferase complex, transferring phosphorus-containing groups
+CGI_10006875	GO:0016459~myosin complex
+CGI_10022234	GO:1990904~ribonucleoprotein complex
+CGI_10024017	GO:0000502~proteasome complex
+CGI_10003732	GO:0005911~cell-cell junction
+CGI_10010163	GO:0005874~microtubule
+CGI_10010169	GO:0005794~Golgi apparatus
+CGI_10005055	GO:1990904~ribonucleoprotein complex
+CGI_10027300	GO:0005739~mitochondrion
+CGI_10027300	GO:0031966~mitochondrial membrane
+CGI_10016108	GO:0005576~extracellular region
+CGI_10018067	GO:0099513~polymeric cytoskeletal fiber
+CGI_10018067	GO:0005882~intermediate filament
+CGI_10018074	GO:0055037~recycling endosome
+CGI_10022685	GO:0005901~caveola
+CGI_10022685	GO:0044853~plasma membrane raft
+CGI_10026576	GO:0031967~organelle envelope
+CGI_10015197	GO:0019866~organelle inner membrane
+CGI_10015200	GO:0005840~ribosome
+CGI_10027476	GO:0005694~chromosome
+CGI_10027476	GO:0044815~DNA packaging complex
+CGI_10013850	GO:0015629~actin cytoskeleton
+CGI_10025956	GO:0044431~Golgi apparatus part
+CGI_10012002	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10013013	GO:0005794~Golgi apparatus
+CGI_10002546	GO:0044441~ciliary part
+CGI_10019677	GO:0005576~extracellular region
+CGI_10024362	GO:0005741~mitochondrial outer membrane
+CGI_10024362	GO:0098799~outer mitochondrial membrane protein complex
+CGI_10024362	GO:0044429~mitochondrial part
+CGI_10008574	GO:0031966~mitochondrial membrane
+CGI_10008574	GO:0098798~mitochondrial protein complex
+CGI_10008574	GO:0070469~respiratory chain
+CGI_10008574	GO:0005743~mitochondrial inner membrane
+CGI_10021336	GO:0048475~coated membrane
+CGI_10008574	GO:0019866~organelle inner membrane
+CGI_10021336	GO:0030660~Golgi-associated vesicle membrane
+CGI_10021336	GO:0030140~trans-Golgi network transport vesicle
+CGI_10023346	GO:0044432~endoplasmic reticulum part
+CGI_10023346	GO:0005789~endoplasmic reticulum membrane
+CGI_10023363	GO:0005885~Arp2/3 protein complex
+CGI_10009053	GO:0000228~nuclear chromosome
+CGI_10009053	GO:0033557~Slx1-Slx4 complex
+CGI_10004554	GO:0005840~ribosome
+CGI_10004554	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10010193	GO:0099512~supramolecular fiber
+CGI_10023273	GO:0008180~COP9 signalosome
+CGI_10023280	GO:0005783~endoplasmic reticulum
+CGI_10010188	GO:0030990~intraciliary transport particle
+CGI_10010188	GO:0030992~intraciliary transport particle B
+CGI_10024922	GO:0000151~ubiquitin ligase complex
+CGI_10008864	GO:0044423~virion part
+CGI_10008864	GO:0019013~viral nucleocapsid
+CGI_10008864	GO:0019028~viral capsid
+CGI_10008864	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10019964	GO:0019866~organelle inner membrane
+CGI_10019964	GO:0005740~mitochondrial envelope
+CGI_10012919	GO:0005739~mitochondrion
+CGI_10012920	GO:0044421~extracellular region part
+CGI_10002218	GO:0044427~chromosomal part
+CGI_10004520	GO:0030286~dynein complex
+CGI_10004866	GO:0046930~pore complex
+CGI_10008409	GO:0099512~supramolecular fiber
+CGI_10012298	GO:0030054~cell junction
+CGI_10025376	GO:0044427~chromosomal part
+CGI_10025376	GO:0005694~chromosome
+CGI_10021002	GO:0045211~postsynaptic membrane
+CGI_10020961	GO:1990904~ribonucleoprotein complex
+CGI_10018791	GO:0016592~mediator complex
+CGI_10018095	GO:0000139~Golgi membrane
+CGI_10018095	GO:0005794~Golgi apparatus
+CGI_10005249	GO:0044451~nucleoplasm part
+CGI_10021599	GO:0005840~ribosome
+CGI_10021606	GO:0019028~viral capsid
+CGI_10025974	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10026004	GO:0033176~proton-transporting V-type ATPase complex
+CGI_10022034	GO:1990904~ribonucleoprotein complex
+CGI_10022034	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10022306	GO:0044423~virion part
+CGI_10007723	GO:0005667~transcription factor complex
+CGI_10014767	GO:0005840~ribosome
+CGI_10013397	GO:0005887~integral component of plasma membrane
+CGI_10019640	GO:0099513~polymeric cytoskeletal fiber
+CGI_10019644	GO:0005576~extracellular region
+CGI_10022452	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10022468	GO:0000786~nucleosome
+CGI_10022468	GO:0044427~chromosomal part
+CGI_10022468	GO:0044815~DNA packaging complex
+CGI_10005088	GO:0031012~extracellular matrix
+CGI_10009651	GO:0044391~ribosomal subunit
+CGI_10028202	GO:0005840~ribosome
+CGI_10016284	GO:0044432~endoplasmic reticulum part
+CGI_10016284	GO:0005789~endoplasmic reticulum membrane
+CGI_10017216	GO:0005739~mitochondrion
+CGI_10017216	GO:0005743~mitochondrial inner membrane
+CGI_10018710	GO:0005576~extracellular region
+CGI_10008894	GO:0030870~Mre11 complex
+CGI_10024520	GO:1902554~serine/threonine protein kinase complex
+CGI_10003269	GO:0031967~organelle envelope
+CGI_10011113	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10010393	GO:0005576~extracellular region
+CGI_10025479	GO:0005783~endoplasmic reticulum
+CGI_10015111	GO:0034702~ion channel complex
+CGI_10014337	GO:0016471~vacuolar proton-transporting V-type ATPase complex
+CGI_10014337	GO:0033178~proton-transporting two-sector ATPase complex, catalytic domain
+CGI_10014337	GO:0005773~vacuole
+CGI_10019936	GO:0031967~organelle envelope
+CGI_10010474	GO:1990904~ribonucleoprotein complex
+CGI_10016952	GO:0005576~extracellular region
+CGI_10016751	GO:0044454~nuclear chromosome part
+CGI_10016780	GO:0005874~microtubule
+CGI_10023211	GO:0005789~endoplasmic reticulum membrane
+CGI_10025051	GO:0031975~envelope
+CGI_10007757	GO:0005840~ribosome
+CGI_10008420	GO:0019898~extrinsic component of membrane
+CGI_10008420	GO:0031975~envelope
+CGI_10011360	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10013497	GO:0005839~proteasome core complex
+CGI_10020038	GO:1902495~transmembrane transporter complex
+CGI_10020038	GO:0008076~voltage-gated potassium channel complex
+CGI_10010021	GO:0005740~mitochondrial envelope
+CGI_10015795	GO:0031985~Golgi cisterna
+CGI_10015795	GO:0005794~Golgi apparatus
+CGI_10002864	GO:0008023~transcription elongation factor complex
+CGI_10002864	GO:0000428~DNA-directed RNA polymerase complex
+CGI_10008057	GO:0032993~protein-DNA complex
+CGI_10008062	GO:0044815~DNA packaging complex
+CGI_10008065	GO:0000785~chromatin
+CGI_10008081	GO:0000786~nucleosome
+CGI_10008081	GO:0032993~protein-DNA complex
+CGI_10008080	GO:0044815~DNA packaging complex
+CGI_10008079	GO:0005694~chromosome
+CGI_10008078	GO:0000786~nucleosome
+CGI_10008078	GO:0044815~DNA packaging complex
+CGI_10008075	GO:0000785~chromatin
+CGI_10008068	GO:0044427~chromosomal part
+CGI_10010832	GO:0005739~mitochondrion
+CGI_10010832	GO:0005740~mitochondrial envelope
+CGI_10001836	GO:0005681~spliceosomal complex
+CGI_10015695	GO:0005789~endoplasmic reticulum membrane
+CGI_10016866	GO:0005777~peroxisome
+CGI_10015594	GO:0019013~viral nucleocapsid
+CGI_10024270	GO:0000790~nuclear chromatin
+CGI_10024270	GO:0005694~chromosome
+CGI_10024636	GO:0031226~intrinsic component of plasma membrane
+CGI_10024661	GO:0044440~endosomal part
+CGI_10024661	GO:0005768~endosome
+CGI_10024661	GO:0036452~ESCRT complex
+CGI_10028115	GO:0031967~organelle envelope
+CGI_10019046	GO:0031012~extracellular matrix
+CGI_10017200	GO:0005667~transcription factor complex
+CGI_10009587	GO:0005911~cell-cell junction
+CGI_10025754	GO:0005576~extracellular region
+CGI_10014833	GO:1990904~ribonucleoprotein complex
+CGI_10004762	GO:0005840~ribosome
+CGI_10027347	GO:0044431~Golgi apparatus part
+CGI_10027347	GO:0031988~membrane-bounded vesicle
+CGI_10027347	GO:0030120~vesicle coat
+CGI_10000055	GO:0044427~chromosomal part
+CGI_10000085	GO:1990904~ribonucleoprotein complex
+CGI_10000100	GO:0030915~Smc5-Smc6 complex
+CGI_10000100	GO:0044427~chromosomal part
+CGI_10000159	GO:0098533~ATPase dependent transmembrane transport complex
+CGI_10000159	GO:1990351~transporter complex
+CGI_10000159	GO:0043190~ATP-binding cassette (ABC) transporter complex
+CGI_10023161	GO:0005840~ribosome
+CGI_10000402	GO:0005694~chromosome
+CGI_10002030	GO:0032777~Piccolo NuA4 histone acetyltransferase complex
+CGI_10028712	GO:0098857~membrane microdomain
+CGI_10011577	GO:1990904~ribonucleoprotein complex
+CGI_10023795	GO:0005783~endoplasmic reticulum
+CGI_10027182	GO:0005576~extracellular region
+CGI_10028023	GO:0005743~mitochondrial inner membrane
+CGI_10028023	GO:0098800~inner mitochondrial membrane protein complex
+CGI_10028023	GO:0005739~mitochondrion
+CGI_10028389	GO:0042579~microbody
+CGI_10013068	GO:0044421~extracellular region part
+CGI_10028709	GO:0005901~caveola
+CGI_10028709	GO:0045121~membrane raft
+CGI_10028711	GO:0098590~plasma membrane region
+CGI_10028711	GO:0098589~membrane region
+CGI_10028712	GO:0005901~caveola
+CGI_10028712	GO:0098589~membrane region
+CGI_10028715	GO:0044853~plasma membrane raft
+CGI_10026423	GO:0000785~chromatin
+CGI_10021135	GO:0005730~nucleolus
+CGI_10009031	GO:0008076~voltage-gated potassium channel complex
+CGI_10015062	GO:0000502~proteasome complex
+CGI_10009032	GO:0008076~voltage-gated potassium channel complex
+CGI_10016432	GO:0031966~mitochondrial membrane
+CGI_10016432	GO:0005739~mitochondrion
+CGI_10026412	GO:0005840~ribosome
+CGI_10026423	GO:0005694~chromosome
+CGI_10026423	GO:0044427~chromosomal part
+CGI_10014505	GO:0005739~mitochondrion
+CGI_10015354	GO:0005739~mitochondrion
+CGI_10015354	GO:0019866~organelle inner membrane
+CGI_10026988	GO:1990904~ribonucleoprotein complex
+CGI_10014723	GO:0044423~virion part
+CGI_10025653	GO:0044431~Golgi apparatus part
+CGI_10025653	GO:0005905~clathrin-coated pit
+CGI_10025667	GO:0005839~proteasome core complex
+CGI_10018520	GO:0044451~nucleoplasm part
+CGI_10023702	GO:0005788~endoplasmic reticulum lumen
+CGI_10023702	GO:0044432~endoplasmic reticulum part
+CGI_10023726	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10024027	GO:0034702~ion channel complex
+CGI_10024027	GO:0034705~potassium channel complex
+CGI_10001508	GO:0042579~microbody
+CGI_10003910	GO:0005739~mitochondrion
+CGI_10004561	GO:0005730~nucleolus
+CGI_10020306	GO:0044455~mitochondrial membrane part
+CGI_10020488	GO:0005746~mitochondrial respiratory chain
+CGI_10012401	GO:0044798~nuclear transcription factor complex
+CGI_10025107	GO:0030117~membrane coat
+CGI_10027733	GO:0034702~ion channel complex
+CGI_10009878	GO:0005783~endoplasmic reticulum
+CGI_10009879	GO:0044432~endoplasmic reticulum part
+CGI_10006684	GO:0005840~ribosome
+CGI_10010758	GO:1902911~protein kinase complex
+CGI_10003816	GO:0030286~dynein complex
+CGI_10010572	GO:0005654~nucleoplasm
+CGI_10010936	GO:0005581~collagen trimer
+CGI_10015711	GO:0005739~mitochondrion
+CGI_10018492	GO:0005794~Golgi apparatus
+CGI_10014663	GO:0005576~extracellular region
+CGI_10023207	GO:0005747~mitochondrial respiratory chain complex I
+CGI_10023207	GO:0044455~mitochondrial membrane part
+CGI_10024464	GO:0030687~preribosome, large subunit precursor
+CGI_10016532	GO:0000428~DNA-directed RNA polymerase complex
+CGI_10016532	GO:0061695~transferase complex, transferring phosphorus-containing groups
+CGI_10016532	GO:0030880~RNA polymerase complex
+CGI_10016532	GO:0005654~nucleoplasm
+CGI_10006845	GO:0044456~synapse part
+CGI_10006845	GO:0098590~plasma membrane region
+CGI_10015251	GO:0005576~extracellular region
+CGI_10026602	GO:0005576~extracellular region
+CGI_10026617	GO:0019012~virion
+CGI_10025251	GO:0031975~envelope
+CGI_10014037	GO:0005615~extracellular space
+CGI_10028508	GO:1902495~transmembrane transporter complex
+CGI_10008854	GO:0000502~proteasome complex
+CGI_10015223	GO:0005794~Golgi apparatus
+CGI_10015223	GO:0031985~Golgi cisterna
+CGI_10007940	GO:0045121~membrane raft
+CGI_10007940	GO:0044431~Golgi apparatus part
+CGI_10007940	GO:0098857~membrane microdomain
+CGI_10007940	GO:0005901~caveola
+CGI_10007942	GO:0000139~Golgi membrane
+CGI_10007941	GO:0098590~plasma membrane region
+CGI_10002112	GO:0044451~nucleoplasm part
+CGI_10010578	GO:0034702~ion channel complex
+CGI_10010578	GO:0008076~voltage-gated potassium channel complex
+CGI_10002018	GO:0030136~clathrin-coated vesicle
+CGI_10002018	GO:0044431~Golgi apparatus part
+CGI_10009876	GO:1990904~ribonucleoprotein complex
+CGI_10009876	GO:0005840~ribosome
+CGI_10026853	GO:0005576~extracellular region
+CGI_10012006	GO:0005581~collagen trimer
+CGI_10025824	GO:0016591~DNA-directed RNA polymerase II, holoenzyme
+CGI_10017767	GO:1990904~ribonucleoprotein complex
+CGI_10019309	GO:0005802~trans-Golgi network
+CGI_10015014	GO:0005787~signal peptidase complex
+CGI_10013926	GO:0016023~cytoplasmic, membrane-bounded vesicle
+CGI_10023573	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10001199	GO:0005654~nucleoplasm
+CGI_10002419	GO:0005874~microtubule
+CGI_10002563	GO:0031011~Ino80 complex
+CGI_10002563	GO:0000785~chromatin
+CGI_10006122	GO:1990904~ribonucleoprotein complex
+CGI_10015074	GO:0099512~supramolecular fiber
+CGI_10008811	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10022234	GO:0005840~ribosome
+CGI_10017370	GO:0005667~transcription factor complex
+CGI_10003732	GO:0005921~gap junction
+CGI_10027476	GO:0000786~nucleosome
+CGI_10008749	GO:0016591~DNA-directed RNA polymerase II, holoenzyme
+CGI_10008001	GO:0005773~vacuole
+CGI_10027241	GO:0005740~mitochondrial envelope
+CGI_10019240	GO:0030123~AP-3 adaptor complex
+CGI_10013652	GO:0044451~nucleoplasm part
+CGI_10027300	GO:0044429~mitochondrial part
+CGI_10018067	GO:0099512~supramolecular fiber
+CGI_10018074	GO:0016023~cytoplasmic, membrane-bounded vesicle
+CGI_10026576	GO:0005635~nuclear envelope
+CGI_10026555	GO:0044441~ciliary part
+CGI_10015197	GO:0005739~mitochondrion
+CGI_10015200	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10011977	GO:0005680~anaphase-promoting complex
+CGI_10011977	GO:0000152~nuclear ubiquitin ligase complex
+CGI_10024187	GO:0098791~Golgi subcompartment
+CGI_10012002	GO:0005840~ribosome
+CGI_10017097	GO:0005666~DNA-directed RNA polymerase III complex
+CGI_10026048	GO:0005783~endoplasmic reticulum
+CGI_10025956	GO:0000139~Golgi membrane
+CGI_10025958	GO:0016592~mediator complex
+CGI_10003981	GO:0044429~mitochondrial part
+CGI_10003984	GO:0005777~peroxisome
+CGI_10002546	GO:0005929~cilium
+CGI_10024362	GO:0031968~organelle outer membrane
+CGI_10024362	GO:0019867~outer membrane
+CGI_10008574	GO:0005739~mitochondrion
+CGI_10008574	GO:0045277~respiratory chain complex IV
+CGI_10008574	GO:0031975~envelope
+CGI_10012372	GO:0032993~protein-DNA complex
+CGI_10012372	GO:0000785~chromatin
+CGI_10017100	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10021336	GO:0005905~clathrin-coated pit
+CGI_10021336	GO:0031988~membrane-bounded vesicle
+CGI_10009127	GO:0030008~TRAPP complex
+CGI_10021397	GO:0005853~eukaryotic translation elongation factor 1 complex
+CGI_10012333	GO:0005869~dynactin complex
+CGI_10019964	GO:0005739~mitochondrion
+CGI_10009278	GO:0031975~envelope
+CGI_10019964	GO:0031967~organelle envelope
+CGI_10008409	GO:0099513~polymeric cytoskeletal fiber
+CGI_10008410	GO:0005739~mitochondrion
+CGI_10008966	GO:0005576~extracellular region
+CGI_10012301	GO:0098590~plasma membrane region
+CGI_10012301	GO:0097060~synaptic membrane
+CGI_10012301	GO:0045202~synapse
+CGI_10025376	GO:0000786~nucleosome
+CGI_10014004	GO:0005789~endoplasmic reticulum membrane
+CGI_10021002	GO:0045202~synapse
+CGI_10026478	GO:0044427~chromosomal part
+CGI_10026486	GO:0000439~core TFIIH complex
+CGI_10026510	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10022306	GO:0019012~virion
+CGI_10022306	GO:1990904~ribonucleoprotein complex
+CGI_10003549	GO:0005576~extracellular region
+CGI_10022306	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10002586	GO:0097361~CIA complex
+CGI_10013395	GO:0031903~microbody membrane
+CGI_10013395	GO:0031300~intrinsic component of organelle membrane
+CGI_10013395	GO:0044438~microbody part
+CGI_10019640	GO:0099512~supramolecular fiber
+CGI_10019644	GO:0005578~proteinaceous extracellular matrix
+CGI_10022452	GO:0044423~virion part
+CGI_10022468	GO:0000785~chromatin
+CGI_10003507	GO:1990904~ribonucleoprotein complex
+CGI_10020921	GO:0005694~chromosome
+CGI_10024999	GO:0015630~microtubule cytoskeleton
+CGI_10011766	GO:0005654~nucleoplasm
+CGI_10011766	GO:0016592~mediator complex
+CGI_10011766	GO:0044451~nucleoplasm part
+CGI_10024740	GO:0005783~endoplasmic reticulum
+CGI_10009651	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10005672	GO:0071564~npBAF complex
+CGI_10012763	GO:0098802~plasma membrane receptor complex
+CGI_10018697	GO:0044441~ciliary part
+CGI_10000456	GO:0019008~molybdopterin synthase complex
+CGI_10000456	GO:0005829~cytosol
+CGI_10014782	GO:1990904~ribonucleoprotein complex
+CGI_10003541	GO:0005875~microtubule associated complex
+CGI_10003541	GO:0015630~microtubule cytoskeleton
+CGI_10003479	GO:0098687~chromosomal region
+CGI_10003269	GO:0005740~mitochondrial envelope
+CGI_10003269	GO:0005743~mitochondrial inner membrane
+CGI_10014337	GO:0005774~vacuolar membrane
+CGI_10019936	GO:0031975~envelope
+CGI_10019936	GO:0005740~mitochondrial envelope
+CGI_10016751	GO:0044427~chromosomal part
+CGI_10008420	GO:0005743~mitochondrial inner membrane
+CGI_10008420	GO:0031312~extrinsic component of organelle membrane
+CGI_10011360	GO:0005840~ribosome
+CGI_10013497	GO:0019773~proteasome core complex, alpha-subunit complex
+CGI_10010672	GO:0034708~methyltransferase complex
+CGI_10020038	GO:0034705~potassium channel complex
+CGI_10010021	GO:0005758~mitochondrial intermembrane space
+CGI_10010021	GO:0031967~organelle envelope
+CGI_10003516	GO:0016514~SWI/SNF complex
+CGI_10026229	GO:0005576~extracellular region
+CGI_10010631	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10008062	GO:0044427~chromosomal part
+CGI_10008084	GO:0044815~DNA packaging complex
+CGI_10008083	GO:0044427~chromosomal part
+CGI_10008083	GO:0032993~protein-DNA complex
+CGI_10008079	GO:0044427~chromosomal part
+CGI_10008079	GO:0044815~DNA packaging complex
+CGI_10008078	GO:0032993~protein-DNA complex
+CGI_10008073	GO:0044815~DNA packaging complex
+CGI_10008068	GO:0032993~protein-DNA complex
+CGI_10001834	GO:0005739~mitochondrion
+CGI_10001836	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10016857	GO:0000178~exosome (RNase complex)
+CGI_10008152	GO:0044445~cytosolic part
+CGI_10008152	GO:0022626~cytosolic ribosome
+CGI_10015594	GO:0019012~virion
+CGI_10024270	GO:0070603~SWI/SNF superfamily-type complex
+CGI_10026399	GO:0005576~extracellular region
+CGI_10024661	GO:0005774~vacuolar membrane
+CGI_10001824	GO:1990351~transporter complex
+CGI_10020629	GO:0005576~extracellular region
+CGI_10019046	GO:0044421~extracellular region part
+CGI_10014828	GO:0005576~extracellular region
+CGI_10004609	GO:0005576~extracellular region
+CGI_10028115	GO:0031975~envelope
+CGI_10027342	GO:0031226~intrinsic component of plasma membrane
+CGI_10000055	GO:0005694~chromosome
+CGI_10000075	GO:0030286~dynein complex
+CGI_10000085	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10023142	GO:0005667~transcription factor complex
+CGI_10023161	GO:1990904~ribonucleoprotein complex
+CGI_10027983	GO:0000151~ubiquitin ligase complex
+CGI_10028715	GO:0098857~membrane microdomain
+CGI_10028781	GO:0031307~integral component of mitochondrial outer membrane
+CGI_10028714	GO:0045121~membrane raft
+CGI_10028023	GO:0044429~mitochondrial part
+CGI_10019734	GO:0044431~Golgi apparatus part
+CGI_10019734	GO:0090498~extrinsic component of Golgi membrane
+CGI_10028368	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10015588	GO:0031984~organelle subcompartment
+CGI_10013068	GO:0001527~microfibril
+CGI_10013068	GO:0043205~fibril
+CGI_10013068	GO:0005576~extracellular region
+CGI_10028710	GO:0098589~membrane region
+CGI_10028710	GO:0098590~plasma membrane region
+CGI_10028710	GO:0045121~membrane raft
+CGI_10028711	GO:0000139~Golgi membrane
+CGI_10028712	GO:0044853~plasma membrane raft
+CGI_10028714	GO:0098857~membrane microdomain
+CGI_10028715	GO:0000139~Golgi membrane
+CGI_10028781	GO:0044455~mitochondrial membrane part
+CGI_10028781	GO:0031975~envelope
+CGI_10028781	GO:0019867~outer membrane
+CGI_10026789	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10009031	GO:0005887~integral component of plasma membrane
+CGI_10009032	GO:0034703~cation channel complex
+CGI_10015354	GO:0044429~mitochondrial part
+CGI_10018517	GO:0005929~cilium
+CGI_10008777	GO:0005654~nucleoplasm
+CGI_10016933	GO:0005911~cell-cell junction
+CGI_10016937	GO:0030054~cell junction
+CGI_10026988	GO:0005739~mitochondrion
+CGI_10014723	GO:0019012~virion
+CGI_10014723	GO:0019013~viral nucleocapsid
+CGI_10017692	GO:0016592~mediator complex
+CGI_10025653	GO:0030132~clathrin coat of coated pit
+CGI_10025653	GO:0030120~vesicle coat
+CGI_10025653	GO:0031988~membrane-bounded vesicle
+CGI_10025653	GO:0016023~cytoplasmic, membrane-bounded vesicle
+CGI_10025653	GO:0030130~clathrin coat of trans-Golgi network vesicle
+CGI_10014579	GO:0005840~ribosome
+CGI_10023726	GO:0016282~eukaryotic 43S preinitiation complex
+CGI_10024027	GO:0034703~cation channel complex
+CGI_10027733	GO:1902495~transmembrane transporter complex
+CGI_10001508	GO:0031300~intrinsic component of organelle membrane
+CGI_10020488	GO:1990204~oxidoreductase complex
+CGI_10020488	GO:0098800~inner mitochondrial membrane protein complex
+CGI_10018930	GO:0015630~microtubule cytoskeleton
+CGI_10009698	GO:0019867~outer membrane
+CGI_10009698	GO:0005741~mitochondrial outer membrane
+CGI_10025107	GO:0030659~cytoplasmic vesicle membrane
+CGI_10025107	GO:0030135~coated vesicle
+CGI_10021888	GO:0005929~cilium
+CGI_10006684	GO:1990904~ribonucleoprotein complex
+CGI_10006684	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10018221	GO:0098687~chromosomal region
+CGI_10024321	GO:0005885~Arp2/3 protein complex
+CGI_10024321	GO:0015629~actin cytoskeleton
+CGI_10024342	GO:0030119~AP-type membrane coat adaptor complex
+CGI_10008177	GO:0030054~cell junction
+CGI_10014647	GO:0000178~exosome (RNase complex)
+CGI_10024464	GO:0030684~preribosome
+CGI_10021675	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10006845	GO:0045202~synapse
+CGI_10026595	GO:0030008~TRAPP complex
+CGI_10026617	GO:0019028~viral capsid
+CGI_10026617	GO:0030532~small nuclear ribonucleoprotein complex
+CGI_10026636	GO:0019897~extrinsic component of plasma membrane
+CGI_10026636	GO:0098562~cytoplasmic side of membrane
+CGI_10026636	GO:0019898~extrinsic component of membrane
+CGI_10009524	GO:0005694~chromosome
+CGI_10007940	GO:0044853~plasma membrane raft
+CGI_10002630	GO:0031225~anchored component of membrane
+CGI_10009682	GO:0005887~integral component of plasma membrane
+CGI_10007941	GO:0044853~plasma membrane raft
+CGI_10025251	GO:0005743~mitochondrial inner membrane
+CGI_10025251	GO:0019866~organelle inner membrane
+CGI_10028508	GO:0098533~ATPase dependent transmembrane transport complex
+CGI_10028508	GO:0090533~cation-transporting ATPase complex
+CGI_10028508	GO:1904949~ATPase complex
+CGI_10009344	GO:0030990~intraciliary transport particle
+CGI_10009344	GO:0030991~intraciliary transport particle A
+CGI_10010352	GO:0005887~integral component of plasma membrane
+CGI_10010325	GO:0070603~SWI/SNF superfamily-type complex
+CGI_10015223	GO:0005795~Golgi stack
+CGI_10015230	GO:0019012~virion
+CGI_10015230	GO:1990904~ribonucleoprotein complex
+CGI_10015230	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10015230	GO:0019013~viral nucleocapsid
+CGI_10002335	GO:0005783~endoplasmic reticulum
+CGI_10007941	GO:0005901~caveola
+CGI_10008217	GO:1990904~ribonucleoprotein complex
+CGI_10008217	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10007483	GO:0008290~F-actin capping protein complex
+CGI_10021852	GO:0022626~cytosolic ribosome
+CGI_10002018	GO:0016023~cytoplasmic, membrane-bounded vesicle
+CGI_10021882	GO:1902495~transmembrane transporter complex
+CGI_10021882	GO:1990351~transporter complex
+CGI_10019309	GO:0005794~Golgi apparatus
+CGI_10028889	GO:0031012~extracellular matrix
+CGI_10016271	GO:0005576~extracellular region
+CGI_10002563	GO:0000790~nuclear chromatin
+CGI_10015074	GO:0005874~microtubule
+CGI_10014063	GO:0030054~cell junction
+CGI_10014063	GO:0005911~cell-cell junction
+CGI_10008811	GO:0005681~spliceosomal complex
+CGI_10008811	GO:1990904~ribonucleoprotein complex
+CGI_10018396	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+CGI_10009249	GO:0005794~Golgi apparatus
+CGI_10019579	GO:0005794~Golgi apparatus
+CGI_10019579	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+CGI_10008111	GO:0017119~Golgi transport complex
+CGI_10012469	GO:0005840~ribosome
+CGI_10015197	GO:0005740~mitochondrial envelope
+CGI_10008749	GO:0000428~DNA-directed RNA polymerase complex
+CGI_10008749	GO:0044451~nucleoplasm part
+CGI_10017011	GO:0000502~proteasome complex
+CGI_10010163	GO:0099513~polymeric cytoskeletal fiber
+CGI_10019240	GO:0048475~coated membrane
+CGI_10005842	GO:0044432~endoplasmic reticulum part
+CGI_10012469	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10019128	GO:0031514~motile cilium
+CGI_10016103	GO:0042555~MCM complex
+CGI_10016108	GO:0044421~extracellular region part
+CGI_10018074	GO:0005768~endosome
+CGI_10018074	GO:0098791~Golgi subcompartment
+CGI_10018074	GO:0005802~trans-Golgi network
+CGI_10022685	GO:0098857~membrane microdomain
+CGI_10022685	GO:0098589~membrane region
+CGI_10022685	GO:0000139~Golgi membrane
+CGI_10011163	GO:0000407~pre-autophagosomal structure
+CGI_10011164	GO:0005581~collagen trimer
+CGI_10026555	GO:0034464~BBSome
+CGI_10027476	GO:0044427~chromosomal part
+CGI_10024187	GO:0000139~Golgi membrane
+CGI_10011977	GO:0031461~cullin-RING ubiquitin ligase complex
+CGI_10024187	GO:0031985~Golgi cisterna
+CGI_10015509	GO:0044451~nucleoplasm part
+CGI_10004293	GO:0043527~tRNA methyltransferase complex
+CGI_10021336	GO:0044433~cytoplasmic vesicle part
+CGI_10012330	GO:0005874~microtubule
+CGI_10003981	GO:0005739~mitochondrion
+CGI_10019443	GO:0019773~proteasome core complex, alpha-subunit complex
+CGI_10002546	GO:0034464~BBSome
+CGI_10008574	GO:0070069~cytochrome complex
+CGI_10012372	GO:0005694~chromosome
+CGI_10001909	GO:1990904~ribonucleoprotein complex
+CGI_10017097	GO:0055029~nuclear DNA-directed RNA polymerase complex
+CGI_10021336	GO:0030133~transport vesicle
+CGI_10021336	GO:0030132~clathrin coat of coated pit
+CGI_10023346	GO:0005783~endoplasmic reticulum
+CGI_10026126	GO:0005730~nucleolus
+CGI_10012333	GO:0005875~microtubule associated complex
+CGI_10012333	GO:0015630~microtubule cytoskeleton
+CGI_10017925	GO:1990904~ribonucleoprotein complex
+CGI_10010193	GO:0005874~microtubule
+CGI_10004572	GO:0045261~proton-transporting ATP synthase complex, catalytic core F(1)
+CGI_10008864	GO:1990904~ribonucleoprotein complex
+CGI_10019964	GO:0031975~envelope
+CGI_10021599	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10009278	GO:0005643~nuclear pore
+CGI_10008410	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10012298	GO:0098794~postsynapse
+CGI_10012299	GO:0044456~synapse part
+CGI_10025346	GO:0031012~extracellular matrix
+CGI_10025376	GO:0000785~chromatin
+CGI_10014004	GO:0044432~endoplasmic reticulum part
+CGI_10021002	GO:0098590~plasma membrane region
+CGI_10021002	GO:0098794~postsynapse
+CGI_10015387	GO:0005783~endoplasmic reticulum
+CGI_10005249	GO:1902493~acetyltransferase complex
+CGI_10025218	GO:0042555~MCM complex
+CGI_10026509	GO:0005654~nucleoplasm
+CGI_10026510	GO:1990904~ribonucleoprotein complex
+CGI_10021599	GO:0005829~cytosol
+CGI_10025974	GO:0019013~viral nucleocapsid
+CGI_10026004	GO:0016471~vacuolar proton-transporting V-type ATPase complex
+CGI_10012763	GO:1990351~transporter complex
+CGI_10014767	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10013395	GO:0005779~integral component of peroxisomal membrane
+CGI_10013395	GO:0005778~peroxisomal membrane
+CGI_10013397	GO:0008076~voltage-gated potassium channel complex
+CGI_10022452	GO:0019012~virion
+CGI_10022468	GO:0005694~chromosome
+CGI_10022468	GO:0032993~protein-DNA complex
+CGI_10003507	GO:0005840~ribosome
+CGI_10020921	GO:0044427~chromosomal part
+CGI_10020921	GO:0000786~nucleosome
+CGI_10024998	GO:0099513~polymeric cytoskeletal fiber
+CGI_10009651	GO:0015935~small ribosomal subunit
+CGI_10016491	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10028183	GO:0016459~myosin complex
+CGI_10028202	GO:1990904~ribonucleoprotein complex
+CGI_10016284	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+CGI_10017216	GO:0019866~organelle inner membrane
+CGI_10017216	GO:0005740~mitochondrial envelope
+CGI_10018697	GO:0034464~BBSome
+CGI_10006572	GO:0033588~Elongator holoenzyme complex
+CGI_10003269	GO:0031966~mitochondrial membrane
+CGI_10003269	GO:0044455~mitochondrial membrane part
+CGI_10003268	GO:0044451~nucleoplasm part
+CGI_10011113	GO:1990904~ribonucleoprotein complex
+CGI_10006290	GO:0005846~nuclear cap binding complex
+CGI_10025479	GO:0044432~endoplasmic reticulum part
+CGI_10015111	GO:0005887~integral component of plasma membrane
+CGI_10019926	GO:1990904~ribonucleoprotein complex
+CGI_10016751	GO:0000793~condensed chromosome
+CGI_10025051	GO:0005740~mitochondrial envelope
+CGI_10008420	GO:0031967~organelle envelope
+CGI_10011360	GO:1990904~ribonucleoprotein complex
+CGI_10020067	GO:0042579~microbody
+CGI_10020067	GO:0005777~peroxisome
+CGI_10002226	GO:0000502~proteasome complex
+CGI_10020449	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10010631	GO:1990904~ribonucleoprotein complex
+CGI_10008075	GO:0032993~protein-DNA complex
+CGI_10008074	GO:0000785~chromatin
+CGI_10015594	GO:1990904~ribonucleoprotein complex
+CGI_10008062	GO:0032993~protein-DNA complex
+CGI_10008063	GO:0032993~protein-DNA complex
+CGI_10008065	GO:0044427~chromosomal part
+CGI_10008065	GO:0032993~protein-DNA complex
+CGI_10008084	GO:0044427~chromosomal part
+CGI_10008081	GO:0044815~DNA packaging complex
+CGI_10008079	GO:0000785~chromatin
+CGI_10008075	GO:0000786~nucleosome
+CGI_10008075	GO:0005694~chromosome
+CGI_10008073	GO:0032993~protein-DNA complex
+CGI_10008068	GO:0000785~chromatin
+CGI_10000673	GO:0016592~mediator complex
+CGI_10023502	GO:0008023~transcription elongation factor complex
+CGI_10023502	GO:0005654~nucleoplasm
+CGI_10018645	GO:0008287~protein serine/threonine phosphatase complex
+CGI_10018645	GO:1903293~phosphatase complex
+CGI_10015688	GO:0005887~integral component of plasma membrane
+CGI_10015594	GO:0044423~virion part
+CGI_10024636	GO:0008076~voltage-gated potassium channel complex
+CGI_10024661	GO:0016363~nuclear matrix
+CGI_10024661	GO:0005773~vacuole
+CGI_10001824	GO:1902495~transmembrane transporter complex
+CGI_10001824	GO:0034703~cation channel complex
+CGI_10004262	GO:0005654~nucleoplasm
+CGI_10018983	GO:0005576~extracellular region
+CGI_10009588	GO:0005911~cell-cell junction
+CGI_10024976	GO:0044815~DNA packaging complex
+CGI_10024976	GO:0044427~chromosomal part
+CGI_10028115	GO:0031966~mitochondrial membrane
+CGI_10027347	GO:0005794~Golgi apparatus
+CGI_10000147	GO:0005840~ribosome
+CGI_10019706	GO:0005840~ribosome
+CGI_10001348	GO:0008287~protein serine/threonine phosphatase complex
+CGI_10001325	GO:0005875~microtubule associated complex
+CGI_10002030	GO:0005654~nucleoplasm
+CGI_10002030	GO:0031248~protein acetyltransferase complex
+CGI_10028023	GO:0005740~mitochondrial envelope
+CGI_10028023	GO:0016469~proton-transporting two-sector ATPase complex
+CGI_10028023	GO:0005753~mitochondrial proton-transporting ATP synthase complex
+CGI_10015588	GO:0044431~Golgi apparatus part
+CGI_10028709	GO:0000139~Golgi membrane
+CGI_10028711	GO:0044853~plasma membrane raft
+CGI_10028715	GO:0005794~Golgi apparatus
+CGI_10028770	GO:0005576~extracellular region
+CGI_10028781	GO:0044429~mitochondrial part
+CGI_10028781	GO:0031306~intrinsic component of mitochondrial outer membrane
+CGI_10028781	GO:0031300~intrinsic component of organelle membrane
+CGI_10009031	GO:0034705~potassium channel complex
+CGI_10009032	GO:1902495~transmembrane transporter complex
+CGI_10013754	GO:0031226~intrinsic component of plasma membrane
+CGI_10024074	GO:0043564~Ku70:Ku80 complex
+CGI_10026412	GO:1990904~ribonucleoprotein complex
+CGI_10026433	GO:0005576~extracellular region
+CGI_10015354	GO:0005743~mitochondrial inner membrane
+CGI_10015354	GO:0031967~organelle envelope
+CGI_10008777	GO:1902493~acetyltransferase complex
+CGI_10008778	GO:0030687~preribosome, large subunit precursor
+CGI_10002842	GO:1990904~ribonucleoprotein complex
+CGI_10002842	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10016933	GO:0005921~gap junction
+CGI_10016937	GO:0005921~gap junction
+CGI_10009149	GO:0000786~nucleosome
+CGI_10026988	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10014723	GO:1990904~ribonucleoprotein complex
+CGI_10005776	GO:0031252~cell leading edge
+CGI_10017692	GO:0044451~nucleoplasm part
+CGI_10025653	GO:0005794~Golgi apparatus
+CGI_10025653	GO:0030659~cytoplasmic vesicle membrane
+CGI_10025653	GO:0098589~membrane region
+CGI_10023719	GO:0008537~proteasome activator complex
+CGI_10023719	GO:0000502~proteasome complex
+CGI_10009698	GO:0044429~mitochondrial part
+CGI_10016474	GO:0000502~proteasome complex
+CGI_10020306	GO:0019866~organelle inner membrane
+CGI_10020306	GO:0019898~extrinsic component of membrane
+CGI_10020322	GO:0033588~Elongator holoenzyme complex
+CGI_10020488	GO:0098798~mitochondrial protein complex
+CGI_10020488	GO:0005740~mitochondrial envelope
+CGI_10018930	GO:0005874~microtubule
+CGI_10012401	GO:0055029~nuclear DNA-directed RNA polymerase complex
+CGI_10009698	GO:0005740~mitochondrial envelope
+CGI_10009698	GO:0031975~envelope
+CGI_10009698	GO:0005739~mitochondrion
+CGI_10009698	GO:0031968~organelle outer membrane
+CGI_10009706	GO:0005794~Golgi apparatus
+CGI_10025107	GO:0012506~vesicle membrane
+CGI_10027733	GO:0005891~voltage-gated calcium channel complex
+CGI_10023085	GO:0000178~exosome (RNase complex)
+CGI_10018221	GO:0044427~chromosomal part
+CGI_10018221	GO:0005694~chromosome
+CGI_10024342	GO:0030131~clathrin adaptor complex
+CGI_10024853	GO:0005694~chromosome
+CGI_10024853	GO:0000785~chromatin
+CGI_10024853	GO:0032993~protein-DNA complex
+CGI_10024853	GO:0000786~nucleosome
+CGI_10023207	GO:0098800~inner mitochondrial membrane protein complex
+CGI_10023207	GO:0044429~mitochondrial part
+CGI_10024464	GO:1990904~ribonucleoprotein complex
+CGI_10016532	GO:0016593~Cdc73/Paf1 complex
+CGI_10016532	GO:0008023~transcription elongation factor complex
+CGI_10020891	GO:0005759~mitochondrial matrix
+CGI_10026597	GO:0005578~proteinaceous extracellular matrix
+CGI_10026597	GO:0005576~extracellular region
+CGI_10026617	GO:0097525~spliceosomal snRNP complex
+CGI_10026636	GO:0098552~side of membrane
+CGI_10017736	GO:0016272~prefoldin complex
+CGI_10002112	GO:0005654~nucleoplasm
+CGI_10009677	GO:0022624~proteasome accessory complex
+CGI_10028469	GO:0019013~viral nucleocapsid
+CGI_10028469	GO:0044423~virion part
+CGI_10028479	GO:0044429~mitochondrial part
+CGI_10028508	GO:1990351~transporter complex
+CGI_10010325	GO:0031010~ISWI-type complex
+CGI_10015223	GO:0032580~Golgi cisterna membrane
+CGI_10015223	GO:0000139~Golgi membrane
+CGI_10007940	GO:0098590~plasma membrane region
+CGI_10007942	GO:0005901~caveola
+CGI_10007941	GO:0000139~Golgi membrane
+CGI_10007941	GO:0098589~membrane region
+CGI_10010578	GO:0034703~cation channel complex
+CGI_10010578	GO:0005887~integral component of plasma membrane
+CGI_10015619	GO:0005635~nuclear envelope
+CGI_10007483	GO:0015629~actin cytoskeleton
+CGI_10002018	GO:0031984~organelle subcompartment
+CGI_10002018	GO:0005794~Golgi apparatus
+CGI_10002018	GO:0005802~trans-Golgi network
+CGI_10025401	GO:0005739~mitochondrion
+CGI_10025824	GO:0030880~RNA polymerase complex
+CGI_10025856	GO:1990391~DNA repair complex
+CGI_10021852	GO:0044391~ribosomal subunit
+CGI_10021882	GO:0008076~voltage-gated potassium channel complex
+CGI_10021882	GO:0034705~potassium channel complex
+CGI_10019309	GO:0044431~Golgi apparatus part
+CGI_10019309	GO:0098791~Golgi subcompartment
+CGI_10028904	GO:0005789~endoplasmic reticulum membrane
+CGI_10015014	GO:0005783~endoplasmic reticulum
+CGI_10015014	GO:0044432~endoplasmic reticulum part
+CGI_10015014	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+CGI_10023573	GO:0005786~signal recognition particle, endoplasmic reticulum targeting
+CGI_10001199	GO:0044451~nucleoplasm part
+CGI_10001199	GO:0055029~nuclear DNA-directed RNA polymerase complex
+CGI_10001199	GO:0005665~DNA-directed RNA polymerase II, core complex
+CGI_10002419	GO:0099513~polymeric cytoskeletal fiber
+CGI_10015438	GO:0005739~mitochondrion
+CGI_10002563	GO:0033202~DNA helicase complex
+CGI_10006122	GO:0033290~eukaryotic 48S preinitiation complex
+CGI_10006122	GO:0070993~translation preinitiation complex
+CGI_10006122	GO:0005852~eukaryotic translation initiation factor 3 complex
+CGI_10006122	GO:0016282~eukaryotic 43S preinitiation complex
+CGI_10013259	GO:0005576~extracellular region
+CGI_10026160	GO:0015629~actin cytoskeleton
+CGI_10013678	GO:0015629~actin cytoskeleton
+CGI_10019579	GO:0005783~endoplasmic reticulum
+CGI_10018074	GO:0045335~phagocytic vesicle
+CGI_10022685	GO:0044431~Golgi apparatus part
+CGI_10008749	GO:0032039~integrator complex
+CGI_10008749	GO:0055029~nuclear DNA-directed RNA polymerase complex
+CGI_10008001	GO:0005764~lysosome
+CGI_10019228	GO:0005581~collagen trimer
+CGI_10027241	GO:0031967~organelle envelope
+CGI_10027241	GO:0044429~mitochondrial part
+CGI_10019240	GO:0030119~AP-type membrane coat adaptor complex
+CGI_10020349	GO:0016592~mediator complex
+CGI_10020349	GO:0044451~nucleoplasm part
+CGI_10016111	GO:0005576~extracellular region
+CGI_10018074	GO:0030139~endocytic vesicle
+CGI_10004493	GO:0031226~intrinsic component of plasma membrane
+CGI_10015197	GO:0031975~envelope
+CGI_10011977	GO:0000151~ubiquitin ligase complex
+CGI_10025958	GO:0044451~nucleoplasm part
+CGI_10002059	GO:0005960~glycine cleavage complex
+CGI_10019443	GO:0000502~proteasome complex
+CGI_10012002	GO:1990904~ribonucleoprotein complex
+CGI_10013548	GO:0005576~extracellular region
+CGI_10008574	GO:0005746~mitochondrial respiratory chain
+CGI_10008574	GO:0005740~mitochondrial envelope
+CGI_10017097	GO:0005654~nucleoplasm
+CGI_10021336	GO:0016023~cytoplasmic, membrane-bounded vesicle
+CGI_10021336	GO:0098589~membrane region
+CGI_10021336	GO:0030120~vesicle coat
+CGI_10021336	GO:0012506~vesicle membrane
+CGI_10012330	GO:0099513~polymeric cytoskeletal fiber
+CGI_10023280	GO:0005789~endoplasmic reticulum membrane
+CGI_10017925	GO:0044423~virion part
+CGI_10024891	GO:0005576~extracellular region
+CGI_10004572	GO:0033178~proton-transporting two-sector ATPase complex, catalytic domain
+CGI_10009278	GO:0005635~nuclear envelope
+CGI_10021606	GO:0019012~virion
+CGI_10025974	GO:0044423~virion part
+CGI_10019964	GO:0031966~mitochondrial membrane
+CGI_10009278	GO:0031967~organelle envelope
+CGI_10002218	GO:0000793~condensed chromosome
+CGI_10004520	GO:0005875~microtubule associated complex
+CGI_10012298	GO:0097060~synaptic membrane
+CGI_10012298	GO:0044456~synapse part
+CGI_10012299	GO:0098794~postsynapse
+CGI_10021002	GO:0044456~synapse part
+CGI_10020961	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10015387	GO:0044432~endoplasmic reticulum part
+CGI_10021606	GO:0019013~viral nucleocapsid
+CGI_10025974	GO:1990904~ribonucleoprotein complex
+CGI_10025994	GO:0031514~motile cilium
+CGI_10026004	GO:0005773~vacuole
+CGI_10022306	GO:0019028~viral capsid
+CGI_10019644	GO:0031012~extracellular matrix
+CGI_10016491	GO:1990904~ribonucleoprotein complex
+CGI_10014835	GO:0005838~proteasome regulatory particle
+CGI_10019644	GO:0044421~extracellular region part
+CGI_10022452	GO:0005681~spliceosomal complex
+CGI_10022452	GO:0019028~viral capsid
+CGI_10022452	GO:0019013~viral nucleocapsid
+CGI_10020921	GO:0032993~protein-DNA complex
+CGI_10024998	GO:0015630~microtubule cytoskeleton
+CGI_10024999	GO:0099512~supramolecular fiber
+CGI_10021270	GO:0070993~translation preinitiation complex
+CGI_10016491	GO:0005732~small nucleolar ribonucleoprotein complex
+CGI_10016506	GO:0005783~endoplasmic reticulum
+CGI_10016284	GO:0005783~endoplasmic reticulum
+CGI_10012763	GO:0005887~integral component of plasma membrane
+CGI_10012763	GO:1902495~transmembrane transporter complex
+CGI_10012763	GO:0005892~acetylcholine-gated channel complex
+CGI_10014782	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10024520	GO:0005964~phosphorylase kinase complex
+CGI_10015987	GO:1990904~ribonucleoprotein complex
+CGI_10003269	GO:0031975~envelope
+CGI_10003269	GO:0098800~inner mitochondrial membrane protein complex
+CGI_10003269	GO:0005744~mitochondrial inner membrane presequence translocase complex
+CGI_10019487	GO:0005885~Arp2/3 protein complex
+CGI_10019487	GO:0015629~actin cytoskeleton
+CGI_10025479	GO:0005789~endoplasmic reticulum membrane
+CGI_10025479	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+CGI_10015111	GO:0008076~voltage-gated potassium channel complex
+CGI_10014337	GO:0016469~proton-transporting two-sector ATPase complex
+CGI_10016780	GO:0044427~chromosomal part
+CGI_10016780	GO:0000779~condensed chromosome, centromeric region
+CGI_10016780	GO:0000793~condensed chromosome
+CGI_10023211	GO:0044432~endoplasmic reticulum part
+CGI_10008420	GO:0005740~mitochondrial envelope
+CGI_10020038	GO:0034702~ion channel complex
+CGI_10015795	GO:0044431~Golgi apparatus part
+CGI_10002864	GO:0044451~nucleoplasm part
+CGI_10002864	GO:0016593~Cdc73/Paf1 complex
+CGI_10007033	GO:0005777~peroxisome
+CGI_10008062	GO:0000786~nucleosome
+CGI_10008065	GO:0005694~chromosome
+CGI_10008152	GO:0022625~cytosolic large ribosomal subunit
+CGI_10008084	GO:0000786~nucleosome
+CGI_10008083	GO:0005694~chromosome
+CGI_10008081	GO:0005694~chromosome
+CGI_10008080	GO:0000785~chromatin
+CGI_10008074	GO:0044815~DNA packaging complex
+CGI_10010832	GO:0005741~mitochondrial outer membrane
+CGI_10018653	GO:0071203~WASH complex
+CGI_10015695	GO:0005783~endoplasmic reticulum
+CGI_10016874	GO:0030054~cell junction
+CGI_10016874	GO:0005921~gap junction
+CGI_10024270	GO:0097346~INO80-type complex
+CGI_10024636	GO:1902495~transmembrane transporter complex
+CGI_10024661	GO:0034399~nuclear periphery
+CGI_10001824	GO:0031226~intrinsic component of plasma membrane
+CGI_10001824	GO:0008076~voltage-gated potassium channel complex
+CGI_10004262	GO:0005739~mitochondrion
+CGI_10019706	GO:0022627~cytosolic small ribosomal subunit
+CGI_10009587	GO:0030054~cell junction
+CGI_10007039	GO:0005839~proteasome core complex
+CGI_10007039	GO:0000502~proteasome complex
+CGI_10025777	GO:0008023~transcription elongation factor complex
+CGI_10025777	GO:0032021~NELF complex
+CGI_10024976	GO:0005694~chromosome
+CGI_10024976	GO:0000785~chromatin
+CGI_10016010	GO:1990316~ATG1/ULK1 kinase complex
+CGI_10016010	GO:1902911~protein kinase complex
+CGI_10014833	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10028115	GO:0005739~mitochondrion
+CGI_10028116	GO:1990904~ribonucleoprotein complex
+CGI_10027342	GO:0008076~voltage-gated potassium channel complex
+CGI_10027342	GO:0034705~potassium channel complex
+CGI_10027347	GO:0048475~coated membrane
+CGI_10027347	GO:0030137~COPI-coated vesicle
+CGI_10000055	GO:0000786~nucleosome
+CGI_10000055	GO:0032993~protein-DNA complex
+CGI_10000075	GO:0015630~microtubule cytoskeleton
+CGI_10000147	GO:1990904~ribonucleoprotein complex
+CGI_10000402	GO:0044427~chromosomal part
+CGI_10000402	GO:0044815~DNA packaging complex
+CGI_10001001	GO:0005783~endoplasmic reticulum
+CGI_10019706	GO:0044391~ribosomal subunit
+CGI_10001348	GO:1903293~phosphatase complex
+CGI_10001348	GO:0000159~protein phosphatase type 2A complex
+CGI_10011558	GO:0000502~proteasome complex
+CGI_10023795	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+CGI_10027983	GO:0031461~cullin-RING ubiquitin ligase complex
+CGI_10019734	GO:0005794~Golgi apparatus
+CGI_10028368	GO:0019013~viral nucleocapsid
+CGI_10015588	GO:0031985~Golgi cisterna
+CGI_10015588	GO:0005794~Golgi apparatus
+CGI_10015588	GO:0032580~Golgi cisterna membrane
+CGI_10013068	GO:0031012~extracellular matrix
+CGI_10013068	GO:0044420~extracellular matrix component
+CGI_10028710	GO:0000139~Golgi membrane
+CGI_10028710	GO:0044853~plasma membrane raft
+CGI_10028711	GO:0005794~Golgi apparatus
+CGI_10028711	GO:0098857~membrane microdomain
+CGI_10028714	GO:0000139~Golgi membrane
+CGI_10028714	GO:0005794~Golgi apparatus
+CGI_10028715	GO:0098589~membrane region
+CGI_10028753	GO:0015629~actin cytoskeleton
+CGI_10028781	GO:0031968~organelle outer membrane
+CGI_10028781	GO:0005740~mitochondrial envelope
+CGI_10009433	GO:0005783~endoplasmic reticulum
+CGI_10026789	GO:0005840~ribosome
+CGI_10009031	GO:0034703~cation channel complex
+CGI_10016432	GO:0005740~mitochondrial envelope
+CGI_10024568	GO:0043189~H4/H2A histone acetyltransferase complex
+CGI_10024568	GO:0044451~nucleoplasm part
+CGI_10024568	GO:1902562~H4 histone acetyltransferase complex
+CGI_10024568	GO:0005654~nucleoplasm
+CGI_10008777	GO:0044451~nucleoplasm part
+CGI_10008777	GO:0000123~histone acetyltransferase complex
+CGI_10008778	GO:0005730~nucleolus
+CGI_10008778	GO:0005654~nucleoplasm
+CGI_10016933	GO:0030054~cell junction
+CGI_10016937	GO:0005911~cell-cell junction
+CGI_10009149	GO:0005694~chromosome
+CGI_10014723	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10005776	GO:0030027~lamellipodium
+CGI_10017942	GO:0005576~extracellular region
+CGI_10004706	GO:0005829~cytosol
+CGI_10025653	GO:0030660~Golgi-associated vesicle membrane
+CGI_10025653	GO:0030117~membrane coat
+CGI_10025653	GO:0044433~cytoplasmic vesicle part
+CGI_10025653	GO:0030136~clathrin-coated vesicle
+CGI_10005381	GO:0005875~microtubule associated complex
+CGI_10014579	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10014579	GO:1990904~ribonucleoprotein complex
+CGI_10023719	GO:0022624~proteasome accessory complex
+CGI_10023726	GO:0005852~eukaryotic translation initiation factor 3 complex
+CGI_10024027	GO:0005887~integral component of plasma membrane
+CGI_10001508	GO:0005779~integral component of peroxisomal membrane
+CGI_10001508	GO:0031903~microbody membrane
+CGI_10020306	GO:0031312~extrinsic component of organelle membrane
+CGI_10020306	GO:0031314~extrinsic component of mitochondrial inner membrane
+CGI_10020488	GO:0044455~mitochondrial membrane part
+CGI_10020488	GO:0005743~mitochondrial inner membrane
+CGI_10020488	GO:0005739~mitochondrion
+CGI_10012401	GO:0005672~transcription factor TFIIA complex
+CGI_10012401	GO:0030880~RNA polymerase complex
+CGI_10012401	GO:0005667~transcription factor complex
+CGI_10012401	GO:0005654~nucleoplasm
+CGI_10025107	GO:0030127~COPII vesicle coat
+CGI_10025107	GO:0012507~ER to Golgi transport vesicle membrane
+CGI_10006177	GO:0005576~extracellular region
+CGI_10009878	GO:0005789~endoplasmic reticulum membrane
+CGI_10010758	GO:0005952~cAMP-dependent protein kinase complex
+CGI_10023085	GO:0000176~nuclear exosome (RNase complex)
+CGI_10010572	GO:1902493~acetyltransferase complex
+CGI_10024342	GO:0030118~clathrin coat
+CGI_10019835	GO:0099513~polymeric cytoskeletal fiber
+CGI_10019835	GO:0005874~microtubule
+CGI_10023207	GO:0031967~organelle envelope
+CGI_10023207	GO:0031966~mitochondrial membrane
+CGI_10027544	GO:0005680~anaphase-promoting complex
+CGI_10024464	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10016532	GO:0044451~nucleoplasm part
+CGI_10021675	GO:0070993~translation preinitiation complex
+CGI_10021675	GO:0005852~eukaryotic translation initiation factor 3 complex
+CGI_10006840	GO:0071014~post-mRNA release spliceosomal complex
+CGI_10006840	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10006840	GO:0005684~U2-type spliceosomal complex
+CGI_10026592	GO:0005576~extracellular region
+CGI_10026617	GO:0044423~virion part
+CGI_10009677	GO:0005838~proteasome regulatory particle
+CGI_10009682	GO:0031226~intrinsic component of plasma membrane
+CGI_10025251	GO:0044429~mitochondrial part
+CGI_10025251	GO:0005739~mitochondrion
+CGI_10028469	GO:0019012~virion
+CGI_10028479	GO:0005739~mitochondrion
+CGI_10028485	GO:0005730~nucleolus
+CGI_10017485	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+CGI_10007940	GO:0000139~Golgi membrane
+CGI_10007942	GO:0098589~membrane region
+CGI_10007942	GO:0044431~Golgi apparatus part
+CGI_10007941	GO:0005794~Golgi apparatus
+CGI_10007941	GO:0045121~membrane raft
+CGI_10007941	GO:0044431~Golgi apparatus part
+CGI_10010578	GO:0034705~potassium channel complex
+CGI_10015619	GO:0031967~organelle envelope
+CGI_10002018	GO:0030135~coated vesicle
+CGI_10025401	GO:0005740~mitochondrial envelope
+CGI_10026827	GO:0044452~nucleolar part
+CGI_10025824	GO:0000428~DNA-directed RNA polymerase complex
+CGI_10025850	GO:0005783~endoplasmic reticulum
+CGI_10021852	GO:0005840~ribosome
+CGI_10019309	GO:0031984~organelle subcompartment
+CGI_10028904	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+CGI_10023573	GO:1990904~ribonucleoprotein complex
+CGI_10002563	GO:0097346~INO80-type complex
+CGI_10001798	GO:0005783~endoplasmic reticulum
+CGI_10018396	GO:0005811~lipid particle
+CGI_10008111	GO:0044431~Golgi apparatus part
+CGI_10020381	GO:0005739~mitochondrion
+CGI_10020349	GO:0005654~nucleoplasm
+CGI_10005842	GO:0005783~endoplasmic reticulum
+CGI_10022103	GO:0005581~collagen trimer
+CGI_10013652	GO:0016607~nuclear speck
+CGI_10005055	GO:0005840~ribosome
+CGI_10027300	GO:0005740~mitochondrial envelope
+CGI_10027300	GO:0019867~outer membrane
+CGI_10018074	GO:0005829~cytosol
+CGI_10022685	GO:0005794~Golgi apparatus
+CGI_10005536	GO:0043564~Ku70:Ku80 complex
+CGI_10026555	GO:0005929~cilium
+CGI_10015197	GO:0031967~organelle envelope
+CGI_10015197	GO:0044429~mitochondrial part
+CGI_10015197	GO:0031966~mitochondrial membrane
+CGI_10004293	GO:0031515~tRNA (m1A) methyltransferase complex
+CGI_10024187	GO:0044431~Golgi apparatus part
+CGI_10013844	GO:0030897~HOPS complex
+CGI_10025958	GO:0005654~nucleoplasm
+CGI_10003984	GO:0042579~microbody
+CGI_10012001	GO:0005667~transcription factor complex
+CGI_10024362	GO:0044455~mitochondrial membrane part
+CGI_10004922	GO:0005576~extracellular region
+CGI_10007772	GO:0000347~THO complex
+CGI_10012372	GO:0044815~DNA packaging complex
+CGI_10012372	GO:0044427~chromosomal part
+CGI_10001909	GO:0005840~ribosome
+CGI_10017097	GO:0030880~RNA polymerase complex
+CGI_10017100	GO:1990904~ribonucleoprotein complex
+CGI_10017100	GO:0005840~ribosome
+CGI_10021336	GO:0044431~Golgi apparatus part
+CGI_10021336	GO:0030135~coated vesicle
+CGI_10021336	GO:0030662~coated vesicle membrane
+CGI_10021336	GO:0030659~cytoplasmic vesicle membrane
+CGI_10021336	GO:0005794~Golgi apparatus
+CGI_10023363	GO:0015629~actin cytoskeleton
+CGI_10009053	GO:0005694~chromosome
+CGI_10009053	GO:0044427~chromosomal part
+CGI_10024922	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+CGI_10010188	GO:0005929~cilium
+CGI_10010193	GO:0099513~polymeric cytoskeletal fiber
+CGI_10024922	GO:0005789~endoplasmic reticulum membrane
+CGI_10024922	GO:0005783~endoplasmic reticulum
+CGI_10024922	GO:0044432~endoplasmic reticulum part
+CGI_10024922	GO:0000836~Hrd1p ubiquitin ligase complex
+CGI_10004572	GO:0016469~proton-transporting two-sector ATPase complex
+CGI_10008864	GO:0019012~virion
+CGI_10014004	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+CGI_10019964	GO:0044429~mitochondrial part
+CGI_10008410	GO:1990904~ribonucleoprotein complex
+CGI_10012298	GO:0098590~plasma membrane region
+CGI_10012301	GO:0030054~cell junction
+CGI_10020006	GO:0000502~proteasome complex
+CGI_10005249	GO:0000123~histone acetyltransferase complex
+CGI_10021599	GO:0044445~cytosolic part
+CGI_10021606	GO:1990904~ribonucleoprotein complex
+CGI_10023872	GO:0005739~mitochondrion
+CGI_10014835	GO:0022624~proteasome accessory complex
+CGI_10003170	GO:0005839~proteasome core complex
+CGI_10014767	GO:1990904~ribonucleoprotein complex
+CGI_10003082	GO:0005739~mitochondrion
+CGI_10013397	GO:1902495~transmembrane transporter complex
+CGI_10005088	GO:0044421~extracellular region part
+CGI_10021270	GO:0005852~eukaryotic translation initiation factor 3 complex
+CGI_10024740	GO:0005789~endoplasmic reticulum membrane
+CGI_10017221	GO:0019012~virion
+CGI_10017221	GO:0044423~virion part
+CGI_10017221	GO:0019013~viral nucleocapsid
+CGI_10012763	GO:0034702~ion channel complex
+CGI_10020676	GO:0005581~collagen trimer
+CGI_10008420	GO:0031314~extrinsic component of mitochondrial inner membrane
+CGI_10024520	GO:0061695~transferase complex, transferring phosphorus-containing groups
+CGI_10003479	GO:0000775~chromosome, centromeric region
+CGI_10003269	GO:0019866~organelle inner membrane
+CGI_10003268	GO:0005654~nucleoplasm
+CGI_10003268	GO:0016592~mediator complex
+CGI_10017351	GO:0044431~Golgi apparatus part
+CGI_10011113	GO:0005840~ribosome
+CGI_10010305	GO:0005839~proteasome core complex
+CGI_10015111	GO:1902495~transmembrane transporter complex
+CGI_10015111	GO:0034703~cation channel complex
+CGI_10014337	GO:0033180~proton-transporting V-type ATPase, V1 domain
+CGI_10019926	GO:0019012~virion
+CGI_10019926	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10016751	GO:0000228~nuclear chromosome
+CGI_10016780	GO:0005819~spindle
+CGI_10016780	GO:0098687~chromosomal region
+CGI_10016780	GO:0000775~chromosome, centromeric region
+CGI_10023211	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+CGI_10025051	GO:0005739~mitochondrion
+CGI_10025051	GO:0044429~mitochondrial part
+CGI_10025051	GO:0031967~organelle envelope
+CGI_10008420	GO:0005739~mitochondrion
+CGI_10008420	GO:0044455~mitochondrial membrane part
+CGI_10013497	GO:0000502~proteasome complex
+CGI_10010682	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10020038	GO:0034703~cation channel complex
+CGI_10020038	GO:1990351~transporter complex
+CGI_10003516	GO:0070603~SWI/SNF superfamily-type complex
+CGI_10012541	GO:0005576~extracellular region
+CGI_10020449	GO:0005840~ribosome
+CGI_10020449	GO:1990904~ribonucleoprotein complex
+CGI_10015795	GO:0005795~Golgi stack
+CGI_10015795	GO:0032580~Golgi cisterna membrane
+CGI_10008074	GO:0000786~nucleosome
+CGI_10008057	GO:0044815~DNA packaging complex
+CGI_10008057	GO:0005694~chromosome
+CGI_10008062	GO:0005694~chromosome
+CGI_10008063	GO:0044427~chromosomal part
+CGI_10008065	GO:0000786~nucleosome
+CGI_10008084	GO:0005694~chromosome
+CGI_10008078	GO:0000785~chromatin
+CGI_10008075	GO:0044815~DNA packaging complex
+CGI_10008074	GO:0005694~chromosome
+CGI_10008073	GO:0000786~nucleosome
+CGI_10008068	GO:0044815~DNA packaging complex
+CGI_10008068	GO:0005694~chromosome
+CGI_10010832	GO:0031967~organelle envelope
+CGI_10010832	GO:0031975~envelope
+CGI_10023502	GO:0032783~ELL-EAF complex
+CGI_10018645	GO:0000159~protein phosphatase type 2A complex
+CGI_10015689	GO:0005581~collagen trimer
+CGI_10015695	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+CGI_10015594	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10024270	GO:0044427~chromosomal part
+CGI_10024270	GO:0031011~Ino80 complex
+CGI_10024270	GO:0000228~nuclear chromosome
+CGI_10024661	GO:0044437~vacuolar part
+CGI_10024661	GO:0010008~endosome membrane
+CGI_10019046	GO:0005604~basement membrane
+CGI_10007039	GO:0019773~proteasome core complex, alpha-subunit complex
+CGI_10024976	GO:0000786~nucleosome
+CGI_10003043	GO:0005576~extracellular region
+CGI_10014833	GO:0005732~small nucleolar ribonucleoprotein complex
+CGI_10014833	GO:0005681~spliceosomal complex
+CGI_10028115	GO:0044429~mitochondrial part
+CGI_10004762	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10027342	GO:1902495~transmembrane transporter complex
+CGI_10027342	GO:0034703~cation channel complex
+CGI_10000055	GO:0000785~chromatin
+CGI_10000147	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10000159	GO:1902495~transmembrane transporter complex
+CGI_10023161	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10000611	GO:0005885~Arp2/3 protein complex
+CGI_10000611	GO:0015629~actin cytoskeleton
+CGI_10002030	GO:1902493~acetyltransferase complex
+CGI_10028023	GO:0031975~envelope
+CGI_10028023	GO:0019866~organelle inner membrane
+CGI_10028023	GO:0033177~proton-transporting two-sector ATPase complex, proton-transporting domain
+CGI_10019734	GO:0031312~extrinsic component of organelle membrane
+CGI_10028368	GO:0019012~virion
+CGI_10028368	GO:0044423~virion part
+CGI_10015588	GO:0098791~Golgi subcompartment
+CGI_10028709	GO:0098589~membrane region
+CGI_10028709	GO:0098590~plasma membrane region
+CGI_10028711	GO:0044431~Golgi apparatus part
+CGI_10028712	GO:0000139~Golgi membrane
+CGI_10028712	GO:0044431~Golgi apparatus part
+CGI_10028712	GO:0005794~Golgi apparatus
+CGI_10028714	GO:0005901~caveola
+CGI_10028714	GO:0098590~plasma membrane region
+CGI_10028781	GO:0032592~integral component of mitochondrial membrane
+CGI_10021135	GO:0030684~preribosome
+CGI_10021135	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10009438	GO:0016459~myosin complex
+CGI_10009438	GO:0015629~actin cytoskeleton
+CGI_10009031	GO:1990351~transporter complex
+CGI_10026412	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10024568	GO:0000123~histone acetyltransferase complex
+CGI_10024584	GO:1990904~ribonucleoprotein complex
+CGI_10008778	GO:0030684~preribosome
+CGI_10002842	GO:0005840~ribosome
+CGI_10014687	GO:0005815~microtubule organizing center
+CGI_10014687	GO:0015630~microtubule cytoskeleton
+CGI_10026988	GO:0005840~ribosome
+CGI_10025653	GO:0030135~coated vesicle
+CGI_10005381	GO:0030286~dynein complex
+CGI_10022405	GO:0005581~collagen trimer
+CGI_10018517	GO:0005930~axoneme
+CGI_10023702	GO:0005783~endoplasmic reticulum
+CGI_10012401	GO:0090575~RNA polymerase II transcription factor complex
+CGI_10016244	GO:1990204~oxidoreductase complex
+CGI_10020307	GO:0005783~endoplasmic reticulum
+CGI_10020306	GO:0031966~mitochondrial membrane
+CGI_10020306	GO:0005739~mitochondrion
+CGI_10020488	GO:0005750~mitochondrial respiratory chain complex III
+CGI_10020488	GO:0098803~respiratory chain complex
+CGI_10020488	GO:0045275~respiratory chain complex III
+CGI_10012401	GO:0061695~transferase complex, transferring phosphorus-containing groups
+CGI_10009698	GO:0031967~organelle envelope
+CGI_10009706	GO:0017119~Golgi transport complex
+CGI_10025107	GO:0030120~vesicle coat
+CGI_10025107	GO:0044433~cytoplasmic vesicle part
+CGI_10025107	GO:0030134~ER to Golgi transport vesicle
+CGI_10027733	GO:0034703~cation channel complex
+CGI_10027733	GO:1990351~transporter complex
+CGI_10009879	GO:0005789~endoplasmic reticulum membrane
+CGI_10001391	GO:0005887~integral component of plasma membrane
+CGI_10023099	GO:1990904~ribonucleoprotein complex
+CGI_10018221	GO:0000775~chromosome, centromeric region
+CGI_10008177	GO:0045202~synapse
+CGI_10010936	GO:0005576~extracellular region
+CGI_10008176	GO:0045202~synapse
+CGI_10024853	GO:0044427~chromosomal part
+CGI_10023207	GO:1990204~oxidoreductase complex
+CGI_10023207	GO:0019866~organelle inner membrane
+CGI_10023207	GO:0005746~mitochondrial respiratory chain
+CGI_10023207	GO:0030964~NADH dehydrogenase complex
+CGI_10027544	GO:0031461~cullin-RING ubiquitin ligase complex
+CGI_10027544	GO:0000151~ubiquitin ligase complex
+CGI_10024466	GO:0005576~extracellular region
+CGI_10016532	GO:0016591~DNA-directed RNA polymerase II, holoenzyme
+CGI_10006845	GO:0030054~cell junction
+CGI_10020891	GO:0005760~gamma DNA polymerase complex
+CGI_10026597	GO:0031012~extracellular matrix
+CGI_10026617	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10026617	GO:1990904~ribonucleoprotein complex
+CGI_10026636	GO:0005834~heterotrimeric G-protein complex
+CGI_10026636	GO:0031234~extrinsic component of cytoplasmic side of plasma membrane
+CGI_10010578	GO:1990351~transporter complex
+CGI_10012813	GO:0005758~mitochondrial intermembrane space
+CGI_10012813	GO:0044429~mitochondrial part
+CGI_10012813	GO:0031975~envelope
+CGI_10012813	GO:0005740~mitochondrial envelope
+CGI_10012813	GO:0005739~mitochondrion
+CGI_10025251	GO:0005759~mitochondrial matrix
+CGI_10025251	GO:0031967~organelle envelope
+CGI_10028469	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10028508	GO:0005890~sodium:potassium-exchanging ATPase complex
+CGI_10010352	GO:0031226~intrinsic component of plasma membrane
+CGI_10010325	GO:0008623~CHRAC
+CGI_10017485	GO:0005789~endoplasmic reticulum membrane
+CGI_10017278	GO:0000502~proteasome complex
+CGI_10015223	GO:0098791~Golgi subcompartment
+CGI_10015223	GO:0044431~Golgi apparatus part
+CGI_10015230	GO:0044423~virion part
+CGI_10007942	GO:0045121~membrane raft
+CGI_10007942	GO:0005794~Golgi apparatus
+CGI_10007942	GO:0098590~plasma membrane region
+CGI_10007941	GO:0098857~membrane microdomain
+CGI_10010578	GO:0031226~intrinsic component of plasma membrane
+CGI_10008217	GO:0005732~small nucleolar ribonucleoprotein complex
+CGI_10002563	GO:0044427~chromosomal part
+CGI_10002018	GO:0005773~vacuole
+CGI_10002018	GO:0031988~membrane-bounded vesicle
+CGI_10002018	GO:0005768~endosome
+CGI_10025401	GO:0031966~mitochondrial membrane
+CGI_10026827	GO:0044798~nuclear transcription factor complex
+CGI_10025824	GO:0005673~transcription factor TFIIE complex
+CGI_10025824	GO:0055029~nuclear DNA-directed RNA polymerase complex
+CGI_10025824	GO:0005667~transcription factor complex
+CGI_10021852	GO:0005829~cytosol
+CGI_10021882	GO:0034702~ion channel complex
+CGI_10019309	GO:0030118~clathrin coat
+CGI_10028904	GO:0005783~endoplasmic reticulum
+CGI_10013926	GO:0031988~membrane-bounded vesicle
+CGI_10001199	GO:0030880~RNA polymerase complex
+CGI_10002419	GO:0015630~microtubule cytoskeleton
+CGI_10006875	GO:0015629~actin cytoskeleton
+CGI_10019579	GO:0044431~Golgi apparatus part
+CGI_10010740	GO:1990904~ribonucleoprotein complex
+CGI_10008001	GO:0000323~lytic vacuole
+CGI_10010163	GO:0015630~microtubule cytoskeleton
+CGI_10010163	GO:0099512~supramolecular fiber
+CGI_10027241	GO:0005739~mitochondrion
+CGI_10022059	GO:0044451~nucleoplasm part
+CGI_10012469	GO:1990904~ribonucleoprotein complex
+CGI_10013652	GO:0016604~nuclear body
+CGI_10027300	GO:0005741~mitochondrial outer membrane
+CGI_10027300	GO:0031968~organelle outer membrane
+CGI_10018074	GO:0031984~organelle subcompartment
+CGI_10018074	GO:0044431~Golgi apparatus part
+CGI_10018074	GO:0031988~membrane-bounded vesicle
+CGI_10022685	GO:0045121~membrane raft
+CGI_10015195	GO:0042579~microbody
+CGI_10014948	GO:0005887~integral component of plasma membrane
+CGI_10014948	GO:0031226~intrinsic component of plasma membrane
+CGI_10026576	GO:0031975~envelope
+CGI_10015200	GO:1990904~ribonucleoprotein complex
+CGI_10024187	GO:0005794~Golgi apparatus
+CGI_10024187	GO:0005795~Golgi stack
+CGI_10004293	GO:0034708~methyltransferase complex
+CGI_10021336	GO:0030125~clathrin vesicle coat
+CGI_10025956	GO:0005794~Golgi apparatus
+CGI_10003981	GO:0031967~organelle envelope
+CGI_10024362	GO:0031975~envelope
+CGI_10024362	GO:0031967~organelle envelope
+CGI_10007772	GO:0000445~THO complex part of transcription export complex
+CGI_10017097	GO:0061695~transferase complex, transferring phosphorus-containing groups
+CGI_10017097	GO:0044451~nucleoplasm part
+CGI_10021336	GO:0012510~trans-Golgi network transport vesicle membrane
+CGI_10021336	GO:0030117~membrane coat
+CGI_10023346	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+CGI_10012330	GO:0015630~microtubule cytoskeleton
+CGI_10012333	GO:0015629~actin cytoskeleton
+CGI_10017925	GO:0019013~viral nucleocapsid
+CGI_10001800	GO:0005576~extracellular region
+CGI_10021606	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10025974	GO:0019028~viral capsid
+CGI_10019964	GO:0005743~mitochondrial inner membrane
+CGI_10012920	GO:0005576~extracellular region
+CGI_10002218	GO:0030915~Smc5-Smc6 complex
+CGI_10004520	GO:0015630~microtubule cytoskeleton
+CGI_10008409	GO:0005874~microtubule
+CGI_10008410	GO:0005840~ribosome
+CGI_10013691	GO:0030135~coated vesicle
+CGI_10012299	GO:0045211~postsynaptic membrane
+CGI_10012301	GO:0045211~postsynaptic membrane
+CGI_10025376	GO:0044815~DNA packaging complex
+CGI_10025389	GO:1902911~protein kinase complex
+CGI_10021002	GO:0097060~synaptic membrane
+CGI_10018791	GO:0005654~nucleoplasm
+CGI_10015387	GO:0005789~endoplasmic reticulum membrane
+CGI_10025204	GO:0005576~extracellular region
+CGI_10025974	GO:0019012~virion
+CGI_10022034	GO:0048500~signal recognition particle
+CGI_10017476	GO:0017053~transcriptional repressor complex
+CGI_10014835	GO:0000502~proteasome complex
+CGI_10013397	GO:0031226~intrinsic component of plasma membrane
+CGI_10019640	GO:0005874~microtubule
+CGI_10005088	GO:0005578~proteinaceous extracellular matrix
+CGI_10024999	GO:0099513~polymeric cytoskeletal fiber
+CGI_10021270	GO:0033290~eukaryotic 48S preinitiation complex
+CGI_10009651	GO:1990904~ribonucleoprotein complex
+CGI_10005672	GO:0070603~SWI/SNF superfamily-type complex
+CGI_10005672	GO:0090544~BAF-type complex
+CGI_10012763	GO:0031226~intrinsic component of plasma membrane
+CGI_10018697	GO:0005929~cilium
+CGI_10003269	GO:0098798~mitochondrial protein complex
+CGI_10014337	GO:0033176~proton-transporting V-type ATPase complex
+CGI_10010474	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10010474	GO:0005840~ribosome
+CGI_10016751	GO:0000794~condensed nuclear chromosome
+CGI_10016751	GO:0030896~checkpoint clamp complex
+CGI_10016780	GO:0005876~spindle microtubule
+CGI_10016780	GO:0099512~supramolecular fiber
+CGI_10016780	GO:0000940~condensed chromosome outer kinetochore
+CGI_10007757	GO:1990904~ribonucleoprotein complex
+CGI_10008420	GO:0019866~organelle inner membrane
+CGI_10010021	GO:0044429~mitochondrial part
+CGI_10005719	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10012542	GO:0005576~extracellular region
+CGI_10002864	GO:0030880~RNA polymerase complex
+CGI_10010832	GO:0031966~mitochondrial membrane
+CGI_10008057	GO:0000785~chromatin
+CGI_10008063	GO:0000785~chromatin
+CGI_10008063	GO:0000786~nucleosome
+CGI_10008081	GO:0000785~chromatin
+CGI_10008081	GO:0044427~chromosomal part
+CGI_10008080	GO:0005694~chromosome
+CGI_10008078	GO:0005694~chromosome
+CGI_10008074	GO:0032993~protein-DNA complex
+CGI_10008073	GO:0000785~chromatin
+CGI_10008068	GO:0000786~nucleosome
+CGI_10010832	GO:0019867~outer membrane
+CGI_10010832	GO:0031968~organelle outer membrane
+CGI_10001836	GO:1990904~ribonucleoprotein complex
+CGI_10023502	GO:0044451~nucleoplasm part
+CGI_10008152	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10008152	GO:0005829~cytosol
+CGI_10008152	GO:0005840~ribosome
+CGI_10024270	GO:0000785~chromatin
+CGI_10024661	GO:0000815~ESCRT III complex
+CGI_10001824	GO:0034702~ion channel complex
+CGI_10000085	GO:0005840~ribosome
+CGI_10024976	GO:0032993~protein-DNA complex
+CGI_10016010	GO:0061695~transferase complex, transferring phosphorus-containing groups
+CGI_10028115	GO:0005743~mitochondrial inner membrane
+CGI_10028116	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10028121	GO:0005576~extracellular region
+CGI_10004762	GO:1990904~ribonucleoprotein complex
+CGI_10027342	GO:1990351~transporter complex
+CGI_10027347	GO:0030126~COPI vesicle coat
+CGI_10027347	GO:0030660~Golgi-associated vesicle membrane
+CGI_10000071	GO:0016272~prefoldin complex
+CGI_10000402	GO:0000786~nucleosome
+CGI_10001001	GO:0005794~Golgi apparatus
+CGI_10019706	GO:0022626~cytosolic ribosome
+CGI_10019706	GO:1990904~ribonucleoprotein complex
+CGI_10019706	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10002030	GO:0000123~histone acetyltransferase complex
+CGI_10011558	GO:0005839~proteasome core complex
+CGI_10011577	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10028023	GO:0031966~mitochondrial membrane
+CGI_10015588	GO:0000139~Golgi membrane
+CGI_10028710	GO:0005901~caveola
+CGI_10028711	GO:0005901~caveola
+CGI_10028712	GO:0098590~plasma membrane region
+CGI_10028714	GO:0044431~Golgi apparatus part
+CGI_10028714	GO:0044853~plasma membrane raft
+CGI_10028715	GO:0045121~membrane raft
+CGI_10028753	GO:0015630~microtubule cytoskeleton
+CGI_10028770	GO:0044421~extracellular region part
+CGI_10028770	GO:0031012~extracellular matrix
+CGI_10021135	GO:1990904~ribonucleoprotein complex
+CGI_10009031	GO:0031226~intrinsic component of plasma membrane
+CGI_10009032	GO:0031226~intrinsic component of plasma membrane
+CGI_10007358	GO:0005794~Golgi apparatus
+CGI_10016424	GO:0005581~collagen trimer
+CGI_10016432	GO:0031967~organelle envelope
+CGI_10026423	GO:0044815~DNA packaging complex
+CGI_10024568	GO:1902493~acetyltransferase complex
+CGI_10024584	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10024584	GO:0005840~ribosome
+CGI_10015354	GO:0005740~mitochondrial envelope
+CGI_10008777	GO:0031248~protein acetyltransferase complex
+CGI_10008778	GO:1990904~ribonucleoprotein complex
+CGI_10014687	GO:0005813~centrosome
+CGI_10026937	GO:0005576~extracellular region
+CGI_10017692	GO:0005654~nucleoplasm
+CGI_10025653	GO:0012506~vesicle membrane
+CGI_10025653	GO:0005798~Golgi-associated vesicle
+CGI_10025653	GO:0030658~transport vesicle membrane
+CGI_10018517	GO:0097014~ciliary plasm
+CGI_10024027	GO:0008076~voltage-gated potassium channel complex
+CGI_10024027	GO:0031226~intrinsic component of plasma membrane
+CGI_10020488	GO:0070469~respiratory chain
+CGI_10001508	GO:0031301~integral component of organelle membrane
+CGI_10001508	GO:0005777~peroxisome
+CGI_10001508	GO:0031231~intrinsic component of peroxisomal membrane
+CGI_10020306	GO:0031975~envelope
+CGI_10020306	GO:0005740~mitochondrial envelope
+CGI_10020488	GO:0031966~mitochondrial membrane
+CGI_10020488	GO:1902495~transmembrane transporter complex
+CGI_10018930	GO:0099513~polymeric cytoskeletal fiber
+CGI_10012401	GO:0000428~DNA-directed RNA polymerase complex
+CGI_10012401	GO:0044451~nucleoplasm part
+CGI_10025107	GO:0030662~coated vesicle membrane
+CGI_10011606	GO:0005739~mitochondrion
+CGI_10009879	GO:0005783~endoplasmic reticulum
+CGI_10010758	GO:0061695~transferase complex, transferring phosphorus-containing groups
+CGI_10023099	GO:0005840~ribosome
+CGI_10010572	GO:0000123~histone acetyltransferase complex
+CGI_10018492	GO:0000139~Golgi membrane
+CGI_10024853	GO:0044815~DNA packaging complex
+CGI_10019835	GO:0099512~supramolecular fiber
+CGI_10023207	GO:0031975~envelope
+CGI_10023207	GO:0098803~respiratory chain complex
+CGI_10027544	GO:0000152~nuclear ubiquitin ligase complex
+CGI_10016532	GO:0055029~nuclear DNA-directed RNA polymerase complex
+CGI_10021675	GO:0033290~eukaryotic 48S preinitiation complex
+CGI_10006840	GO:0005681~spliceosomal complex
+CGI_10006840	GO:1990904~ribonucleoprotein complex
+CGI_10006845	GO:0098794~postsynapse
+CGI_10020891	GO:0098798~mitochondrial protein complex
+CGI_10026597	GO:0005604~basement membrane
+CGI_10026617	GO:0019013~viral nucleocapsid
+CGI_10000367	GO:0005739~mitochondrion
+CGI_10008786	GO:0000502~proteasome complex
+CGI_10025251	GO:0031966~mitochondrial membrane
+CGI_10014037	GO:0005576~extracellular region
+CGI_10028469	GO:1990904~ribonucleoprotein complex
+CGI_10028508	GO:0031226~intrinsic component of plasma membrane
+CGI_10015223	GO:0031984~organelle subcompartment
+CGI_10007940	GO:0098589~membrane region
+CGI_10010578	GO:1902495~transmembrane transporter complex
+CGI_10015619	GO:0005643~nuclear pore
+CGI_10015019	GO:0030054~cell junction
+CGI_10002419	GO:0099512~supramolecular fiber
+CGI_10025401	GO:0005743~mitochondrial inner membrane
+CGI_10001918	GO:0005739~mitochondrion
+CGI_10009876	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10026827	GO:0005667~transcription factor complex
+CGI_10025824	GO:0044798~nuclear transcription factor complex
+CGI_10025824	GO:0005654~nucleoplasm
+CGI_10021882	GO:0034703~cation channel complex
+CGI_10021882	GO:0005887~integral component of plasma membrane
+CGI_10017767	GO:0005840~ribosome
+CGI_10017767	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10019309	GO:0048475~coated membrane
+CGI_10019309	GO:0030117~membrane coat
+CGI_10019309	GO:0030119~AP-type membrane coat adaptor complex
+CGI_10015014	GO:0005789~endoplasmic reticulum membrane
+CGI_10015019	GO:0045202~synapse
+CGI_10013926	GO:0030133~transport vesicle
+CGI_10023576	GO:0030117~membrane coat
+CGI_10023576	GO:0048475~coated membrane
+CGI_10001199	GO:0000428~DNA-directed RNA polymerase complex
+CGI_10002563	GO:0044454~nuclear chromosome part
+CGI_10002563	GO:0000228~nuclear chromosome
+CGI_10002563	GO:0005694~chromosome
+CGI_10002563	GO:0070603~SWI/SNF superfamily-type complex
+CGI_10015074	GO:0099513~polymeric cytoskeletal fiber
+CGI_10018396	GO:0044432~endoplasmic reticulum part
+CGI_10014063	GO:0005921~gap junction
+CGI_10018396	GO:0005783~endoplasmic reticulum
+CGI_10009249	GO:0044431~Golgi apparatus part
+CGI_10022234	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10019593	GO:0005576~extracellular region
+CGI_10008111	GO:0005794~Golgi apparatus
+CGI_10003732	GO:0030054~cell junction
+CGI_10004212	GO:0005667~transcription factor complex
+CGI_10011498	GO:0005576~extracellular region
+CGI_10027241	GO:0031975~envelope
+CGI_10019240	GO:0030117~membrane coat
+CGI_10022059	GO:0016592~mediator complex
+CGI_10022059	GO:0005654~nucleoplasm
+CGI_10027300	GO:0031975~envelope
+CGI_10019128	GO:0005929~cilium
+CGI_10016108	GO:0005578~proteinaceous extracellular matrix
+CGI_10022685	GO:0098590~plasma membrane region
+CGI_10015195	GO:0005777~peroxisome
+CGI_10026576	GO:0005643~nuclear pore
+CGI_10027476	GO:0000785~chromatin
+CGI_10027476	GO:0032993~protein-DNA complex
+CGI_10024187	GO:0032580~Golgi cisterna membrane
+CGI_10015509	GO:0016592~mediator complex
+CGI_10015509	GO:0005654~nucleoplasm
+CGI_10013850	GO:0005885~Arp2/3 protein complex
+CGI_10012330	GO:0099512~supramolecular fiber
+CGI_10002059	GO:1990204~oxidoreductase complex
+CGI_10002798	GO:0000502~proteasome complex
+CGI_10003981	GO:0005740~mitochondrial envelope
+CGI_10003981	GO:0031975~envelope
+CGI_10024362	GO:0098798~mitochondrial protein complex
+CGI_10024362	GO:0005740~mitochondrial envelope
+CGI_10024362	GO:0005742~mitochondrial outer membrane translocase complex
+CGI_10008574	GO:0098800~inner mitochondrial membrane protein complex
+CGI_10008574	GO:0044455~mitochondrial membrane part
+CGI_10012372	GO:0000786~nucleosome
+CGI_10017097	GO:0000428~DNA-directed RNA polymerase complex
+CGI_10021336	GO:0030665~clathrin-coated vesicle membrane
+CGI_10004554	GO:1990904~ribonucleoprotein complex
+CGI_10003934	GO:0005581~collagen trimer
+CGI_10006937	GO:0005667~transcription factor complex
+CGI_10023280	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+CGI_10023280	GO:0044432~endoplasmic reticulum part
+CGI_10017925	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10010193	GO:0015630~microtubule cytoskeleton
+CGI_10024922	GO:0000835~ER ubiquitin ligase complex
+CGI_10024922	GO:0000153~cytoplasmic ubiquitin ligase complex
+CGI_10001800	GO:0044421~extracellular region part
+CGI_10001800	GO:0005615~extracellular space
+CGI_10013691	GO:0030136~clathrin-coated vesicle
+CGI_10013691	GO:0031988~membrane-bounded vesicle
+CGI_10013691	GO:0016023~cytoplasmic, membrane-bounded vesicle
+CGI_10012298	GO:0045202~synapse
+CGI_10012298	GO:0045211~postsynaptic membrane
+CGI_10012299	GO:0097060~synaptic membrane
+CGI_10012299	GO:0098590~plasma membrane region
+CGI_10012299	GO:0030054~cell junction
+CGI_10012299	GO:0045202~synapse
+CGI_10012301	GO:0098794~postsynapse
+CGI_10012301	GO:0044456~synapse part
+CGI_10025376	GO:0032993~protein-DNA complex
+CGI_10025389	GO:0031588~nucleotide-activated protein kinase complex
+CGI_10003633	GO:0005783~endoplasmic reticulum
+CGI_10018791	GO:0044451~nucleoplasm part
+CGI_10005249	GO:0005654~nucleoplasm
+CGI_10026478	GO:0031390~Ctf18 RFC-like complex
+CGI_10026509	GO:0044451~nucleoplasm part
+CGI_10026510	GO:0019028~viral capsid
+CGI_10026510	GO:0019012~virion
+CGI_10021599	GO:0022626~cytosolic ribosome
+CGI_10025994	GO:0005929~cilium
+CGI_10026004	GO:0044437~vacuolar part
+CGI_10026004	GO:0016469~proton-transporting two-sector ATPase complex
+CGI_10022306	GO:0030532~small nuclear ribonucleoprotein complex
+CGI_10022306	GO:0019013~viral nucleocapsid
+CGI_10003170	GO:0000502~proteasome complex
+CGI_10021270	GO:0016282~eukaryotic 43S preinitiation complex
+CGI_10009740	GO:0005576~extracellular region
+CGI_10011652	GO:0005783~endoplasmic reticulum
+CGI_10013395	GO:0031231~intrinsic component of peroxisomal membrane
+CGI_10013395	GO:0031301~integral component of organelle membrane
+CGI_10013395	GO:0042579~microbody
+CGI_10013397	GO:0034703~cation channel complex
+CGI_10013397	GO:1990351~transporter complex
+CGI_10022452	GO:1990904~ribonucleoprotein complex
+CGI_10003507	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10020921	GO:0044815~DNA packaging complex
+CGI_10024998	GO:0099512~supramolecular fiber
+CGI_10021270	GO:1990904~ribonucleoprotein complex
+CGI_10024740	GO:0044432~endoplasmic reticulum part
+CGI_10024740	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+CGI_10016506	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+CGI_10016506	GO:0044432~endoplasmic reticulum part
+CGI_10028202	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10017216	GO:0031966~mitochondrial membrane
+CGI_10017216	GO:0031975~envelope
+CGI_10017221	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10017221	GO:0019028~viral capsid
+CGI_10014782	GO:0005840~ribosome
+CGI_10003541	GO:0005869~dynactin complex
+CGI_10024520	GO:1902911~protein kinase complex
+CGI_10003479	GO:0005694~chromosome
+CGI_10015987	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10015987	GO:0005681~spliceosomal complex
+CGI_10003269	GO:0005739~mitochondrion
+CGI_10003269	GO:0044429~mitochondrial part
+CGI_10017351	GO:0005794~Golgi apparatus
+CGI_10017351	GO:0000139~Golgi membrane
+CGI_10015111	GO:1990351~transporter complex
+CGI_10015111	GO:0031226~intrinsic component of plasma membrane
+CGI_10015111	GO:0034705~potassium channel complex
+CGI_10019926	GO:0044423~virion part
+CGI_10019936	GO:0005739~mitochondrion
+CGI_10019936	GO:0044429~mitochondrial part
+CGI_10016751	GO:0005694~chromosome
+CGI_10016780	GO:0000777~condensed chromosome kinetochore
+CGI_10025051	GO:0031966~mitochondrial membrane
+CGI_10007757	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10008420	GO:0031966~mitochondrial membrane
+CGI_10010672	GO:0031515~tRNA (m1A) methyltransferase complex
+CGI_10010672	GO:0043527~tRNA methyltransferase complex
+CGI_10020038	GO:0031226~intrinsic component of plasma membrane
+CGI_10020038	GO:0005887~integral component of plasma membrane
+CGI_10010021	GO:0031970~organelle envelope lumen
+CGI_10010021	GO:0005739~mitochondrion
+CGI_10015795	GO:0031984~organelle subcompartment
+CGI_10002864	GO:0005654~nucleoplasm
+CGI_10010631	GO:0005786~signal recognition particle, endoplasmic reticulum targeting
+CGI_10010631	GO:0048500~signal recognition particle
+CGI_10008057	GO:0000786~nucleosome
+CGI_10008063	GO:0005694~chromosome
+CGI_10008063	GO:0044815~DNA packaging complex
+CGI_10008065	GO:0044815~DNA packaging complex
+CGI_10008084	GO:0032993~protein-DNA complex
+CGI_10008083	GO:0044815~DNA packaging complex
+CGI_10008083	GO:0000786~nucleosome
+CGI_10008080	GO:0000786~nucleosome
+CGI_10008080	GO:0032993~protein-DNA complex
+CGI_10008080	GO:0044427~chromosomal part
+CGI_10008079	GO:0032993~protein-DNA complex
+CGI_10008075	GO:0044427~chromosomal part
+CGI_10000673	GO:0005654~nucleoplasm
+CGI_10010832	GO:0044429~mitochondrial part
+CGI_10016866	GO:0042579~microbody
+CGI_10008152	GO:0015934~large ribosomal subunit
+CGI_10015594	GO:0019028~viral capsid
+CGI_10024636	GO:0034702~ion channel complex
+CGI_10024636	GO:0034705~potassium channel complex
+CGI_10024636	GO:1990351~transporter complex
+CGI_10024636	GO:0005887~integral component of plasma membrane
+CGI_10001824	GO:0005887~integral component of plasma membrane
+CGI_10004262	GO:0005730~nucleolus
+CGI_10019046	GO:0044420~extracellular matrix component
+CGI_10019046	GO:0005578~proteinaceous extracellular matrix
+CGI_10009588	GO:0005921~gap junction
+CGI_10009588	GO:0030054~cell junction
+CGI_10016010	GO:1902554~serine/threonine protein kinase complex
+CGI_10028115	GO:0005740~mitochondrial envelope
+CGI_10028115	GO:0019866~organelle inner membrane
+CGI_10027347	GO:0005798~Golgi-associated vesicle
+CGI_10027347	GO:0030663~COPI-coated vesicle membrane
+CGI_10027347	GO:0030662~coated vesicle membrane
+CGI_10027347	GO:0044433~cytoplasmic vesicle part
+CGI_10027347	GO:0030135~coated vesicle
+CGI_10027347	GO:0016023~cytoplasmic, membrane-bounded vesicle
+CGI_10027347	GO:0030659~cytoplasmic vesicle membrane
+CGI_10000055	GO:0044815~DNA packaging complex
+CGI_10000100	GO:0000793~condensed chromosome
+CGI_10020628	GO:0005576~extracellular region
+CGI_10020634	GO:0005846~nuclear cap binding complex
+CGI_10000788	GO:0005730~nucleolus
+CGI_10019706	GO:0044445~cytosolic part
+CGI_10019706	GO:0005829~cytosol
+CGI_10001325	GO:0030286~dynein complex
+CGI_10001325	GO:0015630~microtubule cytoskeleton
+CGI_10002030	GO:0035267~NuA4 histone acetyltransferase complex
+CGI_10002030	GO:0044451~nucleoplasm part
+CGI_10002030	GO:1902562~H4 histone acetyltransferase complex
+CGI_10011577	GO:0005840~ribosome
+CGI_10028023	GO:0045259~proton-transporting ATP synthase complex
+CGI_10028023	GO:0044455~mitochondrial membrane part
+CGI_10019734	GO:0019898~extrinsic component of membrane
+CGI_10019734	GO:0000139~Golgi membrane
+CGI_10028368	GO:0019028~viral capsid
+CGI_10012557	GO:0005739~mitochondrion
+CGI_10015588	GO:0005795~Golgi stack
+CGI_10013068	GO:0005578~proteinaceous extracellular matrix
+CGI_10028710	GO:0044431~Golgi apparatus part
+CGI_10028709	GO:0005794~Golgi apparatus
+CGI_10028709	GO:0098857~membrane microdomain
+CGI_10028714	GO:0098589~membrane region
+CGI_10028715	GO:0098590~plasma membrane region
+CGI_10028753	GO:0005869~dynactin complex
+CGI_10028753	GO:0005875~microtubule associated complex
+CGI_10028770	GO:0005578~proteinaceous extracellular matrix
+CGI_10028781	GO:0031966~mitochondrial membrane
+CGI_10009031	GO:0034702~ion channel complex
+CGI_10028781	GO:0031967~organelle envelope
+CGI_10021135	GO:0032040~small-subunit processome
+CGI_10026789	GO:1990904~ribonucleoprotein complex
+CGI_10009031	GO:1902495~transmembrane transporter complex
+CGI_10009032	GO:1990351~transporter complex
+CGI_10009032	GO:0034705~potassium channel complex
+CGI_10016432	GO:0044429~mitochondrial part
+CGI_10017253	GO:0005730~nucleolus
+CGI_10026423	GO:0000786~nucleosome
+CGI_10019894	GO:0005739~mitochondrion
+CGI_10024568	GO:0031248~protein acetyltransferase complex
+CGI_10008777	GO:0072487~MSL complex
+CGI_10008778	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10009149	GO:0044815~DNA packaging complex
+CGI_10009149	GO:0000785~chromatin
+CGI_10009149	GO:0044427~chromosomal part
+CGI_10005773	GO:0005576~extracellular region
+CGI_10028693	GO:0016272~prefoldin complex
+CGI_10025653	GO:0030118~clathrin coat
+CGI_10025653	GO:0012510~trans-Golgi network transport vesicle membrane
+CGI_10025653	GO:0030133~transport vesicle
+CGI_10025653	GO:0030125~clathrin vesicle coat
+CGI_10023726	GO:0033290~eukaryotic 48S preinitiation complex
+CGI_10023726	GO:0070993~translation preinitiation complex
+CGI_10024027	GO:1990351~transporter complex
+CGI_10001508	GO:0044438~microbody part
+CGI_10020306	GO:0031967~organelle envelope
+CGI_10020488	GO:1990351~transporter complex
+CGI_10020488	GO:0044429~mitochondrial part
+CGI_10020488	GO:0070069~cytochrome complex
+CGI_10018930	GO:0099512~supramolecular fiber
+CGI_10009706	GO:0044431~Golgi apparatus part
+CGI_10025107	GO:0031988~membrane-bounded vesicle
+CGI_10025107	GO:0016023~cytoplasmic, membrane-bounded vesicle
+CGI_10025107	GO:0030133~transport vesicle
+CGI_10009878	GO:0044432~endoplasmic reticulum part
+CGI_10009878	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+CGI_10009879	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+CGI_10010758	GO:1902554~serine/threonine protein kinase complex
+CGI_10003816	GO:0015630~microtubule cytoskeleton
+CGI_10003816	GO:0005875~microtubule associated complex
+CGI_10023099	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10020891	GO:0042575~DNA polymerase complex
+CGI_10024342	GO:0048475~coated membrane
+CGI_10008176	GO:0030054~cell junction
+CGI_10024869	GO:0005576~extracellular region
+CGI_10023207	GO:0098798~mitochondrial protein complex
+CGI_10023207	GO:0005739~mitochondrion
+CGI_10023207	GO:0070469~respiratory chain
+CGI_10024464	GO:0005730~nucleolus
+CGI_10024464	GO:0005654~nucleoplasm
+CGI_10006840	GO:0071008~U2-type post-mRNA release spliceosomal complex
+CGI_10006845	GO:0045211~postsynaptic membrane
+CGI_10020891	GO:0061695~transferase complex, transferring phosphorus-containing groups
+CGI_10020891	GO:0044429~mitochondrial part
+CGI_10012813	GO:0031967~organelle envelope
+CGI_10017762	GO:0030008~TRAPP complex
+CGI_10025251	GO:0005740~mitochondrial envelope
+CGI_10014037	GO:0044421~extracellular region part
+CGI_10017485	GO:0044432~endoplasmic reticulum part
+CGI_10017278	GO:0005783~endoplasmic reticulum
+CGI_10015230	GO:0019028~viral capsid
+CGI_10007940	GO:0005794~Golgi apparatus
+CGI_10015619	GO:0031975~envelope
+CGI_10021882	GO:0031226~intrinsic component of plasma membrane
+CGI_10015074	GO:0005819~spindle
+CGI_10025401	GO:0031967~organelle envelope
+CGI_10025401	GO:0044429~mitochondrial part
+CGI_10026827	GO:0005730~nucleolus
+CGI_10026832	GO:0070552~BRISC complex
+CGI_10025824	GO:0044451~nucleoplasm part
+CGI_10021852	GO:0015935~small ribosomal subunit
+CGI_10021852	GO:0044445~cytosolic part
+CGI_10021852	GO:0022627~cytosolic small ribosomal subunit
+CGI_10028904	GO:0044432~endoplasmic reticulum part
+CGI_10023576	GO:0030119~AP-type membrane coat adaptor complex
+CGI_10006122	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10015074	GO:0015630~microtubule cytoskeleton
+CGI_10018396	GO:0005789~endoplasmic reticulum membrane
+CGI_10009249	GO:0000139~Golgi membrane
+CGI_10013678	GO:0016459~myosin complex
+CGI_10019579	GO:0000139~Golgi membrane
+CGI_10019579	GO:0044432~endoplasmic reticulum part
+CGI_10019579	GO:0005789~endoplasmic reticulum membrane
+CGI_10018074	GO:0005794~Golgi apparatus
+CGI_10010740	GO:0005840~ribosome
+CGI_10010740	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10008749	GO:0061695~transferase complex, transferring phosphorus-containing groups
+CGI_10008749	GO:0005654~nucleoplasm
+CGI_10008749	GO:0030880~RNA polymerase complex
+CGI_10008002	GO:0005730~nucleolus
+CGI_10011497	GO:0005576~extracellular region
+CGI_10005842	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+CGI_10005842	GO:0005789~endoplasmic reticulum membrane
+CGI_10013652	GO:0005654~nucleoplasm
+CGI_10005055	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10027300	GO:0031967~organelle envelope
+CGI_10016108	GO:0031012~extracellular matrix
+CGI_10018067	GO:0045111~intermediate filament cytoskeleton
+CGI_10018074	GO:0005773~vacuole
+CGI_10004493	GO:0005887~integral component of plasma membrane
+CGI_10015197	GO:0005743~mitochondrial inner membrane
+CGI_10024187	GO:0031984~organelle subcompartment
+CGI_10021336	GO:0030130~clathrin coat of trans-Golgi network vesicle
+CGI_10021336	GO:0030658~transport vesicle membrane
+CGI_10019443	GO:0005839~proteasome core complex
+CGI_10012001	GO:0044798~nuclear transcription factor complex
+CGI_10012001	GO:0016602~CCAAT-binding factor complex
+CGI_10012001	GO:0090575~RNA polymerase II transcription factor complex
+CGI_10024362	GO:0005739~mitochondrion
+CGI_10024362	GO:0031966~mitochondrial membrane
+CGI_10023402	GO:0000439~core TFIIH complex
+CGI_10008574	GO:0031967~organelle envelope
+CGI_10008574	GO:0044429~mitochondrial part
+CGI_10008574	GO:0098803~respiratory chain complex
+CGI_10008574	GO:0005751~mitochondrial respiratory chain complex IV
+CGI_10007772	GO:0000346~transcription export complex
+CGI_10001909	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10021336	GO:0030136~clathrin-coated vesicle
+CGI_10021336	GO:0030118~clathrin coat
+CGI_10021336	GO:0005798~Golgi-associated vesicle
+CGI_10009053	GO:0044454~nuclear chromosome part
+CGI_10017925	GO:0019012~virion
+CGI_10017925	GO:0019028~viral capsid
+CGI_10024880	GO:0005576~extracellular region
+CGI_10004572	GO:0045259~proton-transporting ATP synthase complex
+CGI_10012920	GO:0005615~extracellular space
+CGI_10002218	GO:0005694~chromosome
+CGI_10008409	GO:0015630~microtubule cytoskeleton
+CGI_10003808	GO:0005694~chromosome
+CGI_10025389	GO:0061695~transferase complex, transferring phosphorus-containing groups
+CGI_10014004	GO:0005783~endoplasmic reticulum
+CGI_10021002	GO:0030054~cell junction
+CGI_10020961	GO:0005840~ribosome
+CGI_10015387	GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network
+CGI_10018095	GO:0044431~Golgi apparatus part
+CGI_10005249	GO:0031248~protein acetyltransferase complex
+CGI_10026478	GO:0005694~chromosome
+CGI_10026509	GO:0016592~mediator complex
+CGI_10026510	GO:0044423~virion part
+CGI_10026510	GO:0019013~viral nucleocapsid
+CGI_10021599	GO:1990904~ribonucleoprotein complex
+CGI_10021606	GO:0044423~virion part
+CGI_10026004	GO:0005774~vacuolar membrane
+CGI_10020921	GO:0000785~chromatin
+CGI_10002586	GO:0044445~cytosolic part
+CGI_10002586	GO:0005829~cytosol
+CGI_10021793	GO:0005576~extracellular region
+CGI_10013395	GO:0044439~peroxisomal part
+CGI_10013395	GO:0005777~peroxisome
+CGI_10013397	GO:0034702~ion channel complex
+CGI_10013397	GO:0034705~potassium channel complex
+CGI_10019640	GO:0015630~microtubule cytoskeleton
+CGI_10005088	GO:0005576~extracellular region
+CGI_10024998	GO:0005874~microtubule
+CGI_10024999	GO:0005874~microtubule
+CGI_10021270	GO:0030529~intracellular ribonucleoprotein complex
+CGI_10009651	GO:0005840~ribosome
+CGI_10016506	GO:0005789~endoplasmic reticulum membrane
+CGI_10028183	GO:0015629~actin cytoskeleton
+CGI_10017216	GO:0031967~organelle envelope
+CGI_10017216	GO:0044429~mitochondrial part
+CGI_10017221	GO:1990904~ribonucleoprotein complex
+CGI_10012763	GO:0043235~receptor complex
